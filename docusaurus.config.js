@@ -15,11 +15,12 @@
 module.exports = {
   title: 'Firebolt',
   tagline: 'Zero Dependencies and Fast',
-  url: 'https://relay.dev', //<-- Github pages URL, which needs to get set up
+  url: 'https://rdkcentral.github.io/firebolt-documentation/',
   baseUrl: '/',
   trailingSlash: true,
   organizationName: 'rdkcentral',
   projectName: 'firebolt-documentation',
+  deploymentBranch: 'main',
   scripts: [],
   favicon: 'img/favicon.png',
   customFields: {

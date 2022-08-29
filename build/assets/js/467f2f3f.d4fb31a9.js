@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirebolt_documentation=self.webpackChunkfirebolt_documentation||[]).push([[7649],{14085:e=>{e.exports=JSON.parse('{"title":"Changelog","slug":"/category/changelog","permalink":"/docs/next/category/changelog","navigation":{"next":{"title":"Firebolt Release Notes","permalink":"/docs/next/changelog/"}}}')}}]);

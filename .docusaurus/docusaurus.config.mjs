@@ -6,11 +6,12 @@
 export default {
   "title": "Firebolt",
   "tagline": "Zero Dependencies and Fast",
-  "url": "https://relay.dev",
+  "url": "https://rdkcentral.github.io/firebolt-documentation/",
   "baseUrl": "/",
   "trailingSlash": true,
   "organizationName": "rdkcentral",
   "projectName": "firebolt-documentation",
+  "deploymentBranch": "main",
   "scripts": [],
   "favicon": "img/favicon.png",
   "customFields": {

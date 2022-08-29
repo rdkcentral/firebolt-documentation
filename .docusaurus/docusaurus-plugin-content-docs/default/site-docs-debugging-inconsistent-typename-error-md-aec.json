@@ -1,0 +1,39 @@
+{
+  "unversionedId": "debugging/inconsistent-typename-error",
+  "id": "debugging/inconsistent-typename-error",
+  "title": "Inconsistent Typename Error",
+  "description": "Debugging inconsistent typename errors in Relay",
+  "source": "@site/docs/debugging/inconsistent-typename-error.md",
+  "sourceDirName": "debugging",
+  "slug": "/debugging/inconsistent-typename-error/",
+  "permalink": "/docs/next/debugging/inconsistent-typename-error/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/debugging/inconsistent-typename-error.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "inconsistent-typename-error",
+    "title": "Inconsistent Typename Error",
+    "slug": "/debugging/inconsistent-typename-error/",
+    "description": "Debugging inconsistent typename errors in Relay",
+    "keywords": [
+      "debugging",
+      "troubleshooting",
+      "inconsistent typename",
+      "RelayResponseNormalizer",
+      "globally unique id"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disallowed Types for `id` Fields",
+    "permalink": "/docs/next/debugging/disallowed-id-types-error"
+  },
+  "next": {
+    "title": "Relay DevTools",
+    "permalink": "/docs/next/debugging/relay-devtools/"
+  }
+}

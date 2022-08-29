@@ -1,0 +1,22 @@
+{
+  "unversionedId": "fetch-query",
+  "id": "version-v10.1.3/fetch-query",
+  "title": "fetchQuery",
+  "description": "You can use the fetchQuery function to imperatively make GraphQL Requests. This is useful for cases where you want to make requests outside of React but still utilize the Relay store and network layer.",
+  "source": "@site/versioned_docs/version-v10.1.3/Modern-fetchQuery.md",
+  "sourceDirName": ".",
+  "slug": "/fetch-query",
+  "permalink": "/docs/v10.1.3/fetch-query",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.1.3/Modern-fetchQuery.md",
+  "tags": [],
+  "version": "v10.1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "fetch-query",
+    "title": "fetchQuery",
+    "original_id": "fetch-query"
+  }
+}

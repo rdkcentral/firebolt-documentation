@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Account",
+  "id": "api/Account",
+  "title": "Account",
+  "description": "---",
+  "source": "@site/docs/api/Account.md",
+  "sourceDirName": "api",
+  "slug": "/api/Account",
+  "permalink": "/docs/next/api/Account",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Account"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Accessibility",
+    "permalink": "/docs/next/api/Accessibility"
+  },
+  "next": {
+    "title": "Advertising",
+    "permalink": "/docs/next/api/Advertising"
+  }
+}

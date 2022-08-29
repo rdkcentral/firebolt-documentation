@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guided-tour/updating-data/local-data-updates",
+  "id": "version-v12.0.0/guided-tour/updating-data/local-data-updates",
+  "title": "Local Data Updates",
+  "description": "Relay guide to local data updates",
+  "source": "@site/versioned_docs/version-v12.0.0/guided-tour/updating-data/local-data-updates.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/local-data-updates/",
+  "permalink": "/docs/v12.0.0/guided-tour/updating-data/local-data-updates/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/guided-tour/updating-data/local-data-updates.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "local-data-updates",
+    "title": "Local Data Updates",
+    "slug": "/guided-tour/updating-data/local-data-updates/",
+    "description": "Relay guide to local data updates",
+    "keywords": [
+      "client-only",
+      "commitLocalUpdate",
+      "commitPayload"
+    ]
+  }
+}

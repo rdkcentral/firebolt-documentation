@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/app-lifecycle/listening-for-events",
+  "id": "firebolt_docs/app-lifecycle/listening-for-events",
+  "title": "Listening for Events",
+  "description": "Events are a common pattern for asynchronous notifications from an SDK.",
+  "source": "@site/docs/firebolt_docs/app-lifecycle/listening-for-events.md",
+  "sourceDirName": "firebolt_docs/app-lifecycle",
+  "slug": "/firebolt_docs/app-lifecycle/listening-for-events",
+  "permalink": "/docs/next/firebolt_docs/app-lifecycle/listening-for-events",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "App Lifecycle",
+    "permalink": "/docs/next/firebolt_docs/app-lifecycle/lifecycle-management"
+  },
+  "next": {
+    "title": "Listening for Property changes",
+    "permalink": "/docs/next/firebolt_docs/app-lifecycle/listening-for-property-changes"
+  }
+}

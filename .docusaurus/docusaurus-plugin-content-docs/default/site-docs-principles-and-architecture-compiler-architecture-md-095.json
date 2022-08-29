@@ -1,0 +1,37 @@
+{
+  "unversionedId": "principles-and-architecture/compiler-architecture",
+  "id": "principles-and-architecture/compiler-architecture",
+  "title": "Compiler Architecture",
+  "description": "Relay compiler architecture guide",
+  "source": "@site/docs/principles-and-architecture/compiler-architecture.md",
+  "sourceDirName": "principles-and-architecture",
+  "slug": "/principles-and-architecture/compiler-architecture/",
+  "permalink": "/docs/next/principles-and-architecture/compiler-architecture/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/principles-and-architecture/compiler-architecture.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "compiler-architecture",
+    "title": "Compiler Architecture",
+    "slug": "/principles-and-architecture/compiler-architecture/",
+    "description": "Relay compiler architecture guide",
+    "keywords": [
+      "compiler",
+      "architecture",
+      "transform"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture Overview",
+    "permalink": "/docs/next/principles-and-architecture/architecture-overview/"
+  },
+  "next": {
+    "title": "Runtime Architecture",
+    "permalink": "/docs/next/principles-and-architecture/runtime-architecture/"
+  }
+}

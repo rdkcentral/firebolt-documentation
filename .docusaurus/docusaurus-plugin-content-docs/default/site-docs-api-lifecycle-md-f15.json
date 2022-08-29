@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Lifecycle",
+  "id": "api/Lifecycle",
+  "title": "Lifecycle",
+  "description": "---",
+  "source": "@site/docs/api/Lifecycle.md",
+  "sourceDirName": "api",
+  "slug": "/api/Lifecycle",
+  "permalink": "/docs/next/api/Lifecycle",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Lifecycle"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Keyboard",
+    "permalink": "/docs/next/api/Keyboard"
+  },
+  "next": {
+    "title": "Localization",
+    "permalink": "/docs/next/api/Localization"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/index",
+  "id": "version-0.8.0/api/index",
+  "title": "Firebolt Core SDK",
+  "description": "For building Firebolt compliant apps.",
+  "source": "@site/versioned_docs/version-0.8.0/api/index.md",
+  "sourceDirName": "api",
+  "slug": "/api/",
+  "permalink": "/docs/api/",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Firebolt Core SDK"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "SecondScreen",
+    "permalink": "/docs/api/SecondScreen"
+  },
+  "next": {
+    "title": "Discovery",
+    "permalink": "/docs/api/schemas/Discovery"
+  }
+}

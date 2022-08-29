@@ -1,0 +1,32 @@
+{
+  "unversionedId": "guided-tour/updating-data/imperatively-modifying-store-data",
+  "id": "version-v14.0.0/guided-tour/updating-data/imperatively-modifying-store-data",
+  "title": "Imperatively modifying store data",
+  "description": "Using readUpdatableQuery_EXPERIMENTAL to update scalar fields in the store",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/updating-data/imperatively-modifying-store-data.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/imperatively-modifying-store-data/",
+  "permalink": "/docs/guided-tour/updating-data/imperatively-modifying-store-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/updating-data/imperatively-modifying-store-data.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "imperatively-modifying-store-data",
+    "title": "Imperatively modifying store data",
+    "slug": "/guided-tour/updating-data/imperatively-modifying-store-data/",
+    "description": "Using readUpdatableQuery_EXPERIMENTAL to update scalar fields in the store",
+    "keywords": [
+      "record source",
+      "store",
+      "updater",
+      "typesafe updaters",
+      "readUpdatableQuery",
+      "readUpdatableFragment",
+      "updatable"
+    ]
+  }
+}

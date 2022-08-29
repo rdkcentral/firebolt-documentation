@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/schemas/Errors",
+  "id": "version-0.8.0/api/schemas/Errors",
+  "title": "Errors",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.8.0/api/schemas/Errors.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/Errors",
+  "permalink": "/docs/api/schemas/Errors",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Errors"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Entertainment",
+    "permalink": "/docs/api/schemas/Entertainment"
+  },
+  "next": {
+    "title": "Intents",
+    "permalink": "/docs/api/schemas/Intents"
+  }
+}

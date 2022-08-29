@@ -1,0 +1,31 @@
+{
+  "unversionedId": "compiler-architecture",
+  "id": "version-v0.6.2/compiler-architecture",
+  "title": "Compiler Architecture",
+  "description": "The compiler is a set of modules designed to extract GraphQL documents from across a codebase, transform/optimize them, and generate build artifacts. Examples of common types of artifacts include optimized GraphQL to persist to your server, runtime representations of the queries for use with GraphQL clients such as the Relay runtime, or generated source code for use with GraphQL frameworks for compiled languages (Java/Swift/etc).",
+  "source": "@site/versioned_docs/version-v0.6.2/PrinciplesAndArchitecture-Compiler.md",
+  "sourceDirName": ".",
+  "slug": "/compiler-architecture",
+  "permalink": "/docs/v0.6.2/compiler-architecture",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v0.6.2/PrinciplesAndArchitecture-Compiler.md",
+  "tags": [],
+  "version": "v0.6.2",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "compiler-architecture",
+    "title": "Compiler Architecture",
+    "original_id": "compiler-architecture"
+  },
+  "sidebar": "version-v0.6.2/docs",
+  "previous": {
+    "title": "Architecture Overview",
+    "permalink": "/docs/v0.6.2/architecture-overview"
+  },
+  "next": {
+    "title": "Runtime Architecture",
+    "permalink": "/docs/v0.6.2/runtime-architecture"
+  }
+}

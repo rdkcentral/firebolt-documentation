@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/fetch-policies",
+  "id": "version-v13.0.0/guided-tour/reusing-cached-data/fetch-policies",
+  "title": "Fetch Policies",
+  "description": "Relay guide to fetch policies",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/reusing-cached-data/fetch-policies.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/fetch-policies/",
+  "permalink": "/docs/v13.0.0/guided-tour/reusing-cached-data/fetch-policies/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/reusing-cached-data/fetch-policies.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "fetch-policies",
+    "title": "Fetch Policies",
+    "slug": "/guided-tour/reusing-cached-data/fetch-policies/",
+    "description": "Relay guide to fetch policies",
+    "keywords": [
+      "fetch policy",
+      "network-only",
+      "store-only",
+      "store-and-network",
+      "store-or-network"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/accessibility/accessibility",
+  "id": "firebolt_docs/accessibility/accessibility",
+  "title": "Accessibility",
+  "description": "Accessibility means building apps that can be enjoyed by everyone, regardless of abilities. Incorporating an inclusive approach can include considering color choices during design, integrating Voice Guidance capabilities, or ensuring videos include closed captions. It's also important to remember that you're building a global app.",
+  "source": "@site/docs/firebolt_docs/accessibility/accessibility.md",
+  "sourceDirName": "firebolt_docs/accessibility",
+  "slug": "/firebolt_docs/accessibility/",
+  "permalink": "/docs/next/firebolt_docs/accessibility/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Accessbility",
+    "permalink": "/docs/next/category/accessbility"
+  },
+  "next": {
+    "title": "Closed Captions",
+    "permalink": "/docs/next/firebolt_docs/accessibility/closed-captions"
+  }
+}

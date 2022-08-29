@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/Accessibility",
+  "id": "version-0.8.0/api/Accessibility",
+  "title": "Accessibility",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.8.0/api/Accessibility.md",
+  "sourceDirName": "api",
+  "slug": "/api/Accessibility",
+  "permalink": "/docs/api/Accessibility",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Accessibility"
+  },
+  "sidebar": "api",
+  "next": {
+    "title": "Account",
+    "permalink": "/docs/api/Account"
+  }
+}

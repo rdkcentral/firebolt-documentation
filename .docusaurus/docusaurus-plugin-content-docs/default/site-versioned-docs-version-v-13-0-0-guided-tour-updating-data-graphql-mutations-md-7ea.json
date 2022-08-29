@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guided-tour/updating-data/graphql-mutations",
+  "id": "version-v13.0.0/guided-tour/updating-data/graphql-mutations",
+  "title": "GraphQL Mutations",
+  "description": "Relay guide to GraphQl mutations",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/updating-data/graphql-mutations.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/graphql-mutations/",
+  "permalink": "/docs/v13.0.0/guided-tour/updating-data/graphql-mutations/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/updating-data/graphql-mutations.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-mutations",
+    "title": "GraphQL Mutations",
+    "slug": "/guided-tour/updating-data/graphql-mutations/",
+    "description": "Relay guide to GraphQl mutations",
+    "keywords": [
+      "mutation"
+    ]
+  }
+}

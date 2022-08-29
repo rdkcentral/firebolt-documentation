@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Discovery",
+  "id": "version-0.8.0/api/Discovery",
+  "title": "Discovery",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.8.0/api/Discovery.md",
+  "sourceDirName": "api",
+  "slug": "/api/Discovery",
+  "permalink": "/docs/api/Discovery",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Discovery"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Device",
+    "permalink": "/docs/api/Device"
+  },
+  "next": {
+    "title": "Keyboard",
+    "permalink": "/docs/api/Keyboard"
+  }
+}

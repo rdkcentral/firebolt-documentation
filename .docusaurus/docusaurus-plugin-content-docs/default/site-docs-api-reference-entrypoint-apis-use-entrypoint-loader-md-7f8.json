@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/entrypoint-apis/use-entrypoint-loader",
+  "id": "api-reference/entrypoint-apis/use-entrypoint-loader",
+  "title": "useEntryPointLoader",
+  "description": "API reference for useEntryPointLoader, a React hook used to load entrypoints in response to user events",
+  "source": "@site/docs/api-reference/entrypoint-apis/use-entrypoint-loader.md",
+  "sourceDirName": "api-reference/entrypoint-apis",
+  "slug": "/api-reference/use-entrypoint-loader/",
+  "permalink": "/docs/next/api-reference/use-entrypoint-loader/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/entrypoint-apis/use-entrypoint-loader.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-entrypoint-loader",
+    "title": "useEntryPointLoader",
+    "slug": "/api-reference/use-entrypoint-loader/",
+    "description": "API reference for useEntryPointLoader, a React hook used to load entrypoints in response to user events",
+    "keywords": [
+      "render-as-you-fetch",
+      "entrypoint",
+      "preload"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "loadEntryPoint",
+    "permalink": "/docs/next/api-reference/load-entrypoint/"
+  },
+  "next": {
+    "title": "GraphQL Directives",
+    "permalink": "/docs/next/api-reference/graphql-and-directives/"
+  }
+}

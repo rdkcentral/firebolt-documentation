@@ -1,0 +1,28 @@
+{
+  "unversionedId": "editor-support",
+  "id": "version-v14.0.0/editor-support",
+  "title": "Editor Support",
+  "description": "TL;DR: We have a VS Code Extension",
+  "source": "@site/versioned_docs/version-v14.0.0/editor-support.md",
+  "sourceDirName": ".",
+  "slug": "/editor-support/",
+  "permalink": "/docs/editor-support/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/editor-support.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "editor-support",
+    "title": "Editor Support",
+    "slug": "/editor-support/",
+    "keywords": [
+      "LSP",
+      "Language Server Protocol",
+      "VS Code",
+      "VSCode"
+    ]
+  }
+}

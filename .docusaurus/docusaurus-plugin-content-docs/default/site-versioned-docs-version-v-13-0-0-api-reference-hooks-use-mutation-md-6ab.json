@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api-reference/hooks/use-mutation",
+  "id": "version-v13.0.0/api-reference/hooks/use-mutation",
+  "title": "useMutation",
+  "description": "API reference for useMutation, a React hook used to execute a GraphQL mutation",
+  "source": "@site/versioned_docs/version-v13.0.0/api-reference/hooks/use-mutation.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-mutation/",
+  "permalink": "/docs/v13.0.0/api-reference/use-mutation/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/api-reference/hooks/use-mutation.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-mutation",
+    "title": "useMutation",
+    "slug": "/api-reference/use-mutation/",
+    "description": "API reference for useMutation, a React hook used to execute a GraphQL mutation",
+    "keywords": [
+      "mutation"
+    ]
+  }
+}

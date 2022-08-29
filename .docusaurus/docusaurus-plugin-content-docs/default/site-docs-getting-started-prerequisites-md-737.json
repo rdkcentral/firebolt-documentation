@@ -1,0 +1,35 @@
+{
+  "unversionedId": "getting-started/prerequisites",
+  "id": "getting-started/prerequisites",
+  "title": "Prerequisites",
+  "description": "Prerequisites for setting up Relay",
+  "source": "@site/docs/getting-started/prerequisites.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/prerequisites/",
+  "permalink": "/docs/next/getting-started/prerequisites/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/getting-started/prerequisites.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "prerequisites",
+    "title": "Prerequisites",
+    "slug": "/getting-started/prerequisites/",
+    "description": "Prerequisites for setting up Relay",
+    "keywords": [
+      "prerequisites"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Relay",
+    "permalink": "/docs/next/"
+  },
+  "next": {
+    "title": "Step-by-step Guide",
+    "permalink": "/docs/next/getting-started/step-by-step-guide/"
+  }
+}

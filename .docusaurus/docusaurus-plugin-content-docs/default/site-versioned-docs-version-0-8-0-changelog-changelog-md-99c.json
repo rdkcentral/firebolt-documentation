@@ -1,0 +1,14 @@
+{
+  "unversionedId": "changelog/changelog",
+  "id": "version-0.8.0/changelog/changelog",
+  "title": "Firebolt Release Notes",
+  "description": "0.8.0",
+  "source": "@site/versioned_docs/version-0.8.0/changelog/changelog.md",
+  "sourceDirName": "changelog",
+  "slug": "/changelog/",
+  "permalink": "/docs/changelog/",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {}
+}

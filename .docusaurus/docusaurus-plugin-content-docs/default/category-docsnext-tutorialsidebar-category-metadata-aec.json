@@ -1,0 +1,15 @@
+{
+  "title": "Metadata",
+  "slug": "/category/metadata",
+  "permalink": "/docs/next/category/metadata",
+  "navigation": {
+    "previous": {
+      "title": "Localization",
+      "permalink": "/docs/next/localization/"
+    },
+    "next": {
+      "title": "Metadata Integration",
+      "permalink": "/docs/next/metadata/metadata-integration"
+    }
+  }
+}

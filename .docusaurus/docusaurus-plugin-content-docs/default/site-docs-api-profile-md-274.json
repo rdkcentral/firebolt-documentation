@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Profile",
+  "id": "api/Profile",
+  "title": "Profile",
+  "description": "---",
+  "source": "@site/docs/api/Profile.md",
+  "sourceDirName": "api",
+  "slug": "/api/Profile",
+  "permalink": "/docs/next/api/Profile",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Profile"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Parameters",
+    "permalink": "/docs/next/api/Parameters"
+  },
+  "next": {
+    "title": "SecondScreen",
+    "permalink": "/docs/next/api/SecondScreen"
+  }
+}

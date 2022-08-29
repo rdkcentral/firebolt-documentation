@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-reference/types/MutationConfig",
+  "id": "api-reference/types/MutationConfig",
+  "title": "MutationConfig",
+  "description": "Type MutationConfig",
+  "source": "@site/docs/api-reference/types/MutationConfig.md",
+  "sourceDirName": "api-reference/types",
+  "slug": "/api-reference/types/MutationConfig",
+  "permalink": "/docs/next/api-reference/types/MutationConfig",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/types/MutationConfig.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GraphQLSubscriptionConfig",
+    "permalink": "/docs/next/api-reference/types/GraphQLSubscriptionConfig"
+  },
+  "next": {
+    "title": "SelectorStoreUpdater",
+    "permalink": "/docs/next/api-reference/types/SelectorStoreUpdater"
+  }
+}

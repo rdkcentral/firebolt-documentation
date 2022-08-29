@@ -1,0 +1,2696 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next 🚧",
+          "banner": "unreleased",
+          "badge": true,
+          "className": "docs-version-current",
+          "path": "/docs/next",
+          "tagsPath": "/docs/next/tags",
+          "isLast": false,
+          "contentPath": "/Users/alexander.carnes/Documents/GitHub/firebolt-documentation/docs",
+          "contentPathLocalized": "/Users/alexander.carnes/Documents/GitHub/firebolt-documentation/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "api/Accessibility",
+              "id": "api/Accessibility",
+              "title": "Accessibility",
+              "description": "---",
+              "source": "@site/docs/api/Accessibility.md",
+              "sourceDirName": "api",
+              "slug": "/api/Accessibility",
+              "permalink": "/docs/next/api/Accessibility",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Accessibility"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Firebolt Core SDK",
+                "permalink": "/docs/next/api/"
+              },
+              "next": {
+                "title": "Account",
+                "permalink": "/docs/next/api/Account"
+              }
+            },
+            {
+              "unversionedId": "api/Account",
+              "id": "api/Account",
+              "title": "Account",
+              "description": "---",
+              "source": "@site/docs/api/Account.md",
+              "sourceDirName": "api",
+              "slug": "/api/Account",
+              "permalink": "/docs/next/api/Account",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Account"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Accessibility",
+                "permalink": "/docs/next/api/Accessibility"
+              },
+              "next": {
+                "title": "Advertising",
+                "permalink": "/docs/next/api/Advertising"
+              }
+            },
+            {
+              "unversionedId": "api/Advertising",
+              "id": "api/Advertising",
+              "title": "Advertising",
+              "description": "---",
+              "source": "@site/docs/api/Advertising.md",
+              "sourceDirName": "api",
+              "slug": "/api/Advertising",
+              "permalink": "/docs/next/api/Advertising",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Advertising"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Account",
+                "permalink": "/docs/next/api/Account"
+              },
+              "next": {
+                "title": "Authentication",
+                "permalink": "/docs/next/api/Authentication"
+              }
+            },
+            {
+              "unversionedId": "api/Authentication",
+              "id": "api/Authentication",
+              "title": "Authentication",
+              "description": "---",
+              "source": "@site/docs/api/Authentication.md",
+              "sourceDirName": "api",
+              "slug": "/api/Authentication",
+              "permalink": "/docs/next/api/Authentication",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Authentication"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Advertising",
+                "permalink": "/docs/next/api/Advertising"
+              },
+              "next": {
+                "title": "Device",
+                "permalink": "/docs/next/api/Device"
+              }
+            },
+            {
+              "unversionedId": "api/Device",
+              "id": "api/Device",
+              "title": "Device",
+              "description": "---",
+              "source": "@site/docs/api/Device.md",
+              "sourceDirName": "api",
+              "slug": "/api/Device",
+              "permalink": "/docs/next/api/Device",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Device"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Authentication",
+                "permalink": "/docs/next/api/Authentication"
+              },
+              "next": {
+                "title": "Discovery",
+                "permalink": "/docs/next/api/Discovery"
+              }
+            },
+            {
+              "unversionedId": "api/Discovery",
+              "id": "api/Discovery",
+              "title": "Discovery",
+              "description": "---",
+              "source": "@site/docs/api/Discovery.md",
+              "sourceDirName": "api",
+              "slug": "/api/Discovery",
+              "permalink": "/docs/next/api/Discovery",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Discovery"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Device",
+                "permalink": "/docs/next/api/Device"
+              },
+              "next": {
+                "title": "Keyboard",
+                "permalink": "/docs/next/api/Keyboard"
+              }
+            },
+            {
+              "unversionedId": "api/index",
+              "id": "api/index",
+              "title": "Firebolt Core SDK",
+              "description": "For building Firebolt compliant apps.",
+              "source": "@site/docs/api/index.md",
+              "sourceDirName": "api",
+              "slug": "/api/",
+              "permalink": "/docs/next/api/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Firebolt Core SDK"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Firebolt Release Notes",
+                "permalink": "/docs/next/changelog/"
+              },
+              "next": {
+                "title": "Accessibility",
+                "permalink": "/docs/next/api/Accessibility"
+              }
+            },
+            {
+              "unversionedId": "api/Keyboard",
+              "id": "api/Keyboard",
+              "title": "Keyboard",
+              "description": "---",
+              "source": "@site/docs/api/Keyboard.md",
+              "sourceDirName": "api",
+              "slug": "/api/Keyboard",
+              "permalink": "/docs/next/api/Keyboard",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Keyboard"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Discovery",
+                "permalink": "/docs/next/api/Discovery"
+              },
+              "next": {
+                "title": "Lifecycle",
+                "permalink": "/docs/next/api/Lifecycle"
+              }
+            },
+            {
+              "unversionedId": "api/Lifecycle",
+              "id": "api/Lifecycle",
+              "title": "Lifecycle",
+              "description": "---",
+              "source": "@site/docs/api/Lifecycle.md",
+              "sourceDirName": "api",
+              "slug": "/api/Lifecycle",
+              "permalink": "/docs/next/api/Lifecycle",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Lifecycle"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Keyboard",
+                "permalink": "/docs/next/api/Keyboard"
+              },
+              "next": {
+                "title": "Localization",
+                "permalink": "/docs/next/api/Localization"
+              }
+            },
+            {
+              "unversionedId": "api/Localization",
+              "id": "api/Localization",
+              "title": "Localization",
+              "description": "---",
+              "source": "@site/docs/api/Localization.md",
+              "sourceDirName": "api",
+              "slug": "/api/Localization",
+              "permalink": "/docs/next/api/Localization",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Localization"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Lifecycle",
+                "permalink": "/docs/next/api/Lifecycle"
+              },
+              "next": {
+                "title": "Metrics",
+                "permalink": "/docs/next/api/Metrics"
+              }
+            },
+            {
+              "unversionedId": "api/Metrics",
+              "id": "api/Metrics",
+              "title": "Metrics",
+              "description": "---",
+              "source": "@site/docs/api/Metrics.md",
+              "sourceDirName": "api",
+              "slug": "/api/Metrics",
+              "permalink": "/docs/next/api/Metrics",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Metrics"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Localization",
+                "permalink": "/docs/next/api/Localization"
+              },
+              "next": {
+                "title": "Parameters",
+                "permalink": "/docs/next/api/Parameters"
+              }
+            },
+            {
+              "unversionedId": "api/Parameters",
+              "id": "api/Parameters",
+              "title": "Parameters",
+              "description": "---",
+              "source": "@site/docs/api/Parameters.md",
+              "sourceDirName": "api",
+              "slug": "/api/Parameters",
+              "permalink": "/docs/next/api/Parameters",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Parameters"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Metrics",
+                "permalink": "/docs/next/api/Metrics"
+              },
+              "next": {
+                "title": "Profile",
+                "permalink": "/docs/next/api/Profile"
+              }
+            },
+            {
+              "unversionedId": "api/Profile",
+              "id": "api/Profile",
+              "title": "Profile",
+              "description": "---",
+              "source": "@site/docs/api/Profile.md",
+              "sourceDirName": "api",
+              "slug": "/api/Profile",
+              "permalink": "/docs/next/api/Profile",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Profile"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Parameters",
+                "permalink": "/docs/next/api/Parameters"
+              },
+              "next": {
+                "title": "SecondScreen",
+                "permalink": "/docs/next/api/SecondScreen"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/_index",
+              "id": "api/schemas/_index",
+              "title": "_index",
+              "description": "",
+              "source": "@site/docs/api/schemas/_index.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/_index",
+              "permalink": "/docs/next/api/schemas/_index",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Types",
+                "permalink": "/docs/next/api/schemas/Types"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/next/category/getting-started"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Discovery",
+              "id": "api/schemas/Discovery",
+              "title": "Discovery",
+              "description": "---",
+              "source": "@site/docs/api/schemas/Discovery.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Discovery",
+              "permalink": "/docs/next/api/schemas/Discovery",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Discovery"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "SecondScreen",
+                "permalink": "/docs/next/api/SecondScreen"
+              },
+              "next": {
+                "title": "Entertainment",
+                "permalink": "/docs/next/api/schemas/Entertainment"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Entertainment",
+              "id": "api/schemas/Entertainment",
+              "title": "Entertainment",
+              "description": "---",
+              "source": "@site/docs/api/schemas/Entertainment.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Entertainment",
+              "permalink": "/docs/next/api/schemas/Entertainment",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Entertainment"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Discovery",
+                "permalink": "/docs/next/api/schemas/Discovery"
+              },
+              "next": {
+                "title": "Errors",
+                "permalink": "/docs/next/api/schemas/Errors"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Errors",
+              "id": "api/schemas/Errors",
+              "title": "Errors",
+              "description": "---",
+              "source": "@site/docs/api/schemas/Errors.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Errors",
+              "permalink": "/docs/next/api/schemas/Errors",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Errors"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Entertainment",
+                "permalink": "/docs/next/api/schemas/Entertainment"
+              },
+              "next": {
+                "title": "Intents",
+                "permalink": "/docs/next/api/schemas/Intents"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Intents",
+              "id": "api/schemas/Intents",
+              "title": "Intents",
+              "description": "---",
+              "source": "@site/docs/api/schemas/Intents.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Intents",
+              "permalink": "/docs/next/api/schemas/Intents",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Intents"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Errors",
+                "permalink": "/docs/next/api/schemas/Errors"
+              },
+              "next": {
+                "title": "Lifecycle",
+                "permalink": "/docs/next/api/schemas/Lifecycle"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Lifecycle",
+              "id": "api/schemas/Lifecycle",
+              "title": "Lifecycle",
+              "description": "---",
+              "source": "@site/docs/api/schemas/Lifecycle.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Lifecycle",
+              "permalink": "/docs/next/api/schemas/Lifecycle",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Lifecycle"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Intents",
+                "permalink": "/docs/next/api/schemas/Intents"
+              },
+              "next": {
+                "title": "SecondScreen",
+                "permalink": "/docs/next/api/schemas/SecondScreen"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/SecondScreen",
+              "id": "api/schemas/SecondScreen",
+              "title": "SecondScreen",
+              "description": "---",
+              "source": "@site/docs/api/schemas/SecondScreen.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/SecondScreen",
+              "permalink": "/docs/next/api/schemas/SecondScreen",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "SecondScreen"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Lifecycle",
+                "permalink": "/docs/next/api/schemas/Lifecycle"
+              },
+              "next": {
+                "title": "Types",
+                "permalink": "/docs/next/api/schemas/Types"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Types",
+              "id": "api/schemas/Types",
+              "title": "Types",
+              "description": "---",
+              "source": "@site/docs/api/schemas/Types.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Types",
+              "permalink": "/docs/next/api/schemas/Types",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Types"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "SecondScreen",
+                "permalink": "/docs/next/api/schemas/SecondScreen"
+              },
+              "next": {
+                "title": "_index",
+                "permalink": "/docs/next/api/schemas/_index"
+              }
+            },
+            {
+              "unversionedId": "api/SecondScreen",
+              "id": "api/SecondScreen",
+              "title": "SecondScreen",
+              "description": "---",
+              "source": "@site/docs/api/SecondScreen.md",
+              "sourceDirName": "api",
+              "slug": "/api/SecondScreen",
+              "permalink": "/docs/next/api/SecondScreen",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "SecondScreen"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Profile",
+                "permalink": "/docs/next/api/Profile"
+              },
+              "next": {
+                "title": "Discovery",
+                "permalink": "/docs/next/api/schemas/Discovery"
+              }
+            },
+            {
+              "unversionedId": "changelog/changelog",
+              "id": "changelog/changelog",
+              "title": "Firebolt Release Notes",
+              "description": "0.8.0",
+              "source": "@site/docs/changelog/changelog.md",
+              "sourceDirName": "changelog",
+              "slug": "/changelog/",
+              "permalink": "/docs/next/changelog/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Changelog",
+                "permalink": "/docs/next/category/changelog"
+              },
+              "next": {
+                "title": "Firebolt Core SDK",
+                "permalink": "/docs/next/api/"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/accessibility/accessibility",
+              "id": "firebolt_docs/accessibility/accessibility",
+              "title": "Accessibility",
+              "description": "Accessibility means building apps that can be enjoyed by everyone, regardless of abilities. Incorporating an inclusive approach can include considering color choices during design, integrating Voice Guidance capabilities, or ensuring videos include closed captions. It's also important to remember that you're building a global app.",
+              "source": "@site/docs/firebolt_docs/accessibility/accessibility.md",
+              "sourceDirName": "firebolt_docs/accessibility",
+              "slug": "/firebolt_docs/accessibility/",
+              "permalink": "/docs/next/firebolt_docs/accessibility/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Accessbility",
+                "permalink": "/docs/next/category/accessbility"
+              },
+              "next": {
+                "title": "Closed Captions",
+                "permalink": "/docs/next/firebolt_docs/accessibility/closed-captions"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/accessibility/closed-captions",
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "title": "Closed Captions",
+              "description": "With accessibility settings, it’s important that your app follows your user’s device settings. When an app starts up it should grab your user’s current device accessibility settings and adapt to system accessibility changes that your user makes.",
+              "source": "@site/docs/firebolt_docs/accessibility/closed-captions.md",
+              "sourceDirName": "firebolt_docs/accessibility",
+              "slug": "/firebolt_docs/accessibility/closed-captions",
+              "permalink": "/docs/next/firebolt_docs/accessibility/closed-captions",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Closed Captions"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Accessibility",
+                "permalink": "/docs/next/firebolt_docs/accessibility/"
+              },
+              "next": {
+                "title": "Voice Guidance",
+                "permalink": "/docs/next/firebolt_docs/accessibility/voice-guidance"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/accessibility/voice-guidance",
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "title": "Voice Guidance",
+              "description": "With accessibility settings, it’s important that your app follows your user’s device settings. When an app starts up it should grab your user’s current device accessibility settings and adapt to system accessibility changes that your user makes.",
+              "source": "@site/docs/firebolt_docs/accessibility/voice-guidance.md",
+              "sourceDirName": "firebolt_docs/accessibility",
+              "slug": "/firebolt_docs/accessibility/voice-guidance",
+              "permalink": "/docs/next/firebolt_docs/accessibility/voice-guidance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Voice Guidance"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Closed Captions",
+                "permalink": "/docs/next/firebolt_docs/accessibility/closed-captions"
+              },
+              "next": {
+                "title": "App Lifecycle",
+                "permalink": "/docs/next/category/app-lifecycle"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "title": "App Lifecycle",
+              "description": "The app lifecycle is how the platform informs your app how to behave based on its state. These lifecycle states determine which features and APIs should be used and when.",
+              "source": "@site/docs/firebolt_docs/app-lifecycle/lifecycle-management.md",
+              "sourceDirName": "firebolt_docs/app-lifecycle",
+              "slug": "/firebolt_docs/app-lifecycle/lifecycle-management",
+              "permalink": "/docs/next/firebolt_docs/app-lifecycle/lifecycle-management",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "App Lifecycle"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "App Lifecycle",
+                "permalink": "/docs/next/category/app-lifecycle"
+              },
+              "next": {
+                "title": "Listening for Events",
+                "permalink": "/docs/next/firebolt_docs/app-lifecycle/listening-for-events"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/app-lifecycle/listening-for-events",
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "title": "Listening for Events",
+              "description": "Events are a common pattern for asynchronous notifications from an SDK.",
+              "source": "@site/docs/firebolt_docs/app-lifecycle/listening-for-events.md",
+              "sourceDirName": "firebolt_docs/app-lifecycle",
+              "slug": "/firebolt_docs/app-lifecycle/listening-for-events",
+              "permalink": "/docs/next/firebolt_docs/app-lifecycle/listening-for-events",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "App Lifecycle",
+                "permalink": "/docs/next/firebolt_docs/app-lifecycle/lifecycle-management"
+              },
+              "next": {
+                "title": "Listening for Property changes",
+                "permalink": "/docs/next/firebolt_docs/app-lifecycle/listening-for-property-changes"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "title": "Listening for Property changes",
+              "description": "With Firebolt® you can get and listen for property changes on the device. This includes both the hardware and system properties such as audio, current accessibility settings, and all the mutable properties of a device.",
+              "source": "@site/docs/firebolt_docs/app-lifecycle/listening-for-property-changes.md",
+              "sourceDirName": "firebolt_docs/app-lifecycle",
+              "slug": "/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "permalink": "/docs/next/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Listening for Events",
+                "permalink": "/docs/next/firebolt_docs/app-lifecycle/listening-for-events"
+              },
+              "next": {
+                "title": "Authentication",
+                "permalink": "/docs/next/category/authentication"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/authentication/email-prefill",
+              "id": "firebolt_docs/authentication/email-prefill",
+              "title": "Email Prefill",
+              "description": "Your users have the ability to save email addresses to their account on the platform. The Email Prefill feature enables your app to request an email address from the user without requiring them to type it out using a remote.",
+              "source": "@site/docs/firebolt_docs/authentication/email-prefill.md",
+              "sourceDirName": "firebolt_docs/authentication",
+              "slug": "/firebolt_docs/authentication/email-prefill",
+              "permalink": "/docs/next/firebolt_docs/authentication/email-prefill",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Authentication",
+                "permalink": "/docs/next/category/authentication"
+              },
+              "next": {
+                "title": "Sign In & Sign Up",
+                "permalink": "/docs/next/firebolt_docs/authentication/sign-in-and-sign-up"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "title": "Sign In & Sign Up",
+              "description": "There are two ways to sign-in or sign-up for an app including \"2nd screen sign-in\" (which is the preferred method) and the \"on-screen keyboard\".",
+              "source": "@site/docs/firebolt_docs/authentication/sign-in-and-sign-up.md",
+              "sourceDirName": "firebolt_docs/authentication",
+              "slug": "/firebolt_docs/authentication/sign-in-and-sign-up",
+              "permalink": "/docs/next/firebolt_docs/authentication/sign-in-and-sign-up",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Email Prefill",
+                "permalink": "/docs/next/firebolt_docs/authentication/email-prefill"
+              },
+              "next": {
+                "title": "Discovery",
+                "permalink": "/docs/next/category/discovery"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/discovery/content-discovery",
+              "id": "firebolt_docs/discovery/content-discovery",
+              "title": "Content Discovery",
+              "description": "\"Content Discovery\" refers to all of the ways that users can discover your app's content on the platform.",
+              "source": "@site/docs/firebolt_docs/discovery/content-discovery.md",
+              "sourceDirName": "firebolt_docs/discovery",
+              "slug": "/firebolt_docs/discovery/content-discovery",
+              "permalink": "/docs/next/firebolt_docs/discovery/content-discovery",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Discovery",
+                "permalink": "/docs/next/category/discovery"
+              },
+              "next": {
+                "title": "Deep Linking",
+                "permalink": "/docs/next/firebolt_docs/discovery/deep-linking"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/discovery/deep-linking",
+              "id": "firebolt_docs/discovery/deep-linking",
+              "title": "Deep Linking",
+              "description": "Deep linking is how the platform can inform your app of a user's intention to view a specific, indexed piece of content beyond just your home screen.",
+              "source": "@site/docs/firebolt_docs/discovery/deep-linking.md",
+              "sourceDirName": "firebolt_docs/discovery",
+              "slug": "/firebolt_docs/discovery/deep-linking",
+              "permalink": "/docs/next/firebolt_docs/discovery/deep-linking",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Content Discovery",
+                "permalink": "/docs/next/firebolt_docs/discovery/content-discovery"
+              },
+              "next": {
+                "title": "Voice Commands",
+                "permalink": "/docs/next/firebolt_docs/discovery/voice-commands"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/discovery/voice-commands",
+              "id": "firebolt_docs/discovery/voice-commands",
+              "title": "Voice Commands",
+              "description": "Voice commands allow your users to press a button and speak to their remotes and go directly to an experience they want to find. Our platform includes built-in voice functions which enable your users to launch apps and control media playback. Additionally, there are a wide range of other voice commands that give more flexibility to your users. These require a level of integration if you wish to take advantage of their benefits.",
+              "source": "@site/docs/firebolt_docs/discovery/voice-commands.md",
+              "sourceDirName": "firebolt_docs/discovery",
+              "slug": "/firebolt_docs/discovery/voice-commands",
+              "permalink": "/docs/next/firebolt_docs/discovery/voice-commands",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Deep Linking",
+                "permalink": "/docs/next/firebolt_docs/discovery/deep-linking"
+              },
+              "next": {
+                "title": "Localization",
+                "permalink": "/docs/next/category/localization"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/quick-start-guide",
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "title": "Getting Started",
+              "description": "Getting your app up and running on Firebolt takes just a few simple steps.",
+              "source": "@site/docs/firebolt_docs/getting-started/quick-start-guide.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/quick-start-guide",
+              "permalink": "/docs/next/firebolt_docs/getting-started/quick-start-guide",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Getting Started"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/next/category/getting-started"
+              },
+              "next": {
+                "title": "Accessbility",
+                "permalink": "/docs/next/category/accessbility"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/localization/localization",
+              "id": "firebolt_docs/localization/localization",
+              "title": "Localization",
+              "description": "Your app can receive device location information to better serve your users by utilizing the localization API. Localization information provides the device location and the primary language within a region, which will help you create proper geofencing and language localization.",
+              "source": "@site/docs/firebolt_docs/localization/localization.md",
+              "sourceDirName": "firebolt_docs/localization",
+              "slug": "/firebolt_docs/localization/",
+              "permalink": "/docs/next/firebolt_docs/localization/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Localization"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Localization",
+                "permalink": "/docs/next/category/localization"
+              },
+              "next": {
+                "title": "Metadata",
+                "permalink": "/docs/next/category/metadata"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/metadata/metadata-integration",
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "title": "Metadata Integration",
+              "description": "Asset metadata describes all the relevant, useful, and important information about a media asset. The metadata you provide is used to directly populate the presentation and discovery of your content on the platform. The metadata is also used to determine numerous criteria including (but not limited to):",
+              "source": "@site/docs/firebolt_docs/metadata/metadata-integration.md",
+              "sourceDirName": "firebolt_docs/metadata",
+              "slug": "/firebolt_docs/metadata/metadata-integration",
+              "permalink": "/docs/next/firebolt_docs/metadata/metadata-integration",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Metadata",
+                "permalink": "/docs/next/category/metadata"
+              },
+              "next": {
+                "title": "Open GMRSS Specifications",
+                "permalink": "/docs/next/firebolt_docs/metadata/open-gmrss-format"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/metadata/open-gmrss-format",
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "title": "Open GMRSS Specifications",
+              "description": "This document outlines the specifications of a GMRSS feed and what elements are required or optional.",
+              "source": "@site/docs/firebolt_docs/metadata/open-gmrss-format.md",
+              "sourceDirName": "firebolt_docs/metadata",
+              "slug": "/firebolt_docs/metadata/open-gmrss-format",
+              "permalink": "/docs/next/firebolt_docs/metadata/open-gmrss-format",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Metadata Integration",
+                "permalink": "/docs/next/firebolt_docs/metadata/metadata-integration"
+              },
+              "next": {
+                "title": "Profiles",
+                "permalink": "/docs/next/category/profiles"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/profile/parental-controls",
+              "id": "firebolt_docs/profile/parental-controls",
+              "title": "Parental Controls",
+              "description": "Parental controls are the settings that enable your users to block specific actions from being taken without first verifying that they are approved to do so. For example, this allows an account owner to lock content such as specific ratings, titles, channels, and even entire apps. Another core function of parental controls is the ability to lock purchases made on the device.",
+              "source": "@site/docs/firebolt_docs/profile/parental-controls.md",
+              "sourceDirName": "firebolt_docs/profile",
+              "slug": "/firebolt_docs/profile/parental-controls",
+              "permalink": "/docs/next/firebolt_docs/profile/parental-controls",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Profiles",
+                "permalink": "/docs/next/category/profiles"
+              },
+              "next": {
+                "title": "Profile Flags",
+                "permalink": "/docs/next/firebolt_docs/profile/profile-flags"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/profile/profile-flags",
+              "id": "firebolt_docs/profile/profile-flags",
+              "title": "Profile Flags",
+              "description": "Profile Flags are only necessary under specific circumstances. These are prescribed by distributors who may want to add flags that trigger specific user experiences based on distribution rights, etc.",
+              "source": "@site/docs/firebolt_docs/profile/profile-flags.md",
+              "sourceDirName": "firebolt_docs/profile",
+              "slug": "/firebolt_docs/profile/profile-flags",
+              "permalink": "/docs/next/firebolt_docs/profile/profile-flags",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Parental Controls",
+                "permalink": "/docs/next/firebolt_docs/profile/parental-controls"
+              },
+              "next": {
+                "title": "Feature Documentation",
+                "permalink": "/docs/next/"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Feature Documentation",
+              "description": "This is the main page, that shows up at the site home.",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/next/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Feature Documentation"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Profile Flags",
+                "permalink": "/docs/next/firebolt_docs/profile/profile-flags"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "category",
+                "label": "Changelog",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": ""
+                },
+                "className": "changelog",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "changelog/changelog"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Changelog",
+                  "slug": "/category/changelog",
+                  "permalink": "/docs/next/category/changelog"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Firebolt Core SDK",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "api/Accessibility"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Account"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Advertising"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Authentication"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Device"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Discovery"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Keyboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Lifecycle"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Localization"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Metrics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Parameters"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/Profile"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api/SecondScreen"
+                  },
+                  {
+                    "type": "category",
+                    "label": "schemas",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "api/schemas/Discovery"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "api/schemas/Entertainment"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "api/schemas/Errors"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "api/schemas/Intents"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "api/schemas/Lifecycle"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "api/schemas/SecondScreen"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "api/schemas/Types"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "api/schemas/_index"
+                      }
+                    ]
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "api/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "firebolt_docs",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Getting Started",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "customProps": {
+                      "description": "Documents on how set up and start using Firebolt."
+                    },
+                    "className": "getting-started",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/getting-started/quick-start-guide"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "title": "Getting Started",
+                      "slug": "/category/getting-started",
+                      "permalink": "/docs/next/category/getting-started"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Accessbility",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "customProps": {
+                      "description": "Documents ensuring everyone can use what you build."
+                    },
+                    "className": "accessbility",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/accessibility/accessibility"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/accessibility/closed-captions"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/accessibility/voice-guidance"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "title": "Accessbility",
+                      "slug": "/category/accessbility",
+                      "permalink": "/docs/next/category/accessbility"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "App Lifecycle",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "customProps": {
+                      "description": "Documents elaboarating on how the app runs."
+                    },
+                    "className": "app-lifecycle",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/app-lifecycle/lifecycle-management"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/app-lifecycle/listening-for-events"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/app-lifecycle/listening-for-property-changes"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "title": "App Lifecycle",
+                      "slug": "/category/app-lifecycle",
+                      "permalink": "/docs/next/category/app-lifecycle"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Authentication",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "customProps": {
+                      "description": "Documents on how set up authentication in your apps."
+                    },
+                    "className": "authentication",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/authentication/email-prefill"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/authentication/sign-in-and-sign-up"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "title": "Authentication",
+                      "slug": "/category/authentication",
+                      "permalink": "/docs/next/category/authentication"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Discovery",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "customProps": {
+                      "description": "Documents on how to help your users find content."
+                    },
+                    "className": "discovery",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/discovery/content-discovery"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/discovery/deep-linking"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/discovery/voice-commands"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "title": "Discovery",
+                      "slug": "/category/discovery",
+                      "permalink": "/docs/next/category/discovery"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Localization",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "customProps": {
+                      "description": "Documents on how to set up localization for your app."
+                    },
+                    "className": "localization",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/localization/localization"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "title": "Localization",
+                      "slug": "/category/localization",
+                      "permalink": "/docs/next/category/localization"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Metadata",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "customProps": {
+                      "description": "Documents on how to set up metadata."
+                    },
+                    "className": "metadata",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/metadata/metadata-integration"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/metadata/open-gmrss-format"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "title": "Metadata",
+                      "slug": "/category/metadata",
+                      "permalink": "/docs/next/category/metadata"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Profiles",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "customProps": {
+                      "description": "Documents on how to user profles."
+                    },
+                    "className": "profiles",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/profile/parental-controls"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/profile/profile-flags"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "title": "Profiles",
+                      "slug": "/category/profiles",
+                      "permalink": "/docs/next/category/profiles"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "index"
+              }
+            ]
+          }
+        },
+        {
+          "versionName": "0.8.0",
+          "label": "0.8.0",
+          "banner": null,
+          "badge": true,
+          "className": "docs-version-0.8.0",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/alexander.carnes/Documents/GitHub/firebolt-documentation/versioned_sidebars/version-0.8.0-sidebars.json",
+          "contentPath": "/Users/alexander.carnes/Documents/GitHub/firebolt-documentation/versioned_docs/version-0.8.0",
+          "contentPathLocalized": "/Users/alexander.carnes/Documents/GitHub/firebolt-documentation/i18n/en/docusaurus-plugin-content-docs/version-0.8.0",
+          "docs": [
+            {
+              "unversionedId": "api/Accessibility",
+              "id": "version-0.8.0/api/Accessibility",
+              "title": "Accessibility",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Accessibility.md",
+              "sourceDirName": "api",
+              "slug": "/api/Accessibility",
+              "permalink": "/docs/api/Accessibility",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Accessibility"
+              },
+              "sidebar": "api",
+              "next": {
+                "title": "Account",
+                "permalink": "/docs/api/Account"
+              }
+            },
+            {
+              "unversionedId": "api/Account",
+              "id": "version-0.8.0/api/Account",
+              "title": "Account",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Account.md",
+              "sourceDirName": "api",
+              "slug": "/api/Account",
+              "permalink": "/docs/api/Account",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Account"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Accessibility",
+                "permalink": "/docs/api/Accessibility"
+              },
+              "next": {
+                "title": "Advertising",
+                "permalink": "/docs/api/Advertising"
+              }
+            },
+            {
+              "unversionedId": "api/Advertising",
+              "id": "version-0.8.0/api/Advertising",
+              "title": "Advertising",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Advertising.md",
+              "sourceDirName": "api",
+              "slug": "/api/Advertising",
+              "permalink": "/docs/api/Advertising",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Advertising"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Account",
+                "permalink": "/docs/api/Account"
+              },
+              "next": {
+                "title": "Authentication",
+                "permalink": "/docs/api/Authentication"
+              }
+            },
+            {
+              "unversionedId": "api/Authentication",
+              "id": "version-0.8.0/api/Authentication",
+              "title": "Authentication",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Authentication.md",
+              "sourceDirName": "api",
+              "slug": "/api/Authentication",
+              "permalink": "/docs/api/Authentication",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Authentication"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Advertising",
+                "permalink": "/docs/api/Advertising"
+              },
+              "next": {
+                "title": "Device",
+                "permalink": "/docs/api/Device"
+              }
+            },
+            {
+              "unversionedId": "api/Device",
+              "id": "version-0.8.0/api/Device",
+              "title": "Device",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Device.md",
+              "sourceDirName": "api",
+              "slug": "/api/Device",
+              "permalink": "/docs/api/Device",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Device"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Authentication",
+                "permalink": "/docs/api/Authentication"
+              },
+              "next": {
+                "title": "Discovery",
+                "permalink": "/docs/api/Discovery"
+              }
+            },
+            {
+              "unversionedId": "api/Discovery",
+              "id": "version-0.8.0/api/Discovery",
+              "title": "Discovery",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Discovery.md",
+              "sourceDirName": "api",
+              "slug": "/api/Discovery",
+              "permalink": "/docs/api/Discovery",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Discovery"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Device",
+                "permalink": "/docs/api/Device"
+              },
+              "next": {
+                "title": "Keyboard",
+                "permalink": "/docs/api/Keyboard"
+              }
+            },
+            {
+              "unversionedId": "api/index",
+              "id": "version-0.8.0/api/index",
+              "title": "Firebolt Core SDK",
+              "description": "For building Firebolt compliant apps.",
+              "source": "@site/versioned_docs/version-0.8.0/api/index.md",
+              "sourceDirName": "api",
+              "slug": "/api/",
+              "permalink": "/docs/api/",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Firebolt Core SDK"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "SecondScreen",
+                "permalink": "/docs/api/SecondScreen"
+              },
+              "next": {
+                "title": "Discovery",
+                "permalink": "/docs/api/schemas/Discovery"
+              }
+            },
+            {
+              "unversionedId": "api/Keyboard",
+              "id": "version-0.8.0/api/Keyboard",
+              "title": "Keyboard",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Keyboard.md",
+              "sourceDirName": "api",
+              "slug": "/api/Keyboard",
+              "permalink": "/docs/api/Keyboard",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Keyboard"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Discovery",
+                "permalink": "/docs/api/Discovery"
+              },
+              "next": {
+                "title": "Lifecycle",
+                "permalink": "/docs/api/Lifecycle"
+              }
+            },
+            {
+              "unversionedId": "api/Lifecycle",
+              "id": "version-0.8.0/api/Lifecycle",
+              "title": "Lifecycle",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Lifecycle.md",
+              "sourceDirName": "api",
+              "slug": "/api/Lifecycle",
+              "permalink": "/docs/api/Lifecycle",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Lifecycle"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Keyboard",
+                "permalink": "/docs/api/Keyboard"
+              },
+              "next": {
+                "title": "Localization",
+                "permalink": "/docs/api/Localization"
+              }
+            },
+            {
+              "unversionedId": "api/Localization",
+              "id": "version-0.8.0/api/Localization",
+              "title": "Localization",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Localization.md",
+              "sourceDirName": "api",
+              "slug": "/api/Localization",
+              "permalink": "/docs/api/Localization",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Localization"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Lifecycle",
+                "permalink": "/docs/api/Lifecycle"
+              },
+              "next": {
+                "title": "Metrics",
+                "permalink": "/docs/api/Metrics"
+              }
+            },
+            {
+              "unversionedId": "api/Metrics",
+              "id": "version-0.8.0/api/Metrics",
+              "title": "Metrics",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Metrics.md",
+              "sourceDirName": "api",
+              "slug": "/api/Metrics",
+              "permalink": "/docs/api/Metrics",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Metrics"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Localization",
+                "permalink": "/docs/api/Localization"
+              },
+              "next": {
+                "title": "Parameters",
+                "permalink": "/docs/api/Parameters"
+              }
+            },
+            {
+              "unversionedId": "api/Parameters",
+              "id": "version-0.8.0/api/Parameters",
+              "title": "Parameters",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Parameters.md",
+              "sourceDirName": "api",
+              "slug": "/api/Parameters",
+              "permalink": "/docs/api/Parameters",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Parameters"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Metrics",
+                "permalink": "/docs/api/Metrics"
+              },
+              "next": {
+                "title": "Profile",
+                "permalink": "/docs/api/Profile"
+              }
+            },
+            {
+              "unversionedId": "api/Profile",
+              "id": "version-0.8.0/api/Profile",
+              "title": "Profile",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/Profile.md",
+              "sourceDirName": "api",
+              "slug": "/api/Profile",
+              "permalink": "/docs/api/Profile",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Profile"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Parameters",
+                "permalink": "/docs/api/Parameters"
+              },
+              "next": {
+                "title": "SecondScreen",
+                "permalink": "/docs/api/SecondScreen"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/_index",
+              "id": "version-0.8.0/api/schemas/_index",
+              "title": "_index",
+              "description": "",
+              "source": "@site/versioned_docs/version-0.8.0/api/schemas/_index.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/_index",
+              "permalink": "/docs/api/schemas/_index",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "api",
+              "previous": {
+                "title": "Types",
+                "permalink": "/docs/api/schemas/Types"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Discovery",
+              "id": "version-0.8.0/api/schemas/Discovery",
+              "title": "Discovery",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/schemas/Discovery.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Discovery",
+              "permalink": "/docs/api/schemas/Discovery",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Discovery"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Firebolt Core SDK",
+                "permalink": "/docs/api/"
+              },
+              "next": {
+                "title": "Entertainment",
+                "permalink": "/docs/api/schemas/Entertainment"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Entertainment",
+              "id": "version-0.8.0/api/schemas/Entertainment",
+              "title": "Entertainment",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/schemas/Entertainment.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Entertainment",
+              "permalink": "/docs/api/schemas/Entertainment",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Entertainment"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Discovery",
+                "permalink": "/docs/api/schemas/Discovery"
+              },
+              "next": {
+                "title": "Errors",
+                "permalink": "/docs/api/schemas/Errors"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Errors",
+              "id": "version-0.8.0/api/schemas/Errors",
+              "title": "Errors",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/schemas/Errors.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Errors",
+              "permalink": "/docs/api/schemas/Errors",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Errors"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Entertainment",
+                "permalink": "/docs/api/schemas/Entertainment"
+              },
+              "next": {
+                "title": "Intents",
+                "permalink": "/docs/api/schemas/Intents"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Intents",
+              "id": "version-0.8.0/api/schemas/Intents",
+              "title": "Intents",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/schemas/Intents.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Intents",
+              "permalink": "/docs/api/schemas/Intents",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Intents"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Errors",
+                "permalink": "/docs/api/schemas/Errors"
+              },
+              "next": {
+                "title": "Lifecycle",
+                "permalink": "/docs/api/schemas/Lifecycle"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Lifecycle",
+              "id": "version-0.8.0/api/schemas/Lifecycle",
+              "title": "Lifecycle",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/schemas/Lifecycle.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Lifecycle",
+              "permalink": "/docs/api/schemas/Lifecycle",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Lifecycle"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Intents",
+                "permalink": "/docs/api/schemas/Intents"
+              },
+              "next": {
+                "title": "SecondScreen",
+                "permalink": "/docs/api/schemas/SecondScreen"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/SecondScreen",
+              "id": "version-0.8.0/api/schemas/SecondScreen",
+              "title": "SecondScreen",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/schemas/SecondScreen.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/SecondScreen",
+              "permalink": "/docs/api/schemas/SecondScreen",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "SecondScreen"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Lifecycle",
+                "permalink": "/docs/api/schemas/Lifecycle"
+              },
+              "next": {
+                "title": "Types",
+                "permalink": "/docs/api/schemas/Types"
+              }
+            },
+            {
+              "unversionedId": "api/schemas/Types",
+              "id": "version-0.8.0/api/schemas/Types",
+              "title": "Types",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/schemas/Types.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/Types",
+              "permalink": "/docs/api/schemas/Types",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Types"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "SecondScreen",
+                "permalink": "/docs/api/schemas/SecondScreen"
+              },
+              "next": {
+                "title": "_index",
+                "permalink": "/docs/api/schemas/_index"
+              }
+            },
+            {
+              "unversionedId": "api/SecondScreen",
+              "id": "version-0.8.0/api/SecondScreen",
+              "title": "SecondScreen",
+              "description": "---",
+              "source": "@site/versioned_docs/version-0.8.0/api/SecondScreen.md",
+              "sourceDirName": "api",
+              "slug": "/api/SecondScreen",
+              "permalink": "/docs/api/SecondScreen",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "SecondScreen"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Profile",
+                "permalink": "/docs/api/Profile"
+              },
+              "next": {
+                "title": "Firebolt Core SDK",
+                "permalink": "/docs/api/"
+              }
+            },
+            {
+              "unversionedId": "changelog/changelog",
+              "id": "version-0.8.0/changelog/changelog",
+              "title": "Firebolt Release Notes",
+              "description": "0.8.0",
+              "source": "@site/versioned_docs/version-0.8.0/changelog/changelog.md",
+              "sourceDirName": "changelog",
+              "slug": "/changelog/",
+              "permalink": "/docs/changelog/",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "firebolt_docs/accessibility/accessibility",
+              "id": "version-0.8.0/firebolt_docs/accessibility/accessibility",
+              "title": "Accessibility",
+              "description": "Accessibility means building apps that can be enjoyed by everyone, regardless of abilities. Incorporating an inclusive approach can include considering color choices during design, integrating Voice Guidance capabilities, or ensuring videos include closed captions. It's also important to remember that you're building a global app.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/accessibility/accessibility.md",
+              "sourceDirName": "firebolt_docs/accessibility",
+              "slug": "/firebolt_docs/accessibility/",
+              "permalink": "/docs/firebolt_docs/accessibility/",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Accessbility",
+                "permalink": "/docs/category/accessbility"
+              },
+              "next": {
+                "title": "Closed Captions",
+                "permalink": "/docs/firebolt_docs/accessibility/closed-captions"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/accessibility/closed-captions",
+              "id": "version-0.8.0/firebolt_docs/accessibility/closed-captions",
+              "title": "Closed Captions",
+              "description": "With accessibility settings, it’s important that your app follows your user’s device settings. When an app starts up it should grab your user’s current device accessibility settings and adapt to system accessibility changes that your user makes.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/accessibility/closed-captions.md",
+              "sourceDirName": "firebolt_docs/accessibility",
+              "slug": "/firebolt_docs/accessibility/closed-captions",
+              "permalink": "/docs/firebolt_docs/accessibility/closed-captions",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Closed Captions"
+              },
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Accessibility",
+                "permalink": "/docs/firebolt_docs/accessibility/"
+              },
+              "next": {
+                "title": "Voice Guidance",
+                "permalink": "/docs/firebolt_docs/accessibility/voice-guidance"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/accessibility/voice-guidance",
+              "id": "version-0.8.0/firebolt_docs/accessibility/voice-guidance",
+              "title": "Voice Guidance",
+              "description": "With accessibility settings, it’s important that your app follows your user’s device settings. When an app starts up it should grab your user’s current device accessibility settings and adapt to system accessibility changes that your user makes.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/accessibility/voice-guidance.md",
+              "sourceDirName": "firebolt_docs/accessibility",
+              "slug": "/firebolt_docs/accessibility/voice-guidance",
+              "permalink": "/docs/firebolt_docs/accessibility/voice-guidance",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Voice Guidance"
+              },
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Closed Captions",
+                "permalink": "/docs/firebolt_docs/accessibility/closed-captions"
+              },
+              "next": {
+                "title": "App Lifecycle",
+                "permalink": "/docs/category/app-lifecycle"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "id": "version-0.8.0/firebolt_docs/app-lifecycle/lifecycle-management",
+              "title": "App Lifecycle",
+              "description": "The app lifecycle is how the platform informs your app how to behave based on its state. These lifecycle states determine which features and APIs should be used and when.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/app-lifecycle/lifecycle-management.md",
+              "sourceDirName": "firebolt_docs/app-lifecycle",
+              "slug": "/firebolt_docs/app-lifecycle/lifecycle-management",
+              "permalink": "/docs/firebolt_docs/app-lifecycle/lifecycle-management",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "App Lifecycle"
+              },
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "App Lifecycle",
+                "permalink": "/docs/category/app-lifecycle"
+              },
+              "next": {
+                "title": "Listening for Events",
+                "permalink": "/docs/firebolt_docs/app-lifecycle/listening-for-events"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/app-lifecycle/listening-for-events",
+              "id": "version-0.8.0/firebolt_docs/app-lifecycle/listening-for-events",
+              "title": "Listening for Events",
+              "description": "Events are a common pattern for asynchronous notifications from an SDK.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/app-lifecycle/listening-for-events.md",
+              "sourceDirName": "firebolt_docs/app-lifecycle",
+              "slug": "/firebolt_docs/app-lifecycle/listening-for-events",
+              "permalink": "/docs/firebolt_docs/app-lifecycle/listening-for-events",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "App Lifecycle",
+                "permalink": "/docs/firebolt_docs/app-lifecycle/lifecycle-management"
+              },
+              "next": {
+                "title": "Listening for Property changes",
+                "permalink": "/docs/firebolt_docs/app-lifecycle/listening-for-property-changes"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "id": "version-0.8.0/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "title": "Listening for Property changes",
+              "description": "With Firebolt® you can get and listen for property changes on the device. This includes both the hardware and system properties such as audio, current accessibility settings, and all the mutable properties of a device.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/app-lifecycle/listening-for-property-changes.md",
+              "sourceDirName": "firebolt_docs/app-lifecycle",
+              "slug": "/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "permalink": "/docs/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Listening for Events",
+                "permalink": "/docs/firebolt_docs/app-lifecycle/listening-for-events"
+              },
+              "next": {
+                "title": "Authentication",
+                "permalink": "/docs/category/authentication"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/authentication/email-prefill",
+              "id": "version-0.8.0/firebolt_docs/authentication/email-prefill",
+              "title": "Email Prefill",
+              "description": "Your users have the ability to save email addresses to their account on the platform. The Email Prefill feature enables your app to request an email address from the user without requiring them to type it out using a remote.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/authentication/email-prefill.md",
+              "sourceDirName": "firebolt_docs/authentication",
+              "slug": "/firebolt_docs/authentication/email-prefill",
+              "permalink": "/docs/firebolt_docs/authentication/email-prefill",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Authentication",
+                "permalink": "/docs/category/authentication"
+              },
+              "next": {
+                "title": "Sign In & Sign Up",
+                "permalink": "/docs/firebolt_docs/authentication/sign-in-and-sign-up"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "id": "version-0.8.0/firebolt_docs/authentication/sign-in-and-sign-up",
+              "title": "Sign In & Sign Up",
+              "description": "There are two ways to sign-in or sign-up for an app including \"2nd screen sign-in\" (which is the preferred method) and the \"on-screen keyboard\".",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/authentication/sign-in-and-sign-up.md",
+              "sourceDirName": "firebolt_docs/authentication",
+              "slug": "/firebolt_docs/authentication/sign-in-and-sign-up",
+              "permalink": "/docs/firebolt_docs/authentication/sign-in-and-sign-up",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Email Prefill",
+                "permalink": "/docs/firebolt_docs/authentication/email-prefill"
+              },
+              "next": {
+                "title": "Discovery",
+                "permalink": "/docs/category/discovery"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/discovery/content-discovery",
+              "id": "version-0.8.0/firebolt_docs/discovery/content-discovery",
+              "title": "Content Discovery",
+              "description": "\"Content Discovery\" refers to all of the ways that users can discover your app's content on the platform.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/discovery/content-discovery.md",
+              "sourceDirName": "firebolt_docs/discovery",
+              "slug": "/firebolt_docs/discovery/content-discovery",
+              "permalink": "/docs/firebolt_docs/discovery/content-discovery",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Discovery",
+                "permalink": "/docs/category/discovery"
+              },
+              "next": {
+                "title": "Deep Linking",
+                "permalink": "/docs/firebolt_docs/discovery/deep-linking"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/discovery/deep-linking",
+              "id": "version-0.8.0/firebolt_docs/discovery/deep-linking",
+              "title": "Deep Linking",
+              "description": "Deep linking is how the platform can inform your app of a user's intention to view a specific, indexed piece of content beyond just your home screen.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/discovery/deep-linking.md",
+              "sourceDirName": "firebolt_docs/discovery",
+              "slug": "/firebolt_docs/discovery/deep-linking",
+              "permalink": "/docs/firebolt_docs/discovery/deep-linking",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Content Discovery",
+                "permalink": "/docs/firebolt_docs/discovery/content-discovery"
+              },
+              "next": {
+                "title": "Voice Commands",
+                "permalink": "/docs/firebolt_docs/discovery/voice-commands"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/discovery/voice-commands",
+              "id": "version-0.8.0/firebolt_docs/discovery/voice-commands",
+              "title": "Voice Commands",
+              "description": "Voice commands allow your users to press a button and speak to their remotes and go directly to an experience they want to find. Our platform includes built-in voice functions which enable your users to launch apps and control media playback. Additionally, there are a wide range of other voice commands that give more flexibility to your users. These require a level of integration if you wish to take advantage of their benefits.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/discovery/voice-commands.md",
+              "sourceDirName": "firebolt_docs/discovery",
+              "slug": "/firebolt_docs/discovery/voice-commands",
+              "permalink": "/docs/firebolt_docs/discovery/voice-commands",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Deep Linking",
+                "permalink": "/docs/firebolt_docs/discovery/deep-linking"
+              },
+              "next": {
+                "title": "Localization",
+                "permalink": "/docs/category/localization"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/quick-start-guide",
+              "id": "version-0.8.0/firebolt_docs/getting-started/quick-start-guide",
+              "title": "Getting Started",
+              "description": "Getting your app up and running on Firebolt takes just a few simple steps.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/getting-started/quick-start-guide.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/quick-start-guide",
+              "permalink": "/docs/firebolt_docs/getting-started/quick-start-guide",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Getting Started"
+              },
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/category/getting-started"
+              },
+              "next": {
+                "title": "Accessbility",
+                "permalink": "/docs/category/accessbility"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/localization/localization",
+              "id": "version-0.8.0/firebolt_docs/localization/localization",
+              "title": "Localization",
+              "description": "Your app can receive device location information to better serve your users by utilizing the localization API. Localization information provides the device location and the primary language within a region, which will help you create proper geofencing and language localization.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/localization/localization.md",
+              "sourceDirName": "firebolt_docs/localization",
+              "slug": "/firebolt_docs/localization/",
+              "permalink": "/docs/firebolt_docs/localization/",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Localization"
+              },
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Localization",
+                "permalink": "/docs/category/localization"
+              },
+              "next": {
+                "title": "Metadata",
+                "permalink": "/docs/category/metadata"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/metadata/metadata-integration",
+              "id": "version-0.8.0/firebolt_docs/metadata/metadata-integration",
+              "title": "Metadata Integration",
+              "description": "Asset metadata describes all the relevant, useful, and important information about a media asset. The metadata you provide is used to directly populate the presentation and discovery of your content on the platform. The metadata is also used to determine numerous criteria including (but not limited to):",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/metadata/metadata-integration.md",
+              "sourceDirName": "firebolt_docs/metadata",
+              "slug": "/firebolt_docs/metadata/metadata-integration",
+              "permalink": "/docs/firebolt_docs/metadata/metadata-integration",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Metadata",
+                "permalink": "/docs/category/metadata"
+              },
+              "next": {
+                "title": "Open GMRSS Specifications",
+                "permalink": "/docs/firebolt_docs/metadata/open-gmrss-format"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/metadata/open-gmrss-format",
+              "id": "version-0.8.0/firebolt_docs/metadata/open-gmrss-format",
+              "title": "Open GMRSS Specifications",
+              "description": "This document outlines the specifications of a GMRSS feed and what elements are required or optional.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/metadata/open-gmrss-format.md",
+              "sourceDirName": "firebolt_docs/metadata",
+              "slug": "/firebolt_docs/metadata/open-gmrss-format",
+              "permalink": "/docs/firebolt_docs/metadata/open-gmrss-format",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Metadata Integration",
+                "permalink": "/docs/firebolt_docs/metadata/metadata-integration"
+              },
+              "next": {
+                "title": "Profiles",
+                "permalink": "/docs/category/profiles"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/profile/parental-controls",
+              "id": "version-0.8.0/firebolt_docs/profile/parental-controls",
+              "title": "Parental Controls",
+              "description": "Parental controls are the settings that enable your users to block specific actions from being taken without first verifying that they are approved to do so. For example, this allows an account owner to lock content such as specific ratings, titles, channels, and even entire apps. Another core function of parental controls is the ability to lock purchases made on the device.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/profile/parental-controls.md",
+              "sourceDirName": "firebolt_docs/profile",
+              "slug": "/firebolt_docs/profile/parental-controls",
+              "permalink": "/docs/firebolt_docs/profile/parental-controls",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Profiles",
+                "permalink": "/docs/category/profiles"
+              },
+              "next": {
+                "title": "Profile Flags",
+                "permalink": "/docs/firebolt_docs/profile/profile-flags"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/profile/profile-flags",
+              "id": "version-0.8.0/firebolt_docs/profile/profile-flags",
+              "title": "Profile Flags",
+              "description": "Profile Flags are only necessary under specific circumstances. These are prescribed by distributors who may want to add flags that trigger specific user experiences based on distribution rights, etc.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/profile/profile-flags.md",
+              "sourceDirName": "firebolt_docs/profile",
+              "slug": "/firebolt_docs/profile/profile-flags",
+              "permalink": "/docs/firebolt_docs/profile/profile-flags",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Parental Controls",
+                "permalink": "/docs/firebolt_docs/profile/parental-controls"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "version-0.8.0/index",
+              "title": "Feature Documentation",
+              "description": "This is the main page, that shows up at the site home.",
+              "source": "@site/versioned_docs/version-0.8.0/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {
+                "title": "Feature Documentation"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "firebolt_docs": [
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "Documents on how set up and start using Firebolt."
+                },
+                "className": "getting-started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/getting-started/quick-start-guide"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Getting Started",
+                  "slug": "/category/getting-started",
+                  "permalink": "/docs/category/getting-started"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Accessbility",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "Documents ensuring everyone can use what you build."
+                },
+                "className": "accessbility",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/accessibility/accessibility"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/accessibility/closed-captions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/accessibility/voice-guidance"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Accessbility",
+                  "slug": "/category/accessbility",
+                  "permalink": "/docs/category/accessbility"
+                }
+              },
+              {
+                "type": "category",
+                "label": "App Lifecycle",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "Documents elaboarating on how the app runs."
+                },
+                "className": "app-lifecycle",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/app-lifecycle/lifecycle-management"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/app-lifecycle/listening-for-events"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/app-lifecycle/listening-for-property-changes"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "App Lifecycle",
+                  "slug": "/category/app-lifecycle",
+                  "permalink": "/docs/category/app-lifecycle"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Authentication",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "Documents on how set up authentication in your apps."
+                },
+                "className": "authentication",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/authentication/email-prefill"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/authentication/sign-in-and-sign-up"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Authentication",
+                  "slug": "/category/authentication",
+                  "permalink": "/docs/category/authentication"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Discovery",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "Documents on how to help your users find content."
+                },
+                "className": "discovery",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/discovery/content-discovery"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/discovery/deep-linking"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/discovery/voice-commands"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Discovery",
+                  "slug": "/category/discovery",
+                  "permalink": "/docs/category/discovery"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Localization",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "Documents on how to set up localization for your app."
+                },
+                "className": "localization",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/localization/localization"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Localization",
+                  "slug": "/category/localization",
+                  "permalink": "/docs/category/localization"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Metadata",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "Documents on how to set up metadata."
+                },
+                "className": "metadata",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/metadata/metadata-integration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/metadata/open-gmrss-format"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Metadata",
+                  "slug": "/category/metadata",
+                  "permalink": "/docs/category/metadata"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Profiles",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": "Documents on how to user profles."
+                },
+                "className": "profiles",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/profile/parental-controls"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/profile/profile-flags"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Profiles",
+                  "slug": "/category/profiles",
+                  "permalink": "/docs/category/profiles"
+                }
+              }
+            ],
+            "api": [
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Accessibility"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Account"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Advertising"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Authentication"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Device"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Discovery"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Keyboard"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Lifecycle"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Localization"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Metrics"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Parameters"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/Profile"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/SecondScreen"
+              },
+              {
+                "type": "doc",
+                "id": "version-0.8.0/api/index"
+              },
+              {
+                "type": "category",
+                "label": "schemas",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Discovery"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Entertainment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Errors"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Intents"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Lifecycle"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/SecondScreen"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Types"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/_index"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/versions",
+        "source": "@site/src/pages/versions.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

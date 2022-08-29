@@ -1,0 +1,22 @@
+{
+  "unversionedId": "getting-started/introduction",
+  "id": "version-v11.0.0/getting-started/introduction",
+  "title": "Introduction to Relay",
+  "description": "Relay is a JavaScript framework for fetching and managing GraphQL data in React applications that emphasizes maintainability, type safety and runtime performance.",
+  "source": "@site/versioned_docs/version-v11.0.0/getting-started/introduction.md",
+  "sourceDirName": "getting-started",
+  "slug": "/",
+  "permalink": "/docs/v11.0.0/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/getting-started/introduction.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction to Relay",
+    "slug": "/"
+  }
+}

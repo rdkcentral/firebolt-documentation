@@ -1,0 +1,22 @@
+{
+  "unversionedId": "api-cheatsheet",
+  "id": "version-v2.0.0/api-cheatsheet",
+  "title": "API Cheatsheet",
+  "description": "A reference for translating between the Relay Classic and Relay Modern APIs.",
+  "source": "@site/versioned_docs/version-v2.0.0/Modern-APICheatsheet.md",
+  "sourceDirName": ".",
+  "slug": "/api-cheatsheet",
+  "permalink": "/docs/v2.0.0/api-cheatsheet",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v2.0.0/Modern-APICheatsheet.md",
+  "tags": [],
+  "version": "v2.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "api-cheatsheet",
+    "title": "API Cheatsheet",
+    "original_id": "api-cheatsheet"
+  }
+}

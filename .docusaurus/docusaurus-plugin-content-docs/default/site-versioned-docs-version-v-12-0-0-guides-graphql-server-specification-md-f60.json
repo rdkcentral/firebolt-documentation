@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guides/graphql-server-specification",
+  "id": "version-v12.0.0/guides/graphql-server-specification",
+  "title": "GraphQL Server Specification",
+  "description": "Relay GraphQL server specification guide",
+  "source": "@site/versioned_docs/version-v12.0.0/guides/graphql-server-specification.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/graphql-server-specification/",
+  "permalink": "/docs/v12.0.0/guides/graphql-server-specification/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/guides/graphql-server-specification.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-server-specification",
+    "title": "GraphQL Server Specification",
+    "slug": "/guides/graphql-server-specification/",
+    "description": "Relay GraphQL server specification guide",
+    "keywords": [
+      "GraphQL",
+      "server",
+      "specification"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "query-renderer",
+  "id": "version-v1.5.0/query-renderer",
+  "title": "QueryRenderer",
+  "description": "A QueryRenderer is a React Component at the root of a Relay component tree. It takes a query, fetches the given query, and uses the render prop to render the resulting data.",
+  "source": "@site/versioned_docs/version-v1.5.0/Modern-QueryRenderer.md",
+  "sourceDirName": ".",
+  "slug": "/query-renderer",
+  "permalink": "/docs/v1.5.0/query-renderer",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v1.5.0/Modern-QueryRenderer.md",
+  "tags": [],
+  "version": "v1.5.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "query-renderer",
+    "title": "QueryRenderer",
+    "original_id": "query-renderer"
+  }
+}

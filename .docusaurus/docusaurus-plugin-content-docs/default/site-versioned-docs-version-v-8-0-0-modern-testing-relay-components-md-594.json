@@ -1,0 +1,22 @@
+{
+  "unversionedId": "testing-relay-components",
+  "id": "version-v8.0.0/testing-relay-components",
+  "title": "Testing Relay Components",
+  "description": "The purpose of this document is to cover the Relay APIs for testing Relay components.",
+  "source": "@site/versioned_docs/version-v8.0.0/Modern-TestingRelayComponents.md",
+  "sourceDirName": ".",
+  "slug": "/testing-relay-components",
+  "permalink": "/docs/v8.0.0/testing-relay-components",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v8.0.0/Modern-TestingRelayComponents.md",
+  "tags": [],
+  "version": "v8.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "testing-relay-components",
+    "title": "Testing Relay Components",
+    "original_id": "testing-relay-components"
+  }
+}

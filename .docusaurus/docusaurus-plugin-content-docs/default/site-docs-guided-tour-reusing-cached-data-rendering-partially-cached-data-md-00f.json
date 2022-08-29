@@ -1,0 +1,36 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/rendering-partially-cached-data",
+  "id": "guided-tour/reusing-cached-data/rendering-partially-cached-data",
+  "title": "Rendering Partially Cached Data",
+  "description": "Relay guide to rendering partially cached data",
+  "source": "@site/docs/guided-tour/reusing-cached-data/rendering-partially-cached-data.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/rendering-partially-cached-data/",
+  "permalink": "/docs/next/guided-tour/reusing-cached-data/rendering-partially-cached-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/reusing-cached-data/rendering-partially-cached-data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "rendering-partially-cached-data",
+    "title": "Rendering Partially Cached Data",
+    "slug": "/guided-tour/reusing-cached-data/rendering-partially-cached-data/",
+    "description": "Relay guide to rendering partially cached data",
+    "keywords": [
+      "partially cached data",
+      "renderPolicy"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Presence of Data",
+    "permalink": "/docs/next/guided-tour/reusing-cached-data/presence-of-data/"
+  },
+  "next": {
+    "title": "Staleness of Data",
+    "permalink": "/docs/next/guided-tour/reusing-cached-data/staleness-of-data/"
+  }
+}

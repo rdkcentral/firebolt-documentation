@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/SecondScreen",
+  "id": "version-0.8.0/api/SecondScreen",
+  "title": "SecondScreen",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.8.0/api/SecondScreen.md",
+  "sourceDirName": "api",
+  "slug": "/api/SecondScreen",
+  "permalink": "/docs/api/SecondScreen",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "SecondScreen"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Profile",
+    "permalink": "/docs/api/Profile"
+  },
+  "next": {
+    "title": "Firebolt Core SDK",
+    "permalink": "/docs/api/"
+  }
+}

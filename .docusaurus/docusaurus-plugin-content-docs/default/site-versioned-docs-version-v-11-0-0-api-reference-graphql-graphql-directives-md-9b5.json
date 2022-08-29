@@ -1,0 +1,22 @@
+{
+  "unversionedId": "api-reference/graphql/graphql-directives",
+  "id": "version-v11.0.0/api-reference/graphql/graphql-directives",
+  "title": "GraphQL Directives",
+  "description": "Relay uses directives to add additional information to GraphQL documents, which are used by the Relay compiler to generate the appropriate runtime artifacts. These directives only appear in your application code and are removed from requests sent to your GraphQL server.",
+  "source": "@site/versioned_docs/version-v11.0.0/api-reference/graphql/graphql-directives.md",
+  "sourceDirName": "api-reference/graphql",
+  "slug": "/api-reference/graphql-and-directives/",
+  "permalink": "/docs/v11.0.0/api-reference/graphql-and-directives/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/api-reference/graphql/graphql-directives.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-directives",
+    "title": "GraphQL Directives",
+    "slug": "/api-reference/graphql-and-directives/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "unversionedId": "guides/graphql-server-specification",
+  "id": "guides/graphql-server-specification",
+  "title": "GraphQL Server Specification",
+  "description": "Relay GraphQL server specification guide",
+  "source": "@site/docs/guides/graphql-server-specification.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/graphql-server-specification/",
+  "permalink": "/docs/next/guides/graphql-server-specification/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guides/graphql-server-specification.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-server-specification",
+    "title": "GraphQL Server Specification",
+    "slug": "/guides/graphql-server-specification/",
+    "description": "Relay GraphQL server specification guide",
+    "keywords": [
+      "GraphQL",
+      "server",
+      "specification"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Relay Compiler",
+    "permalink": "/docs/next/guides/compiler/"
+  },
+  "next": {
+    "title": "Network Layer",
+    "permalink": "/docs/next/guides/network-layer/"
+  }
+}

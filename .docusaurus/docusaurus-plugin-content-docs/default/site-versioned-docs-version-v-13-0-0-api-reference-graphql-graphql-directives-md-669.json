@@ -1,0 +1,32 @@
+{
+  "unversionedId": "api-reference/graphql/graphql-directives",
+  "id": "version-v13.0.0/api-reference/graphql/graphql-directives",
+  "title": "GraphQL Directives",
+  "description": "API Reference for GraphQL directives",
+  "source": "@site/versioned_docs/version-v13.0.0/api-reference/graphql/graphql-directives.md",
+  "sourceDirName": "api-reference/graphql",
+  "slug": "/api-reference/graphql-and-directives/",
+  "permalink": "/docs/v13.0.0/api-reference/graphql-and-directives/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/api-reference/graphql/graphql-directives.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-directives",
+    "title": "GraphQL Directives",
+    "slug": "/api-reference/graphql-and-directives/",
+    "description": "API Reference for GraphQL directives",
+    "keywords": [
+      "GraphQL",
+      "Directive",
+      "arguments",
+      "argumentDefinitions",
+      "connection",
+      "relay",
+      "inline"
+    ]
+  }
+}

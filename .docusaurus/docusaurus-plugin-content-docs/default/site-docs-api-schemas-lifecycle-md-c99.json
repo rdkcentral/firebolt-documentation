@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/schemas/Lifecycle",
+  "id": "api/schemas/Lifecycle",
+  "title": "Lifecycle",
+  "description": "---",
+  "source": "@site/docs/api/schemas/Lifecycle.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/Lifecycle",
+  "permalink": "/docs/next/api/schemas/Lifecycle",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Lifecycle"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Intents",
+    "permalink": "/docs/next/api/schemas/Intents"
+  },
+  "next": {
+    "title": "SecondScreen",
+    "permalink": "/docs/next/api/schemas/SecondScreen"
+  }
+}

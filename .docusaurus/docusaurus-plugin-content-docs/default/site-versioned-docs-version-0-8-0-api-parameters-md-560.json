@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Parameters",
+  "id": "version-0.8.0/api/Parameters",
+  "title": "Parameters",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.8.0/api/Parameters.md",
+  "sourceDirName": "api",
+  "slug": "/api/Parameters",
+  "permalink": "/docs/api/Parameters",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Parameters"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Metrics",
+    "permalink": "/docs/api/Metrics"
+  },
+  "next": {
+    "title": "Profile",
+    "permalink": "/docs/api/Profile"
+  }
+}

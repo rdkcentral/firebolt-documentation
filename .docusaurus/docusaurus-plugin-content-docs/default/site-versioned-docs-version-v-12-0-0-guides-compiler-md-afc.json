@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guides/compiler",
+  "id": "version-v12.0.0/guides/compiler",
+  "title": "Relay Compiler",
+  "description": "Relay guide to the compiler",
+  "source": "@site/versioned_docs/version-v12.0.0/guides/compiler.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/compiler/",
+  "permalink": "/docs/v12.0.0/guides/compiler/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/guides/compiler.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "compiler",
+    "title": "Relay Compiler",
+    "slug": "/guides/compiler/",
+    "description": "Relay guide to the compiler",
+    "keywords": [
+      "compiler"
+    ]
+  }
+}

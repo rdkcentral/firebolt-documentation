@@ -1,0 +1,39 @@
+{
+  "unversionedId": "debugging/relay-devtools",
+  "id": "debugging/relay-devtools",
+  "title": "Relay DevTools",
+  "description": "Debugging guide for the Relay DevTools",
+  "source": "@site/docs/debugging/relay-devtools.md",
+  "sourceDirName": "debugging",
+  "slug": "/debugging/relay-devtools/",
+  "permalink": "/docs/next/debugging/relay-devtools/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/debugging/relay-devtools.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "relay-devtools",
+    "title": "Relay DevTools",
+    "slug": "/debugging/relay-devtools/",
+    "description": "Debugging guide for the Relay DevTools",
+    "keywords": [
+      "debugging",
+      "troubleshooting",
+      "extension",
+      "devtools",
+      "browser"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inconsistent Typename Error",
+    "permalink": "/docs/next/debugging/inconsistent-typename-error/"
+  },
+  "next": {
+    "title": "Why Is My Field Null?",
+    "permalink": "/docs/next/debugging/why-null/"
+  }
+}

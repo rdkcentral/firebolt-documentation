@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/managing-data-outside-react/subscribing-to-queries",
+  "id": "version-v14.0.0/guided-tour/managing-data-outside-react/subscribing-to-queries",
+  "title": "Subscribing to Queries",
+  "description": "",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/managing-data-outside-react/subscribing-to-queries.md",
+  "sourceDirName": "guided-tour/managing-data-outside-react",
+  "slug": "/guided-tour/accessing-data-without-react/subscribing-to-queries/",
+  "permalink": "/docs/guided-tour/accessing-data-without-react/subscribing-to-queries/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/managing-data-outside-react/subscribing-to-queries.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "subscribing-to-queries",
+    "title": "Subscribing to Queries",
+    "slug": "/guided-tour/accessing-data-without-react/subscribing-to-queries/"
+  }
+}

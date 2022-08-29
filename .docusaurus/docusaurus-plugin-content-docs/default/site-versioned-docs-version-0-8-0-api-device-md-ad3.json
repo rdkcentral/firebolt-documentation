@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Device",
+  "id": "version-0.8.0/api/Device",
+  "title": "Device",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.8.0/api/Device.md",
+  "sourceDirName": "api",
+  "slug": "/api/Device",
+  "permalink": "/docs/api/Device",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Device"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/docs/api/Authentication"
+  },
+  "next": {
+    "title": "Discovery",
+    "permalink": "/docs/api/Discovery"
+  }
+}

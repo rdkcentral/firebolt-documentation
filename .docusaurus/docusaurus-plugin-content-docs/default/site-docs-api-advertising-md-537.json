@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Advertising",
+  "id": "api/Advertising",
+  "title": "Advertising",
+  "description": "---",
+  "source": "@site/docs/api/Advertising.md",
+  "sourceDirName": "api",
+  "slug": "/api/Advertising",
+  "permalink": "/docs/next/api/Advertising",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Advertising"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Account",
+    "permalink": "/docs/next/api/Account"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/docs/next/api/Authentication"
+  }
+}

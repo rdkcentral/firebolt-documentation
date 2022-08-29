@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/introduction",
+  "id": "version-v11.0.0/guided-tour/reusing-cached-data/introduction",
+  "title": "Reusing Cached Data",
+  "description": "While an app is in use, Relay will accumulate and cache (for some time) the data for the multiple queries that have been fetched throughout usage of our app. Often times, we'll want to be able to reuse and immediately render this data that is locally cached instead of waiting for a network request when fulfilling a query; this is what we'll cover in this section.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/introduction.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/",
+  "permalink": "/docs/v11.0.0/guided-tour/reusing-cached-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/introduction.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Reusing Cached Data",
+    "slug": "/guided-tour/reusing-cached-data/"
+  }
+}

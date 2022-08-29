@@ -1,0 +1,27 @@
+{
+  "unversionedId": "videos",
+  "id": "version-v0.8.0/videos",
+  "title": "Videos",
+  "description": "Facebook F8 2017",
+  "source": "@site/versioned_docs/version-v0.8.0/PrinciplesAndArchitecture-Videos.md",
+  "sourceDirName": ".",
+  "slug": "/videos",
+  "permalink": "/docs/v0.8.0/videos",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v0.8.0/PrinciplesAndArchitecture-Videos.md",
+  "tags": [],
+  "version": "v0.8.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "videos",
+    "title": "Videos",
+    "original_id": "videos"
+  },
+  "sidebar": "version-v0.8.0/docs",
+  "previous": {
+    "title": "Runtime Architecture",
+    "permalink": "/docs/v0.8.0/runtime-architecture"
+  }
+}

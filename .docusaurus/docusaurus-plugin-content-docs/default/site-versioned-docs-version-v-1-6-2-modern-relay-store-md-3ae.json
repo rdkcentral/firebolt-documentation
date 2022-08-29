@@ -1,0 +1,22 @@
+{
+  "unversionedId": "relay-store",
+  "id": "version-v1.6.2/relay-store",
+  "title": "Relay Store",
+  "description": "The Relay Store can be used to programatically update client-side data inside updater functions. The following is a reference of the Relay Store interface.",
+  "source": "@site/versioned_docs/version-v1.6.2/Modern-RelayStore.md",
+  "sourceDirName": ".",
+  "slug": "/relay-store",
+  "permalink": "/docs/v1.6.2/relay-store",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v1.6.2/Modern-RelayStore.md",
+  "tags": [],
+  "version": "v1.6.2",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "relay-store",
+    "title": "Relay Store",
+    "original_id": "relay-store"
+  }
+}

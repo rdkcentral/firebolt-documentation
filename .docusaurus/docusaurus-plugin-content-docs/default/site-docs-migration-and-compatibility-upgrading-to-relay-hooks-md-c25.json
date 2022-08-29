@@ -1,0 +1,36 @@
+{
+  "unversionedId": "migration-and-compatibility/upgrading-to-relay-hooks",
+  "id": "migration-and-compatibility/upgrading-to-relay-hooks",
+  "title": "Upgrading to Relay Hooks",
+  "description": "Relay guide to upgrading to Relay hooks",
+  "source": "@site/docs/migration-and-compatibility/upgrading-to-relay-hooks.md",
+  "sourceDirName": "migration-and-compatibility",
+  "slug": "/migration-and-compatibility/",
+  "permalink": "/docs/next/migration-and-compatibility/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/migration-and-compatibility/upgrading-to-relay-hooks.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "upgrading-to-relay-hooks",
+    "title": "Upgrading to Relay Hooks",
+    "slug": "/migration-and-compatibility/",
+    "description": "Relay guide to upgrading to Relay hooks",
+    "keywords": [
+      "upgrade",
+      "hooks"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Suspense Compatibility",
+    "permalink": "/docs/next/migration-and-compatibility/suspense-compatibility/"
+  },
+  "next": {
+    "title": "Architecture Overview",
+    "permalink": "/docs/next/principles-and-architecture/architecture-overview/"
+  }
+}

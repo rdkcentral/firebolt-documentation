@@ -1,0 +1,22 @@
+{
+  "unversionedId": "refetch-container",
+  "id": "version-v4.0.0/refetch-container",
+  "title": "Refetch Container",
+  "description": "A Refetch Container is also a higher-order component that works like a regular Fragment Container, but provides the additional ability to fetch a new GraphQL query with different variables and re-render the component with the new result.",
+  "source": "@site/versioned_docs/version-v4.0.0/Modern-RefetchContainer.md",
+  "sourceDirName": ".",
+  "slug": "/refetch-container",
+  "permalink": "/docs/v4.0.0/refetch-container",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v4.0.0/Modern-RefetchContainer.md",
+  "tags": [],
+  "version": "v4.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "refetch-container",
+    "title": "Refetch Container",
+    "original_id": "refetch-container"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/hooks/use-pagination-fragment",
+  "id": "api-reference/hooks/use-pagination-fragment",
+  "title": "usePaginationFragment",
+  "description": "API reference for usePaginationFragment, a React hook used to paginate a connection",
+  "source": "@site/docs/api-reference/hooks/use-pagination-fragment.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-pagination-fragment/",
+  "permalink": "/docs/next/api-reference/use-pagination-fragment/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/hooks/use-pagination-fragment.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-pagination-fragment",
+    "title": "usePaginationFragment",
+    "slug": "/api-reference/use-pagination-fragment/",
+    "description": "API reference for usePaginationFragment, a React hook used to paginate a connection",
+    "keywords": [
+      "pagination",
+      "connection"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "useMutation",
+    "permalink": "/docs/next/api-reference/use-mutation/"
+  },
+  "next": {
+    "title": "usePreloadedQuery",
+    "permalink": "/docs/next/api-reference/use-preloaded-query/"
+  }
+}

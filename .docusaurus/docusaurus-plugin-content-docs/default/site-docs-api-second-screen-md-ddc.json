@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/SecondScreen",
+  "id": "api/SecondScreen",
+  "title": "SecondScreen",
+  "description": "---",
+  "source": "@site/docs/api/SecondScreen.md",
+  "sourceDirName": "api",
+  "slug": "/api/SecondScreen",
+  "permalink": "/docs/next/api/SecondScreen",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SecondScreen"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Profile",
+    "permalink": "/docs/next/api/Profile"
+  },
+  "next": {
+    "title": "Discovery",
+    "permalink": "/docs/next/api/schemas/Discovery"
+  }
+}

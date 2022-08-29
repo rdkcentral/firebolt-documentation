@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Keyboard",
+  "id": "version-0.8.0/api/Keyboard",
+  "title": "Keyboard",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.8.0/api/Keyboard.md",
+  "sourceDirName": "api",
+  "slug": "/api/Keyboard",
+  "permalink": "/docs/api/Keyboard",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Keyboard"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Discovery",
+    "permalink": "/docs/api/Discovery"
+  },
+  "next": {
+    "title": "Lifecycle",
+    "permalink": "/docs/api/Lifecycle"
+  }
+}

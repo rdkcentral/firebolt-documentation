@@ -1,0 +1,25 @@
+{
+  "unversionedId": "getting-started/quick-start-guide",
+  "id": "getting-started/quick-start-guide",
+  "title": "Getting Started",
+  "description": "Getting your app up and running on Firebolt takes just a few simple steps.",
+  "source": "@site/docs/getting-started/quick-start-guide.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/quick-start-guide",
+  "permalink": "/docs/next/getting-started/quick-start-guide",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Getting Started"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/next/category/getting-started"
+  },
+  "next": {
+    "title": "Accessbility",
+    "permalink": "/docs/next/category/accessbility"
+  }
+}

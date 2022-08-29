@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/schemas/Types",
+  "id": "api/schemas/Types",
+  "title": "Types",
+  "description": "---",
+  "source": "@site/docs/api/schemas/Types.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/Types",
+  "permalink": "/docs/next/api/schemas/Types",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Types"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "SecondScreen",
+    "permalink": "/docs/next/api/schemas/SecondScreen"
+  },
+  "next": {
+    "title": "_index",
+    "permalink": "/docs/next/api/schemas/_index"
+  }
+}

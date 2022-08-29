@@ -1,0 +1,39 @@
+{
+  "unversionedId": "debugging/disallowed-id-types-error",
+  "id": "debugging/disallowed-id-types-error",
+  "title": "Disallowed Types for `id` Fields",
+  "description": "Disallowed types for `id` fields",
+  "source": "@site/docs/debugging/disallowed-id-types-error.md",
+  "sourceDirName": "debugging",
+  "slug": "/debugging/disallowed-id-types-error",
+  "permalink": "/docs/next/debugging/disallowed-id-types-error",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/debugging/disallowed-id-types-error.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "disallowed-id-types-error",
+    "title": "Disallowed Types for `id` Fields",
+    "slug": "/debugging/disallowed-id-types-error",
+    "description": "Disallowed types for `id` fields",
+    "keywords": [
+      "debugging",
+      "troubleshooting",
+      "disallowed",
+      "id",
+      "Object Identification"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Debugging Declarative Mutation Directives",
+    "permalink": "/docs/next/debugging/declarative-mutation-directives/"
+  },
+  "next": {
+    "title": "Inconsistent Typename Error",
+    "permalink": "/docs/next/debugging/inconsistent-typename-error/"
+  }
+}

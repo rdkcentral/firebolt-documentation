@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api-reference/hooks/use-fragment",
+  "id": "version-v13.0.0/api-reference/hooks/use-fragment",
+  "title": "useFragment",
+  "description": "API reference for useFragment, a React hook used to read fragment data from the Relay store using a fragment reference",
+  "source": "@site/versioned_docs/version-v13.0.0/api-reference/hooks/use-fragment.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-fragment/",
+  "permalink": "/docs/v13.0.0/api-reference/use-fragment/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/api-reference/hooks/use-fragment.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-fragment",
+    "title": "useFragment",
+    "slug": "/api-reference/use-fragment/",
+    "description": "API reference for useFragment, a React hook used to read fragment data from the Relay store using a fragment reference",
+    "keywords": [
+      "fragment",
+      "read",
+      "fragment reference"
+    ]
+  }
+}

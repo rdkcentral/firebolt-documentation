@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/entrypoint-apis/load-entrypoint",
+  "id": "api-reference/entrypoint-apis/load-entrypoint",
+  "title": "loadEntryPoint",
+  "description": "API reference for loadEntryPoint, which imperatively loads an entrypoint and data for its queries",
+  "source": "@site/docs/api-reference/entrypoint-apis/load-entrypoint.md",
+  "sourceDirName": "api-reference/entrypoint-apis",
+  "slug": "/api-reference/load-entrypoint/",
+  "permalink": "/docs/next/api-reference/load-entrypoint/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/entrypoint-apis/load-entrypoint.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "load-entrypoint",
+    "title": "loadEntryPoint",
+    "slug": "/api-reference/load-entrypoint/",
+    "description": "API reference for loadEntryPoint, which imperatively loads an entrypoint and data for its queries",
+    "keywords": [
+      "entrypoint",
+      "preload",
+      "render-as-you-fetch"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EntryPointContainer",
+    "permalink": "/docs/next/api-reference/entrypoint-container/"
+  },
+  "next": {
+    "title": "useEntryPointLoader",
+    "permalink": "/docs/next/api-reference/use-entrypoint-loader/"
+  }
+}

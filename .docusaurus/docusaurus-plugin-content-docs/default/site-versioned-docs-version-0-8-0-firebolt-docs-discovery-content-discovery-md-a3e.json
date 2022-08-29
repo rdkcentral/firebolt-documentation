@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/discovery/content-discovery",
+  "id": "version-0.8.0/firebolt_docs/discovery/content-discovery",
+  "title": "Content Discovery",
+  "description": "\"Content Discovery\" refers to all of the ways that users can discover your app's content on the platform.",
+  "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/discovery/content-discovery.md",
+  "sourceDirName": "firebolt_docs/discovery",
+  "slug": "/firebolt_docs/discovery/content-discovery",
+  "permalink": "/docs/firebolt_docs/discovery/content-discovery",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {},
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "Discovery",
+    "permalink": "/docs/category/discovery"
+  },
+  "next": {
+    "title": "Deep Linking",
+    "permalink": "/docs/firebolt_docs/discovery/deep-linking"
+  }
+}

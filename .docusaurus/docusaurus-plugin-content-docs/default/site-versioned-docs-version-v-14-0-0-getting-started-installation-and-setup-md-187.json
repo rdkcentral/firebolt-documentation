@@ -1,0 +1,29 @@
+{
+  "unversionedId": "getting-started/installation-and-setup",
+  "id": "version-v14.0.0/getting-started/installation-and-setup",
+  "title": "Installation and Setup",
+  "description": "Relay installation and setup guide",
+  "source": "@site/versioned_docs/version-v14.0.0/getting-started/installation-and-setup.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/installation-and-setup/",
+  "permalink": "/docs/getting-started/installation-and-setup/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/getting-started/installation-and-setup.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "installation-and-setup",
+    "title": "Installation and Setup",
+    "slug": "/getting-started/installation-and-setup/",
+    "description": "Relay installation and setup guide",
+    "keywords": [
+      "installation",
+      "setup",
+      "compiler",
+      "babel-plugin-relay"
+    ]
+  }
+}

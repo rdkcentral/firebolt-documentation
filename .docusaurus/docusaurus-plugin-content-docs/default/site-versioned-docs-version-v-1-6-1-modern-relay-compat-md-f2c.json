@@ -1,0 +1,22 @@
+{
+  "unversionedId": "relay-compat",
+  "id": "version-v1.6.1/relay-compat",
+  "title": "Compatibility Mode",
+  "description": "Migrating a Relay Classic app to Relay Modern doesn't require rewriting from",
+  "source": "@site/versioned_docs/version-v1.6.1/Modern-RelayCompat.md",
+  "sourceDirName": ".",
+  "slug": "/relay-compat",
+  "permalink": "/docs/v1.6.1/relay-compat",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v1.6.1/Modern-RelayCompat.md",
+  "tags": [],
+  "version": "v1.6.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "relay-compat",
+    "title": "Compatibility Mode",
+    "original_id": "relay-compat"
+  }
+}

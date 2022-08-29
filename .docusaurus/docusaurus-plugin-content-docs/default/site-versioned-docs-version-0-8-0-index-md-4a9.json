@@ -1,0 +1,16 @@
+{
+  "unversionedId": "index",
+  "id": "version-0.8.0/index",
+  "title": "Feature Documentation",
+  "description": "This is the main page, that shows up at the site home.",
+  "source": "@site/versioned_docs/version-0.8.0/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Feature Documentation"
+  }
+}

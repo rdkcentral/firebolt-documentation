@@ -1,0 +1,31 @@
+{
+  "unversionedId": "conversion-playbook",
+  "id": "version-v0.7.0/conversion-playbook",
+  "title": "Conversion Playbook",
+  "description": "Incrementally modernize your Relay Classic app in these steps:",
+  "source": "@site/versioned_docs/version-v0.7.0/Modern-ConversionPlaybook.md",
+  "sourceDirName": ".",
+  "slug": "/conversion-playbook",
+  "permalink": "/docs/v0.7.0/conversion-playbook",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v0.7.0/Modern-ConversionPlaybook.md",
+  "tags": [],
+  "version": "v0.7.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "conversion-playbook",
+    "title": "Conversion Playbook",
+    "original_id": "conversion-playbook"
+  },
+  "sidebar": "version-v0.7.0/docs",
+  "previous": {
+    "title": "Migration Setup",
+    "permalink": "/docs/v0.7.0/migration-setup"
+  },
+  "next": {
+    "title": "Conversion Scripts",
+    "permalink": "/docs/v0.7.0/conversion-scripts"
+  }
+}

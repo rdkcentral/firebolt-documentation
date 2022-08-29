@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api-reference/relay-runtime/store",
+  "id": "version-v12.0.0/api-reference/relay-runtime/store",
+  "title": "Store",
+  "description": "API reference for the Relay store",
+  "source": "@site/versioned_docs/version-v12.0.0/api-reference/relay-runtime/store.md",
+  "sourceDirName": "api-reference/relay-runtime",
+  "slug": "/api-reference/store/",
+  "permalink": "/docs/v12.0.0/api-reference/store/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/api-reference/relay-runtime/store.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "store",
+    "title": "Store",
+    "slug": "/api-reference/store/",
+    "description": "API reference for the Relay store",
+    "keywords": [
+      "store"
+    ]
+  }
+}

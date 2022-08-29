@@ -1,0 +1,23 @@
+{
+  "unversionedId": "principles-and-architecture/videos",
+  "id": "version-v14.0.0/principles-and-architecture/videos",
+  "title": "Videos",
+  "description": "Relay videos",
+  "source": "@site/versioned_docs/version-v14.0.0/principles-and-architecture/videos.md",
+  "sourceDirName": "principles-and-architecture",
+  "slug": "/principles-and-architecture/videos/",
+  "permalink": "/docs/principles-and-architecture/videos/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/principles-and-architecture/videos.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "videos",
+    "title": "Videos",
+    "slug": "/principles-and-architecture/videos/",
+    "description": "Relay videos"
+  }
+}

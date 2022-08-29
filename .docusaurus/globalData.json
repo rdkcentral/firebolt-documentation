@@ -1,0 +1,545 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next 🚧",
+          "isLast": false,
+          "path": "/docs/next",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/docs/next/api/Accessibility",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Account",
+              "path": "/docs/next/api/Account",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/docs/next/api/Advertising",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/docs/next/api/Authentication",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Device",
+              "path": "/docs/next/api/Device",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/docs/next/api/Discovery",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/index",
+              "path": "/docs/next/api/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/docs/next/api/Keyboard",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/docs/next/api/Lifecycle",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/docs/next/api/Localization",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/docs/next/api/Metrics",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/docs/next/api/Parameters",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/docs/next/api/Profile",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/_index",
+              "path": "/docs/next/api/schemas/_index",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/docs/next/api/schemas/Discovery",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/docs/next/api/schemas/Entertainment",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/docs/next/api/schemas/Errors",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/docs/next/api/schemas/Intents",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/docs/next/api/schemas/Lifecycle",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/SecondScreen",
+              "path": "/docs/next/api/schemas/SecondScreen",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/docs/next/api/schemas/Types",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/docs/next/api/SecondScreen",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/docs/next/changelog/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/docs/next/firebolt_docs/accessibility/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/docs/next/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/docs/next/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/docs/next/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/docs/next/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "path": "/docs/next/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/docs/next/firebolt_docs/authentication/email-prefill",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/docs/next/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/docs/next/firebolt_docs/discovery/content-discovery",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/docs/next/firebolt_docs/discovery/deep-linking",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/docs/next/firebolt_docs/discovery/voice-commands",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/docs/next/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/docs/next/firebolt_docs/localization/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/docs/next/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/docs/next/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/docs/next/firebolt_docs/profile/parental-controls",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/docs/next/firebolt_docs/profile/profile-flags",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/next/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/changelog",
+              "path": "/docs/next/category/changelog",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/next/category/getting-started",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/docs/next/category/accessbility",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/docs/next/category/app-lifecycle",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/docs/next/category/authentication",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/docs/next/category/discovery",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/docs/next/category/localization",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/docs/next/category/metadata",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/docs/next/category/profiles",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/docs/next/category/changelog",
+                "label": "Changelog"
+              }
+            }
+          }
+        },
+        {
+          "name": "0.8.0",
+          "label": "0.8.0",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/docs/api/Accessibility",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Account",
+              "path": "/docs/api/Account",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/docs/api/Advertising",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/docs/api/Authentication",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Device",
+              "path": "/docs/api/Device",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/docs/api/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/index",
+              "path": "/docs/api/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/docs/api/Keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/docs/api/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/docs/api/Localization",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/docs/api/Metrics",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/docs/api/Parameters",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/docs/api/Profile",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/_index",
+              "path": "/docs/api/schemas/_index",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/docs/api/schemas/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/docs/api/schemas/Entertainment",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/docs/api/schemas/Errors",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/docs/api/schemas/Intents",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/docs/api/schemas/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/SecondScreen",
+              "path": "/docs/api/schemas/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/docs/api/schemas/Types",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/docs/api/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/docs/changelog/"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/docs/firebolt_docs/accessibility/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/docs/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/docs/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/docs/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/docs/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "path": "/docs/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/docs/firebolt_docs/authentication/email-prefill",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/docs/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/docs/firebolt_docs/discovery/content-discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/docs/firebolt_docs/discovery/deep-linking",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/docs/firebolt_docs/discovery/voice-commands",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/docs/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/docs/firebolt_docs/localization/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/docs/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/docs/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/docs/firebolt_docs/profile/parental-controls",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/docs/firebolt_docs/profile/profile-flags",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "index",
+              "path": "/docs/"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/docs/category/accessbility",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/docs/category/app-lifecycle",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/docs/category/authentication",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/docs/category/discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/docs/category/localization",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/docs/category/metadata",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/docs/category/profiles",
+              "sidebar": "firebolt_docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "firebolt_docs": {
+              "link": {
+                "path": "/docs/category/getting-started",
+                "label": "Getting Started"
+              }
+            },
+            "api": {
+              "link": {
+                "path": "/docs/api/Accessibility",
+                "label": "version-0.8.0/api/Accessibility"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

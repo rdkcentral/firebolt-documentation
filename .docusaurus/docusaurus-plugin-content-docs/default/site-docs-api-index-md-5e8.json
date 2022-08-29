@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/index",
+  "id": "api/index",
+  "title": "Firebolt Core SDK",
+  "description": "For building Firebolt compliant apps.",
+  "source": "@site/docs/api/index.md",
+  "sourceDirName": "api",
+  "slug": "/api/",
+  "permalink": "/docs/next/api/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Firebolt Core SDK"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Firebolt Release Notes",
+    "permalink": "/docs/next/changelog/"
+  },
+  "next": {
+    "title": "Accessibility",
+    "permalink": "/docs/next/api/Accessibility"
+  }
+}

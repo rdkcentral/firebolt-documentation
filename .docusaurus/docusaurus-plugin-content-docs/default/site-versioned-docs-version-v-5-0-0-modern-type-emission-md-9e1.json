@@ -1,0 +1,22 @@
+{
+  "unversionedId": "type-emission",
+  "id": "version-v5.0.0/type-emission",
+  "title": "Type Emission",
+  "description": "As part of its normal work, relay-compiler will emit type information for your language of choice that helps you write type-safe application code. These types are included in the artifacts that relay-compiler generates to describe your operations and fragments.",
+  "source": "@site/versioned_docs/version-v5.0.0/Modern-TypeEmission.md",
+  "sourceDirName": ".",
+  "slug": "/type-emission",
+  "permalink": "/docs/v5.0.0/type-emission",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v5.0.0/Modern-TypeEmission.md",
+  "tags": [],
+  "version": "v5.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "type-emission",
+    "title": "Type Emission",
+    "original_id": "type-emission"
+  }
+}

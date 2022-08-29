@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/refetching/refreshing-fragments",
+  "id": "version-v11.0.0/guided-tour/refetching/refreshing-fragments",
+  "title": "Refreshing Fragments",
+  "description": "When referring to \"refreshing a fragment\", we mean fetching the exact same data that was originally rendered by the fragment, in order to get the most up-to-date version of that data from the server.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/refetching/refreshing-fragments.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/refreshing-fragments/",
+  "permalink": "/docs/v11.0.0/guided-tour/refetching/refreshing-fragments/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/refetching/refreshing-fragments.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "refreshing-fragments",
+    "title": "Refreshing Fragments",
+    "slug": "/guided-tour/refetching/refreshing-fragments/"
+  }
+}

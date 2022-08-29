@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Localization",
+  "id": "api/Localization",
+  "title": "Localization",
+  "description": "---",
+  "source": "@site/docs/api/Localization.md",
+  "sourceDirName": "api",
+  "slug": "/api/Localization",
+  "permalink": "/docs/next/api/Localization",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Localization"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Lifecycle",
+    "permalink": "/docs/next/api/Lifecycle"
+  },
+  "next": {
+    "title": "Metrics",
+    "permalink": "/docs/next/api/Metrics"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "guided-tour/refetching/introduction",
+  "id": "guided-tour/refetching/introduction",
+  "title": "Introduction",
+  "description": "Relay guide to refetching",
+  "source": "@site/docs/guided-tour/refetching/introduction.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/",
+  "permalink": "/docs/next/guided-tour/refetching/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/refetching/introduction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "slug": "/guided-tour/refetching/",
+    "description": "Relay guide to refetching",
+    "keywords": [
+      "refetching"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OssAvoidSuspenseNote",
+    "permalink": "/docs/next/guided-tour/refetching/OssAvoidSuspenseNote"
+  },
+  "next": {
+    "title": "Refetching Fragments with Different Data",
+    "permalink": "/docs/next/guided-tour/refetching/refetching-fragments-with-different-data/"
+  }
+}

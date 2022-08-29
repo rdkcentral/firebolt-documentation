@@ -1,0 +1,38 @@
+{
+  "unversionedId": "guided-tour/updating-data/introduction",
+  "id": "guided-tour/updating-data/introduction",
+  "title": "Introduction",
+  "description": "Relay guide to updating data",
+  "source": "@site/docs/guided-tour/updating-data/introduction.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/",
+  "permalink": "/docs/next/guided-tour/updating-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/updating-data/introduction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "slug": "/guided-tour/updating-data/",
+    "description": "Relay guide to updating data",
+    "keywords": [
+      "updating",
+      "mutation",
+      "useMutation",
+      "commitMutation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Imperatively modifying store data",
+    "permalink": "/docs/next/guided-tour/updating-data/imperatively-modifying-store-data/"
+  },
+  "next": {
+    "title": "Local Data Updates",
+    "permalink": "/docs/next/guided-tour/updating-data/local-data-updates/"
+  }
+}

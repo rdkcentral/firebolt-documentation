@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/list-data/connections",
+  "id": "version-v11.0.0/guided-tour/list-data/connections",
+  "title": "Connections",
+  "description": "There are several scenarios in which we'll want to query a list of data from the GraphQL server. Often times we don't want to query the entire set of data up front, but rather discrete sub-parts of the list, incrementally, usually in response to user input or other events. Querying a list of data in discrete parts is usually known as Pagination.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/list-data/connections.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/connections/",
+  "permalink": "/docs/v11.0.0/guided-tour/list-data/connections/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/list-data/connections.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "connections",
+    "title": "Connections",
+    "slug": "/guided-tour/list-data/connections/"
+  }
+}

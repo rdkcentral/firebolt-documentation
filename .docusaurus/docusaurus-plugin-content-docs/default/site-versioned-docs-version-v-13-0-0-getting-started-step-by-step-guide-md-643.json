@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/step-by-step-guide",
+  "id": "version-v13.0.0/getting-started/step-by-step-guide",
+  "title": "Step-by-step Guide",
+  "description": "Step-by-step guide for setting up Relay",
+  "source": "@site/versioned_docs/version-v13.0.0/getting-started/step-by-step-guide.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/step-by-step-guide/",
+  "permalink": "/docs/v13.0.0/getting-started/step-by-step-guide/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/getting-started/step-by-step-guide.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "step-by-step-guide",
+    "title": "Step-by-step Guide",
+    "slug": "/getting-started/step-by-step-guide/",
+    "description": "Step-by-step guide for setting up Relay",
+    "keywords": [
+      "setup"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Discovery",
+  "slug": "/category/discovery",
+  "permalink": "/docs/category/discovery",
+  "navigation": {
+    "previous": {
+      "title": "Sign In & Sign Up",
+      "permalink": "/docs/authentication/sign-in-and-sign-up"
+    },
+    "next": {
+      "title": "Content Discovery",
+      "permalink": "/docs/discovery/content-discovery"
+    }
+  }
+}

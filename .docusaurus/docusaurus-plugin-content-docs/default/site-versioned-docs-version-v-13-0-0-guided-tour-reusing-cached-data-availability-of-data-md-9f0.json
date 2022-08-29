@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/availability-of-data",
+  "id": "version-v13.0.0/guided-tour/reusing-cached-data/availability-of-data",
+  "title": "Availability of Data",
+  "description": "Relay guide to the availability of data",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/reusing-cached-data/availability-of-data.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/availability-of-data/",
+  "permalink": "/docs/v13.0.0/guided-tour/reusing-cached-data/availability-of-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/reusing-cached-data/availability-of-data.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "availability-of-data",
+    "title": "Availability of Data",
+    "slug": "/guided-tour/reusing-cached-data/availability-of-data/",
+    "description": "Relay guide to the availability of data",
+    "keywords": [
+      "availability"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Metadata",
+  "slug": "/category/metadata",
+  "permalink": "/docs/next/category/metadata",
+  "navigation": {
+    "previous": {
+      "title": "Localization",
+      "permalink": "/docs/next/firebolt_docs/localization/"
+    },
+    "next": {
+      "title": "Metadata Integration",
+      "permalink": "/docs/next/firebolt_docs/metadata/metadata-integration"
+    }
+  }
+}

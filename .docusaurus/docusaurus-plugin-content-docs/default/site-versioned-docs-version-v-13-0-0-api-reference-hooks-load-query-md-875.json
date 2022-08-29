@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api-reference/hooks/load-query",
+  "id": "version-v13.0.0/api-reference/hooks/load-query",
+  "title": "loadQuery",
+  "description": "API reference for loadQuery, which imperatively fetches data for a query, retains that query and returns a query reference",
+  "source": "@site/versioned_docs/version-v13.0.0/api-reference/hooks/load-query.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/load-query/",
+  "permalink": "/docs/v13.0.0/api-reference/load-query/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/api-reference/hooks/load-query.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "load-query",
+    "title": "loadQuery",
+    "slug": "/api-reference/load-query/",
+    "description": "API reference for loadQuery, which imperatively fetches data for a query, retains that query and returns a query reference",
+    "keywords": [
+      "preload",
+      "fetch",
+      "query",
+      "render-as-you-fetch",
+      "retain",
+      "query reference"
+    ]
+  }
+}

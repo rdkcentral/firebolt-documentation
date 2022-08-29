@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Accessibility",
+  "id": "api/Accessibility",
+  "title": "Accessibility",
+  "description": "---",
+  "source": "@site/docs/api/Accessibility.md",
+  "sourceDirName": "api",
+  "slug": "/api/Accessibility",
+  "permalink": "/docs/next/api/Accessibility",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Accessibility"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Firebolt Core SDK",
+    "permalink": "/docs/next/api/"
+  },
+  "next": {
+    "title": "Account",
+    "permalink": "/docs/next/api/Account"
+  }
+}

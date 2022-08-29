@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guides/persisted-queries",
+  "id": "version-v12.0.0/guides/persisted-queries",
+  "title": "Persisted Queries",
+  "description": "Relay guide to persisted queries",
+  "source": "@site/versioned_docs/version-v12.0.0/guides/persisted-queries.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/persisted-queries/",
+  "permalink": "/docs/v12.0.0/guides/persisted-queries/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/guides/persisted-queries.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "persisted-queries",
+    "title": "Persisted Queries",
+    "slug": "/guides/persisted-queries/",
+    "description": "Relay guide to persisted queries",
+    "keywords": [
+      "persisted"
+    ]
+  }
+}

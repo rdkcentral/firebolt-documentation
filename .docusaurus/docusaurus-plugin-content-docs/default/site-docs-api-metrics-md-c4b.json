@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Metrics",
+  "id": "api/Metrics",
+  "title": "Metrics",
+  "description": "---",
+  "source": "@site/docs/api/Metrics.md",
+  "sourceDirName": "api",
+  "slug": "/api/Metrics",
+  "permalink": "/docs/next/api/Metrics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Metrics"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Localization",
+    "permalink": "/docs/next/api/Localization"
+  },
+  "next": {
+    "title": "Parameters",
+    "permalink": "/docs/next/api/Parameters"
+  }
+}

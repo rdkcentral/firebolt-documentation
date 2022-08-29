@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-reference/types/SelectorStoreUpdater",
+  "id": "api-reference/types/SelectorStoreUpdater",
+  "title": "SelectorStoreUpdater",
+  "description": "Type SelectorStoreUpdater",
+  "source": "@site/docs/api-reference/types/SelectorStoreUpdater.md",
+  "sourceDirName": "api-reference/types",
+  "slug": "/api-reference/types/SelectorStoreUpdater",
+  "permalink": "/docs/next/api-reference/types/SelectorStoreUpdater",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/types/SelectorStoreUpdater.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MutationConfig",
+    "permalink": "/docs/next/api-reference/types/MutationConfig"
+  },
+  "next": {
+    "title": "UploadableMap",
+    "permalink": "/docs/next/api-reference/types/UploadableMap"
+  }
+}

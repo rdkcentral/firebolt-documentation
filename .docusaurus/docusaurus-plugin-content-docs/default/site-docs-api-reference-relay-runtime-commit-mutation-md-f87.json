@@ -1,0 +1,35 @@
+{
+  "unversionedId": "api-reference/relay-runtime/commit-mutation",
+  "id": "api-reference/relay-runtime/commit-mutation",
+  "title": "commitMutation",
+  "description": "API reference for commitMutation, which imperatively executes a mutation",
+  "source": "@site/docs/api-reference/relay-runtime/commit-mutation.md",
+  "sourceDirName": "api-reference/relay-runtime",
+  "slug": "/api-reference/commit-mutation/",
+  "permalink": "/docs/next/api-reference/commit-mutation/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/relay-runtime/commit-mutation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "commit-mutation",
+    "title": "commitMutation",
+    "slug": "/api-reference/commit-mutation/",
+    "description": "API reference for commitMutation, which imperatively executes a mutation",
+    "keywords": [
+      "mutation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Legacy APIs",
+    "permalink": "/docs/next/api-reference/legacy-apis/"
+  },
+  "next": {
+    "title": "fetchQuery",
+    "permalink": "/docs/next/api-reference/fetch-query/"
+  }
+}

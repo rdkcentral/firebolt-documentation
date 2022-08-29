@@ -1,0 +1,21 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "Feature Documentation",
+  "description": "This is the main page, that shows up at the site home.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/next/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Feature Documentation"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Profile Flags",
+    "permalink": "/docs/next/firebolt_docs/profile/profile-flags"
+  }
+}

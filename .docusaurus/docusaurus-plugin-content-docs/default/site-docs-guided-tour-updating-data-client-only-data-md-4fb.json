@@ -1,0 +1,35 @@
+{
+  "unversionedId": "guided-tour/updating-data/client-only-data",
+  "id": "guided-tour/updating-data/client-only-data",
+  "title": "Client-only data",
+  "description": "Relay guide to client-only data",
+  "source": "@site/docs/guided-tour/updating-data/client-only-data.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/client-only-data/",
+  "permalink": "/docs/next/guided-tour/updating-data/client-only-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/updating-data/client-only-data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "client-only-data",
+    "title": "Client-only data",
+    "slug": "/guided-tour/updating-data/client-only-data/",
+    "description": "Relay guide to client-only data",
+    "keywords": [
+      "client-only"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Staleness of Data",
+    "permalink": "/docs/next/guided-tour/reusing-cached-data/staleness-of-data/"
+  },
+  "next": {
+    "title": "GraphQL mutations",
+    "permalink": "/docs/next/guided-tour/updating-data/graphql-mutations/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "thinking-in-graphql",
+  "id": "version-v10.1.2/thinking-in-graphql",
+  "title": "Thinking in GraphQL",
+  "description": "GraphQL presents new ways for clients to fetch data by focusing on the needs of product developers and client applications. It provides a way for developers to specify the precise data needed for a view and enables a client to fetch that data in a single network request. Compared to traditional approaches such as REST, GraphQL helps applications to fetch data more efficiently (compared to resource-oriented REST approaches) and avoid duplication of server logic (which can occur with custom endpoints). Furthermore, GraphQL helps developers to decouple product code and server logic. For example, a product can fetch more or less information without requiring a change to every relevant server endpoint. It's a great way to fetch data.",
+  "source": "@site/versioned_docs/version-v10.1.2/PrinciplesAndArchitecture-ThinkingInGraphQL.md",
+  "sourceDirName": ".",
+  "slug": "/thinking-in-graphql",
+  "permalink": "/docs/v10.1.2/thinking-in-graphql",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.1.2/PrinciplesAndArchitecture-ThinkingInGraphQL.md",
+  "tags": [],
+  "version": "v10.1.2",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "thinking-in-graphql",
+    "title": "Thinking in GraphQL",
+    "original_id": "thinking-in-graphql"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "migration-and-compatibility/suspense-compatibility",
+  "id": "version-v11.0.0/migration-and-compatibility/suspense-compatibility",
+  "title": "Suspense Compatibility",
+  "description": "What about Suspense?",
+  "source": "@site/versioned_docs/version-v11.0.0/migration-and-compatibility/suspense-compatibility.md",
+  "sourceDirName": "migration-and-compatibility",
+  "slug": "/migration-and-compatibility/suspense-compatibility/",
+  "permalink": "/docs/v11.0.0/migration-and-compatibility/suspense-compatibility/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/migration-and-compatibility/suspense-compatibility.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "suspense-compatibility",
+    "title": "Suspense Compatibility",
+    "slug": "/migration-and-compatibility/suspense-compatibility/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/availability-of-data",
+  "id": "guided-tour/reusing-cached-data/availability-of-data",
+  "title": "Availability of Data",
+  "description": "Relay guide to the availability of data",
+  "source": "@site/docs/guided-tour/reusing-cached-data/availability-of-data.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/availability-of-data/",
+  "permalink": "/docs/next/guided-tour/reusing-cached-data/availability-of-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/reusing-cached-data/availability-of-data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "availability-of-data",
+    "title": "Availability of Data",
+    "slug": "/guided-tour/reusing-cached-data/availability-of-data/",
+    "description": "Relay guide to the availability of data",
+    "keywords": [
+      "availability"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Variables",
+    "permalink": "/docs/next/guided-tour/rendering/variables/"
+  },
+  "next": {
+    "title": "Fetch Policies",
+    "permalink": "/docs/next/guided-tour/reusing-cached-data/fetch-policies/"
+  }
+}

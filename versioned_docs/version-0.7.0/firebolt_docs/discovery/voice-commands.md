@@ -48,7 +48,7 @@ To see how each platform feature enables which functionality can be seen in the 
 
 | Voice Feature                                    | Platform Feature                                  |
 | ------------------------------------------------ | ------------------------------------------------- |
-| Launch App                                       | [Lifecycle Management](./lifecycle-management.md) |
+| Launch App                                       | [Lifecycle Management](../app-lifecycle/lifecycle-management.md) |
 | Control media playback                           | [Responding to Remote Keys](./remote-specifications.md#responding-to-keys)          |
 | Go to series/movie page within your app          | [Deep Linking](../discovery/deep-linking.md)                 |
 | Start playing a title within your app            | [Deep Linking](../discovery/deep-linking.md)                 |

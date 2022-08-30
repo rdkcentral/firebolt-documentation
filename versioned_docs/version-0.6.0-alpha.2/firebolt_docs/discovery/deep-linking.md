@@ -56,7 +56,7 @@ For example:
 - User turns off their device, putting it in sleep mode
 - User turns on their device later and relaunches your app
 
-If your app was still in the `inactive` state (See [Lifecycle Management](./lifecycle-management.md) then the platform might reset it to the home page in order to create the experience of the TV having been restarted.
+If your app was still in the `inactive` state (See [Lifecycle Management](../app-lifecycle/lifecycle-management.md) then the platform might reset it to the home page in order to create the experience of the TV having been restarted.
 
 An example Home Intent object:
 ```json

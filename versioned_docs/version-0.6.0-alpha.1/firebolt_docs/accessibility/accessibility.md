@@ -37,7 +37,7 @@ There are two common methods used for Voice Guidance;
 * [WebSpeech](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) which has a wide range of customization with a lower accessibility standard than Aria.
 * [Aria](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) which is a much more direct reading with a higher accessibility standard than Webspeech.
 
-Learn more about how to implement this feature in our [Voice Guidance](./voice-commands.md) documentation.
+Learn more about how to implement this feature in our [Voice Guidance](../discovery/voice-commands.md) documentation.
 
 ## Audio Description
 Audio description refers to audio-narrated descriptions of key visual elements of programming inserted within natural pauses in dialogue. Audio description makes television programs, feature films and other media accessible to people who are blind or have low vision or a visual disability, creating a richer, more independent experience. For example, audio description describes key visual elements such as actions, facial expressions, costumes or scene changes in a program that a viewer who is blind or has low vision or a visual disability would otherwise miss.
@@ -45,7 +45,7 @@ Audio description refers to audio-narrated descriptions of key visual elements o
 ## Voice Commands
 The voice remote provides a new level of independence to customers who have limited mobility or dexterity, or have a visual disability. By using simple voice commands, customers can change channels, search for shows, enable closed captioning and more. The voice remote also includes a back-lit keypad making it easier to see the buttons in the dark.
 
-Learn more about how to implement this feature in our [Voice Commands](./voice-commands.md) documentation.
+Learn more about how to implement this feature in our [Voice Commands](../discovery/voice-commands.md) documentation.
 
 ## Color Contrast
 Your user's television screens render color differently than their other screens such as computers and mobile devices. Because of this, we've outlined some simple tips:

@@ -6,7 +6,7 @@
   "source": "@site/docs/api/SecondScreen.md",
   "sourceDirName": "api",
   "slug": "/api/SecondScreen",
-  "permalink": "/docs/next/api/SecondScreen",
+  "permalink": "/firebolt-documentation/docs/next/api/SecondScreen",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Profile",
-    "permalink": "/docs/next/api/Profile"
+    "permalink": "/firebolt-documentation/docs/next/api/Profile"
   },
   "next": {
-    "title": "Discovery",
-    "permalink": "/docs/next/api/schemas/Discovery"
+    "title": "Getting Started",
+    "permalink": "/firebolt-documentation/docs/next/category/getting-started"
   }
 }

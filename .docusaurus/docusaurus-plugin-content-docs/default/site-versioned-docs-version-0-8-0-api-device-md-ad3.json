@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/Device.md",
   "sourceDirName": "api",
   "slug": "/api/Device",
-  "permalink": "/docs/api/Device",
+  "permalink": "/firebolt-documentation/docs/api/Device",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "Authentication",
-    "permalink": "/docs/api/Authentication"
+    "permalink": "/firebolt-documentation/docs/api/Authentication"
   },
   "next": {
     "title": "Discovery",
-    "permalink": "/docs/api/Discovery"
+    "permalink": "/firebolt-documentation/docs/api/Discovery"
   }
 }

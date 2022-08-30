@@ -6,7 +6,7 @@
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/docs/next/",
+  "permalink": "/firebolt-documentation/docs/next/",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,6 +16,6 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Profile Flags",
-    "permalink": "/docs/next/firebolt_docs/profile/profile-flags"
+    "permalink": "/firebolt-documentation/docs/next/firebolt_docs/profile/profile-flags"
   }
 }

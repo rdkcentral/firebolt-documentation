@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/accessibility/closed-captions.md",
   "sourceDirName": "firebolt_docs/accessibility",
   "slug": "/firebolt_docs/accessibility/closed-captions",
-  "permalink": "/docs/firebolt_docs/accessibility/closed-captions",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/accessibility/closed-captions",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Accessibility",
-    "permalink": "/docs/firebolt_docs/accessibility/"
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/accessibility/"
   },
   "next": {
     "title": "Voice Guidance",
-    "permalink": "/docs/firebolt_docs/accessibility/voice-guidance"
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/accessibility/voice-guidance"
   }
 }

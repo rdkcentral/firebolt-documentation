@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/Accessibility.md",
   "sourceDirName": "api",
   "slug": "/api/Accessibility",
-  "permalink": "/docs/api/Accessibility",
+  "permalink": "/firebolt-documentation/docs/api/Accessibility",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,6 +16,6 @@
   "sidebar": "api",
   "next": {
     "title": "Account",
-    "permalink": "/docs/api/Account"
+    "permalink": "/firebolt-documentation/docs/api/Account"
   }
 }

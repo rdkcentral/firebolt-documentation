@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/localization/localization.md",
   "sourceDirName": "firebolt_docs/localization",
   "slug": "/firebolt_docs/localization/",
-  "permalink": "/docs/firebolt_docs/localization/",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/localization/",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Localization",
-    "permalink": "/docs/category/localization"
+    "permalink": "/firebolt-documentation/docs/category/localization"
   },
   "next": {
     "title": "Metadata",
-    "permalink": "/docs/category/metadata"
+    "permalink": "/firebolt-documentation/docs/category/metadata"
   }
 }

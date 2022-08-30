@@ -6,7 +6,7 @@
   "source": "@site/docs/api/schemas/Discovery.md",
   "sourceDirName": "api/schemas",
   "slug": "/api/schemas/Discovery",
-  "permalink": "/docs/next/api/schemas/Discovery",
+  "permalink": "/firebolt-documentation/docs/next/api/schemas/Discovery",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,11 +15,11 @@
   },
   "sidebar": "defaultSidebar",
   "previous": {
-    "title": "SecondScreen",
-    "permalink": "/docs/next/api/SecondScreen"
+    "title": "API Intro",
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/intro"
   },
   "next": {
     "title": "Entertainment",
-    "permalink": "/docs/next/api/schemas/Entertainment"
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Entertainment"
   }
 }

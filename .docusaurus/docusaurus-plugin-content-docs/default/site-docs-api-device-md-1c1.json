@@ -6,7 +6,7 @@
   "source": "@site/docs/api/Device.md",
   "sourceDirName": "api",
   "slug": "/api/Device",
-  "permalink": "/docs/next/api/Device",
+  "permalink": "/firebolt-documentation/docs/next/api/Device",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Authentication",
-    "permalink": "/docs/next/api/Authentication"
+    "permalink": "/firebolt-documentation/docs/next/api/Authentication"
   },
   "next": {
     "title": "Discovery",
-    "permalink": "/docs/next/api/Discovery"
+    "permalink": "/firebolt-documentation/docs/next/api/Discovery"
   }
 }

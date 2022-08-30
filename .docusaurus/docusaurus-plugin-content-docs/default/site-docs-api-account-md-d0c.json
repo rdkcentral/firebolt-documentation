@@ -6,7 +6,7 @@
   "source": "@site/docs/api/Account.md",
   "sourceDirName": "api",
   "slug": "/api/Account",
-  "permalink": "/docs/next/api/Account",
+  "permalink": "/firebolt-documentation/docs/next/api/Account",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Accessibility",
-    "permalink": "/docs/next/api/Accessibility"
+    "permalink": "/firebolt-documentation/docs/next/api/Accessibility"
   },
   "next": {
     "title": "Advertising",
-    "permalink": "/docs/next/api/Advertising"
+    "permalink": "/firebolt-documentation/docs/next/api/Advertising"
   }
 }

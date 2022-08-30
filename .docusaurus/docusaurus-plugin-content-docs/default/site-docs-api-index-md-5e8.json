@@ -1,25 +1,26 @@
 {
   "unversionedId": "api/index",
   "id": "api/index",
-  "title": "Firebolt Core SDK",
+  "title": "API Intro",
   "description": "For building Firebolt compliant apps.",
   "source": "@site/docs/api/index.md",
   "sourceDirName": "api",
   "slug": "/api/",
-  "permalink": "/docs/next/api/",
+  "permalink": "/firebolt-documentation/docs/next/api/",
   "draft": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "Firebolt Core SDK"
+    "title": "API Intro",
+    "position": 1
   },
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Firebolt Release Notes",
-    "permalink": "/docs/next/changelog/"
+    "permalink": "/firebolt-documentation/docs/next/changelog/"
   },
   "next": {
-    "title": "Accessibility",
-    "permalink": "/docs/next/api/Accessibility"
+    "title": "Schemas",
+    "permalink": "/firebolt-documentation/docs/next/category/schemas"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/discovery/content-discovery.md",
   "sourceDirName": "firebolt_docs/discovery",
   "slug": "/firebolt_docs/discovery/content-discovery",
-  "permalink": "/docs/firebolt_docs/discovery/content-discovery",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/discovery/content-discovery",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -14,10 +14,10 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Discovery",
-    "permalink": "/docs/category/discovery"
+    "permalink": "/firebolt-documentation/docs/category/discovery"
   },
   "next": {
     "title": "Deep Linking",
-    "permalink": "/docs/firebolt_docs/discovery/deep-linking"
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/discovery/deep-linking"
   }
 }

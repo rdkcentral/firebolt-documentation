@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/changelog/changelog.md",
   "sourceDirName": "changelog",
   "slug": "/changelog/",
-  "permalink": "/docs/changelog/",
+  "permalink": "/firebolt-documentation/docs/changelog/",
   "draft": false,
   "tags": [],
   "version": "0.8.0",

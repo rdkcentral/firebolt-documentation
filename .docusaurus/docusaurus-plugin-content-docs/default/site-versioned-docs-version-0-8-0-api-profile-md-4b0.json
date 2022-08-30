@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/Profile.md",
   "sourceDirName": "api",
   "slug": "/api/Profile",
-  "permalink": "/docs/api/Profile",
+  "permalink": "/firebolt-documentation/docs/api/Profile",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "Parameters",
-    "permalink": "/docs/api/Parameters"
+    "permalink": "/firebolt-documentation/docs/api/Parameters"
   },
   "next": {
     "title": "SecondScreen",
-    "permalink": "/docs/api/SecondScreen"
+    "permalink": "/firebolt-documentation/docs/api/SecondScreen"
   }
 }

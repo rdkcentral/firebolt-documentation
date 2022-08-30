@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/app-lifecycle/listening-for-property-changes.md",
   "sourceDirName": "firebolt_docs/app-lifecycle",
   "slug": "/firebolt_docs/app-lifecycle/listening-for-property-changes",
-  "permalink": "/docs/firebolt_docs/app-lifecycle/listening-for-property-changes",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/listening-for-property-changes",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -14,10 +14,10 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Listening for Events",
-    "permalink": "/docs/firebolt_docs/app-lifecycle/listening-for-events"
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/listening-for-events"
   },
   "next": {
     "title": "Authentication",
-    "permalink": "/docs/category/authentication"
+    "permalink": "/firebolt-documentation/docs/category/authentication"
   }
 }

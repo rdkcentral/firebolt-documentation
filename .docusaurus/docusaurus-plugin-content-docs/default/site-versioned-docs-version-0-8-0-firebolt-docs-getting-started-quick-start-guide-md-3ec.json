@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/getting-started/quick-start-guide.md",
   "sourceDirName": "firebolt_docs/getting-started",
   "slug": "/firebolt_docs/getting-started/quick-start-guide",
-  "permalink": "/docs/firebolt_docs/getting-started/quick-start-guide",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/docs/category/getting-started"
+    "permalink": "/firebolt-documentation/docs/category/getting-started"
   },
   "next": {
     "title": "Accessbility",
-    "permalink": "/docs/category/accessbility"
+    "permalink": "/firebolt-documentation/docs/category/accessbility"
   }
 }

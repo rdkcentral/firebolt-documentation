@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/Parameters.md",
   "sourceDirName": "api",
   "slug": "/api/Parameters",
-  "permalink": "/docs/api/Parameters",
+  "permalink": "/firebolt-documentation/docs/api/Parameters",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "Metrics",
-    "permalink": "/docs/api/Metrics"
+    "permalink": "/firebolt-documentation/docs/api/Metrics"
   },
   "next": {
     "title": "Profile",
-    "permalink": "/docs/api/Profile"
+    "permalink": "/firebolt-documentation/docs/api/Profile"
   }
 }

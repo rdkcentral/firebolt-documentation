@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfirebolt_documentation=self.webpackChunkfirebolt_documentation||[]).push([[5818],{36500:t=>{t.exports=JSON.parse('{"title":"Getting Started","slug":"/category/getting-started","permalink":"/docs/category/getting-started","navigation":{"next":{"title":"Getting Started","permalink":"/docs/firebolt_docs/getting-started/quick-start-guide"}}}')}}]);

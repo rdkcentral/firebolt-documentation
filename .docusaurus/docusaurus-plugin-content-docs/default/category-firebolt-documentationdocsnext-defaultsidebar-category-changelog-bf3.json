@@ -1,0 +1,11 @@
+{
+  "title": "Changelog",
+  "slug": "/category/changelog",
+  "permalink": "/firebolt-documentation/docs/next/category/changelog",
+  "navigation": {
+    "next": {
+      "title": "Firebolt Release Notes",
+      "permalink": "/firebolt-documentation/docs/next/changelog/"
+    }
+  }
+}

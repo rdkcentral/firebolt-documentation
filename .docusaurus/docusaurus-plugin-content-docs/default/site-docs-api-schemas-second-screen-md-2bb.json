@@ -6,7 +6,7 @@
   "source": "@site/docs/api/schemas/SecondScreen.md",
   "sourceDirName": "api/schemas",
   "slug": "/api/schemas/SecondScreen",
-  "permalink": "/docs/next/api/schemas/SecondScreen",
+  "permalink": "/firebolt-documentation/docs/next/api/schemas/SecondScreen",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Lifecycle",
-    "permalink": "/docs/next/api/schemas/Lifecycle"
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Lifecycle"
   },
   "next": {
     "title": "Types",
-    "permalink": "/docs/next/api/schemas/Types"
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Types"
   }
 }

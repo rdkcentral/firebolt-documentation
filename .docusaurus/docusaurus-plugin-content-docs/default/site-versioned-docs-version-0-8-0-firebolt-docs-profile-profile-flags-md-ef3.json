@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/profile/profile-flags.md",
   "sourceDirName": "firebolt_docs/profile",
   "slug": "/firebolt_docs/profile/profile-flags",
-  "permalink": "/docs/firebolt_docs/profile/profile-flags",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/profile/profile-flags",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -14,6 +14,6 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Parental Controls",
-    "permalink": "/docs/firebolt_docs/profile/parental-controls"
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/profile/parental-controls"
   }
 }

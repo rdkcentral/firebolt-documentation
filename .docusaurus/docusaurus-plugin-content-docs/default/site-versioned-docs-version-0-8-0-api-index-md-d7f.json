@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/index.md",
   "sourceDirName": "api",
   "slug": "/api/",
-  "permalink": "/docs/api/",
+  "permalink": "/firebolt-documentation/docs/api/",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "SecondScreen",
-    "permalink": "/docs/api/SecondScreen"
+    "permalink": "/firebolt-documentation/docs/api/SecondScreen"
   },
   "next": {
     "title": "Discovery",
-    "permalink": "/docs/api/schemas/Discovery"
+    "permalink": "/firebolt-documentation/docs/api/schemas/Discovery"
   }
 }

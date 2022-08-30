@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/Keyboard.md",
   "sourceDirName": "api",
   "slug": "/api/Keyboard",
-  "permalink": "/docs/api/Keyboard",
+  "permalink": "/firebolt-documentation/docs/api/Keyboard",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "Discovery",
-    "permalink": "/docs/api/Discovery"
+    "permalink": "/firebolt-documentation/docs/api/Discovery"
   },
   "next": {
     "title": "Lifecycle",
-    "permalink": "/docs/api/Lifecycle"
+    "permalink": "/firebolt-documentation/docs/api/Lifecycle"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/api/Advertising.md",
   "sourceDirName": "api",
   "slug": "/api/Advertising",
-  "permalink": "/docs/next/api/Advertising",
+  "permalink": "/firebolt-documentation/docs/next/api/Advertising",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Account",
-    "permalink": "/docs/next/api/Account"
+    "permalink": "/firebolt-documentation/docs/next/api/Account"
   },
   "next": {
     "title": "Authentication",
-    "permalink": "/docs/next/api/Authentication"
+    "permalink": "/firebolt-documentation/docs/next/api/Authentication"
   }
 }

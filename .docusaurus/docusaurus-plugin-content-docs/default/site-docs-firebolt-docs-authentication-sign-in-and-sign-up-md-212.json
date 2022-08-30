@@ -6,7 +6,7 @@
   "source": "@site/docs/firebolt_docs/authentication/sign-in-and-sign-up.md",
   "sourceDirName": "firebolt_docs/authentication",
   "slug": "/firebolt_docs/authentication/sign-in-and-sign-up",
-  "permalink": "/docs/next/firebolt_docs/authentication/sign-in-and-sign-up",
+  "permalink": "/firebolt-documentation/docs/next/firebolt_docs/authentication/sign-in-and-sign-up",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Email Prefill",
-    "permalink": "/docs/next/firebolt_docs/authentication/email-prefill"
+    "permalink": "/firebolt-documentation/docs/next/firebolt_docs/authentication/email-prefill"
   },
   "next": {
     "title": "Discovery",
-    "permalink": "/docs/next/category/discovery"
+    "permalink": "/firebolt-documentation/docs/next/category/discovery"
   }
 }

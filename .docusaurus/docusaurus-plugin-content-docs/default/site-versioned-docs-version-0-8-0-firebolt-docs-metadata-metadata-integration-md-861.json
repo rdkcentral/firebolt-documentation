@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/metadata/metadata-integration.md",
   "sourceDirName": "firebolt_docs/metadata",
   "slug": "/firebolt_docs/metadata/metadata-integration",
-  "permalink": "/docs/firebolt_docs/metadata/metadata-integration",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/metadata/metadata-integration",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -14,10 +14,10 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Metadata",
-    "permalink": "/docs/category/metadata"
+    "permalink": "/firebolt-documentation/docs/category/metadata"
   },
   "next": {
     "title": "Open GMRSS Specifications",
-    "permalink": "/docs/firebolt_docs/metadata/open-gmrss-format"
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/metadata/open-gmrss-format"
   }
 }

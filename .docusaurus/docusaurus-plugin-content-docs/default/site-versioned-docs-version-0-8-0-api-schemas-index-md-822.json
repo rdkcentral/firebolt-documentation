@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/schemas/_index.md",
   "sourceDirName": "api/schemas",
   "slug": "/api/schemas/_index",
-  "permalink": "/docs/api/schemas/_index",
+  "permalink": "/firebolt-documentation/docs/api/schemas/_index",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -14,6 +14,6 @@
   "sidebar": "api",
   "previous": {
     "title": "Types",
-    "permalink": "/docs/api/schemas/Types"
+    "permalink": "/firebolt-documentation/docs/api/schemas/Types"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/api/schemas/Intents.md",
   "sourceDirName": "api/schemas",
   "slug": "/api/schemas/Intents",
-  "permalink": "/docs/next/api/schemas/Intents",
+  "permalink": "/firebolt-documentation/docs/next/api/schemas/Intents",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -16,10 +16,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Errors",
-    "permalink": "/docs/next/api/schemas/Errors"
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Errors"
   },
   "next": {
     "title": "Lifecycle",
-    "permalink": "/docs/next/api/schemas/Lifecycle"
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Lifecycle"
   }
 }

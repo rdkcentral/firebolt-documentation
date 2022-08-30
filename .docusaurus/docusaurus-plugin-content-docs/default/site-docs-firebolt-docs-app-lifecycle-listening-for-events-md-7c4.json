@@ -6,7 +6,7 @@
   "source": "@site/docs/firebolt_docs/app-lifecycle/listening-for-events.md",
   "sourceDirName": "firebolt_docs/app-lifecycle",
   "slug": "/firebolt_docs/app-lifecycle/listening-for-events",
-  "permalink": "/docs/next/firebolt_docs/app-lifecycle/listening-for-events",
+  "permalink": "/firebolt-documentation/docs/next/firebolt_docs/app-lifecycle/listening-for-events",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "App Lifecycle",
-    "permalink": "/docs/next/firebolt_docs/app-lifecycle/lifecycle-management"
+    "permalink": "/firebolt-documentation/docs/next/firebolt_docs/app-lifecycle/lifecycle-management"
   },
   "next": {
     "title": "Listening for Property changes",
-    "permalink": "/docs/next/firebolt_docs/app-lifecycle/listening-for-property-changes"
+    "permalink": "/firebolt-documentation/docs/next/firebolt_docs/app-lifecycle/listening-for-property-changes"
   }
 }

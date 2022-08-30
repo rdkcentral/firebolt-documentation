@@ -1,469 +1,473 @@
 {
-  "/__docusaurus/debug/-da2": {
+  "/firebolt-documentation/__docusaurus/debug/-fd7": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-a-3-e92"
+      "plugin": "plugin---firebolt-documentation-docusaurus-debug-3-a-3-bd4"
     }
   },
-  "/__docusaurus/debug/config/-961": {
+  "/firebolt-documentation/__docusaurus/debug/config/-df0": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-a-3-e92"
+      "plugin": "plugin---firebolt-documentation-docusaurus-debug-3-a-3-bd4"
     }
   },
-  "/__docusaurus/debug/content/-5f7": {
+  "/firebolt-documentation/__docusaurus/debug/content/-e38": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-a-3-e92"
+      "plugin": "plugin---firebolt-documentation-docusaurus-debug-3-a-3-bd4"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-d88"
+    "allContent": "allContent---firebolt-documentation-docusaurus-debug-content-246-436"
   },
-  "/__docusaurus/debug/globalData/-020": {
+  "/firebolt-documentation/__docusaurus/debug/globalData/-c37": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-a-3-e92"
+      "plugin": "plugin---firebolt-documentation-docusaurus-debug-3-a-3-bd4"
     }
   },
-  "/__docusaurus/debug/metadata/-5c2": {
+  "/firebolt-documentation/__docusaurus/debug/metadata/-144": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-a-3-e92"
+      "plugin": "plugin---firebolt-documentation-docusaurus-debug-3-a-3-bd4"
     }
   },
-  "/__docusaurus/debug/registry/-3bc": {
+  "/firebolt-documentation/__docusaurus/debug/registry/-c72": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-a-3-e92"
+      "plugin": "plugin---firebolt-documentation-docusaurus-debug-3-a-3-bd4"
     }
   },
-  "/__docusaurus/debug/routes/-bb8": {
+  "/firebolt-documentation/__docusaurus/debug/routes/-82f": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-3-a-3-e92"
+      "plugin": "plugin---firebolt-documentation-docusaurus-debug-3-a-3-bd4"
     }
   },
-  "/versions/-1f7": {
+  "/firebolt-documentation/versions/-d32": {
     "__comp": "__comp---site-src-pages-versions-js-18-b-bfe",
     "__context": {
-      "plugin": "plugin---versions-47-e-7f1"
+      "plugin": "plugin---firebolt-documentation-versions-47-e-3ac"
     },
-    "config": "config---versions-5-e-9-a4c"
+    "config": "config---firebolt-documentation-versions-5-e-9-254"
   },
-  "/docs/next/-b73": {
+  "/firebolt-documentation/docs/next/-955": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-next-1-f-1-782"
+      "plugin": "plugin---firebolt-documentation-docs-next-1-f-1-4d4"
     },
-    "versionMetadata": "versionMetadata---docs-next-935-fc1"
+    "versionMetadata": "versionMetadata---firebolt-documentation-docs-next-935-bb2"
   },
-  "/docs/next/-873": {
+  "/firebolt-documentation/docs/next/-53c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-c-37-d91"
+    "content": "content---firebolt-documentation-docs-next-c-37-4c3"
   },
-  "/docs/next/api/-933": {
+  "/firebolt-documentation/docs/next/api/Accessibility/-0e8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-5-e-8-ef5"
+    "content": "content---firebolt-documentation-docs-next-api-accessibility-92-b-2cd"
   },
-  "/docs/next/api/Accessibility/-a46": {
+  "/firebolt-documentation/docs/next/api/Account/-b2b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-accessibility-92-b-60a"
+    "content": "content---firebolt-documentation-docs-next-api-account-d-0-c-950"
   },
-  "/docs/next/api/Account/-86c": {
+  "/firebolt-documentation/docs/next/api/Advertising/-8db": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-account-d-0-c-514"
+    "content": "content---firebolt-documentation-docs-next-api-advertising-537-6d6"
   },
-  "/docs/next/api/Advertising/-557": {
+  "/firebolt-documentation/docs/next/api/Authentication/-8d3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-advertising-537-e16"
+    "content": "content---firebolt-documentation-docs-next-api-authentication-8-a-8-d91"
   },
-  "/docs/next/api/Authentication/-482": {
+  "/firebolt-documentation/docs/next/api/Device/-31c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-authentication-8-a-8-dce"
+    "content": "content---firebolt-documentation-docs-next-api-device-1-c-1-023"
   },
-  "/docs/next/api/Device/-12a": {
+  "/firebolt-documentation/docs/next/api/Discovery/-8b4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-device-1-c-1-4a0"
+    "content": "content---firebolt-documentation-docs-next-api-discovery-20-a-9ec"
   },
-  "/docs/next/api/Discovery/-60a": {
+  "/firebolt-documentation/docs/next/api/Keyboard/-a70": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-discovery-20-a-84c"
+    "content": "content---firebolt-documentation-docs-next-api-keyboard-d-3-b-3f8"
   },
-  "/docs/next/api/Keyboard/-3e2": {
+  "/firebolt-documentation/docs/next/api/Lifecycle/-5e5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-keyboard-d-3-b-035"
+    "content": "content---firebolt-documentation-docs-next-api-lifecycle-f-15-aef"
   },
-  "/docs/next/api/Lifecycle/-786": {
+  "/firebolt-documentation/docs/next/api/Localization/-d51": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-lifecycle-f-15-889"
+    "content": "content---firebolt-documentation-docs-next-api-localization-ec-0-833"
   },
-  "/docs/next/api/Localization/-cf9": {
+  "/firebolt-documentation/docs/next/api/Metrics/-bb7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-localization-ec-0-38e"
+    "content": "content---firebolt-documentation-docs-next-api-metrics-c-4-b-1ea"
   },
-  "/docs/next/api/Metrics/-31b": {
+  "/firebolt-documentation/docs/next/api/Parameters/-c11": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-metrics-c-4-b-a70"
+    "content": "content---firebolt-documentation-docs-next-api-parameters-0-a-9-956"
   },
-  "/docs/next/api/Parameters/-af6": {
+  "/firebolt-documentation/docs/next/api/Profile/-47e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-parameters-0-a-9-8c5"
+    "content": "content---firebolt-documentation-docs-next-api-profile-274-c52"
   },
-  "/docs/next/api/Profile/-f44": {
+  "/firebolt-documentation/docs/next/api/schemas/_index/-774": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-profile-274-4ba"
+    "content": "content---firebolt-documentation-docs-next-api-schemas-index-571-972"
   },
-  "/docs/next/api/schemas/_index/-369": {
+  "/firebolt-documentation/docs/next/api/schemas/Discovery/-0d9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-schemas-index-571-4ae"
+    "content": "content---firebolt-documentation-docs-next-api-schemas-discovery-ecd-97e"
   },
-  "/docs/next/api/schemas/Discovery/-3c1": {
+  "/firebolt-documentation/docs/next/api/schemas/Entertainment/-57e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-schemas-discovery-ecd-d4e"
+    "content": "content---firebolt-documentation-docs-next-api-schemas-entertainment-185-86c"
   },
-  "/docs/next/api/schemas/Entertainment/-269": {
+  "/firebolt-documentation/docs/next/api/schemas/Errors/-1e1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-schemas-entertainment-185-ab5"
+    "content": "content---firebolt-documentation-docs-next-api-schemas-errors-9-e-8-d6d"
   },
-  "/docs/next/api/schemas/Errors/-f43": {
+  "/firebolt-documentation/docs/next/api/schemas/Intents/-08c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-schemas-errors-9-e-8-cb4"
+    "content": "content---firebolt-documentation-docs-next-api-schemas-intents-d-27-50f"
   },
-  "/docs/next/api/schemas/Intents/-247": {
+  "/firebolt-documentation/docs/next/api/schemas/intro/-e6a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-schemas-intents-d-27-8d2"
+    "content": "content---firebolt-documentation-docs-next-api-schemas-intro-f-21-863"
   },
-  "/docs/next/api/schemas/Lifecycle/-736": {
+  "/firebolt-documentation/docs/next/api/schemas/Lifecycle/-329": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-schemas-lifecycle-c-99-337"
+    "content": "content---firebolt-documentation-docs-next-api-schemas-lifecycle-c-99-5ac"
   },
-  "/docs/next/api/schemas/SecondScreen/-8a3": {
+  "/firebolt-documentation/docs/next/api/schemas/SecondScreen/-66e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-schemas-second-screen-2-bb-7a4"
+    "content": "content---firebolt-documentation-docs-next-api-schemas-second-screen-2-bb-7ed"
   },
-  "/docs/next/api/schemas/Types/-ccd": {
+  "/firebolt-documentation/docs/next/api/schemas/Types/-1f8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-schemas-types-8-cc-cf0"
+    "content": "content---firebolt-documentation-docs-next-api-schemas-types-8-cc-174"
   },
-  "/docs/next/api/SecondScreen/-309": {
+  "/firebolt-documentation/docs/next/api/SecondScreen/-78f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-api-second-screen-ddc-5b6"
+    "content": "content---firebolt-documentation-docs-next-api-second-screen-ddc-659"
   },
-  "/docs/next/category/accessbility/-b14": {
+  "/firebolt-documentation/docs/next/category/accessbility/-064": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-accessbility-a-5-b-349"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-accessbility-dcd-cd5"
   },
-  "/docs/next/category/app-lifecycle/-6e7": {
+  "/firebolt-documentation/docs/next/category/app-lifecycle/-6b9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-app-lifecycle-ace-12f"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-app-lifecycle-659-d30"
   },
-  "/docs/next/category/authentication/-931": {
+  "/firebolt-documentation/docs/next/category/authentication/-6e0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-authentication-e-00-a3d"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-authentication-224-c06"
   },
-  "/docs/next/category/changelog/-ab9": {
+  "/firebolt-documentation/docs/next/category/changelog/-72e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-changelog-467-a37"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-changelog-886-15a"
   },
-  "/docs/next/category/discovery/-959": {
+  "/firebolt-documentation/docs/next/category/discovery/-fae": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-discovery-4-e-3-5d8"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-discovery-458-cbf"
   },
-  "/docs/next/category/getting-started/-f39": {
+  "/firebolt-documentation/docs/next/category/getting-started/-ed2": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-getting-started-a-8-a-38d"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-getting-started-6-cd-a1e"
   },
-  "/docs/next/category/localization/-2c1": {
+  "/firebolt-documentation/docs/next/category/localization/-6a3": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-localization-036-d73"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-localization-ce-7-260"
   },
-  "/docs/next/category/metadata/-a65": {
+  "/firebolt-documentation/docs/next/category/metadata/-319": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-metadata-0-ad-ad2"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-metadata-552-a87"
   },
-  "/docs/next/category/profiles/-493": {
+  "/firebolt-documentation/docs/next/category/profiles/-af4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-next-category-profiles-6-db-8d1"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-profiles-731-ffa"
   },
-  "/docs/next/changelog/-6d1": {
+  "/firebolt-documentation/docs/next/category/schemas/-8ee": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-next-category-schemas-b-1-c-cad"
+  },
+  "/firebolt-documentation/docs/next/changelog/-474": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-changelog-428-93e"
+    "content": "content---firebolt-documentation-docs-next-changelog-428-a0a"
   },
-  "/docs/next/firebolt_docs/accessibility/-39d": {
+  "/firebolt-documentation/docs/next/firebolt_docs/accessibility/-95c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-accessibility-2-ce-9d2"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-accessibility-2-ce-3d2"
   },
-  "/docs/next/firebolt_docs/accessibility/closed-captions/-7b0": {
+  "/firebolt-documentation/docs/next/firebolt_docs/accessibility/closed-captions/-559": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-accessibility-closed-captions-902-bb0"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-accessibility-closed-captions-902-7b6"
   },
-  "/docs/next/firebolt_docs/accessibility/voice-guidance/-a59": {
+  "/firebolt-documentation/docs/next/firebolt_docs/accessibility/voice-guidance/-479": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-accessibility-voice-guidance-ddf-5f4"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-accessibility-voice-guidance-ddf-f01"
   },
-  "/docs/next/firebolt_docs/app-lifecycle/lifecycle-management/-8a1": {
+  "/firebolt-documentation/docs/next/firebolt_docs/app-lifecycle/lifecycle-management/-3e9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-app-lifecycle-lifecycle-management-e-2-e-ad8"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-app-lifecycle-lifecycle-management-e-2-e-c6c"
   },
-  "/docs/next/firebolt_docs/app-lifecycle/listening-for-events/-a5a": {
+  "/firebolt-documentation/docs/next/firebolt_docs/app-lifecycle/listening-for-events/-474": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-app-lifecycle-listening-for-events-7-c-4-714"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-app-lifecycle-listening-for-events-7-c-4-947"
   },
-  "/docs/next/firebolt_docs/app-lifecycle/listening-for-property-changes/-222": {
+  "/firebolt-documentation/docs/next/firebolt_docs/app-lifecycle/listening-for-property-changes/-12c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-app-lifecycle-listening-for-property-changes-409-81b"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-app-lifecycle-listening-for-property-changes-409-1e3"
   },
-  "/docs/next/firebolt_docs/authentication/email-prefill/-c3b": {
+  "/firebolt-documentation/docs/next/firebolt_docs/authentication/email-prefill/-b56": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-authentication-email-prefill-6-d-7-a71"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-authentication-email-prefill-6-d-7-4a3"
   },
-  "/docs/next/firebolt_docs/authentication/sign-in-and-sign-up/-d86": {
+  "/firebolt-documentation/docs/next/firebolt_docs/authentication/sign-in-and-sign-up/-084": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-authentication-sign-in-and-sign-up-212-3cc"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-authentication-sign-in-and-sign-up-212-fd3"
   },
-  "/docs/next/firebolt_docs/discovery/content-discovery/-2ee": {
+  "/firebolt-documentation/docs/next/firebolt_docs/discovery/content-discovery/-f84": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-discovery-content-discovery-e-26-e95"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-discovery-content-discovery-e-26-fa9"
   },
-  "/docs/next/firebolt_docs/discovery/deep-linking/-a2c": {
+  "/firebolt-documentation/docs/next/firebolt_docs/discovery/deep-linking/-b98": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-discovery-deep-linking-b-94-a57"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-discovery-deep-linking-b-94-575"
   },
-  "/docs/next/firebolt_docs/discovery/voice-commands/-bb1": {
+  "/firebolt-documentation/docs/next/firebolt_docs/discovery/voice-commands/-4e9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-discovery-voice-commands-955-d6b"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-discovery-voice-commands-955-3f0"
   },
-  "/docs/next/firebolt_docs/getting-started/quick-start-guide/-db0": {
+  "/firebolt-documentation/docs/next/firebolt_docs/getting-started/quick-start-guide/-c81": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-getting-started-quick-start-guide-b-67-623"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-getting-started-quick-start-guide-b-67-28c"
   },
-  "/docs/next/firebolt_docs/localization/-c57": {
+  "/firebolt-documentation/docs/next/firebolt_docs/localization/-4a4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-localization-3-f-1-70e"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-localization-3-f-1-b2b"
   },
-  "/docs/next/firebolt_docs/metadata/metadata-integration/-e48": {
+  "/firebolt-documentation/docs/next/firebolt_docs/metadata/metadata-integration/-272": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-metadata-metadata-integration-90-e-9a7"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-metadata-metadata-integration-90-e-6c3"
   },
-  "/docs/next/firebolt_docs/metadata/open-gmrss-format/-f58": {
+  "/firebolt-documentation/docs/next/firebolt_docs/metadata/open-gmrss-format/-0ae": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-metadata-open-gmrss-format-a-45-513"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-metadata-open-gmrss-format-a-45-807"
   },
-  "/docs/next/firebolt_docs/profile/parental-controls/-306": {
+  "/firebolt-documentation/docs/next/firebolt_docs/profile/parental-controls/-e28": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-profile-parental-controls-326-445"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-profile-parental-controls-326-3a4"
   },
-  "/docs/next/firebolt_docs/profile/profile-flags/-dec": {
+  "/firebolt-documentation/docs/next/firebolt_docs/profile/profile-flags/-6ab": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-firebolt-docs-profile-profile-flags-81-d-5f9"
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-profile-profile-flags-81-d-6f7"
   },
-  "/docs/-9e8": {
+  "/firebolt-documentation/docs/-a57": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---docs-next-1-f-1-782"
+      "plugin": "plugin---firebolt-documentation-docs-next-1-f-1-4d4"
     },
-    "versionMetadata": "versionMetadata---docs-c-95-57f"
+    "versionMetadata": "versionMetadata---firebolt-documentation-docs-c-95-72d"
   },
-  "/docs/-10f": {
+  "/firebolt-documentation/docs/-d7e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-4-a-9-eb7"
+    "content": "content---firebolt-documentation-docs-4-a-9-864"
   },
-  "/docs/api/-5b4": {
+  "/firebolt-documentation/docs/api/-e5c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-d-7-f-b74"
+    "content": "content---firebolt-documentation-docs-api-d-7-f-4c2"
   },
-  "/docs/api/Accessibility/-d5a": {
+  "/firebolt-documentation/docs/api/Accessibility/-71f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-accessibility-b-26-c58"
+    "content": "content---firebolt-documentation-docs-api-accessibility-b-26-bfb"
   },
-  "/docs/api/Account/-3e1": {
+  "/firebolt-documentation/docs/api/Account/-101": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-account-868-c38"
+    "content": "content---firebolt-documentation-docs-api-account-868-e3e"
   },
-  "/docs/api/Advertising/-c1e": {
+  "/firebolt-documentation/docs/api/Advertising/-863": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-advertising-5-bb-673"
+    "content": "content---firebolt-documentation-docs-api-advertising-5-bb-b02"
   },
-  "/docs/api/Authentication/-235": {
+  "/firebolt-documentation/docs/api/Authentication/-4dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-authentication-180-eb5"
+    "content": "content---firebolt-documentation-docs-api-authentication-180-02d"
   },
-  "/docs/api/Device/-87a": {
+  "/firebolt-documentation/docs/api/Device/-85b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-device-ad-3-f24"
+    "content": "content---firebolt-documentation-docs-api-device-ad-3-61a"
   },
-  "/docs/api/Discovery/-e55": {
+  "/firebolt-documentation/docs/api/Discovery/-6b7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-discovery-b-33-957"
+    "content": "content---firebolt-documentation-docs-api-discovery-b-33-55e"
   },
-  "/docs/api/Keyboard/-c3c": {
+  "/firebolt-documentation/docs/api/Keyboard/-738": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-keyboard-7-fa-1a9"
+    "content": "content---firebolt-documentation-docs-api-keyboard-7-fa-fdd"
   },
-  "/docs/api/Lifecycle/-2f8": {
+  "/firebolt-documentation/docs/api/Lifecycle/-bee": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-lifecycle-d-08-eb1"
+    "content": "content---firebolt-documentation-docs-api-lifecycle-d-08-37e"
   },
-  "/docs/api/Localization/-4f5": {
+  "/firebolt-documentation/docs/api/Localization/-0d6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-localization-6-f-0-147"
+    "content": "content---firebolt-documentation-docs-api-localization-6-f-0-28b"
   },
-  "/docs/api/Metrics/-01b": {
+  "/firebolt-documentation/docs/api/Metrics/-e66": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-metrics-9-c-6-20c"
+    "content": "content---firebolt-documentation-docs-api-metrics-9-c-6-b62"
   },
-  "/docs/api/Parameters/-64c": {
+  "/firebolt-documentation/docs/api/Parameters/-949": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-parameters-560-c33"
+    "content": "content---firebolt-documentation-docs-api-parameters-560-c60"
   },
-  "/docs/api/Profile/-aac": {
+  "/firebolt-documentation/docs/api/Profile/-c40": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-profile-4-b-0-2c4"
+    "content": "content---firebolt-documentation-docs-api-profile-4-b-0-af4"
   },
-  "/docs/api/schemas/_index/-e67": {
+  "/firebolt-documentation/docs/api/schemas/_index/-c9b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-schemas-index-822-a89"
+    "content": "content---firebolt-documentation-docs-api-schemas-index-822-992"
   },
-  "/docs/api/schemas/Discovery/-f39": {
+  "/firebolt-documentation/docs/api/schemas/Discovery/-8dc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-schemas-discovery-329-c93"
+    "content": "content---firebolt-documentation-docs-api-schemas-discovery-329-04e"
   },
-  "/docs/api/schemas/Entertainment/-7e6": {
+  "/firebolt-documentation/docs/api/schemas/Entertainment/-caf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-schemas-entertainment-8-b-3-e40"
+    "content": "content---firebolt-documentation-docs-api-schemas-entertainment-8-b-3-669"
   },
-  "/docs/api/schemas/Errors/-397": {
+  "/firebolt-documentation/docs/api/schemas/Errors/-a52": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-schemas-errors-23-a-5ad"
+    "content": "content---firebolt-documentation-docs-api-schemas-errors-23-a-2c5"
   },
-  "/docs/api/schemas/Intents/-05f": {
+  "/firebolt-documentation/docs/api/schemas/Intents/-34b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-schemas-intents-054-744"
+    "content": "content---firebolt-documentation-docs-api-schemas-intents-054-88c"
   },
-  "/docs/api/schemas/Lifecycle/-cdc": {
+  "/firebolt-documentation/docs/api/schemas/Lifecycle/-d7f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-schemas-lifecycle-99-e-a5a"
+    "content": "content---firebolt-documentation-docs-api-schemas-lifecycle-99-e-a5b"
   },
-  "/docs/api/schemas/SecondScreen/-c73": {
+  "/firebolt-documentation/docs/api/schemas/SecondScreen/-ee3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-schemas-second-screen-52-f-3be"
+    "content": "content---firebolt-documentation-docs-api-schemas-second-screen-52-f-fae"
   },
-  "/docs/api/schemas/Types/-bd9": {
+  "/firebolt-documentation/docs/api/schemas/Types/-c4b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-schemas-types-6-e-9-261"
+    "content": "content---firebolt-documentation-docs-api-schemas-types-6-e-9-f76"
   },
-  "/docs/api/SecondScreen/-2c4": {
+  "/firebolt-documentation/docs/api/SecondScreen/-7bc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-api-second-screen-780-796"
+    "content": "content---firebolt-documentation-docs-api-second-screen-780-c89"
   },
-  "/docs/category/accessbility/-df5": {
+  "/firebolt-documentation/docs/category/accessbility/-eb0": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-accessbility-e-99-78f"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-category-accessbility-d-95-1a3"
   },
-  "/docs/category/app-lifecycle/-c32": {
+  "/firebolt-documentation/docs/category/app-lifecycle/-0a5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-app-lifecycle-49-d-ad5"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-category-app-lifecycle-00-f-6dd"
   },
-  "/docs/category/authentication/-287": {
+  "/firebolt-documentation/docs/category/authentication/-f2e": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-authentication-768-0fa"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-category-authentication-edc-94f"
   },
-  "/docs/category/discovery/-986": {
+  "/firebolt-documentation/docs/category/discovery/-70b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-discovery-5-a-7-483"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-category-discovery-c-45-924"
   },
-  "/docs/category/getting-started/-b15": {
+  "/firebolt-documentation/docs/category/getting-started/-a75": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-getting-started-5-c-4-639"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-category-getting-started-87-b-d34"
   },
-  "/docs/category/localization/-ec7": {
+  "/firebolt-documentation/docs/category/localization/-c75": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-localization-fb-5-ebb"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-category-localization-5-db-b5a"
   },
-  "/docs/category/metadata/-8f2": {
+  "/firebolt-documentation/docs/category/metadata/-457": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-metadata-da-0-ef4"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-category-metadata-dbf-a2c"
   },
-  "/docs/category/profiles/-48a": {
+  "/firebolt-documentation/docs/category/profiles/-af1": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-profiles-af-1-127"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-category-profiles-afa-061"
   },
-  "/docs/changelog/-2d3": {
+  "/firebolt-documentation/docs/changelog/-dbf": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-changelog-99-c-14d"
+    "content": "content---firebolt-documentation-docs-changelog-99-c-a06"
   },
-  "/docs/firebolt_docs/accessibility/-22f": {
+  "/firebolt-documentation/docs/firebolt_docs/accessibility/-6d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-accessibility-37-d-4a2"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-accessibility-37-d-340"
   },
-  "/docs/firebolt_docs/accessibility/closed-captions/-94e": {
+  "/firebolt-documentation/docs/firebolt_docs/accessibility/closed-captions/-797": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-accessibility-closed-captions-e-8-d-cb8"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-accessibility-closed-captions-e-8-d-9a6"
   },
-  "/docs/firebolt_docs/accessibility/voice-guidance/-511": {
+  "/firebolt-documentation/docs/firebolt_docs/accessibility/voice-guidance/-040": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-accessibility-voice-guidance-0-d-0-3c9"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-accessibility-voice-guidance-0-d-0-589"
   },
-  "/docs/firebolt_docs/app-lifecycle/lifecycle-management/-0a2": {
+  "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/lifecycle-management/-17b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-app-lifecycle-lifecycle-management-67-e-df2"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-app-lifecycle-lifecycle-management-67-e-f60"
   },
-  "/docs/firebolt_docs/app-lifecycle/listening-for-events/-720": {
+  "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/listening-for-events/-da2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-app-lifecycle-listening-for-events-630-dba"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-app-lifecycle-listening-for-events-630-671"
   },
-  "/docs/firebolt_docs/app-lifecycle/listening-for-property-changes/-d7d": {
+  "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/listening-for-property-changes/-c8b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-app-lifecycle-listening-for-property-changes-da-0-592"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-app-lifecycle-listening-for-property-changes-da-0-12e"
   },
-  "/docs/firebolt_docs/authentication/email-prefill/-bc5": {
+  "/firebolt-documentation/docs/firebolt_docs/authentication/email-prefill/-470": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-authentication-email-prefill-af-8-1ae"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-authentication-email-prefill-af-8-6d8"
   },
-  "/docs/firebolt_docs/authentication/sign-in-and-sign-up/-e46": {
+  "/firebolt-documentation/docs/firebolt_docs/authentication/sign-in-and-sign-up/-9ed": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-authentication-sign-in-and-sign-up-cda-3a9"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-authentication-sign-in-and-sign-up-cda-c3b"
   },
-  "/docs/firebolt_docs/discovery/content-discovery/-5d9": {
+  "/firebolt-documentation/docs/firebolt_docs/discovery/content-discovery/-969": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-discovery-content-discovery-a-3-e-5a9"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-discovery-content-discovery-a-3-e-06e"
   },
-  "/docs/firebolt_docs/discovery/deep-linking/-cbc": {
+  "/firebolt-documentation/docs/firebolt_docs/discovery/deep-linking/-92b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-discovery-deep-linking-379-5af"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-discovery-deep-linking-379-586"
   },
-  "/docs/firebolt_docs/discovery/voice-commands/-cac": {
+  "/firebolt-documentation/docs/firebolt_docs/discovery/voice-commands/-5a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-discovery-voice-commands-d-4-e-433"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-discovery-voice-commands-d-4-e-15c"
   },
-  "/docs/firebolt_docs/getting-started/quick-start-guide/-195": {
+  "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/-5e0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-getting-started-quick-start-guide-3-ec-c8e"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-getting-started-quick-start-guide-3-ec-b29"
   },
-  "/docs/firebolt_docs/localization/-437": {
+  "/firebolt-documentation/docs/firebolt_docs/localization/-247": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-localization-e-1-a-9a8"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-localization-e-1-a-464"
   },
-  "/docs/firebolt_docs/metadata/metadata-integration/-243": {
+  "/firebolt-documentation/docs/firebolt_docs/metadata/metadata-integration/-ea0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-metadata-metadata-integration-861-063"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-metadata-metadata-integration-861-539"
   },
-  "/docs/firebolt_docs/metadata/open-gmrss-format/-f50": {
+  "/firebolt-documentation/docs/firebolt_docs/metadata/open-gmrss-format/-0d5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-metadata-open-gmrss-format-e-8-c-87f"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-metadata-open-gmrss-format-e-8-c-760"
   },
-  "/docs/firebolt_docs/profile/parental-controls/-a4a": {
+  "/firebolt-documentation/docs/firebolt_docs/profile/parental-controls/-794": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-profile-parental-controls-9-e-5-d15"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-profile-parental-controls-9-e-5-d98"
   },
-  "/docs/firebolt_docs/profile/profile-flags/-bb4": {
+  "/firebolt-documentation/docs/firebolt_docs/profile/profile-flags/-afe": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-firebolt-docs-profile-profile-flags-ef-3-816"
+    "content": "content---firebolt-documentation-docs-firebolt-docs-profile-profile-flags-ef-3-403"
   },
-  "/-345": {
+  "/firebolt-documentation/-5dc": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---versions-47-e-7f1"
+      "plugin": "plugin---firebolt-documentation-versions-47-e-3ac"
     },
-    "config": "config---versions-5-e-9-a4c"
+    "config": "config---firebolt-documentation-versions-5-e-9-254"
   }
 }

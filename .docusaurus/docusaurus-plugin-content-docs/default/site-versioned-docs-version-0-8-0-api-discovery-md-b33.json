@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/Discovery.md",
   "sourceDirName": "api",
   "slug": "/api/Discovery",
-  "permalink": "/docs/api/Discovery",
+  "permalink": "/firebolt-documentation/docs/api/Discovery",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "Device",
-    "permalink": "/docs/api/Device"
+    "permalink": "/firebolt-documentation/docs/api/Device"
   },
   "next": {
     "title": "Keyboard",
-    "permalink": "/docs/api/Keyboard"
+    "permalink": "/firebolt-documentation/docs/api/Keyboard"
   }
 }

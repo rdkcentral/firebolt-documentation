@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/discovery/voice-commands.md",
   "sourceDirName": "firebolt_docs/discovery",
   "slug": "/firebolt_docs/discovery/voice-commands",
-  "permalink": "/docs/firebolt_docs/discovery/voice-commands",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/discovery/voice-commands",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -14,10 +14,10 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Deep Linking",
-    "permalink": "/docs/firebolt_docs/discovery/deep-linking"
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/discovery/deep-linking"
   },
   "next": {
     "title": "Localization",
-    "permalink": "/docs/category/localization"
+    "permalink": "/firebolt-documentation/docs/category/localization"
   }
 }

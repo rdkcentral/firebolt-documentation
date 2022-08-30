@@ -6,7 +6,7 @@
   "source": "@site/docs/changelog/changelog.md",
   "sourceDirName": "changelog",
   "slug": "/changelog/",
-  "permalink": "/docs/next/changelog/",
+  "permalink": "/firebolt-documentation/docs/next/changelog/",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Changelog",
-    "permalink": "/docs/next/category/changelog"
+    "permalink": "/firebolt-documentation/docs/next/category/changelog"
   },
   "next": {
-    "title": "Firebolt Core SDK",
-    "permalink": "/docs/next/api/"
+    "title": "Schemas",
+    "permalink": "/firebolt-documentation/docs/next/category/schemas"
   }
 }

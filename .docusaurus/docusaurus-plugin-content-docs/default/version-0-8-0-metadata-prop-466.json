@@ -21,11 +21,11 @@
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/docs/firebolt_docs/getting-started/quick-start-guide",
+            "href": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide",
             "docId": "firebolt_docs/getting-started/quick-start-guide"
           }
         ],
-        "href": "/docs/category/getting-started"
+        "href": "/firebolt-documentation/docs/category/getting-started"
       },
       {
         "type": "category",
@@ -40,23 +40,23 @@
           {
             "type": "link",
             "label": "Accessibility",
-            "href": "/docs/firebolt_docs/accessibility/",
+            "href": "/firebolt-documentation/docs/firebolt_docs/accessibility/",
             "docId": "firebolt_docs/accessibility/accessibility"
           },
           {
             "type": "link",
             "label": "Closed Captions",
-            "href": "/docs/firebolt_docs/accessibility/closed-captions",
+            "href": "/firebolt-documentation/docs/firebolt_docs/accessibility/closed-captions",
             "docId": "firebolt_docs/accessibility/closed-captions"
           },
           {
             "type": "link",
             "label": "Voice Guidance",
-            "href": "/docs/firebolt_docs/accessibility/voice-guidance",
+            "href": "/firebolt-documentation/docs/firebolt_docs/accessibility/voice-guidance",
             "docId": "firebolt_docs/accessibility/voice-guidance"
           }
         ],
-        "href": "/docs/category/accessbility"
+        "href": "/firebolt-documentation/docs/category/accessbility"
       },
       {
         "type": "category",
@@ -71,23 +71,23 @@
           {
             "type": "link",
             "label": "App Lifecycle",
-            "href": "/docs/firebolt_docs/app-lifecycle/lifecycle-management",
+            "href": "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/lifecycle-management",
             "docId": "firebolt_docs/app-lifecycle/lifecycle-management"
           },
           {
             "type": "link",
             "label": "Listening for Events",
-            "href": "/docs/firebolt_docs/app-lifecycle/listening-for-events",
+            "href": "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/listening-for-events",
             "docId": "firebolt_docs/app-lifecycle/listening-for-events"
           },
           {
             "type": "link",
             "label": "Listening for Property changes",
-            "href": "/docs/firebolt_docs/app-lifecycle/listening-for-property-changes",
+            "href": "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/listening-for-property-changes",
             "docId": "firebolt_docs/app-lifecycle/listening-for-property-changes"
           }
         ],
-        "href": "/docs/category/app-lifecycle"
+        "href": "/firebolt-documentation/docs/category/app-lifecycle"
       },
       {
         "type": "category",
@@ -102,17 +102,17 @@
           {
             "type": "link",
             "label": "Email Prefill",
-            "href": "/docs/firebolt_docs/authentication/email-prefill",
+            "href": "/firebolt-documentation/docs/firebolt_docs/authentication/email-prefill",
             "docId": "firebolt_docs/authentication/email-prefill"
           },
           {
             "type": "link",
             "label": "Sign In & Sign Up",
-            "href": "/docs/firebolt_docs/authentication/sign-in-and-sign-up",
+            "href": "/firebolt-documentation/docs/firebolt_docs/authentication/sign-in-and-sign-up",
             "docId": "firebolt_docs/authentication/sign-in-and-sign-up"
           }
         ],
-        "href": "/docs/category/authentication"
+        "href": "/firebolt-documentation/docs/category/authentication"
       },
       {
         "type": "category",
@@ -127,23 +127,23 @@
           {
             "type": "link",
             "label": "Content Discovery",
-            "href": "/docs/firebolt_docs/discovery/content-discovery",
+            "href": "/firebolt-documentation/docs/firebolt_docs/discovery/content-discovery",
             "docId": "firebolt_docs/discovery/content-discovery"
           },
           {
             "type": "link",
             "label": "Deep Linking",
-            "href": "/docs/firebolt_docs/discovery/deep-linking",
+            "href": "/firebolt-documentation/docs/firebolt_docs/discovery/deep-linking",
             "docId": "firebolt_docs/discovery/deep-linking"
           },
           {
             "type": "link",
             "label": "Voice Commands",
-            "href": "/docs/firebolt_docs/discovery/voice-commands",
+            "href": "/firebolt-documentation/docs/firebolt_docs/discovery/voice-commands",
             "docId": "firebolt_docs/discovery/voice-commands"
           }
         ],
-        "href": "/docs/category/discovery"
+        "href": "/firebolt-documentation/docs/category/discovery"
       },
       {
         "type": "category",
@@ -158,11 +158,11 @@
           {
             "type": "link",
             "label": "Localization",
-            "href": "/docs/firebolt_docs/localization/",
+            "href": "/firebolt-documentation/docs/firebolt_docs/localization/",
             "docId": "firebolt_docs/localization/localization"
           }
         ],
-        "href": "/docs/category/localization"
+        "href": "/firebolt-documentation/docs/category/localization"
       },
       {
         "type": "category",
@@ -177,17 +177,17 @@
           {
             "type": "link",
             "label": "Metadata Integration",
-            "href": "/docs/firebolt_docs/metadata/metadata-integration",
+            "href": "/firebolt-documentation/docs/firebolt_docs/metadata/metadata-integration",
             "docId": "firebolt_docs/metadata/metadata-integration"
           },
           {
             "type": "link",
             "label": "Open GMRSS Specifications",
-            "href": "/docs/firebolt_docs/metadata/open-gmrss-format",
+            "href": "/firebolt-documentation/docs/firebolt_docs/metadata/open-gmrss-format",
             "docId": "firebolt_docs/metadata/open-gmrss-format"
           }
         ],
-        "href": "/docs/category/metadata"
+        "href": "/firebolt-documentation/docs/category/metadata"
       },
       {
         "type": "category",
@@ -202,102 +202,102 @@
           {
             "type": "link",
             "label": "Parental Controls",
-            "href": "/docs/firebolt_docs/profile/parental-controls",
+            "href": "/firebolt-documentation/docs/firebolt_docs/profile/parental-controls",
             "docId": "firebolt_docs/profile/parental-controls"
           },
           {
             "type": "link",
             "label": "Profile Flags",
-            "href": "/docs/firebolt_docs/profile/profile-flags",
+            "href": "/firebolt-documentation/docs/firebolt_docs/profile/profile-flags",
             "docId": "firebolt_docs/profile/profile-flags"
           }
         ],
-        "href": "/docs/category/profiles"
+        "href": "/firebolt-documentation/docs/category/profiles"
       }
     ],
     "api": [
       {
         "type": "link",
         "label": "Accessibility",
-        "href": "/docs/api/Accessibility",
+        "href": "/firebolt-documentation/docs/api/Accessibility",
         "docId": "api/Accessibility"
       },
       {
         "type": "link",
         "label": "Account",
-        "href": "/docs/api/Account",
+        "href": "/firebolt-documentation/docs/api/Account",
         "docId": "api/Account"
       },
       {
         "type": "link",
         "label": "Advertising",
-        "href": "/docs/api/Advertising",
+        "href": "/firebolt-documentation/docs/api/Advertising",
         "docId": "api/Advertising"
       },
       {
         "type": "link",
         "label": "Authentication",
-        "href": "/docs/api/Authentication",
+        "href": "/firebolt-documentation/docs/api/Authentication",
         "docId": "api/Authentication"
       },
       {
         "type": "link",
         "label": "Device",
-        "href": "/docs/api/Device",
+        "href": "/firebolt-documentation/docs/api/Device",
         "docId": "api/Device"
       },
       {
         "type": "link",
         "label": "Discovery",
-        "href": "/docs/api/Discovery",
+        "href": "/firebolt-documentation/docs/api/Discovery",
         "docId": "api/Discovery"
       },
       {
         "type": "link",
         "label": "Keyboard",
-        "href": "/docs/api/Keyboard",
+        "href": "/firebolt-documentation/docs/api/Keyboard",
         "docId": "api/Keyboard"
       },
       {
         "type": "link",
         "label": "Lifecycle",
-        "href": "/docs/api/Lifecycle",
+        "href": "/firebolt-documentation/docs/api/Lifecycle",
         "docId": "api/Lifecycle"
       },
       {
         "type": "link",
         "label": "Localization",
-        "href": "/docs/api/Localization",
+        "href": "/firebolt-documentation/docs/api/Localization",
         "docId": "api/Localization"
       },
       {
         "type": "link",
         "label": "Metrics",
-        "href": "/docs/api/Metrics",
+        "href": "/firebolt-documentation/docs/api/Metrics",
         "docId": "api/Metrics"
       },
       {
         "type": "link",
         "label": "Parameters",
-        "href": "/docs/api/Parameters",
+        "href": "/firebolt-documentation/docs/api/Parameters",
         "docId": "api/Parameters"
       },
       {
         "type": "link",
         "label": "Profile",
-        "href": "/docs/api/Profile",
+        "href": "/firebolt-documentation/docs/api/Profile",
         "docId": "api/Profile"
       },
       {
         "type": "link",
         "label": "SecondScreen",
-        "href": "/docs/api/SecondScreen",
+        "href": "/firebolt-documentation/docs/api/SecondScreen",
         "docId": "api/SecondScreen"
       },
       {
         "type": "link",
         "label": "Firebolt Core SDK",
-        "href": "/docs/api/",
+        "href": "/firebolt-documentation/docs/api/",
         "docId": "api/index"
       },
       {
@@ -309,49 +309,49 @@
           {
             "type": "link",
             "label": "Discovery",
-            "href": "/docs/api/schemas/Discovery",
+            "href": "/firebolt-documentation/docs/api/schemas/Discovery",
             "docId": "api/schemas/Discovery"
           },
           {
             "type": "link",
             "label": "Entertainment",
-            "href": "/docs/api/schemas/Entertainment",
+            "href": "/firebolt-documentation/docs/api/schemas/Entertainment",
             "docId": "api/schemas/Entertainment"
           },
           {
             "type": "link",
             "label": "Errors",
-            "href": "/docs/api/schemas/Errors",
+            "href": "/firebolt-documentation/docs/api/schemas/Errors",
             "docId": "api/schemas/Errors"
           },
           {
             "type": "link",
             "label": "Intents",
-            "href": "/docs/api/schemas/Intents",
+            "href": "/firebolt-documentation/docs/api/schemas/Intents",
             "docId": "api/schemas/Intents"
           },
           {
             "type": "link",
             "label": "Lifecycle",
-            "href": "/docs/api/schemas/Lifecycle",
+            "href": "/firebolt-documentation/docs/api/schemas/Lifecycle",
             "docId": "api/schemas/Lifecycle"
           },
           {
             "type": "link",
             "label": "SecondScreen",
-            "href": "/docs/api/schemas/SecondScreen",
+            "href": "/firebolt-documentation/docs/api/schemas/SecondScreen",
             "docId": "api/schemas/SecondScreen"
           },
           {
             "type": "link",
             "label": "Types",
-            "href": "/docs/api/schemas/Types",
+            "href": "/firebolt-documentation/docs/api/schemas/Types",
             "docId": "api/schemas/Types"
           },
           {
             "type": "link",
             "label": "_index",
-            "href": "/docs/api/schemas/_index",
+            "href": "/firebolt-documentation/docs/api/schemas/_index",
             "docId": "api/schemas/_index"
           }
         ]

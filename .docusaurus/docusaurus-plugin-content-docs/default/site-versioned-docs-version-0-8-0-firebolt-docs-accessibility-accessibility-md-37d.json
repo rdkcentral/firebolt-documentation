@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/accessibility/accessibility.md",
   "sourceDirName": "firebolt_docs/accessibility",
   "slug": "/firebolt_docs/accessibility/",
-  "permalink": "/docs/firebolt_docs/accessibility/",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/accessibility/",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -14,10 +14,10 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Accessbility",
-    "permalink": "/docs/category/accessbility"
+    "permalink": "/firebolt-documentation/docs/category/accessbility"
   },
   "next": {
     "title": "Closed Captions",
-    "permalink": "/docs/firebolt_docs/accessibility/closed-captions"
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/accessibility/closed-captions"
   }
 }

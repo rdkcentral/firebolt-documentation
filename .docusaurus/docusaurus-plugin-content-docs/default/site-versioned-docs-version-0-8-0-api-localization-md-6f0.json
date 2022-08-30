@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/Localization.md",
   "sourceDirName": "api",
   "slug": "/api/Localization",
-  "permalink": "/docs/api/Localization",
+  "permalink": "/firebolt-documentation/docs/api/Localization",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "Lifecycle",
-    "permalink": "/docs/api/Lifecycle"
+    "permalink": "/firebolt-documentation/docs/api/Lifecycle"
   },
   "next": {
     "title": "Metrics",
-    "permalink": "/docs/api/Metrics"
+    "permalink": "/firebolt-documentation/docs/api/Metrics"
   }
 }

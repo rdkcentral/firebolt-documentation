@@ -6,8 +6,8 @@
 export default {
   "title": "Firebolt",
   "tagline": "Zero Dependencies and Fast",
-  "url": "https://rdkcentral.github.io/firebolt-documentation/",
-  "baseUrl": "/",
+  "url": "https://rdkcentral.github.io",
+  "baseUrl": "/firebolt-documentation/",
   "trailingSlash": true,
   "organizationName": "rdkcentral",
   "projectName": "firebolt-documentation",
@@ -110,18 +110,23 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Introduction",
-              "href": "/docs",
+              "label": "Get Started",
+              "href": "firebolt_docs/getting-started/quick-start-guide/",
               "target": "_self"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Get in Touch",
           "items": [
             {
-              "label": "User Showcase",
-              "href": "/users",
+              "label": "Contact Us",
+              "href": "mailto:support@rdkcentral.com",
+              "target": "_self"
+            },
+            {
+              "label": "Forum",
+              "href": "https://developer.rdkcentral.com/rdk_forum/forums/",
               "target": "_self"
             }
           ]

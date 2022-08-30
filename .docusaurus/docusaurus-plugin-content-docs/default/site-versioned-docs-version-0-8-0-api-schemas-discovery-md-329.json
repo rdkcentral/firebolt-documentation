@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/schemas/Discovery.md",
   "sourceDirName": "api/schemas",
   "slug": "/api/schemas/Discovery",
-  "permalink": "/docs/api/schemas/Discovery",
+  "permalink": "/firebolt-documentation/docs/api/schemas/Discovery",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "Firebolt Core SDK",
-    "permalink": "/docs/api/"
+    "permalink": "/firebolt-documentation/docs/api/"
   },
   "next": {
     "title": "Entertainment",
-    "permalink": "/docs/api/schemas/Entertainment"
+    "permalink": "/firebolt-documentation/docs/api/schemas/Entertainment"
   }
 }

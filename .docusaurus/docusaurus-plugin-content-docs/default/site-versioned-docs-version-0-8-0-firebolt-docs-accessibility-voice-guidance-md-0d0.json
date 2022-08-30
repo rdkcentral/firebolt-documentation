@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/accessibility/voice-guidance.md",
   "sourceDirName": "firebolt_docs/accessibility",
   "slug": "/firebolt_docs/accessibility/voice-guidance",
-  "permalink": "/docs/firebolt_docs/accessibility/voice-guidance",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/accessibility/voice-guidance",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "firebolt_docs",
   "previous": {
     "title": "Closed Captions",
-    "permalink": "/docs/firebolt_docs/accessibility/closed-captions"
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/accessibility/closed-captions"
   },
   "next": {
     "title": "App Lifecycle",
-    "permalink": "/docs/category/app-lifecycle"
+    "permalink": "/firebolt-documentation/docs/category/app-lifecycle"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/Account.md",
   "sourceDirName": "api",
   "slug": "/api/Account",
-  "permalink": "/docs/api/Account",
+  "permalink": "/firebolt-documentation/docs/api/Account",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "Accessibility",
-    "permalink": "/docs/api/Accessibility"
+    "permalink": "/firebolt-documentation/docs/api/Accessibility"
   },
   "next": {
     "title": "Advertising",
-    "permalink": "/docs/api/Advertising"
+    "permalink": "/firebolt-documentation/docs/api/Advertising"
   }
 }

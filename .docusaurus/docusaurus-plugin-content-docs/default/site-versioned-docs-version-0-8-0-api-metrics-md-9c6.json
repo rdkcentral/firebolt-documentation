@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-0.8.0/api/Metrics.md",
   "sourceDirName": "api",
   "slug": "/api/Metrics",
-  "permalink": "/docs/api/Metrics",
+  "permalink": "/firebolt-documentation/docs/api/Metrics",
   "draft": false,
   "tags": [],
   "version": "0.8.0",
@@ -16,10 +16,10 @@
   "sidebar": "api",
   "previous": {
     "title": "Localization",
-    "permalink": "/docs/api/Localization"
+    "permalink": "/firebolt-documentation/docs/api/Localization"
   },
   "next": {
     "title": "Parameters",
-    "permalink": "/docs/api/Parameters"
+    "permalink": "/firebolt-documentation/docs/api/Parameters"
   }
 }

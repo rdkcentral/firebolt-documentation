@@ -191,6 +191,11 @@
               "sidebar": "defaultSidebar"
             },
             {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "defaultSidebar"
+            },
+            {
               "id": "firebolt_docs/getting-started/quick-start-guide",
               "path": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/quick-start-guide",
               "sidebar": "defaultSidebar"

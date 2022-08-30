@@ -17,7 +17,7 @@ It's assumed that you have the ability to download and install software on your 
 
 1. In a web browser, put in the URL <https://nodejs.org/en/download/>. Select the **Windows Installer** button to download the latest default version. The Node.js installer includes the NPM package manager.
 
-![Windows Installer Option](.../images/WindowsInstallerOption.png)
+![Windows Installer Option](../images/WindowsInstallerOption.png)
 
 ### Step 2: Install Node.js and NPM from the browser
 

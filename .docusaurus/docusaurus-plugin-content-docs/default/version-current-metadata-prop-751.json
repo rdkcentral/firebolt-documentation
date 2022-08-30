@@ -193,15 +193,21 @@
             "items": [
               {
                 "type": "link",
-                "label": "Welcome",
+                "label": "Hello World Guide",
                 "href": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world-guide",
                 "docId": "firebolt_docs/getting-started/hello-world-guide"
               },
               {
                 "type": "link",
-                "label": "Welcome",
+                "label": "How to Use Mock Firebolt",
                 "href": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt",
                 "docId": "firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              },
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/prerequisites",
+                "docId": "firebolt_docs/getting-started/prerequisites"
               },
               {
                 "type": "link",
@@ -616,14 +622,20 @@
     },
     "firebolt_docs/getting-started/hello-world-guide": {
       "id": "firebolt_docs/getting-started/hello-world-guide",
-      "title": "Welcome",
+      "title": "Hello World Guide",
       "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
       "sidebar": "defaultSidebar"
     },
     "firebolt_docs/getting-started/how-to-use-mock-firebolt": {
       "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
-      "title": "Welcome",
+      "title": "How to Use Mock Firebolt",
       "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
+      "sidebar": "defaultSidebar"
+    },
+    "firebolt_docs/getting-started/prerequisites": {
+      "id": "firebolt_docs/getting-started/prerequisites",
+      "title": "Overview",
+      "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
       "sidebar": "defaultSidebar"
     },
     "firebolt_docs/getting-started/quick-start-guide": {

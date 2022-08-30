@@ -1,4 +1,4 @@
-# Welcome
+# How to Use Mock Firebolt
 
 In this practical guide, you'll learn how to set up and use Mock Firebolt. 
 
@@ -82,7 +82,7 @@ For developers building \"operator apps\" / \"search and discover apps\" which n
 
     1.  Clone it via GitHub desktop
 
-![clone github repo](.../images/clone-github-repo.jpg)
+![clone github repo](../images/clone-github-repo.jpg)
 
 1.  Clone these two repositories using the same method.
 
@@ -353,7 +353,7 @@ node cli.mjs --help
 | Command                                                      | Intent                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | node cli.mjs --help                                          | Use this to pull up the how to use info                      |
-| node cli.mjs --user <userId>                                 | Target the given user; Overrides the .mf.config.json file, if present. See below |
+| node cli.mjs --user `<userId>`                                 | Target the given user; Overrides the .mf.config.json file, if present. See below |
 | node cli.mjs --port 3333                                     | If running Mock Firebolt on a non-standard port. See below   |
 | node cli.mjs --quiet                                         | Don't emit command summary text; helpful for exporting state. See below |
 | node cli.mjs --health                                        | Performs health check on Mock Firebolt                       |

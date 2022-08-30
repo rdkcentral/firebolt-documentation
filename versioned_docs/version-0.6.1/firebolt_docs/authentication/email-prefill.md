@@ -3,7 +3,7 @@ Your users have the ability to save email addresses to their account on the plat
 
 While the UI may differ between distributors, the basic flow is that your app asks for the API to present email addresses to the user, then the user selects an email address, and then the API sends the selection back to the app to be used as demonstrated below:
 
-![Call Flow](..../images/email-prefill-callflow.png)
+![Call Flow](../images/email-prefill-callflow.png)
 
 
 ## Use cases

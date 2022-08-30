@@ -853,7 +853,7 @@
             {
               "unversionedId": "firebolt_docs/getting-started/hello-world-guide",
               "id": "firebolt_docs/getting-started/hello-world-guide",
-              "title": "Welcome",
+              "title": "Hello World Guide",
               "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
               "source": "@site/docs/firebolt_docs/getting-started/hello-world-guide.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -869,14 +869,14 @@
                 "permalink": "/firebolt-documentation/docs/next/category/getting-started"
               },
               "next": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               }
             },
             {
               "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
-              "title": "Welcome",
+              "title": "How to Use Mock Firebolt",
               "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
               "source": "@site/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -888,8 +888,31 @@
               "frontMatter": {},
               "sidebar": "defaultSidebar",
               "previous": {
-                "title": "Welcome",
+                "title": "Hello World Guide",
                 "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world-guide"
+              },
+              "next": {
+                "title": "Overview",
+                "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/prerequisites"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/prerequisites",
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "title": "Overview",
+              "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
+              "source": "@site/docs/firebolt_docs/getting-started/prerequisites.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/prerequisites",
+              "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/prerequisites",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "How to Use Mock Firebolt",
+                "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
               "next": {
                 "title": "Getting Started",
@@ -913,8 +936,8 @@
               },
               "sidebar": "defaultSidebar",
               "previous": {
-                "title": "Welcome",
-                "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                "title": "Overview",
+                "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/prerequisites"
               },
               "next": {
                 "title": "Accessbility",
@@ -1223,6 +1246,10 @@
                       {
                         "type": "doc",
                         "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/getting-started/prerequisites"
                       },
                       {
                         "type": "doc",
@@ -2280,7 +2307,7 @@
             {
               "unversionedId": "firebolt_docs/getting-started/hello-world-guide",
               "id": "version-0.8.0/firebolt_docs/getting-started/hello-world-guide",
-              "title": "Welcome",
+              "title": "Hello World Guide",
               "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
               "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/getting-started/hello-world-guide.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -2296,14 +2323,14 @@
                 "permalink": "/firebolt-documentation/docs/category/getting-started"
               },
               "next": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               }
             },
             {
               "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "id": "version-0.8.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
-              "title": "Welcome",
+              "title": "How to Use Mock Firebolt",
               "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
               "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -2315,7 +2342,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "Hello World Guide",
                 "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
@@ -2338,7 +2365,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
               "next": {
@@ -3678,7 +3705,7 @@
             {
               "unversionedId": "firebolt_docs/getting-started/hello-world-guide",
               "id": "version-0.7.0/firebolt_docs/getting-started/hello-world-guide",
-              "title": "Welcome",
+              "title": "Hello World Guide",
               "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
               "source": "@site/versioned_docs/version-0.7.0/firebolt_docs/getting-started/hello-world-guide.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -3694,14 +3721,14 @@
                 "permalink": "/firebolt-documentation/docs/0.7.0/category/getting-started"
               },
               "next": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               }
             },
             {
               "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "id": "version-0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
-              "title": "Welcome",
+              "title": "How to Use Mock Firebolt",
               "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
               "source": "@site/versioned_docs/version-0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -3713,7 +3740,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "Hello World Guide",
                 "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
@@ -3736,7 +3763,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
               "next": {
@@ -5097,7 +5124,7 @@
             {
               "unversionedId": "firebolt_docs/getting-started/hello-world-guide",
               "id": "version-0.6.1/firebolt_docs/getting-started/hello-world-guide",
-              "title": "Welcome",
+              "title": "Hello World Guide",
               "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
               "source": "@site/versioned_docs/version-0.6.1/firebolt_docs/getting-started/hello-world-guide.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -5113,14 +5140,14 @@
                 "permalink": "/firebolt-documentation/docs/0.6.1/category/getting-started"
               },
               "next": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               }
             },
             {
               "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "id": "version-0.6.1/firebolt_docs/getting-started/how-to-use-mock-firebolt",
-              "title": "Welcome",
+              "title": "How to Use Mock Firebolt",
               "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
               "source": "@site/versioned_docs/version-0.6.1/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -5132,7 +5159,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "Hello World Guide",
                 "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
@@ -5155,7 +5182,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
               "next": {
@@ -6545,7 +6572,7 @@
             {
               "unversionedId": "firebolt_docs/getting-started/hello-world-guide",
               "id": "version-0.6.0-alpha.2/firebolt_docs/getting-started/hello-world-guide",
-              "title": "Welcome",
+              "title": "Hello World Guide",
               "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
               "source": "@site/versioned_docs/version-0.6.0-alpha.2/firebolt_docs/getting-started/hello-world-guide.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -6561,14 +6588,14 @@
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/category/getting-started"
               },
               "next": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               }
             },
             {
               "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "id": "version-0.6.0-alpha.2/firebolt_docs/getting-started/how-to-use-mock-firebolt",
-              "title": "Welcome",
+              "title": "How to Use Mock Firebolt",
               "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
               "source": "@site/versioned_docs/version-0.6.0-alpha.2/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -6580,7 +6607,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "Hello World Guide",
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
@@ -6603,7 +6630,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
               "next": {
@@ -7972,7 +7999,7 @@
             {
               "unversionedId": "firebolt_docs/getting-started/hello-world-guide",
               "id": "version-0.6.0-alpha.1/firebolt_docs/getting-started/hello-world-guide",
-              "title": "Welcome",
+              "title": "Hello World Guide",
               "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
               "source": "@site/versioned_docs/version-0.6.0-alpha.1/firebolt_docs/getting-started/hello-world-guide.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -7988,14 +8015,14 @@
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/category/getting-started"
               },
               "next": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               }
             },
             {
               "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "id": "version-0.6.0-alpha.1/firebolt_docs/getting-started/how-to-use-mock-firebolt",
-              "title": "Welcome",
+              "title": "How to Use Mock Firebolt",
               "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
               "source": "@site/versioned_docs/version-0.6.0-alpha.1/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -8007,7 +8034,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "Hello World Guide",
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
@@ -8030,7 +8057,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
               "next": {
@@ -9395,7 +9422,7 @@
             {
               "unversionedId": "firebolt_docs/getting-started/hello-world-guide",
               "id": "version-0.6.0/firebolt_docs/getting-started/hello-world-guide",
-              "title": "Welcome",
+              "title": "Hello World Guide",
               "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
               "source": "@site/versioned_docs/version-0.6.0/firebolt_docs/getting-started/hello-world-guide.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -9411,14 +9438,14 @@
                 "permalink": "/firebolt-documentation/docs/0.6.0/category/getting-started"
               },
               "next": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               }
             },
             {
               "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "id": "version-0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
-              "title": "Welcome",
+              "title": "How to Use Mock Firebolt",
               "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
               "source": "@site/versioned_docs/version-0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
               "sourceDirName": "firebolt_docs/getting-started",
@@ -9430,7 +9457,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "Hello World Guide",
                 "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
@@ -9453,7 +9480,7 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Welcome",
+                "title": "How to Use Mock Firebolt",
                 "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
               "next": {

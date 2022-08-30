@@ -1982,7 +1982,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/next/',
-    component: ComponentCreator('/firebolt-documentation/docs/next/', '35a'),
+    component: ComponentCreator('/firebolt-documentation/docs/next/', 'd27'),
     routes: [
       {
         path: '/firebolt-documentation/docs/next/',
@@ -2263,6 +2263,12 @@ export default [
       {
         path: '/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt/',
         component: ComponentCreator('/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt/', '578'),
+        exact: true,
+        sidebar: "defaultSidebar"
+      },
+      {
+        path: '/firebolt-documentation/docs/next/firebolt_docs/getting-started/prerequisites/',
+        component: ComponentCreator('/firebolt-documentation/docs/next/firebolt_docs/getting-started/prerequisites/', '9ec'),
         exact: true,
         sidebar: "defaultSidebar"
       },

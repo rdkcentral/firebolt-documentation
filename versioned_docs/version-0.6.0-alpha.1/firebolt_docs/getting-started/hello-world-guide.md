@@ -1,4 +1,4 @@
-# Welcome
+# Hello World Guide
 
 In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.
 
@@ -51,7 +51,7 @@ The *\"Hello World\"* guide is designed with the following assumptions:
 
 After successfully installing Lighting Studio, get Firebolt® up and running and create your app. At the end of all that, your finished app should look something like this:
 
-![Hello World - End State Video](.../images/Hello-World-Video.gif)
+![Hello World - End State Video](../images/Hello-World-Video.gif)
 
 # Getting Started - Install Lightning & Firebolt®
 
@@ -63,7 +63,7 @@ After successfully installing Lighting Studio, get Firebolt® up and running and
    git clone https://github.com/rdkcentral/firebolt-hello-world.git
    ```
 
-   ![Cloning hello world](.../images/cloning-hello-world.jpg)
+   ![Cloning hello world](../images/cloning-hello-world.jpg)
 
 2. Open your command-line interface (CLI) tool and change your directory to the repo you just cloned.
 
@@ -88,7 +88,7 @@ After successfully installing Lighting Studio, get Firebolt® up and running and
 
 This will build the `package.json` file in the directory and compile it with all the assets, including a source map. Ideally, making it easier to check for errors. After you've run `npm run build` & `npm run dev`, your default browser should pop up, and you should see,
 
-![Step 1 of the project](.../images/Step-1-of-the-project.png)
+![Step 1 of the project](../images/Step-1-of-the-project.png)
 
 ### Step 2: Install the Firebolt® SDK 
 
@@ -153,7 +153,7 @@ Device.version()
 This will append the `Device` text field with the appropriate `firebolt Device` information and show it on your screen. This is also the module you'd use to check details such as device IDs and manufacturer makes and models.
 
 3. Refresh your browser, and you should now see
-       ![Adding device info](.../images/Adding-device-info.png)
+       ![Adding device info](../images/Adding-device-info.png)
 
 
 ### Step 4: Listening for events 
@@ -209,13 +209,13 @@ Lifecycle.ready();
 
 > The Lifecycle state and background color change to reflect the transitions to the 'Foreground' state
 
-![Inactive state](.../images/Adding-device-info.png)
+![Inactive state](../images/Adding-device-info.png)
 
-![Lifecycle inactive State](.../images/lifecycle-inactive.png)
+![Lifecycle inactive State](../images/lifecycle-inactive.png)
 
-![Foreground State](.../images/lifecycle-foreground.png)
+![Foreground State](../images/lifecycle-foreground.png)
 
-![Hello World - End State Video](.../images/Hello-World-Video.gif)
+![Hello World - End State Video](../images/Hello-World-Video.gif)
 
 
 The Lifecycle state and background color change to reflect the transitions to the `Foreground` state.
@@ -242,7 +242,7 @@ To use Firebolt's mock application, repeat all the steps above but make these ch
 
 3. Follow the rest of the steps as written above. With your browser open, append `?mf=true` to the end of the URL above.
 
-![localhost mf=true Closeup](.../images/localhost-mfistrue-Closeup.jpg)
+![localhost mf=true Closeup](../images/localhost-mfistrue-Closeup.jpg)
 
 ### Connect Hello World with Mock Firebolt
 
@@ -292,9 +292,9 @@ In the CLI window where you're current directory is `$ src %` use the command:
 
 Refresh your browser, and you'll see the distributor go from `distributor: Company` to `distributor: Videos R Us`.
 
-![localhost mf=true](.../images/localhost-mfistrue.jpg)
+![localhost mf=true](../images/localhost-mfistrue.jpg)
 
-![localhost change distributor](.../images/localhost-change-distributor.jpg)
+![localhost change distributor](../images/localhost-change-distributor.jpg)
 
 ## Hello World Examples - Let's play 
 
@@ -318,7 +318,7 @@ To change the lifecycle, use the command above along with an example file path a
 
     node cli.mjs --event ../examples/lifecycle-initializing-to-inactive.event.json
 
-![inatctive state](.../images/inatctive-state.jpg)
+![inatctive state](../images/inatctive-state.jpg)
 
 As an example going from inactive to the foreground state would be
 

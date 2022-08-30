@@ -50,7 +50,7 @@ When your app transitions into a new state, there are some responsibilities it s
 ### Getting your app Ready
 In order to give your app complete control over when it is presented to the user, the platform provides the [`Lifecycle.ready()`](/api/lifecycle/#ready) method. This allows the platform to wait for your app to be functionally and visually prepared for the user, and prevents the platform from waiting any longer than necessary.
 
-This needs to be called before your App can be put into the `foreground`. This must only be called once. If your app is going to respond to any event(s) then it’s a best practice to [`listen()` to those events](./listening-for-events.md) before calling `ready()`.
+This needs to be called before your App can be put into the `foreground`. This must only be called once. If your app is going to respond to any event(s) then it’s a best practice to [`listen()` to those events](../app-lifecycle/listening-for-events.md) before calling `ready()`.
 
 Your app is ready when these three requirements are met.
 
@@ -131,7 +131,7 @@ A User may need more CPU and/or memory, and if your App is not demanded, the pla
 After receiving the `unloading` event, your app can handle any Metrics or other clean-up tasks.
 There is a small amount of time that your App can perform these processes, so do them quickly.
 
-It’s also recommended that your app [clear out all Firebolt listeners](./listening-for-events.md#clearing-listeners) during this time.
+It’s also recommended that your app [clear out all Firebolt listeners](../app-lifecycle/listening-for-events.md#clearing-listeners) during this time.
 
 Once the App has gone through these phases it should call [`Lifecylce.finished()`](/api/lifecycle/#finished).
 

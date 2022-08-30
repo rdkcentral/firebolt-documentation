@@ -57,7 +57,7 @@ To see how each platform feature enables which functionality can be seen in the 
 
 The platform will map these various types of Voice Commands to existing platform APIs to make integration more seamless, e.g. media playback Voice Commands are mapped to the corresponding remote key press values.
 
-Your app will need to have a working [Metadata Integration](./metadata-integration.md) in order for many Voice Commands to work.
+Your app will need to have a working [Metadata Integration](../metadata/metadata-integration.md) in order for many Voice Commands to work.
 
 
 

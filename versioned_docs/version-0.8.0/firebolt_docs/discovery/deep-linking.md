@@ -37,7 +37,7 @@ Discovery.listen('navigateTo', (intent) => {
 
 See also:
 
- - [Listening for Events](./listening-for-events.md)
+ - [Listening for Events](../app-lifecycle/listening-for-events.md)
  - [the `Discovery` module](/api/discovery/)
  
 For more info.
@@ -169,4 +169,4 @@ This intent would be sent based on an agreement between you and each platform di
 }
 ```
 
-The `sectionName` field inside the `data` object is required and will always be there. The value of this field is based on values supplied during [Metadata Integration](./metadata-integration.md).
+The `sectionName` field inside the `data` object is required and will always be there. The value of this field is based on values supplied during [Metadata Integration](../metadata/metadata-integration.md).

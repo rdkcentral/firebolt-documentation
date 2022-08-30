@@ -26,7 +26,7 @@ Full Content Discovery integration consists of the following:
 ## Metadata Integration
 Asset metadata is required to utilize many content discovery features. Asset metadata describes all the relevant, useful, and important information about a media asset. The metadata you provide is used to directly populate the presentation and discovery of your content on the platform.
 
-See [Metadata Integration](./metadata-integration.md) for more info.
+See [Metadata Integration](../metadata/metadata-integration.md) for more info.
 
 ## Navigation Intents
 In order to enable faster app launches, Firebolt may keep your app loaded even while it's not in use. In order to support "deep links," (ie: opening your app to a specific piece of content that the user selected) your app will need to integrate with the Firebolt Navigation Intents feature.

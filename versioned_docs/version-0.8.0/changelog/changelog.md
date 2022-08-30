@@ -1,5 +1,5 @@
 
-# Firebolt Release Notes
+# Changelog 
 
 ## 0.8.0
 

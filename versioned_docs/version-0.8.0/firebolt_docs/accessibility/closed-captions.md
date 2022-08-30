@@ -11,7 +11,7 @@ As a note, we cannot not render the captions for your app. Your app will need to
 ## Reading device settings
 In order to access your user's current closed captions settings, your app can call the `Accessibility.closedCaptions()` method from the [Accessibility](/api/accessibility/) API:
 
-```javascript 
+```javascript
 import { Accessibility } from '@firebolt-js/sdk'
 
 const ccSettings = await Accessibility.closedCaptions()
@@ -19,7 +19,7 @@ const ccSettings = await Accessibility.closedCaptions()
 if (ccSettings.enabled) {
   // the user has captions enabled
 }
-``` 
+```
 
 Additionally, your app should respect your user's current closed-captions styles, which they may have set as their personal preference for readability. Continuing from the previous example, you can access the `styles` property:
 
@@ -51,7 +51,7 @@ Accessibility.listen(`closedCaptionsSettingsChanged`), ccSettings => {
 
 ## Example ClosedCaptionsSettings value
 
-```javascript 
+```javascript
 {
     enabled: true,
     styles: {

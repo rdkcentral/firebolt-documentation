@@ -359,11 +359,6 @@
               "sidebar": "api"
             },
             {
-              "id": "api/schemas/_index",
-              "path": "/firebolt-documentation/docs/api/schemas/_index",
-              "sidebar": "api"
-            },
-            {
               "id": "api/schemas/Discovery",
               "path": "/firebolt-documentation/docs/api/schemas/Discovery",
               "sidebar": "api"
@@ -381,6 +376,11 @@
             {
               "id": "api/schemas/Intents",
               "path": "/firebolt-documentation/docs/api/schemas/Intents",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/intro",
+              "path": "/firebolt-documentation/docs/api/schemas/intro",
               "sidebar": "api"
             },
             {
@@ -464,6 +464,16 @@
               "sidebar": "firebolt_docs"
             },
             {
+              "id": "firebolt_docs/getting-started/hello-world",
+              "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
               "id": "firebolt_docs/getting-started/quick-start-guide",
               "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide",
               "sidebar": "firebolt_docs"
@@ -495,7 +505,8 @@
             },
             {
               "id": "index",
-              "path": "/firebolt-documentation/docs/"
+              "path": "/firebolt-documentation/docs/",
+              "sidebar": "api"
             },
             {
               "id": "/category/getting-started",
@@ -536,26 +547,31 @@
               "id": "/category/profiles",
               "path": "/firebolt-documentation/docs/category/profiles",
               "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/schemas",
+              "path": "/firebolt-documentation/docs/category/schemas",
+              "sidebar": "api"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "firebolt_docs": {
               "link": {
-                "path": "/firebolt-documentation/docs/category/getting-started",
-                "label": "Getting Started"
+                "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide",
+                "label": "firebolt_docs/getting-started/quick-start-guide"
               }
             },
             "api": {
               "link": {
-                "path": "/firebolt-documentation/docs/api/Accessibility",
-                "label": "version-0.8.0/api/Accessibility"
+                "path": "/firebolt-documentation/docs/",
+                "label": "index"
               }
             },
             "changelog": {
               "link": {
                 "path": "/firebolt-documentation/docs/changelog/",
-                "label": "version-0.8.0/changelog/changelog"
+                "label": "changelog/changelog"
               }
             }
           }

@@ -1,7 +1,7 @@
 {
   "unversionedId": "changelog/changelog",
   "id": "version-0.8.0/changelog/changelog",
-  "title": "Firebolt Release Notes",
+  "title": "Changelog",
   "description": "0.8.0",
   "source": "@site/versioned_docs/version-0.8.0/changelog/changelog.md",
   "sourceDirName": "changelog",
@@ -11,5 +11,9 @@
   "tags": [],
   "version": "0.8.0",
   "frontMatter": {},
-  "sidebar": "changelog"
+  "sidebar": "changelog",
+  "next": {
+    "title": "Changelog",
+    "permalink": "/firebolt-documentation/docs/changelog/"
+  }
 }

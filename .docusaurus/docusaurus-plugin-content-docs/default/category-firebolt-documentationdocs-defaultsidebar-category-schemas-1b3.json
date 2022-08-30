@@ -1,0 +1,15 @@
+{
+  "title": "Schemas",
+  "slug": "/category/schemas",
+  "permalink": "/firebolt-documentation/docs/category/schemas",
+  "navigation": {
+    "previous": {
+      "title": "Firebolt Core SDK",
+      "permalink": "/firebolt-documentation/docs/api/"
+    },
+    "next": {
+      "title": "API Intro",
+      "permalink": "/firebolt-documentation/docs/api/schemas/intro"
+    }
+  }
+}

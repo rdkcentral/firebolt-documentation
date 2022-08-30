@@ -12,5 +12,10 @@
   "version": "0.8.0",
   "frontMatter": {
     "title": "Feature Documentation"
+  },
+  "sidebar": "api",
+  "next": {
+    "title": "Schemas",
+    "permalink": "/firebolt-documentation/docs/category/schemas"
   }
 }

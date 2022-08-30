@@ -368,12 +368,13 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/',
-    component: ComponentCreator('/firebolt-documentation/docs/', 'f20'),
+    component: ComponentCreator('/firebolt-documentation/docs/', '38b'),
     routes: [
       {
         path: '/firebolt-documentation/docs/',
-        component: ComponentCreator('/firebolt-documentation/docs/', 'd7e'),
-        exact: true
+        component: ComponentCreator('/firebolt-documentation/docs/', '6f7'),
+        exact: true,
+        sidebar: "api"
       },
       {
         path: '/firebolt-documentation/docs/api/',
@@ -454,12 +455,6 @@ export default [
         sidebar: "api"
       },
       {
-        path: '/firebolt-documentation/docs/api/schemas/_index/',
-        component: ComponentCreator('/firebolt-documentation/docs/api/schemas/_index/', 'c9b'),
-        exact: true,
-        sidebar: "api"
-      },
-      {
         path: '/firebolt-documentation/docs/api/schemas/Discovery/',
         component: ComponentCreator('/firebolt-documentation/docs/api/schemas/Discovery/', '8dc'),
         exact: true,
@@ -480,6 +475,12 @@ export default [
       {
         path: '/firebolt-documentation/docs/api/schemas/Intents/',
         component: ComponentCreator('/firebolt-documentation/docs/api/schemas/Intents/', '34b'),
+        exact: true,
+        sidebar: "api"
+      },
+      {
+        path: '/firebolt-documentation/docs/api/schemas/intro/',
+        component: ComponentCreator('/firebolt-documentation/docs/api/schemas/intro/', 'ec5'),
         exact: true,
         sidebar: "api"
       },
@@ -556,6 +557,12 @@ export default [
         sidebar: "firebolt_docs"
       },
       {
+        path: '/firebolt-documentation/docs/category/schemas/',
+        component: ComponentCreator('/firebolt-documentation/docs/category/schemas/', 'edc'),
+        exact: true,
+        sidebar: "api"
+      },
+      {
         path: '/firebolt-documentation/docs/changelog/',
         component: ComponentCreator('/firebolt-documentation/docs/changelog/', '6ed'),
         exact: true,
@@ -624,6 +631,18 @@ export default [
       {
         path: '/firebolt-documentation/docs/firebolt_docs/discovery/voice-commands/',
         component: ComponentCreator('/firebolt-documentation/docs/firebolt_docs/discovery/voice-commands/', '5a8'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
+        path: '/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world/',
+        component: ComponentCreator('/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world/', 'faf'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
+        path: '/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt/',
+        component: ComponentCreator('/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt/', 'bd1'),
         exact: true,
         sidebar: "firebolt_docs"
       },

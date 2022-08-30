@@ -17,9 +17,5 @@
   "previous": {
     "title": "SecondScreen",
     "permalink": "/firebolt-documentation/docs/api/SecondScreen"
-  },
-  "next": {
-    "title": "Discovery",
-    "permalink": "/firebolt-documentation/docs/api/schemas/Discovery"
   }
 }

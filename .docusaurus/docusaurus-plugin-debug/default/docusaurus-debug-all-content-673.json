@@ -1465,6 +1465,10 @@
                 "title": "Accessibility"
               },
               "sidebar": "api",
+              "previous": {
+                "title": "Types",
+                "permalink": "/firebolt-documentation/docs/api/schemas/Types"
+              },
               "next": {
                 "title": "Account",
                 "permalink": "/firebolt-documentation/docs/api/Account"
@@ -1614,10 +1618,6 @@
               "previous": {
                 "title": "SecondScreen",
                 "permalink": "/firebolt-documentation/docs/api/SecondScreen"
-              },
-              "next": {
-                "title": "Discovery",
-                "permalink": "/firebolt-documentation/docs/api/schemas/Discovery"
               }
             },
             {
@@ -1771,25 +1771,6 @@
               }
             },
             {
-              "unversionedId": "api/schemas/_index",
-              "id": "version-0.8.0/api/schemas/_index",
-              "title": "_index",
-              "description": "",
-              "source": "@site/versioned_docs/version-0.8.0/api/schemas/_index.md",
-              "sourceDirName": "api/schemas",
-              "slug": "/api/schemas/_index",
-              "permalink": "/firebolt-documentation/docs/api/schemas/_index",
-              "draft": false,
-              "tags": [],
-              "version": "0.8.0",
-              "frontMatter": {},
-              "sidebar": "api",
-              "previous": {
-                "title": "Types",
-                "permalink": "/firebolt-documentation/docs/api/schemas/Types"
-              }
-            },
-            {
               "unversionedId": "api/schemas/Discovery",
               "id": "version-0.8.0/api/schemas/Discovery",
               "title": "Discovery",
@@ -1806,8 +1787,8 @@
               },
               "sidebar": "api",
               "previous": {
-                "title": "Firebolt Core SDK",
-                "permalink": "/firebolt-documentation/docs/api/"
+                "title": "API Intro",
+                "permalink": "/firebolt-documentation/docs/api/schemas/intro"
               },
               "next": {
                 "title": "Entertainment",
@@ -1890,6 +1871,33 @@
               }
             },
             {
+              "unversionedId": "api/schemas/intro",
+              "id": "version-0.8.0/api/schemas/intro",
+              "title": "Firebolt JS SDK",
+              "description": "For building Firebolt compliant apps.",
+              "source": "@site/versioned_docs/version-0.8.0/api/schemas/intro.md",
+              "sourceDirName": "api/schemas",
+              "slug": "/api/schemas/intro",
+              "permalink": "/firebolt-documentation/docs/api/schemas/intro",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "sidebar_label": "API Intro"
+              },
+              "sidebar": "api",
+              "previous": {
+                "title": "Schemas",
+                "permalink": "/firebolt-documentation/docs/category/schemas"
+              },
+              "next": {
+                "title": "Discovery",
+                "permalink": "/firebolt-documentation/docs/api/schemas/Discovery"
+              }
+            },
+            {
               "unversionedId": "api/schemas/Lifecycle",
               "id": "version-0.8.0/api/schemas/Lifecycle",
               "title": "Lifecycle",
@@ -1960,8 +1968,8 @@
                 "permalink": "/firebolt-documentation/docs/api/schemas/SecondScreen"
               },
               "next": {
-                "title": "_index",
-                "permalink": "/firebolt-documentation/docs/api/schemas/_index"
+                "title": "Accessibility",
+                "permalink": "/firebolt-documentation/docs/api/Accessibility"
               }
             },
             {
@@ -1992,7 +2000,7 @@
             {
               "unversionedId": "changelog/changelog",
               "id": "version-0.8.0/changelog/changelog",
-              "title": "Firebolt Release Notes",
+              "title": "Changelog",
               "description": "0.8.0",
               "source": "@site/versioned_docs/version-0.8.0/changelog/changelog.md",
               "sourceDirName": "changelog",
@@ -2002,12 +2010,16 @@
               "tags": [],
               "version": "0.8.0",
               "frontMatter": {},
-              "sidebar": "changelog"
+              "sidebar": "changelog",
+              "next": {
+                "title": "Changelog",
+                "permalink": "/firebolt-documentation/docs/changelog/"
+              }
             },
             {
               "unversionedId": "firebolt_docs/accessibility/accessibility",
               "id": "version-0.8.0/firebolt_docs/accessibility/accessibility",
-              "title": "Accessibility",
+              "title": "Accessibility Overview",
               "description": "Accessibility means building apps that can be enjoyed by everyone, regardless of abilities. Incorporating an inclusive approach can include considering color choices during design, integrating Voice Guidance capabilities, or ensuring videos include closed captions. It's also important to remember that you're building a global app.",
               "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/accessibility/accessibility.md",
               "sourceDirName": "firebolt_docs/accessibility",
@@ -2016,7 +2028,9 @@
               "draft": false,
               "tags": [],
               "version": "0.8.0",
-              "frontMatter": {},
+              "frontMatter": {
+                "title": "Accessibility Overview"
+              },
               "sidebar": "firebolt_docs",
               "previous": {
                 "title": "Accessbility",
@@ -2044,7 +2058,7 @@
               },
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "Accessibility",
+                "title": "Accessibility Overview",
                 "permalink": "/firebolt-documentation/docs/firebolt_docs/accessibility/"
               },
               "next": {
@@ -2264,6 +2278,52 @@
               }
             },
             {
+              "unversionedId": "firebolt_docs/getting-started/hello-world",
+              "id": "version-0.8.0/firebolt_docs/getting-started/hello-world",
+              "title": "hello-world",
+              "description": "",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/getting-started/hello-world.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/hello-world",
+              "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/firebolt-documentation/docs/category/getting-started"
+              },
+              "next": {
+                "title": "how-to-use-mock-firebolt",
+                "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "id": "version-0.8.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "title": "how-to-use-mock-firebolt",
+              "description": "",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "hello-world",
+                "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide"
+              }
+            },
+            {
               "unversionedId": "firebolt_docs/getting-started/quick-start-guide",
               "id": "version-0.8.0/firebolt_docs/getting-started/quick-start-guide",
               "title": "Getting Started",
@@ -2279,13 +2339,9 @@
                 "title": "Getting Started"
               },
               "sidebar": "firebolt_docs",
-              "previous": {
+              "next": {
                 "title": "Getting Started",
                 "permalink": "/firebolt-documentation/docs/category/getting-started"
-              },
-              "next": {
-                "title": "Accessbility",
-                "permalink": "/firebolt-documentation/docs/category/accessbility"
               }
             },
             {
@@ -2415,12 +2471,21 @@
               "version": "0.8.0",
               "frontMatter": {
                 "title": "Feature Documentation"
+              },
+              "sidebar": "api",
+              "next": {
+                "title": "Schemas",
+                "permalink": "/firebolt-documentation/docs/category/schemas"
               }
             }
           ],
           "drafts": [],
           "sidebars": {
             "firebolt_docs": [
+              {
+                "type": "doc",
+                "id": "firebolt_docs/getting-started/quick-start-guide"
+              },
               {
                 "type": "category",
                 "label": "Getting Started",
@@ -2431,6 +2496,14 @@
                 },
                 "className": "getting-started",
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/getting-started/hello-world"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                  },
                   {
                     "type": "doc",
                     "id": "version-0.8.0/firebolt_docs/getting-started/quick-start-guide"
@@ -2637,6 +2710,61 @@
             "api": [
               {
                 "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Schemas",
+                "collapsible": true,
+                "collapsed": true,
+                "customProps": {
+                  "description": ""
+                },
+                "className": "schemas",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/intro",
+                    "label": "API Intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Discovery"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Entertainment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Errors"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Intents"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Lifecycle"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/SecondScreen"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/api/schemas/Types"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "title": "Schemas",
+                  "slug": "/category/schemas",
+                  "permalink": "/firebolt-documentation/docs/category/schemas"
+                }
+              },
+              {
+                "type": "doc",
                 "id": "version-0.8.0/api/Accessibility"
               },
               {
@@ -2690,49 +2818,13 @@
               {
                 "type": "doc",
                 "id": "version-0.8.0/api/index"
-              },
-              {
-                "type": "category",
-                "label": "schemas",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "version-0.8.0/api/schemas/Discovery"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "version-0.8.0/api/schemas/Entertainment"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "version-0.8.0/api/schemas/Errors"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "version-0.8.0/api/schemas/Intents"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "version-0.8.0/api/schemas/Lifecycle"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "version-0.8.0/api/schemas/SecondScreen"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "version-0.8.0/api/schemas/Types"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "version-0.8.0/api/schemas/_index"
-                  }
-                ]
               }
             ],
             "changelog": [
+              {
+                "type": "doc",
+                "id": "changelog/changelog"
+              },
               {
                 "type": "doc",
                 "id": "version-0.8.0/changelog/changelog"

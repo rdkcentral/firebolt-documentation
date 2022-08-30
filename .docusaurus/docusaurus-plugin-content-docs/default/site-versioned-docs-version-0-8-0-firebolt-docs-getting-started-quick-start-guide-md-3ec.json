@@ -14,12 +14,8 @@
     "title": "Getting Started"
   },
   "sidebar": "firebolt_docs",
-  "previous": {
+  "next": {
     "title": "Getting Started",
     "permalink": "/firebolt-documentation/docs/category/getting-started"
-  },
-  "next": {
-    "title": "Accessbility",
-    "permalink": "/firebolt-documentation/docs/category/accessbility"
   }
 }

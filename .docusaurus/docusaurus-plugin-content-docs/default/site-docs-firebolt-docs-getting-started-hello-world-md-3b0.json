@@ -15,8 +15,8 @@
   },
   "sidebar": "defaultSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/firebolt-documentation/docs/next/category/getting-started"
+    "title": "Welcome",
+    "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world-guide"
   },
   "next": {
     "title": "How to use Mock Firebolt",

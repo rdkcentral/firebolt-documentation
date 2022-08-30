@@ -1958,7 +1958,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/next/',
-    component: ComponentCreator('/firebolt-documentation/docs/next/', '21b'),
+    component: ComponentCreator('/firebolt-documentation/docs/next/', '35a'),
     routes: [
       {
         path: '/firebolt-documentation/docs/next/',
@@ -2231,8 +2231,8 @@ export default [
         sidebar: "defaultSidebar"
       },
       {
-        path: '/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world/',
-        component: ComponentCreator('/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world/', '5f9'),
+        path: '/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world-guide/',
+        component: ComponentCreator('/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world-guide/', '758'),
         exact: true,
         sidebar: "defaultSidebar"
       },

@@ -49,7 +49,7 @@
     },
     "config": "config---firebolt-documentation-versions-5-e-9-254"
   },
-  "/firebolt-documentation/docs/0.5.3/-20d": {
+  "/firebolt-documentation/docs/0.5.3/-518": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-0-5-3-1-f-1-85a"
@@ -236,6 +236,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-5-3-firebolt-docs-getting-started-how-to-use-mock-firebolt-685-f5d"
   },
+  "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/prerequisites/-7f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-0-5-3-firebolt-docs-getting-started-prerequisites-d-5-d-1da"
+  },
   "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/quick-start-guide/-302": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-5-3-firebolt-docs-getting-started-quick-start-guide-29-f-ea8"
@@ -260,7 +264,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-5-3-firebolt-docs-profile-profile-flags-9-ab-042"
   },
-  "/firebolt-documentation/docs/0.6.0-alpha.1/-d1c": {
+  "/firebolt-documentation/docs/0.6.0-alpha.1/-f1c": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-0-5-3-1-f-1-85a"
@@ -451,6 +455,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-alpha-1-firebolt-docs-getting-started-how-to-use-mock-firebolt-167-cfd"
   },
+  "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites/-59e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-0-6-0-alpha-1-firebolt-docs-getting-started-prerequisites-7-d-7-7d7"
+  },
   "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/quick-start-guide/-ae1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-alpha-1-firebolt-docs-getting-started-quick-start-guide-a-5-f-5f2"
@@ -475,7 +483,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-alpha-1-firebolt-docs-profile-profile-flags-b-7-d-54f"
   },
-  "/firebolt-documentation/docs/0.6.0-alpha.2/-67d": {
+  "/firebolt-documentation/docs/0.6.0-alpha.2/-e7e": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-0-5-3-1-f-1-85a"
@@ -670,6 +678,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-alpha-2-firebolt-docs-getting-started-how-to-use-mock-firebolt-2-f-3-24c"
   },
+  "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites/-df6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-0-6-0-alpha-2-firebolt-docs-getting-started-prerequisites-67-f-7a0"
+  },
   "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/quick-start-guide/-693": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-alpha-2-firebolt-docs-getting-started-quick-start-guide-6-af-4e7"
@@ -694,7 +706,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-alpha-2-firebolt-docs-profile-profile-flags-8-d-5-672"
   },
-  "/firebolt-documentation/docs/0.6.0/-fea": {
+  "/firebolt-documentation/docs/0.6.0/-760": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-0-5-3-1-f-1-85a"
@@ -885,6 +897,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-firebolt-docs-getting-started-how-to-use-mock-firebolt-c-1-f-989"
   },
+  "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/prerequisites/-a05": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-0-6-0-firebolt-docs-getting-started-prerequisites-957-af0"
+  },
   "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide/-54f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-firebolt-docs-getting-started-quick-start-guide-6-a-5-82a"
@@ -909,7 +925,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-firebolt-docs-profile-profile-flags-69-a-a41"
   },
-  "/firebolt-documentation/docs/0.6.1/-13c": {
+  "/firebolt-documentation/docs/0.6.1/-0b1": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-0-5-3-1-f-1-85a"
@@ -1100,6 +1116,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-1-firebolt-docs-getting-started-how-to-use-mock-firebolt-040-a24"
   },
+  "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/prerequisites/-6de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-0-6-1-firebolt-docs-getting-started-prerequisites-7-c-3-912"
+  },
   "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/quick-start-guide/-364": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-1-firebolt-docs-getting-started-quick-start-guide-53-d-e66"
@@ -1124,7 +1144,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-1-firebolt-docs-profile-profile-flags-192-7ba"
   },
-  "/firebolt-documentation/docs/0.7.0/-dc2": {
+  "/firebolt-documentation/docs/0.7.0/-ab9": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-0-5-3-1-f-1-85a"
@@ -1310,6 +1330,10 @@
   "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt/-7d1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-7-0-firebolt-docs-getting-started-how-to-use-mock-firebolt-b-53-7d3"
+  },
+  "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/prerequisites/-5b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-0-7-0-firebolt-docs-getting-started-prerequisites-1-c-1-048"
   },
   "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/quick-start-guide/-9d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -1554,7 +1578,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-next-firebolt-docs-profile-profile-flags-81-d-6f7"
   },
-  "/firebolt-documentation/docs/-6ec": {
+  "/firebolt-documentation/docs/-c25": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-0-5-3-1-f-1-85a"
@@ -1744,6 +1768,10 @@
   "/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt/-bd1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-firebolt-docs-getting-started-how-to-use-mock-firebolt-b-8-c-c8a"
+  },
+  "/firebolt-documentation/docs/firebolt_docs/getting-started/prerequisites/-910": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-firebolt-docs-getting-started-prerequisites-5-b-5-b06"
   },
   "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/-5e0": {
     "__comp": "__comp---theme-doc-item-178-a40",

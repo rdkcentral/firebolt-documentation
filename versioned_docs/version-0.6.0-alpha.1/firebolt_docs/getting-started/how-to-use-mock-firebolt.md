@@ -82,7 +82,7 @@ For developers building \"operator apps\" / \"search and discover apps\" which n
 
     1.  Clone it via GitHub desktop
 
-![clone github repo](./images/clone-github-repo.jpg)
+![clone github repo](.../images/clone-github-repo.jpg)
 
 1.  Clone these two repositories using the same method.
 

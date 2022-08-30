@@ -26,7 +26,7 @@ A state transition is when the platform moves your app from one state, for examp
 <center>
 FIGURE 1: This image represents all of the possible states your App can transition to and from.
 
-![Firebolt App Lifecycle](../images/lifecycle-states.png)
+![Firebolt App Lifecycle](..../images/lifecycle-states.png)
 
 </center>
 
@@ -193,12 +193,12 @@ The platform allows your app to be pre-loaded on device start-up and suspended a
 
 ### Cold Launch
 
-![Cold Launch](../images/lifecycle-cold-launch.png)
+![Cold Launch](..../images/lifecycle-cold-launch.png)
 
 ### Hot Launch
 
-![Hot Launch](../images/lifecycle-hot-launch.png)
+![Hot Launch](..../images/lifecycle-hot-launch.png)
 
 ### User Opens Platform Settings
 
-![Background for Settings](../images/lifecycle-background-settings.png)
+![Background for Settings](..../images/lifecycle-background-settings.png)

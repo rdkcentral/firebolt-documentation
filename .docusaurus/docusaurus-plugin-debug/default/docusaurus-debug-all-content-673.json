@@ -2319,6 +2319,29 @@
                 "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
+                "title": "Overview",
+                "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/prerequisites"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/prerequisites",
+              "id": "version-0.8.0/firebolt_docs/getting-started/prerequisites",
+              "title": "Overview",
+              "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
+              "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/getting-started/prerequisites.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/prerequisites",
+              "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/prerequisites",
+              "draft": false,
+              "tags": [],
+              "version": "0.8.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Welcome",
+                "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              },
+              "next": {
                 "title": "Getting Started",
                 "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide"
               }
@@ -2503,6 +2526,10 @@
                   {
                     "type": "doc",
                     "id": "version-0.8.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.8.0/firebolt_docs/getting-started/prerequisites"
                   },
                   {
                     "type": "doc",
@@ -3690,6 +3717,29 @@
                 "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
+                "title": "Overview",
+                "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/prerequisites"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/prerequisites",
+              "id": "version-0.7.0/firebolt_docs/getting-started/prerequisites",
+              "title": "Overview",
+              "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
+              "source": "@site/versioned_docs/version-0.7.0/firebolt_docs/getting-started/prerequisites.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/prerequisites",
+              "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/prerequisites",
+              "draft": false,
+              "tags": [],
+              "version": "0.7.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Welcome",
+                "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              },
+              "next": {
                 "title": "Getting Started",
                 "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/quick-start-guide"
               }
@@ -3874,6 +3924,10 @@
                   {
                     "type": "doc",
                     "id": "version-0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.7.0/firebolt_docs/getting-started/prerequisites"
                   },
                   {
                     "type": "doc",
@@ -5082,6 +5136,29 @@
                 "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
+                "title": "Overview",
+                "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/prerequisites"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/prerequisites",
+              "id": "version-0.6.1/firebolt_docs/getting-started/prerequisites",
+              "title": "Overview",
+              "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
+              "source": "@site/versioned_docs/version-0.6.1/firebolt_docs/getting-started/prerequisites.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/prerequisites",
+              "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/prerequisites",
+              "draft": false,
+              "tags": [],
+              "version": "0.6.1",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Welcome",
+                "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              },
+              "next": {
                 "title": "Getting Started",
                 "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/quick-start-guide"
               }
@@ -5266,6 +5343,10 @@
                   {
                     "type": "doc",
                     "id": "version-0.6.1/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.6.1/firebolt_docs/getting-started/prerequisites"
                   },
                   {
                     "type": "doc",
@@ -6503,6 +6584,29 @@
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
+                "title": "Overview",
+                "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/prerequisites",
+              "id": "version-0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites",
+              "title": "Overview",
+              "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
+              "source": "@site/versioned_docs/version-0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/prerequisites",
+              "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites",
+              "draft": false,
+              "tags": [],
+              "version": "0.6.0-alpha.2",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Welcome",
+                "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              },
+              "next": {
                 "title": "Getting Started",
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/quick-start-guide"
               }
@@ -6687,6 +6791,10 @@
                   {
                     "type": "doc",
                     "id": "version-0.6.0-alpha.2/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites"
                   },
                   {
                     "type": "doc",
@@ -7903,6 +8011,29 @@
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
+                "title": "Overview",
+                "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/prerequisites",
+              "id": "version-0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites",
+              "title": "Overview",
+              "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
+              "source": "@site/versioned_docs/version-0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/prerequisites",
+              "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites",
+              "draft": false,
+              "tags": [],
+              "version": "0.6.0-alpha.1",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Welcome",
+                "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              },
+              "next": {
                 "title": "Getting Started",
                 "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/quick-start-guide"
               }
@@ -8087,6 +8218,10 @@
                   {
                     "type": "doc",
                     "id": "version-0.6.0-alpha.1/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites"
                   },
                   {
                     "type": "doc",
@@ -9299,6 +9434,29 @@
                 "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world-guide"
               },
               "next": {
+                "title": "Overview",
+                "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/prerequisites"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/prerequisites",
+              "id": "version-0.6.0/firebolt_docs/getting-started/prerequisites",
+              "title": "Overview",
+              "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
+              "source": "@site/versioned_docs/version-0.6.0/firebolt_docs/getting-started/prerequisites.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/prerequisites",
+              "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/prerequisites",
+              "draft": false,
+              "tags": [],
+              "version": "0.6.0",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "Welcome",
+                "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              },
+              "next": {
                 "title": "Getting Started",
                 "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide"
               }
@@ -9483,6 +9641,10 @@
                   {
                     "type": "doc",
                     "id": "version-0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.6.0/firebolt_docs/getting-started/prerequisites"
                   },
                   {
                     "type": "doc",
@@ -10672,6 +10834,29 @@
                 "permalink": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/hello-world"
               },
               "next": {
+                "title": "Overview",
+                "permalink": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/prerequisites"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/prerequisites",
+              "id": "version-0.5.3/firebolt_docs/getting-started/prerequisites",
+              "title": "Overview",
+              "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
+              "source": "@site/versioned_docs/version-0.5.3/firebolt_docs/getting-started/prerequisites.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/prerequisites",
+              "permalink": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/prerequisites",
+              "draft": false,
+              "tags": [],
+              "version": "0.5.3",
+              "frontMatter": {},
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "how-to-use-mock-firebolt",
+                "permalink": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              },
+              "next": {
                 "title": "Getting Started",
                 "permalink": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/quick-start-guide"
               }
@@ -10856,6 +11041,10 @@
                   {
                     "type": "doc",
                     "id": "version-0.5.3/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.5.3/firebolt_docs/getting-started/prerequisites"
                   },
                   {
                     "type": "doc",

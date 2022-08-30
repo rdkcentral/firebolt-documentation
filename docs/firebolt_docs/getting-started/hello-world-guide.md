@@ -19,17 +19,17 @@ The *\"Hello World\"* guide is designed with the following assumptions:
 - Internet access or an alternative way of loading the latest Firebolt® SDK and Lightning™ JavaScript framework onto your computer.
 
 - Install Lightning™. No prior knowledge of Lightning™ is required, but it is a required dependency for this project.
-  1. Using your machine's command-line interface (CLI), input the command: 
+  1. Using your machine's command-line interface (CLI), input the command:
 
       ```
       npm install -g @lightningjs/cli
       ```
 
-  2. For more detail on installing Lightning™ go here: 
+  2. For more detail on installing Lightning™ go here:
 
      >  https://lightningjs.io/docs/#/getting-started/index
 
-- Ensure you have some package manager like NPM or YARN. 
+- Ensure you have some package manager like NPM or YARN.
 
   - For further instructions go here [Prerequisites](./prerequisites.md)
 
@@ -47,11 +47,11 @@ The *\"Hello World\"* guide is designed with the following assumptions:
 -   Generate and build your app in a browser.
 -   Explore and view the app you've built.
 
-# App Overview 
+# App Overview
 
 After successfully installing Lighting Studio, get Firebolt® up and running and create your app. At the end of all that, your finished app should look something like this:
 
-![Hello World - End State Video](./images/Hello-World-Video.gif)
+![Hello World - End State Video](..../images/Hello-World-Video.gif)
 
 # Getting Started - Install Lightning & Firebolt®
 
@@ -63,7 +63,7 @@ After successfully installing Lighting Studio, get Firebolt® up and running and
    git clone https://github.com/rdkcentral/firebolt-hello-world.git
    ```
 
-   ![Cloning hello world](./images/cloning-hello-world.jpg)
+   ![Cloning hello world](.../images/cloning-hello-world.jpg)
 
 2. Open your command-line interface (CLI) tool and change your directory to the repo you just cloned.
 
@@ -88,20 +88,20 @@ After successfully installing Lighting Studio, get Firebolt® up and running and
 
 This will build the `package.json` file in the directory and compile it with all the assets, including a source map. Ideally, making it easier to check for errors. After you've run `npm run build` & `npm run dev`, your default browser should pop up, and you should see,
 
-![Step 1 of the project](./images/Step-1-of-the-project.png)
+![Step 1 of the project](.../images/Step-1-of-the-project.png)
 
-### Step 2: Install the Firebolt® SDK 
+### Step 2: Install the Firebolt® SDK
 
 1.  In the CLI use the command use the command
 
         npm install @firebolt-js/sdk
 
 1.  Once that's done, use the same commands as above
-    
+
         npm run build
         npm run dev
 
-### Step 3: Import the Device and Lifecycle Modules from Firebolt® 
+### Step 3: Import the Device and Lifecycle Modules from Firebolt®
 
 1. Navigate to the *Hello World* repo you downloaded and open `firebolt-hello-world/pt1-firebolt_hello_world-start/src/App.js`. Within the `App.js` file, add the following line of code right below the other import(s) to add the modules **Device** and **Lifecycle** to your app:
 
@@ -109,7 +109,7 @@ This will build the `package.json` file in the directory and compile it with all
 import { Lifecycle, Device } from '@firebolt-js/sdk';
 ```
 
-### Step 4: Add some functionality to your app 
+### Step 4: Add some functionality to your app
 
 1. While still in the `App.js` file, go to the following line:
 
@@ -120,7 +120,7 @@ import { Lifecycle, Device } from '@firebolt-js/sdk';
 }
 ```
 
-Note that the `_active()` method is how the Lightning™ framework initiates your app and is not part of Firebolt®. 
+Note that the `_active()` method is how the Lightning™ framework initiates your app and is not part of Firebolt®.
 
 2. After `_active() {`, is where you put your Firebolt® code! Add the following Firebolt® code on a new line:
 
@@ -128,35 +128,35 @@ Note that the `_active()` method is how the Lightning™ framework initiates you
 Device.distributor()
 .then(distributor => {
   const deviceDistributor = 'distributor:' + distributor;
-  this.tag('Device').text.text = deviceDistributor + ' :: '; 
+  this.tag('Device').text.text = deviceDistributor + ' :: ';
 });
 
 Device.model()
 .then(model => {
   const deviceModel = 'model:' + model;
-  this.tag('Device').text.text += deviceModel + ' :: '; 
+  this.tag('Device').text.text += deviceModel + ' :: ';
 });
 
 Device.platform()
 .then(platform => {
   const devicePlatform = 'platform:' + platform;
-  this.tag('Device').text.text += devicePlatform + ' :: '; 
+  this.tag('Device').text.text += devicePlatform + ' :: ';
 });
 
 Device.version()
 .then(version => {
   const deviceVersion = 'version:' + version.sdk.readable + ' : v' + version.sdk.major + '.' + version.sdk.minor + '.' + version.sdk.patch;
-  this.tag('Device').text.text += deviceVersion; 
+  this.tag('Device').text.text += deviceVersion;
 });  
 ```
 
 This will append the `Device` text field with the appropriate `firebolt Device` information and show it on your screen. This is also the module you'd use to check details such as device IDs and manufacturer makes and models.
 
 3. Refresh your browser, and you should now see
-       ![Adding device info](./images/Adding-device-info.png)
+       ![Adding device info](.../images/Adding-device-info.png)
 
 
-### Step 4: Listening for events 
+### Step 4: Listening for events
 
 Let's add the Lifecycle event listeners to your app. This will allow it to respond to the various Lifecycle states an app may go through.
 
@@ -209,13 +209,13 @@ Lifecycle.ready();
 
 > The Lifecycle state and background color change to reflect the transitions to the 'Foreground' state
 
-![Inactive state](./images/Adding-device-info.png)
+![Inactive state](.../images/Adding-device-info.png)
 
-![Lifecycle inactive State](./images/lifecycle-inactive.png)
+![Lifecycle inactive State](.../images/lifecycle-inactive.png)
 
-![Foreground State](./images/lifecycle-foreground.png)
+![Foreground State](.../images/lifecycle-foreground.png)
 
-![Hello World - End State Video](./images/Hello-World-Video.gif)
+![Hello World - End State Video](.../images/Hello-World-Video.gif)
 
 
 The Lifecycle state and background color change to reflect the transitions to the `Foreground` state.
@@ -242,7 +242,7 @@ To use Firebolt's mock application, repeat all the steps above but make these ch
 
 3. Follow the rest of the steps as written above. With your browser open, append `?mf=true` to the end of the URL above.
 
-![localhost mf=true Closeup](./images/localhost-mfistrue-Closeup.jpg)
+![localhost mf=true Closeup](.../images/localhost-mfistrue-Closeup.jpg)
 
 ### Connect Hello World with Mock Firebolt
 
@@ -284,7 +284,7 @@ cd src
 
 Now you can modify the Hello World Firebolt® app using the CLI.
 
-### Example: Changing the distributor from *Company* to *Videos R US* 
+### Example: Changing the distributor from *Company* to *Videos R US*
 
 In the CLI window where you're current directory is `$ src %` use the command:
 
@@ -292,15 +292,15 @@ In the CLI window where you're current directory is `$ src %` use the command:
 
 Refresh your browser, and you'll see the distributor go from `distributor: Company` to `distributor: Videos R Us`.
 
-![localhost mf=true](./images/localhost-mfistrue.jpg)
+![localhost mf=true](.../images/localhost-mfistrue.jpg)
 
-![localhost change distributor](./images/localhost-change-distributor.jpg)
+![localhost change distributor](.../images/localhost-change-distributor.jpg)
 
-## Hello World Examples - Let's play 
+## Hello World Examples - Let's play
 
 **Change the device model**
 
-To change the model of the device from `model: xi6` to say `xi3000` use the command: 
+To change the model of the device from `model: xi6` to say `xi3000` use the command:
 
 ````
 node cli.mjs --upload
@@ -308,7 +308,7 @@ node cli.mjs --upload
 
 **Change your app's Lifecycle**
 
-To send events such as methods, result keys, etc., use the command: 
+To send events such as methods, result keys, etc., use the command:
 
 ````
 node cli.mjs --event
@@ -318,13 +318,13 @@ To change the lifecycle, use the command above along with an example file path a
 
     node cli.mjs --event ../examples/lifecycle-initializing-to-inactive.event.json
 
-![inatctive state](./images/inatctive-state.jpg)
+![inatctive state](.../images/inatctive-state.jpg)
 
 As an example going from inactive to the foreground state would be
 
     node cli.mjs --event ../examples/../examples/lifecycle-inactive-to-foreground.event.json
 
-# Conclusion 
+# Conclusion
 
 *Congratulations*, you did it! You made your very first Firebolt® app!
 

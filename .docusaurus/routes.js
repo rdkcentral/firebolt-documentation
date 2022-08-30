@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/0.5.3/',
-    component: ComponentCreator('/firebolt-documentation/docs/0.5.3/', '20d'),
+    component: ComponentCreator('/firebolt-documentation/docs/0.5.3/', '518'),
     routes: [
       {
         path: '/firebolt-documentation/docs/0.5.3/',
@@ -317,6 +317,12 @@ export default [
         sidebar: "firebolt_docs"
       },
       {
+        path: '/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/prerequisites/',
+        component: ComponentCreator('/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/prerequisites/', '7f1'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
         path: '/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/quick-start-guide/',
         component: ComponentCreator('/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/quick-start-guide/', '302'),
         exact: true,
@@ -356,7 +362,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/0.6.0-alpha.1/',
-    component: ComponentCreator('/firebolt-documentation/docs/0.6.0-alpha.1/', 'd1c'),
+    component: ComponentCreator('/firebolt-documentation/docs/0.6.0-alpha.1/', 'f1c'),
     routes: [
       {
         path: '/firebolt-documentation/docs/0.6.0-alpha.1/',
@@ -635,6 +641,12 @@ export default [
         sidebar: "firebolt_docs"
       },
       {
+        path: '/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites/',
+        component: ComponentCreator('/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites/', '59e'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
         path: '/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/quick-start-guide/',
         component: ComponentCreator('/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/quick-start-guide/', 'ae1'),
         exact: true,
@@ -674,7 +686,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/0.6.0-alpha.2/',
-    component: ComponentCreator('/firebolt-documentation/docs/0.6.0-alpha.2/', '67d'),
+    component: ComponentCreator('/firebolt-documentation/docs/0.6.0-alpha.2/', 'e7e'),
     routes: [
       {
         path: '/firebolt-documentation/docs/0.6.0-alpha.2/',
@@ -959,6 +971,12 @@ export default [
         sidebar: "firebolt_docs"
       },
       {
+        path: '/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites/',
+        component: ComponentCreator('/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites/', 'df6'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
         path: '/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/quick-start-guide/',
         component: ComponentCreator('/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/quick-start-guide/', '693'),
         exact: true,
@@ -998,7 +1016,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/0.6.0/',
-    component: ComponentCreator('/firebolt-documentation/docs/0.6.0/', 'fea'),
+    component: ComponentCreator('/firebolt-documentation/docs/0.6.0/', '760'),
     routes: [
       {
         path: '/firebolt-documentation/docs/0.6.0/',
@@ -1277,6 +1295,12 @@ export default [
         sidebar: "firebolt_docs"
       },
       {
+        path: '/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/prerequisites/',
+        component: ComponentCreator('/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/prerequisites/', 'a05'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
         path: '/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide/',
         component: ComponentCreator('/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide/', '54f'),
         exact: true,
@@ -1316,7 +1340,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/0.6.1/',
-    component: ComponentCreator('/firebolt-documentation/docs/0.6.1/', '13c'),
+    component: ComponentCreator('/firebolt-documentation/docs/0.6.1/', '0b1'),
     routes: [
       {
         path: '/firebolt-documentation/docs/0.6.1/',
@@ -1595,6 +1619,12 @@ export default [
         sidebar: "firebolt_docs"
       },
       {
+        path: '/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/prerequisites/',
+        component: ComponentCreator('/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/prerequisites/', '6de'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
         path: '/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/quick-start-guide/',
         component: ComponentCreator('/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/quick-start-guide/', '364'),
         exact: true,
@@ -1634,7 +1664,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/0.7.0/',
-    component: ComponentCreator('/firebolt-documentation/docs/0.7.0/', 'dc2'),
+    component: ComponentCreator('/firebolt-documentation/docs/0.7.0/', 'ab9'),
     routes: [
       {
         path: '/firebolt-documentation/docs/0.7.0/',
@@ -1903,6 +1933,12 @@ export default [
       {
         path: '/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt/',
         component: ComponentCreator('/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt/', '7d1'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
+        path: '/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/prerequisites/',
+        component: ComponentCreator('/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/prerequisites/', '5b7'),
         exact: true,
         sidebar: "firebolt_docs"
       },
@@ -2270,7 +2306,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/',
-    component: ComponentCreator('/firebolt-documentation/docs/', '6ec'),
+    component: ComponentCreator('/firebolt-documentation/docs/', 'c25'),
     routes: [
       {
         path: '/firebolt-documentation/docs/',
@@ -2545,6 +2581,12 @@ export default [
       {
         path: '/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt/',
         component: ComponentCreator('/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt/', 'bd1'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
+        path: '/firebolt-documentation/docs/firebolt_docs/getting-started/prerequisites/',
+        component: ComponentCreator('/firebolt-documentation/docs/firebolt_docs/getting-started/prerequisites/', '910'),
         exact: true,
         sidebar: "firebolt_docs"
       },

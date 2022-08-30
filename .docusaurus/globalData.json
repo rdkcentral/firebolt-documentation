@@ -474,6 +474,11 @@
               "sidebar": "firebolt_docs"
             },
             {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
               "id": "firebolt_docs/getting-started/quick-start-guide",
               "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide",
               "sidebar": "firebolt_docs"
@@ -756,6 +761,11 @@
             {
               "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/prerequisites",
               "sidebar": "firebolt_docs"
             },
             {
@@ -1046,6 +1056,11 @@
             {
               "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/prerequisites",
               "sidebar": "firebolt_docs"
             },
             {
@@ -1344,6 +1359,11 @@
               "sidebar": "firebolt_docs"
             },
             {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
               "id": "firebolt_docs/getting-started/quick-start-guide",
               "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/quick-start-guide",
               "sidebar": "firebolt_docs"
@@ -1631,6 +1651,11 @@
             {
               "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites",
               "sidebar": "firebolt_docs"
             },
             {
@@ -1924,6 +1949,11 @@
               "sidebar": "firebolt_docs"
             },
             {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
               "id": "firebolt_docs/getting-started/quick-start-guide",
               "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide",
               "sidebar": "firebolt_docs"
@@ -2206,6 +2236,11 @@
             {
               "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/prerequisites",
               "sidebar": "firebolt_docs"
             },
             {

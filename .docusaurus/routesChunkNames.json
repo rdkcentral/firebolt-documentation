@@ -694,7 +694,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-alpha-2-firebolt-docs-profile-profile-flags-8-d-5-672"
   },
-  "/firebolt-documentation/docs/0.6.0/-ae3": {
+  "/firebolt-documentation/docs/0.6.0/-e1d": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-0-5-3-1-f-1-85a"
@@ -881,9 +881,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-firebolt-docs-getting-started-hello-world-eef-906"
   },
+  "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0/-ae6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-0-6-0-firebolt-docs-getting-started-hello-world-0-036-c65"
+  },
   "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt/-e96": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-0-6-0-firebolt-docs-getting-started-how-to-use-mock-firebolt-c-1-f-989"
+  },
+  "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0/-afe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-0-6-0-firebolt-docs-getting-started-how-to-use-mock-firebolt-0-5-d-3-12a"
   },
   "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide/-54f": {
     "__comp": "__comp---theme-doc-item-178-a40",

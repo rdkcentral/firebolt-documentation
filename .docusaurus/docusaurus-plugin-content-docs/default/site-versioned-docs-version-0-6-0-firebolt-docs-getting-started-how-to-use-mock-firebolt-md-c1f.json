@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "firebolt_docs",
   "previous": {
-    "title": "hello-world",
-    "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world"
+    "title": "Hello World Guide",
+    "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0"
   },
   "next": {
-    "title": "Getting Started",
-    "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide"
+    "title": "How to use Mock Firebolt",
+    "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0"
   }
 }

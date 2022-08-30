@@ -32,9 +32,21 @@
           },
           {
             "type": "link",
+            "label": "Hello World Guide",
+            "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0",
+            "docId": "firebolt_docs/getting-started/hello-world0"
+          },
+          {
+            "type": "link",
             "label": "how-to-use-mock-firebolt",
             "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
             "docId": "firebolt_docs/getting-started/how-to-use-mock-firebolt"
+          },
+          {
+            "type": "link",
+            "label": "How to use Mock Firebolt",
+            "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0",
+            "docId": "firebolt_docs/getting-started/how-to-use-mock-firebolt0"
           },
           {
             "type": "link",
@@ -612,9 +624,21 @@
       "description": "",
       "sidebar": "firebolt_docs"
     },
+    "firebolt_docs/getting-started/hello-world0": {
+      "id": "firebolt_docs/getting-started/hello-world0",
+      "title": "Hello World Guide",
+      "description": "",
+      "sidebar": "firebolt_docs"
+    },
     "firebolt_docs/getting-started/how-to-use-mock-firebolt": {
       "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
       "title": "how-to-use-mock-firebolt",
+      "description": "",
+      "sidebar": "firebolt_docs"
+    },
+    "firebolt_docs/getting-started/how-to-use-mock-firebolt0": {
+      "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt0",
+      "title": "How to use Mock Firebolt",
       "description": "",
       "sidebar": "firebolt_docs"
     },

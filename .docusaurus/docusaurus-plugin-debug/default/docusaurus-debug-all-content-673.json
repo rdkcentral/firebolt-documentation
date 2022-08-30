@@ -9280,6 +9280,31 @@
                 "permalink": "/firebolt-documentation/docs/0.6.0/category/getting-started"
               },
               "next": {
+                "title": "Hello World Guide",
+                "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/hello-world0",
+              "id": "version-0.6.0/firebolt_docs/getting-started/hello-world0",
+              "title": "Hello World Guide",
+              "description": "",
+              "source": "@site/versioned_docs/version-0.6.0/firebolt_docs/getting-started/hello-world0.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/hello-world0",
+              "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0",
+              "draft": false,
+              "tags": [],
+              "version": "0.6.0",
+              "frontMatter": {
+                "title": "Hello World Guide"
+              },
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "hello-world",
+                "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world"
+              },
+              "next": {
                 "title": "how-to-use-mock-firebolt",
                 "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               }
@@ -9299,8 +9324,33 @@
               "frontMatter": {},
               "sidebar": "firebolt_docs",
               "previous": {
-                "title": "hello-world",
-                "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world"
+                "title": "Hello World Guide",
+                "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0"
+              },
+              "next": {
+                "title": "How to use Mock Firebolt",
+                "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt0",
+              "id": "version-0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0",
+              "title": "How to use Mock Firebolt",
+              "description": "",
+              "source": "@site/versioned_docs/version-0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/how-to-use-mock-firebolt0",
+              "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0",
+              "draft": false,
+              "tags": [],
+              "version": "0.6.0",
+              "frontMatter": {
+                "title": "How to use Mock Firebolt"
+              },
+              "sidebar": "firebolt_docs",
+              "previous": {
+                "title": "how-to-use-mock-firebolt",
+                "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
               "next": {
                 "title": "Getting Started",
@@ -9486,7 +9536,15 @@
                   },
                   {
                     "type": "doc",
+                    "id": "version-0.6.0/firebolt_docs/getting-started/hello-world0"
+                  },
+                  {
+                    "type": "doc",
                     "id": "version-0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0"
                   },
                   {
                     "type": "doc",

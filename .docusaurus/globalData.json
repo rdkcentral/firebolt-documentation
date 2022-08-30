@@ -1919,8 +1919,18 @@
               "sidebar": "firebolt_docs"
             },
             {
+              "id": "firebolt_docs/getting-started/hello-world0",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0",
+              "sidebar": "firebolt_docs"
+            },
+            {
               "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt0",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0",
               "sidebar": "firebolt_docs"
             },
             {

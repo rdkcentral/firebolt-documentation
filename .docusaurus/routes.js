@@ -998,7 +998,7 @@ export default [
   },
   {
     path: '/firebolt-documentation/docs/0.6.0/',
-    component: ComponentCreator('/firebolt-documentation/docs/0.6.0/', 'ae3'),
+    component: ComponentCreator('/firebolt-documentation/docs/0.6.0/', 'e1d'),
     routes: [
       {
         path: '/firebolt-documentation/docs/0.6.0/',
@@ -1271,8 +1271,20 @@ export default [
         sidebar: "firebolt_docs"
       },
       {
+        path: '/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0/',
+        component: ComponentCreator('/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0/', 'ae6'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
         path: '/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt/',
         component: ComponentCreator('/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt/', 'e96'),
+        exact: true,
+        sidebar: "firebolt_docs"
+      },
+      {
+        path: '/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0/',
+        component: ComponentCreator('/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0/', 'afe'),
         exact: true,
         sidebar: "firebolt_docs"
       },

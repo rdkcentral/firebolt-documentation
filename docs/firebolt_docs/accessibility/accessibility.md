@@ -45,7 +45,7 @@ Audio description refers to audio-narrated descriptions of key visual elements o
 ## Voice Commands
 The voice remote provides a new level of independence to customers who have limited mobility or dexterity, or have a visual disability. By using simple voice commands, customers can change channels, search for shows, enable closed captioning and more. The voice remote also includes a back-lit keypad making it easier to see the buttons in the dark.
 
-Learn more about how to implement this feature in our [Voice Commands](./voice-commands.md) documentation.
+Learn more about how to implement this feature in our [Voice Commands](../discovery/voice-commands.md) documentation.
 
 ## Color Contrast
 Your user's television screens render color differently than their other screens such as computers and mobile devices. Because of this, we've outlined some simple tips:

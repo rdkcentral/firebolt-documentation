@@ -1,4 +1,4 @@
-# Overview 
+# Prerequisites 
 
 This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening. 
 

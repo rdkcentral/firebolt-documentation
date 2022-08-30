@@ -13,7 +13,7 @@ There are two parental controls use cases that your app **must** provide:
 
 Each of these features is offered by the platform as an easy one-line API integration. Your app may also implement these features from scratch if you have the infrastructure to do so. Your app may mix and match its own approval features with the platform-provided features as needed to ensure that both types of approvals are available.
 
-Your app **must** also ensure that a profile can't access content through a deep link. Deep-linking offers the user navigation that allows them to navigate an item and start playback immediately; your app should check what content rating privileges/purchasing privileges the user has available less you create a backdoor for precocious kids. See [Deep Linking](./deep-linking.md) for more info.
+Your app **must** also ensure that a profile can't access content through a deep link. Deep-linking offers the user navigation that allows them to navigate an item and start playback immediately; your app should check what content rating privileges/purchasing privileges the user has available less you create a backdoor for precocious kids. See [Deep Linking](../discovery/deep-linking.md) for more info.
 
 ## Content Ratings Approval
 See either the [Platform-provided](platform-provided-content-ratings-approval) or [App-provided](app-provided-content-ratings-approval) solutions below.
@@ -21,7 +21,7 @@ See either the [Platform-provided](platform-provided-content-ratings-approval) o
 ### Platform-provided Content Ratings Approval
 Integrating with the platform's Content Ratings Approval feature requires calling the [Profile.approveContentRating() API](/api/profile/#approvecontentrating).
 
-Before initiating [mature content](./app-rating-guideliens.md), your app **must** ensure that the current user has approval to view it.
+Before initiating mature content, your app **must** ensure that the current user has approval to view it.
 
 To do this, simply call the `Profile.approveContentRating()` method:
 

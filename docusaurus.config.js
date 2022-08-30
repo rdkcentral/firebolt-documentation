@@ -27,23 +27,23 @@ module.exports = {
     users: [
       {
         caption: 'Sky Media',
-        image: '/img/logos/1stdibs.png',
-        infoLink: 'https://www.1stdibs.com/',
+        image: '/img/logos/sky-logo.png',
+        infoLink: 'https://www.sky.com/',
         pinned: true,
         description: 'Used on Sky Glass',
       },
       {
         caption: 'Comcast',
-        image: '/img/logos/artsy.png',
-        infoLink: 'http://artsy.github.io/open-source/',
+        image: '/img/logos/comcast-logo.png',
+        infoLink: 'https://www.xfinity.com/overview',
         pinned: true,
         description: 'Used on artsy.net, and the React Native iOS app, Eigen.',
       },
 
     ],
   },
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'throw',
   onDuplicateRoutes: 'throw',
   presets: [
     [
@@ -151,7 +151,7 @@ module.exports = {
         },
         {
           href: 'https://github.com/rdkcentral/firebolt-documentation',
-          label: 'GitHub',
+          label: 'RDK Central',
           position: 'right',
         },
         // fbContent({
@@ -198,30 +198,30 @@ module.exports = {
             },
           ],
         },
-        {
-          title: 'Legal',
-          items: [
-            {
-              label: 'Privacy',
-              href: 'https://opensource.facebook.com/legal/privacy/',
-            },
-            {
-              label: 'Terms',
-              href: 'https://opensource.facebook.com/legal/terms/',
-            },
-            {
-              label: 'Data Policy',
-              href: 'https://opensource.facebook.com/legal/data-policy/',
-            },
-            {
-              label: 'Cookie Policy',
-              href: 'https://opensource.facebook.com/legal/cookie-policy/',
-            },
-          ],
-        },
+        // {
+        //   title: 'Legal',
+        //   items: [
+        //     {
+        //       label: 'Privacy',
+        //       href: 'https://opensource.facebook.com/legal/privacy/',
+        //     },
+        //     {
+        //       label: 'Terms',
+        //       href: 'https://opensource.facebook.com/legal/terms/',
+        //     },
+        //     {
+        //       label: 'Data Policy',
+        //       href: 'https://opensource.facebook.com/legal/data-policy/',
+        //     },
+        //     {
+        //       label: 'Cookie Policy',
+        //       href: 'https://opensource.facebook.com/legal/cookie-policy/',
+        //     },
+        //   ],
+        // },
       ],
       logo: {
-        src: 'img/relay.svg',
+        src: 'img/rdk no text.svg',
       },
       copyright: `Copyright © ${new Date().getFullYear()} RDK Central. Built with Docusaurus.`,
     },

@@ -58,7 +58,7 @@ Your app is ready when these three requirements are met.
 | ------------- | ----------- |
 | Response Time | The time it takes for your app to show a response to a user key-press must be less than 100ms. For example, user selects 'play' and it either starts playing or a 'loading' icon appears within 100ms. |
 | Playback Start | The amount of time between a user requesting playback and the asset starting playback must be less than 3 seconds. |
-| Deep Linking | Your app must support [Deep linking, via Navigation Intents](./deep-linking.md) |
+| Deep Linking | Your app must support [Deep linking, via Navigation Intents](../discovery/deep-linking.md) |
 
 Here is an example that listens for deep links, and then calls `ready()`:
 

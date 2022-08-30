@@ -33,7 +33,7 @@ In order to enable faster app launches, Firebolt may keep your app loaded even w
 
 This integrates your app with basic content discovery features for both deep links as well as in app search.
 
-See [Deep Linking and Navigation Intents](./deep-linking.md) for more info.
+See [Deep Linking and Navigation Intents](../discovery/deep-linking.md) for more info.
 
 ## Continue Watching
 The Continue Watching feature helps to drive traffic back into your app from an aggregated experience. By pushing viewing progress to the continue watching API, your app enables aggregated experiences to create prominent calls-to-action to resume that content, or watch the next piece of content in a grouping (ie: the next episode of a TV season).

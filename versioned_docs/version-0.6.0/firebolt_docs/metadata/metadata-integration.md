@@ -10,7 +10,7 @@ Asset metadata describes all the relevant, useful, and important information abo
 * The studio, actors, and crew involved
 
 ## Use cases
-Metadata allows people to discover your content easier whether they are inside your app or outside of your app. Metadata integration also gives your users the ability to use the platform's [Voice Commands](./voice-command.md) feature which can allow your app to reach a wider demographic and deliver content faster to your users.
+Metadata allows people to discover your content easier whether they are inside your app or outside of your app. Metadata integration also gives your users the ability to use the platform's [Voice Commands](./discovery/voice-command.md) feature which can allow your app to reach a wider demographic and deliver content faster to your users.
 
 For example, you may have a video called 'Dino Dance' on your app but you have a user outside of your app that wants to watch it. Your user can use the global search or say, "Watch Dino Dance" using the voice remote, and the platform will search your submitted metadata for a match. Since the metadata exists for the content, your app will launch and go to the 'Dino Dance' video.
 

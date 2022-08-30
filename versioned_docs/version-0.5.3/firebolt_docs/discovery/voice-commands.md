@@ -50,10 +50,10 @@ To see how each platform feature enables which functionality can be seen in the 
 | ------------------------------------------------ | ------------------------------------------------- |
 | Launch App                                       | [Lifecycle Management](./lifecycle-management.md) |
 | Control media playback                           | [Responding to Remote Keys](./remote-specifications.md#responding-to-keys)          |
-| Go to series/movie page within your app          | [Deep Linking](./deep-linking.md)                 |
-| Start playing a title within your app            | [Deep Linking](./deep-linking.md)                 |
-| Search for `<search query>` within your app      | [Deep Linking](./deep-linking.md)                 |
-| Go to a specific navigation page within your app | [Deep Linking](./deep-linking.md)                 |
+| Go to series/movie page within your app          | [Deep Linking](../discovery/deep-linking.md)                 |
+| Start playing a title within your app            | [Deep Linking](../discovery/deep-linking.md)                 |
+| Search for `<search query>` within your app      | [Deep Linking](../discovery/deep-linking.md)                 |
+| Go to a specific navigation page within your app | [Deep Linking](../discovery/deep-linking.md)                 |
 
 The platform will map these various types of Voice Commands to existing platform APIs to make integration more seamless, e.g. media playback Voice Commands are mapped to the corresponding remote key press values.
 

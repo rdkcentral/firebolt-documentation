@@ -1,8 +1,8 @@
-# Overview 
+# Prerequisites
 
-This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening. 
+This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.
 
-***Note:** Firebolt does not have any dependencies to run but it will require some package manager to install.* 
+***Note:** Firebolt does not have any dependencies to run but it will require some package manager to install.*
 
 # Installing Node
 
@@ -17,7 +17,7 @@ It's assumed that you have the ability to download and install software on your 
 
 1. In a web browser, put in the URL <https://nodejs.org/en/download/>. Select the **Windows Installer** button to download the latest default version. The Node.js installer includes the NPM package manager.
 
-![Windows Installer Option](./images/WindowsInstallerOption.png)
+![Windows Installer Option](../images/WindowsInstallerOption.png)
 
 ### Step 2: Install Node.js and NPM from the browser
 
@@ -48,8 +48,8 @@ It's assumed that you have the ability to download and install software on your 
     ```powershell
     npm -v
     ```
-    
-    
+
+
 
 ## Installing for Mac
 
@@ -59,11 +59,11 @@ Node on Mac can be installed directly from Node.js or it can be installed with t
 
 It's assumed that you have the ability to download and install software on your machine as well as have access to a command-line interface (CLI) tool such as Mac's terminal tool.
 
-### Step 1: 
+### Step 1:
 
 1. **Download Node.js Installer**: In a web browser, go to <https://nodejs.org/en/download/>. Select the **Mac Installer** button to download the latest default version. The Node.js installer includes the NPM package manager.
 
-### Step 2: 
+### Step 2:
 
 1.  Once the installer finishes downloading, launch it. Open the location where you have saved the file and double-click it to launch.
 
@@ -77,7 +77,7 @@ It's assumed that you have the ability to download and install software on your 
 
 5.  When it finishes, select **Finish**.
 
-### Step 3: Verify Installation: 
+### Step 3: Verify Installation:
 
 1. Open Terminal or your preferred command-line tool and enter the following:
 
@@ -90,4 +90,3 @@ It's assumed that you have the ability to download and install software on your 
 ## Installing for Linux
 
 Linux has many options - here is our favorite "How-to guide" on installing Node.js for your Linux machine. <https://upstack.co/knowledge/how-to-install-node-js-on-linux>
-

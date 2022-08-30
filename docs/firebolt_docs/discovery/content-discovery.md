@@ -29,11 +29,11 @@ Asset metadata is required to utilize many content discovery features. Asset met
 See [Metadata Integration](./metadata-integration.md) for more info.
 
 ## Navigation Intents
-In order to enable faster app launches, Firebolt may keep your app loaded even while it's not in use. In order to support "deep links," (ie: opening your app to a specific piece of content that the user selected) your app will need to integrate with the Firebolt Navigation Intents feature. 
+In order to enable faster app launches, Firebolt may keep your app loaded even while it's not in use. In order to support "deep links," (ie: opening your app to a specific piece of content that the user selected) your app will need to integrate with the Firebolt Navigation Intents feature.
 
 This integrates your app with basic content discovery features for both deep links as well as in app search.
 
-See [Deep Linking and Navigation Intents](./deep-linking.md) for more info.
+See [Deep Linking and Navigation Intents](../discovery/deep-linking.md) for more info.
 
 ## Continue Watching
 The Continue Watching feature helps to drive traffic back into your app from an aggregated experience. By pushing viewing progress to the continue watching API, your app enables aggregated experiences to create prominent calls-to-action to resume that content, or watch the next piece of content in a grouping (ie: the next episode of a TV season).

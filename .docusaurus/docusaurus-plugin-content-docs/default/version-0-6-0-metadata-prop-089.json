@@ -26,6 +26,12 @@
         "items": [
           {
             "type": "link",
+            "label": "Getting Started",
+            "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide",
+            "docId": "firebolt_docs/getting-started/quick-start-guide"
+          },
+          {
+            "type": "link",
             "label": "Hello World Guide",
             "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world-guide",
             "docId": "firebolt_docs/getting-started/hello-world-guide"
@@ -38,15 +44,9 @@
           },
           {
             "type": "link",
-            "label": "Overview",
+            "label": "Prerequisites",
             "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/prerequisites",
             "docId": "firebolt_docs/getting-started/prerequisites"
-          },
-          {
-            "type": "link",
-            "label": "Getting Started",
-            "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide",
-            "docId": "firebolt_docs/getting-started/quick-start-guide"
           }
         ],
         "href": "/firebolt-documentation/docs/0.6.0/category/getting-started"
@@ -626,7 +626,7 @@
     },
     "firebolt_docs/getting-started/prerequisites": {
       "id": "firebolt_docs/getting-started/prerequisites",
-      "title": "Overview",
+      "title": "Prerequisites",
       "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
       "sidebar": "firebolt_docs"
     },

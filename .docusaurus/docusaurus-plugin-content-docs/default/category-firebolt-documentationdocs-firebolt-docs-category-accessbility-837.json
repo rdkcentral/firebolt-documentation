@@ -4,8 +4,8 @@
   "permalink": "/firebolt-documentation/docs/category/accessbility",
   "navigation": {
     "previous": {
-      "title": "Getting Started",
-      "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide"
+      "title": "Prerequisites",
+      "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/prerequisites"
     },
     "next": {
       "title": "Accessibility Overview",

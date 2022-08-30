@@ -54,7 +54,7 @@ const HomeSplash = () => {
       <div className="homeContainer">
         <div className="homeSplashFade">
           <div className="logo">
-            <img src={useBaseUrl('img/relay-white.svg')} />
+            <img src={useBaseUrl('img/rdk-white.svg')} />
           </div>
           <div className="wrapper homeWrapper">
             <h2 className="projectTitle">
@@ -519,11 +519,7 @@ export default function ArtistCard(props) {
           <div>
             <div className="logosHomepage">{showcase}</div>
           </div>
-          <div className="more-users">
-            //<Link className="button" to="/users">
-            //  More Relay Users
-          //  </Link>
-          </div>
+          
         </Container>
       </div>
     </div>

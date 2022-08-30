@@ -10,8 +10,10 @@
   "draft": false,
   "tags": [],
   "version": "0.6.1",
+  "sidebarPosition": 1,
   "frontMatter": {
-    "title": "Getting Started"
+    "title": "Getting Started",
+    "sidebar_position": 1
   },
   "sidebar": "firebolt_docs",
   "next": {

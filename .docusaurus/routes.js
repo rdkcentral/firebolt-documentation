@@ -3,11 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/firebolt-documentation/versions/',
-    component: ComponentCreator('/firebolt-documentation/versions/', 'd32'),
-    exact: true
-  },
-  {
     path: '/firebolt-documentation/docs/0.5.3/',
     component: ComponentCreator('/firebolt-documentation/docs/0.5.3/', '518'),
     routes: [

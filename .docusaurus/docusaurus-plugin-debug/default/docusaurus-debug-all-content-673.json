@@ -11432,11 +11432,6 @@
         "type": "jsx",
         "permalink": "/firebolt-documentation/",
         "source": "@site/src/pages/index.js"
-      },
-      {
-        "type": "jsx",
-        "permalink": "/firebolt-documentation/versions",
-        "source": "@site/src/pages/versions.js"
       }
     ]
   },

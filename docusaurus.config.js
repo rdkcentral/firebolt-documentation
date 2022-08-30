@@ -30,19 +30,19 @@ module.exports = {
         image: '/img/logos/sky-logo.png',
         infoLink: 'https://www.sky.com/',
         pinned: true,
-        description: 'Used on Sky Glass',
+        description: 'Used on Sky Glass.',
       },
       {
         caption: 'Comcast',
         image: '/img/logos/comcast-logo.png',
         infoLink: 'https://www.xfinity.com/overview',
         pinned: true,
-        description: 'Used on artsy.net, and the React Native iOS app, Eigen.',
+        description: 'Used on Comcast devices.',
       },
 
     ],
   },
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'throw',
   onDuplicateRoutes: 'throw',
   presets: [
@@ -71,6 +71,7 @@ module.exports = {
           //   internal: 'current',
           //   external: versions[0],
           // }),
+          includeCurrentVersion:true,
           versions: {
             current: {
               label: 'Next 🚧',

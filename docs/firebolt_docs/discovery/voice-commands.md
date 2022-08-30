@@ -46,10 +46,10 @@ Voice commands will is presented to your app via three different platform featur
 
 To see how each platform feature enables which functionality can be seen in the table below.
 
-| Voice Feature                                    | Platform Feature                                  |
-| ------------------------------------------------ | ------------------------------------------------- |
+| Voice Feature                                    | Platform Feature                                             |
+| ------------------------------------------------ | ------------------------------------------------------------ |
 | Launch App                                       | [Lifecycle Management](../app-lifecycle/lifecycle-management.md) |
-| Control media playback                           | [Responding to Remote Keys](./remote-specifications.md#responding-to-keys)          |
+| Control media playback                           | Respond to Remote Keys |
 | Go to series/movie page within your app          | [Deep Linking](../discovery/deep-linking.md)                 |
 | Start playing a title within your app            | [Deep Linking](../discovery/deep-linking.md)                 |
 | Search for `<search query>` within your app      | [Deep Linking](../discovery/deep-linking.md)                 |

@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/firebolt-documentation/__docusaurus/debug/',
-    component: ComponentCreator('/firebolt-documentation/__docusaurus/debug/', 'fd7'),
-    exact: true
-  },
-  {
-    path: '/firebolt-documentation/__docusaurus/debug/config/',
-    component: ComponentCreator('/firebolt-documentation/__docusaurus/debug/config/', 'df0'),
-    exact: true
-  },
-  {
-    path: '/firebolt-documentation/__docusaurus/debug/content/',
-    component: ComponentCreator('/firebolt-documentation/__docusaurus/debug/content/', 'e38'),
-    exact: true
-  },
-  {
-    path: '/firebolt-documentation/__docusaurus/debug/globalData/',
-    component: ComponentCreator('/firebolt-documentation/__docusaurus/debug/globalData/', 'c37'),
-    exact: true
-  },
-  {
-    path: '/firebolt-documentation/__docusaurus/debug/metadata/',
-    component: ComponentCreator('/firebolt-documentation/__docusaurus/debug/metadata/', '144'),
-    exact: true
-  },
-  {
-    path: '/firebolt-documentation/__docusaurus/debug/registry/',
-    component: ComponentCreator('/firebolt-documentation/__docusaurus/debug/registry/', 'c72'),
-    exact: true
-  },
-  {
-    path: '/firebolt-documentation/__docusaurus/debug/routes/',
-    component: ComponentCreator('/firebolt-documentation/__docusaurus/debug/routes/', '82f'),
-    exact: true
-  },
-  {
     path: '/firebolt-documentation/versions/',
     component: ComponentCreator('/firebolt-documentation/versions/', 'd32'),
     exact: true

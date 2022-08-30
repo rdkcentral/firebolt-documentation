@@ -464,8 +464,8 @@
               "sidebar": "firebolt_docs"
             },
             {
-              "id": "firebolt_docs/getting-started/hello-world",
-              "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world",
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world-guide",
               "sidebar": "firebolt_docs"
             },
             {
@@ -749,8 +749,8 @@
               "sidebar": "firebolt_docs"
             },
             {
-              "id": "firebolt_docs/getting-started/hello-world",
-              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/hello-world",
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/hello-world-guide",
               "sidebar": "firebolt_docs"
             },
             {
@@ -1039,8 +1039,8 @@
               "sidebar": "firebolt_docs"
             },
             {
-              "id": "firebolt_docs/getting-started/hello-world",
-              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/hello-world",
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/hello-world-guide",
               "sidebar": "firebolt_docs"
             },
             {
@@ -1334,8 +1334,8 @@
               "sidebar": "firebolt_docs"
             },
             {
-              "id": "firebolt_docs/getting-started/hello-world",
-              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/hello-world",
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/hello-world-guide",
               "sidebar": "firebolt_docs"
             },
             {
@@ -1624,8 +1624,8 @@
               "sidebar": "firebolt_docs"
             },
             {
-              "id": "firebolt_docs/getting-started/hello-world",
-              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/hello-world",
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/hello-world-guide",
               "sidebar": "firebolt_docs"
             },
             {
@@ -1914,23 +1914,13 @@
               "sidebar": "firebolt_docs"
             },
             {
-              "id": "firebolt_docs/getting-started/hello-world",
-              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world",
-              "sidebar": "firebolt_docs"
-            },
-            {
-              "id": "firebolt_docs/getting-started/hello-world0",
-              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0",
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world-guide",
               "sidebar": "firebolt_docs"
             },
             {
               "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
               "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
-              "sidebar": "firebolt_docs"
-            },
-            {
-              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt0",
-              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0",
               "sidebar": "firebolt_docs"
             },
             {

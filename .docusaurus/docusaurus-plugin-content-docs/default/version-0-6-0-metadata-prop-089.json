@@ -26,27 +26,15 @@
         "items": [
           {
             "type": "link",
-            "label": "hello-world",
-            "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world",
-            "docId": "firebolt_docs/getting-started/hello-world"
+            "label": "Welcome",
+            "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world-guide",
+            "docId": "firebolt_docs/getting-started/hello-world-guide"
           },
           {
             "type": "link",
-            "label": "Hello World Guide",
-            "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world0",
-            "docId": "firebolt_docs/getting-started/hello-world0"
-          },
-          {
-            "type": "link",
-            "label": "how-to-use-mock-firebolt",
+            "label": "Welcome",
             "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
             "docId": "firebolt_docs/getting-started/how-to-use-mock-firebolt"
-          },
-          {
-            "type": "link",
-            "label": "How to use Mock Firebolt",
-            "href": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt0",
-            "docId": "firebolt_docs/getting-started/how-to-use-mock-firebolt0"
           },
           {
             "type": "link",
@@ -618,28 +606,16 @@
       "description": "Voice commands allow your users to press a button and speak to their remotes and go directly to an experience they want to find. Our platform includes built-in voice functions which enable your users to launch apps and control media playback. Additionally, there are a wide range of other voice commands that give more flexibility to your users. These require a level of integration if you wish to take advantage of their benefits.",
       "sidebar": "firebolt_docs"
     },
-    "firebolt_docs/getting-started/hello-world": {
-      "id": "firebolt_docs/getting-started/hello-world",
-      "title": "hello-world",
-      "description": "",
-      "sidebar": "firebolt_docs"
-    },
-    "firebolt_docs/getting-started/hello-world0": {
-      "id": "firebolt_docs/getting-started/hello-world0",
-      "title": "Hello World Guide",
-      "description": "",
+    "firebolt_docs/getting-started/hello-world-guide": {
+      "id": "firebolt_docs/getting-started/hello-world-guide",
+      "title": "Welcome",
+      "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
       "sidebar": "firebolt_docs"
     },
     "firebolt_docs/getting-started/how-to-use-mock-firebolt": {
       "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
-      "title": "how-to-use-mock-firebolt",
-      "description": "",
-      "sidebar": "firebolt_docs"
-    },
-    "firebolt_docs/getting-started/how-to-use-mock-firebolt0": {
-      "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt0",
-      "title": "How to use Mock Firebolt",
-      "description": "",
+      "title": "Welcome",
+      "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
       "sidebar": "firebolt_docs"
     },
     "firebolt_docs/getting-started/quick-start-guide": {

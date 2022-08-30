@@ -1,8 +1,8 @@
 {
   "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
   "id": "version-0.8.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
-  "title": "how-to-use-mock-firebolt",
-  "description": "",
+  "title": "Welcome",
+  "description": "In this practical guide, you'll learn how to set up and use Mock Firebolt.",
   "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
   "sourceDirName": "firebolt_docs/getting-started",
   "slug": "/firebolt_docs/getting-started/how-to-use-mock-firebolt",
@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "firebolt_docs",
   "previous": {
-    "title": "hello-world",
-    "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world"
+    "title": "Welcome",
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world-guide"
   },
   "next": {
     "title": "Getting Started",

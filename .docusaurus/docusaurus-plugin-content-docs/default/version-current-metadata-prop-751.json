@@ -20,7 +20,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Firebolt Release Notes",
+            "label": "Changelog",
             "href": "/firebolt-documentation/docs/next/changelog/",
             "docId": "changelog/changelog"
           }
@@ -29,7 +29,7 @@
       },
       {
         "type": "category",
-        "label": "api",
+        "label": "Firebolt Core SDK",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -90,12 +90,6 @@
                 "label": "Types",
                 "href": "/firebolt-documentation/docs/next/api/schemas/Types",
                 "docId": "api/schemas/Types"
-              },
-              {
-                "type": "link",
-                "label": "_index",
-                "href": "/firebolt-documentation/docs/next/api/schemas/_index",
-                "docId": "api/schemas/_index"
               }
             ],
             "href": "/firebolt-documentation/docs/next/category/schemas"
@@ -178,7 +172,8 @@
             "href": "/firebolt-documentation/docs/next/api/SecondScreen",
             "docId": "api/SecondScreen"
           }
-        ]
+        ],
+        "href": "/firebolt-documentation/docs/next/api/"
       },
       {
         "type": "category",
@@ -196,6 +191,18 @@
             },
             "className": "getting-started",
             "items": [
+              {
+                "type": "link",
+                "label": "hello-world",
+                "href": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world",
+                "docId": "firebolt_docs/getting-started/hello-world"
+              },
+              {
+                "type": "link",
+                "label": "how-to-use-mock-firebolt",
+                "href": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+                "docId": "firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              },
               {
                 "type": "link",
                 "label": "Getting Started",
@@ -217,7 +224,7 @@
             "items": [
               {
                 "type": "link",
-                "label": "Accessibility",
+                "label": "Accessibility Overview",
                 "href": "/firebolt-documentation/docs/next/firebolt_docs/accessibility/",
                 "docId": "firebolt_docs/accessibility/accessibility"
               },
@@ -439,6 +446,12 @@
       "description": "---",
       "sidebar": "defaultSidebar"
     },
+    "api/index": {
+      "id": "api/index",
+      "title": "Firebolt Core SDK",
+      "description": "For building Firebolt compliant apps.",
+      "sidebar": "defaultSidebar"
+    },
     "api/Keyboard": {
       "id": "api/Keyboard",
       "title": "Keyboard",
@@ -473,12 +486,6 @@
       "id": "api/Profile",
       "title": "Profile",
       "description": "---",
-      "sidebar": "defaultSidebar"
-    },
-    "api/schemas/_index": {
-      "id": "api/schemas/_index",
-      "title": "_index",
-      "description": "",
       "sidebar": "defaultSidebar"
     },
     "api/schemas/Discovery": {
@@ -537,13 +544,13 @@
     },
     "changelog/changelog": {
       "id": "changelog/changelog",
-      "title": "Firebolt Release Notes",
+      "title": "Changelog",
       "description": "0.8.0",
       "sidebar": "defaultSidebar"
     },
     "firebolt_docs/accessibility/accessibility": {
       "id": "firebolt_docs/accessibility/accessibility",
-      "title": "Accessibility",
+      "title": "Accessibility Overview",
       "description": "Accessibility means building apps that can be enjoyed by everyone, regardless of abilities. Incorporating an inclusive approach can include considering color choices during design, integrating Voice Guidance capabilities, or ensuring videos include closed captions. It's also important to remember that you're building a global app.",
       "sidebar": "defaultSidebar"
     },
@@ -605,6 +612,18 @@
       "id": "firebolt_docs/discovery/voice-commands",
       "title": "Voice Commands",
       "description": "Voice commands allow your users to press a button and speak to their remotes and go directly to an experience they want to find. Our platform includes built-in voice functions which enable your users to launch apps and control media playback. Additionally, there are a wide range of other voice commands that give more flexibility to your users. These require a level of integration if you wish to take advantage of their benefits.",
+      "sidebar": "defaultSidebar"
+    },
+    "firebolt_docs/getting-started/hello-world": {
+      "id": "firebolt_docs/getting-started/hello-world",
+      "title": "hello-world",
+      "description": "",
+      "sidebar": "defaultSidebar"
+    },
+    "firebolt_docs/getting-started/how-to-use-mock-firebolt": {
+      "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+      "title": "how-to-use-mock-firebolt",
+      "description": "",
       "sidebar": "defaultSidebar"
     },
     "firebolt_docs/getting-started/quick-start-guide": {

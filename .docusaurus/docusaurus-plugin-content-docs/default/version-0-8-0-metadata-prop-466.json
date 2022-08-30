@@ -356,6 +356,14 @@
           }
         ]
       }
+    ],
+    "changelog": [
+      {
+        "type": "link",
+        "label": "Firebolt Release Notes",
+        "href": "/firebolt-documentation/docs/changelog/",
+        "docId": "changelog/changelog"
+      }
     ]
   },
   "docs": {
@@ -494,7 +502,8 @@
     "changelog/changelog": {
       "id": "changelog/changelog",
       "title": "Firebolt Release Notes",
-      "description": "0.8.0"
+      "description": "0.8.0",
+      "sidebar": "changelog"
     },
     "firebolt_docs/accessibility/accessibility": {
       "id": "firebolt_docs/accessibility/accessibility",

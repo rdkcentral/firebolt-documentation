@@ -10,5 +10,6 @@
   "draft": false,
   "tags": [],
   "version": "0.8.0",
-  "frontMatter": {}
+  "frontMatter": {},
+  "sidebar": "changelog"
 }

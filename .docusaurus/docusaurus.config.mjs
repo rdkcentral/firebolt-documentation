@@ -62,7 +62,7 @@ export default {
   "plugins": [],
   "themeConfig": {
     "navbar": {
-      "title": "Firebolt",
+      "title": "Firebolt Documentation",
       "style": "primary",
       "hideOnScroll": false,
       "items": [
@@ -81,19 +81,14 @@ export default {
         {
           "type": "docsVersionDropdown",
           "position": "right",
-          "dropdownItemsAfter": [
-            {
-              "to": "/versions",
-              "label": "All versions"
-            }
-          ],
           "dropdownActiveClassDisabled": true,
-          "dropdownItemsBefore": []
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
-          "type": "doc",
+          "type": "docSidebar",
           "position": "right",
-          "docId": "changelog/changelog",
+          "sidebarId": "changelog",
           "label": "Changelog"
         },
         {

@@ -1,4 +1,7 @@
-# Accessibility
+---
+title: Accessibility Overview
+---
+# Accessibility Overview
 
 Accessibility means building apps that can be enjoyed by everyone, regardless of abilities. Incorporating an inclusive approach can include considering color choices during design, integrating Voice Guidance capabilities, or ensuring videos include closed captions. It's also important to remember that you're building a global app.
 
@@ -8,7 +11,7 @@ That's where you come in. As a developer, you have the opportunity to create a p
 
 
 ## User Accessibility Preferences
-Your app can pull the devices' accessibility settings from your users using the [Accessibility](docs/api/Accessibility.md) API's. This will allow your app to stay in sync with your users' accessibility preferences so they do not have to configure it themselves within your app.
+Your app can pull the devices' accessibility settings from your users using the [Accessibility](../getting-started/quick-start-guide.md) API's. This will allow your app to stay in sync with your users' accessibility preferences so they do not have to configure it themselves within your app.
 
 ## Universal Design
 

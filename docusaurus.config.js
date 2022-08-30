@@ -76,6 +76,7 @@ module.exports = {
               label: 'Next 🚧',
             },
           },
+
         },
         blog: {},
         theme: {
@@ -115,7 +116,7 @@ module.exports = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Firebolt',
+      title: 'Firebolt Documentation',
       style: 'primary',
       hideOnScroll: false,
       items: [
@@ -139,13 +140,13 @@ module.exports = {
         {
           type: 'docsVersionDropdown',
           position: 'right',
-          dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
+          //dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
           dropdownActiveClassDisabled: true,
         },
         {
-          type: 'doc',
+          type: 'docSidebar',
           position: 'right',
-          docId: 'changelog/changelog',
+          sidebarId: 'changelog',
           label: 'Changelog',
         },
         {

@@ -1,7 +1,7 @@
 {
   "unversionedId": "api/index",
   "id": "api/index",
-  "title": "API Intro",
+  "title": "Firebolt Core SDK",
   "description": "For building Firebolt compliant apps.",
   "source": "@site/docs/api/index.md",
   "sourceDirName": "api",
@@ -11,12 +11,11 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "title": "API Intro",
-    "position": 1
+    "title": "Firebolt Core SDK"
   },
   "sidebar": "defaultSidebar",
   "previous": {
-    "title": "Firebolt Release Notes",
+    "title": "Changelog",
     "permalink": "/firebolt-documentation/docs/next/changelog/"
   },
   "next": {

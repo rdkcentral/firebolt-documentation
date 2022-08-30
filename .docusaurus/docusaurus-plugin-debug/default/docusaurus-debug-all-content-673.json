@@ -31,8 +31,8 @@
               },
               "sidebar": "defaultSidebar",
               "previous": {
-                "title": "_index",
-                "permalink": "/firebolt-documentation/docs/next/api/schemas/_index"
+                "title": "Types",
+                "permalink": "/firebolt-documentation/docs/next/api/schemas/Types"
               },
               "next": {
                 "title": "Account",
@@ -162,6 +162,31 @@
               "next": {
                 "title": "Keyboard",
                 "permalink": "/firebolt-documentation/docs/next/api/Keyboard"
+              }
+            },
+            {
+              "unversionedId": "api/index",
+              "id": "api/index",
+              "title": "Firebolt Core SDK",
+              "description": "For building Firebolt compliant apps.",
+              "source": "@site/docs/api/index.md",
+              "sourceDirName": "api",
+              "slug": "/api/",
+              "permalink": "/firebolt-documentation/docs/next/api/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Firebolt Core SDK"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Changelog",
+                "permalink": "/firebolt-documentation/docs/next/changelog/"
+              },
+              "next": {
+                "title": "Schemas",
+                "permalink": "/firebolt-documentation/docs/next/category/schemas"
               }
             },
             {
@@ -312,29 +337,6 @@
               "next": {
                 "title": "SecondScreen",
                 "permalink": "/firebolt-documentation/docs/next/api/SecondScreen"
-              }
-            },
-            {
-              "unversionedId": "api/schemas/_index",
-              "id": "api/schemas/_index",
-              "title": "_index",
-              "description": "",
-              "source": "@site/docs/api/schemas/_index.md",
-              "sourceDirName": "api/schemas",
-              "slug": "/api/schemas/_index",
-              "permalink": "/firebolt-documentation/docs/next/api/schemas/_index",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "defaultSidebar",
-              "previous": {
-                "title": "Types",
-                "permalink": "/firebolt-documentation/docs/next/api/schemas/Types"
-              },
-              "next": {
-                "title": "Accessibility",
-                "permalink": "/firebolt-documentation/docs/next/api/Accessibility"
               }
             },
             {
@@ -535,8 +537,8 @@
                 "permalink": "/firebolt-documentation/docs/next/api/schemas/SecondScreen"
               },
               "next": {
-                "title": "_index",
-                "permalink": "/firebolt-documentation/docs/next/api/schemas/_index"
+                "title": "Accessibility",
+                "permalink": "/firebolt-documentation/docs/next/api/Accessibility"
               }
             },
             {
@@ -567,7 +569,7 @@
             {
               "unversionedId": "changelog/changelog",
               "id": "changelog/changelog",
-              "title": "Firebolt Release Notes",
+              "title": "Changelog",
               "description": "0.8.0",
               "source": "@site/docs/changelog/changelog.md",
               "sourceDirName": "changelog",
@@ -583,14 +585,14 @@
                 "permalink": "/firebolt-documentation/docs/next/category/changelog"
               },
               "next": {
-                "title": "Schemas",
-                "permalink": "/firebolt-documentation/docs/next/category/schemas"
+                "title": "Firebolt Core SDK",
+                "permalink": "/firebolt-documentation/docs/next/api/"
               }
             },
             {
               "unversionedId": "firebolt_docs/accessibility/accessibility",
               "id": "firebolt_docs/accessibility/accessibility",
-              "title": "Accessibility",
+              "title": "Accessibility Overview",
               "description": "Accessibility means building apps that can be enjoyed by everyone, regardless of abilities. Incorporating an inclusive approach can include considering color choices during design, integrating Voice Guidance capabilities, or ensuring videos include closed captions. It's also important to remember that you're building a global app.",
               "source": "@site/docs/firebolt_docs/accessibility/accessibility.md",
               "sourceDirName": "firebolt_docs/accessibility",
@@ -599,7 +601,9 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "frontMatter": {
+                "title": "Accessibility Overview"
+              },
               "sidebar": "defaultSidebar",
               "previous": {
                 "title": "Accessbility",
@@ -627,7 +631,7 @@
               },
               "sidebar": "defaultSidebar",
               "previous": {
-                "title": "Accessibility",
+                "title": "Accessibility Overview",
                 "permalink": "/firebolt-documentation/docs/next/firebolt_docs/accessibility/"
               },
               "next": {
@@ -847,6 +851,52 @@
               }
             },
             {
+              "unversionedId": "firebolt_docs/getting-started/hello-world",
+              "id": "firebolt_docs/getting-started/hello-world",
+              "title": "hello-world",
+              "description": "",
+              "source": "@site/docs/firebolt_docs/getting-started/hello-world.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/hello-world",
+              "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/firebolt-documentation/docs/next/category/getting-started"
+              },
+              "next": {
+                "title": "how-to-use-mock-firebolt",
+                "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+              }
+            },
+            {
+              "unversionedId": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "title": "how-to-use-mock-firebolt",
+              "description": "",
+              "source": "@site/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt.md",
+              "sourceDirName": "firebolt_docs/getting-started",
+              "slug": "/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "hello-world",
+                "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/quick-start-guide"
+              }
+            },
+            {
               "unversionedId": "firebolt_docs/getting-started/quick-start-guide",
               "id": "firebolt_docs/getting-started/quick-start-guide",
               "title": "Getting Started",
@@ -863,8 +913,8 @@
               },
               "sidebar": "defaultSidebar",
               "previous": {
-                "title": "Getting Started",
-                "permalink": "/firebolt-documentation/docs/next/category/getting-started"
+                "title": "how-to-use-mock-firebolt",
+                "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
               "next": {
                 "title": "Accessbility",
@@ -1037,7 +1087,7 @@
               },
               {
                 "type": "category",
-                "label": "api",
+                "label": "Firebolt Core SDK",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -1083,10 +1133,6 @@
                       {
                         "type": "doc",
                         "id": "api/schemas/Types"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "api/schemas/_index"
                       }
                     ],
                     "link": {
@@ -1148,7 +1194,11 @@
                     "type": "doc",
                     "id": "api/SecondScreen"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "api/index"
+                }
               },
               {
                 "type": "category",
@@ -1166,6 +1216,14 @@
                     },
                     "className": "getting-started",
                     "items": [
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/getting-started/hello-world"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt"
+                      },
                       {
                         "type": "doc",
                         "id": "firebolt_docs/getting-started/quick-start-guide"
@@ -1943,7 +2001,8 @@
               "draft": false,
               "tags": [],
               "version": "0.8.0",
-              "frontMatter": {}
+              "frontMatter": {},
+              "sidebar": "changelog"
             },
             {
               "unversionedId": "firebolt_docs/accessibility/accessibility",
@@ -2671,6 +2730,12 @@
                     "id": "version-0.8.0/api/schemas/_index"
                   }
                 ]
+              }
+            ],
+            "changelog": [
+              {
+                "type": "doc",
+                "id": "version-0.8.0/changelog/changelog"
               }
             ]
           }

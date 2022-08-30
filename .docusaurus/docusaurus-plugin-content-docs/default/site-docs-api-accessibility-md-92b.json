@@ -15,8 +15,8 @@
   },
   "sidebar": "defaultSidebar",
   "previous": {
-    "title": "_index",
-    "permalink": "/firebolt-documentation/docs/next/api/schemas/_index"
+    "title": "Types",
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Types"
   },
   "next": {
     "title": "Account",

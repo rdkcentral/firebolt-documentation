@@ -49,7 +49,7 @@
     },
     "config": "config---firebolt-documentation-versions-5-e-9-254"
   },
-  "/firebolt-documentation/docs/next/-955": {
+  "/firebolt-documentation/docs/next/-21b": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-next-1-f-1-4d4"
@@ -59,6 +59,10 @@
   "/firebolt-documentation/docs/next/-53c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-next-c-37-4c3"
+  },
+  "/firebolt-documentation/docs/next/api/-7f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-next-api-5-e-8-45b"
   },
   "/firebolt-documentation/docs/next/api/Accessibility/-0e8": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -107,10 +111,6 @@
   "/firebolt-documentation/docs/next/api/Profile/-47e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-next-api-profile-274-c52"
-  },
-  "/firebolt-documentation/docs/next/api/schemas/_index/-774": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---firebolt-documentation-docs-next-api-schemas-index-571-972"
   },
   "/firebolt-documentation/docs/next/api/schemas/Discovery/-0d9": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -236,6 +236,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-next-firebolt-docs-discovery-voice-commands-955-3f0"
   },
+  "/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world/-5f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-getting-started-hello-world-3-b-0-38f"
+  },
+  "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt/-578": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---firebolt-documentation-docs-next-firebolt-docs-getting-started-how-to-use-mock-firebolt-d-89-8c2"
+  },
   "/firebolt-documentation/docs/next/firebolt_docs/getting-started/quick-start-guide/-c81": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-next-firebolt-docs-getting-started-quick-start-guide-b-67-28c"
@@ -260,7 +268,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-next-firebolt-docs-profile-profile-flags-81-d-6f7"
   },
-  "/firebolt-documentation/docs/-a57": {
+  "/firebolt-documentation/docs/-f20": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---firebolt-documentation-docs-next-1-f-1-4d4"
@@ -391,7 +399,7 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---firebolt-documentation-docs-category-profiles-afa-061"
   },
-  "/firebolt-documentation/docs/changelog/-dbf": {
+  "/firebolt-documentation/docs/changelog/-6ed": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---firebolt-documentation-docs-changelog-99-c-a06"
   },

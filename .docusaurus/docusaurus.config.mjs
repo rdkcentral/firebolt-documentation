@@ -13,7 +13,7 @@ export default {
   "projectName": "firebolt-documentation",
   "deploymentBranch": "main",
   "scripts": [],
-  "favicon": "img/favicon.png",
+  "favicon": "img/rdk-favicon.png",
   "customFields": {
     "users": [
       {

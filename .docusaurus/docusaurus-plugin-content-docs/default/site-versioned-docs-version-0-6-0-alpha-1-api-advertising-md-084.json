@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Advertising",
+  "id": "version-0.6.0-alpha.1/api/Advertising",
+  "title": "Advertising",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.0-alpha.1/api/Advertising.md",
+  "sourceDirName": "api",
+  "slug": "/api/Advertising",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Advertising",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0-alpha.1",
+  "frontMatter": {
+    "title": "Advertising"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Account",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Account"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Authentication"
+  }
+}

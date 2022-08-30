@@ -1,0 +1,15 @@
+{
+  "title": "Accessbility",
+  "slug": "/category/accessbility",
+  "permalink": "/firebolt-documentation/docs/0.6.1/category/accessbility",
+  "navigation": {
+    "previous": {
+      "title": "Getting Started",
+      "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/quick-start-guide"
+    },
+    "next": {
+      "title": "Accessibility Overview",
+      "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/accessibility/"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Profiles",
+  "slug": "/category/profiles",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/category/profiles",
+  "navigation": {
+    "previous": {
+      "title": "Open GMRSS Specifications",
+      "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/metadata/open-gmrss-format"
+    },
+    "next": {
+      "title": "Parental Controls",
+      "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/profile/parental-controls"
+    }
+  }
+}

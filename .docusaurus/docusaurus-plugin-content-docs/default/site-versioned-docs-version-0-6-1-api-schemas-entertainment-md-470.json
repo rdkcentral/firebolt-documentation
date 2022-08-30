@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/schemas/Entertainment",
+  "id": "version-0.6.1/api/schemas/Entertainment",
+  "title": "Entertainment",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.1/api/schemas/Entertainment.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/Entertainment",
+  "permalink": "/firebolt-documentation/docs/0.6.1/api/schemas/Entertainment",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.1",
+  "frontMatter": {
+    "title": "Entertainment"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Discovery",
+    "permalink": "/firebolt-documentation/docs/0.6.1/api/schemas/Discovery"
+  },
+  "next": {
+    "title": "Errors",
+    "permalink": "/firebolt-documentation/docs/0.6.1/api/schemas/Errors"
+  }
+}

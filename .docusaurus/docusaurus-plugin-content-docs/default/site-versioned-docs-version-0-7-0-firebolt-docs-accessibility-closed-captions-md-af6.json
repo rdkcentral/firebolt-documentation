@@ -1,0 +1,25 @@
+{
+  "unversionedId": "firebolt_docs/accessibility/closed-captions",
+  "id": "version-0.7.0/firebolt_docs/accessibility/closed-captions",
+  "title": "Closed Captions",
+  "description": "With accessibility settings, it’s important that your app follows your user’s device settings. When an app starts up it should grab your user’s current device accessibility settings and adapt to system accessibility changes that your user makes.",
+  "source": "@site/versioned_docs/version-0.7.0/firebolt_docs/accessibility/closed-captions.md",
+  "sourceDirName": "firebolt_docs/accessibility",
+  "slug": "/firebolt_docs/accessibility/closed-captions",
+  "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/accessibility/closed-captions",
+  "draft": false,
+  "tags": [],
+  "version": "0.7.0",
+  "frontMatter": {
+    "title": "Closed Captions"
+  },
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "Accessibility Overview",
+    "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/accessibility/"
+  },
+  "next": {
+    "title": "Voice Guidance",
+    "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/accessibility/voice-guidance"
+  }
+}

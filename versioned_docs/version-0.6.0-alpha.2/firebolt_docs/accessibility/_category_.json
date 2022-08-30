@@ -1,0 +1,14 @@
+{
+  "position": 2,
+  "label": "Accessbility",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "accessbility",
+  "link": {
+    "type": "generated-index",
+    "title": "Accessbility"
+  },
+  "customProps": {
+    "description": "Documents ensuring everyone can use what you build."
+  }
+}

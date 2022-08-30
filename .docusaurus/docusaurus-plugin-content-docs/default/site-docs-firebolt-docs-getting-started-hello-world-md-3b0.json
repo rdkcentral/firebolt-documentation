@@ -1,7 +1,7 @@
 {
   "unversionedId": "firebolt_docs/getting-started/hello-world",
   "id": "firebolt_docs/getting-started/hello-world",
-  "title": "hello-world",
+  "title": "Hello World Guide",
   "description": "",
   "source": "@site/docs/firebolt_docs/getting-started/hello-world.md",
   "sourceDirName": "firebolt_docs/getting-started",
@@ -10,14 +10,16 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "title": "Hello World Guide"
+  },
   "sidebar": "defaultSidebar",
   "previous": {
     "title": "Getting Started",
     "permalink": "/firebolt-documentation/docs/next/category/getting-started"
   },
   "next": {
-    "title": "how-to-use-mock-firebolt",
+    "title": "How to use Mock Firebolt",
     "permalink": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt"
   }
 }

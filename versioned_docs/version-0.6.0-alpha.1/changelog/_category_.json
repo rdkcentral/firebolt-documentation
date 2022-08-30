@@ -1,0 +1,14 @@
+{
+  "position": 1,
+  "label": "Changelog",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "changelog",
+  "link": {
+    "type": "generated-index",
+    "title": "Changelog"
+  },
+  "customProps": {
+    "description": ""
+  }
+}

@@ -193,13 +193,13 @@
             "items": [
               {
                 "type": "link",
-                "label": "hello-world",
+                "label": "Hello World Guide",
                 "href": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world",
                 "docId": "firebolt_docs/getting-started/hello-world"
               },
               {
                 "type": "link",
-                "label": "how-to-use-mock-firebolt",
+                "label": "How to use Mock Firebolt",
                 "href": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt",
                 "docId": "firebolt_docs/getting-started/how-to-use-mock-firebolt"
               },
@@ -616,13 +616,13 @@
     },
     "firebolt_docs/getting-started/hello-world": {
       "id": "firebolt_docs/getting-started/hello-world",
-      "title": "hello-world",
+      "title": "Hello World Guide",
       "description": "",
       "sidebar": "defaultSidebar"
     },
     "firebolt_docs/getting-started/how-to-use-mock-firebolt": {
       "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
-      "title": "how-to-use-mock-firebolt",
+      "title": "How to use Mock Firebolt",
       "description": "",
       "sidebar": "defaultSidebar"
     },

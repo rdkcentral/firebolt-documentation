@@ -1,0 +1,14 @@
+{
+  "position": 5,
+  "label": "Discovery",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "discovery",
+  "link": {
+    "type": "generated-index",
+    "title": "Discovery"
+  },
+  "customProps": {
+    "description": "Documents on how to help your users find content."
+  }
+}

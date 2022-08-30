@@ -1,0 +1,25 @@
+{
+  "unversionedId": "firebolt_docs/accessibility/voice-guidance",
+  "id": "version-0.7.0/firebolt_docs/accessibility/voice-guidance",
+  "title": "Voice Guidance",
+  "description": "With accessibility settings, it’s important that your app follows your user’s device settings. When an app starts up it should grab your user’s current device accessibility settings and adapt to system accessibility changes that your user makes.",
+  "source": "@site/versioned_docs/version-0.7.0/firebolt_docs/accessibility/voice-guidance.md",
+  "sourceDirName": "firebolt_docs/accessibility",
+  "slug": "/firebolt_docs/accessibility/voice-guidance",
+  "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/accessibility/voice-guidance",
+  "draft": false,
+  "tags": [],
+  "version": "0.7.0",
+  "frontMatter": {
+    "title": "Voice Guidance"
+  },
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "Closed Captions",
+    "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/accessibility/closed-captions"
+  },
+  "next": {
+    "title": "App Lifecycle",
+    "permalink": "/firebolt-documentation/docs/0.7.0/category/app-lifecycle"
+  }
+}

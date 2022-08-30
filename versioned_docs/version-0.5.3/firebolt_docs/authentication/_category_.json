@@ -1,0 +1,14 @@
+{
+  "position": 4,
+  "label": "Authentication",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "authentication",
+  "link": {
+    "type": "generated-index",
+    "title": "Authentication"
+  },
+  "customProps": {
+    "description": "Documents on how set up authentication in your apps."
+  }
+}

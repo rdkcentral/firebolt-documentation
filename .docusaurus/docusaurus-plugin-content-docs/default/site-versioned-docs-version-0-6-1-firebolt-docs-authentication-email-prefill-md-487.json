@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/authentication/email-prefill",
+  "id": "version-0.6.1/firebolt_docs/authentication/email-prefill",
+  "title": "Email Prefill",
+  "description": "Your users have the ability to save email addresses to their account on the platform. The Email Prefill feature enables your app to request an email address from the user without requiring them to type it out using a remote.",
+  "source": "@site/versioned_docs/version-0.6.1/firebolt_docs/authentication/email-prefill.md",
+  "sourceDirName": "firebolt_docs/authentication",
+  "slug": "/firebolt_docs/authentication/email-prefill",
+  "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/authentication/email-prefill",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.1",
+  "frontMatter": {},
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/firebolt-documentation/docs/0.6.1/category/authentication"
+  },
+  "next": {
+    "title": "Sign In & Sign Up",
+    "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/authentication/sign-in-and-sign-up"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "firebolt_docs/app-lifecycle/lifecycle-management",
+  "id": "version-0.6.0/firebolt_docs/app-lifecycle/lifecycle-management",
+  "title": "App Lifecycle",
+  "description": "The app lifecycle is how the platform informs your app how to behave based on its state. These lifecycle states determine which features and APIs should be used and when.",
+  "source": "@site/versioned_docs/version-0.6.0/firebolt_docs/app-lifecycle/lifecycle-management.md",
+  "sourceDirName": "firebolt_docs/app-lifecycle",
+  "slug": "/firebolt_docs/app-lifecycle/lifecycle-management",
+  "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/app-lifecycle/lifecycle-management",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0",
+  "frontMatter": {
+    "title": "App Lifecycle"
+  },
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "App Lifecycle",
+    "permalink": "/firebolt-documentation/docs/0.6.0/category/app-lifecycle"
+  },
+  "next": {
+    "title": "Listening for Events",
+    "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/app-lifecycle/listening-for-events"
+  }
+}

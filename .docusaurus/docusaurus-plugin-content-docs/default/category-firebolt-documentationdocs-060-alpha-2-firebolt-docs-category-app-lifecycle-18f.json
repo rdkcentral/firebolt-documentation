@@ -1,0 +1,15 @@
+{
+  "title": "App Lifecycle",
+  "slug": "/category/app-lifecycle",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/category/app-lifecycle",
+  "navigation": {
+    "previous": {
+      "title": "Voice Guidance",
+      "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/accessibility/voice-guidance"
+    },
+    "next": {
+      "title": "App Lifecycle",
+      "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/app-lifecycle/lifecycle-management"
+    }
+  }
+}

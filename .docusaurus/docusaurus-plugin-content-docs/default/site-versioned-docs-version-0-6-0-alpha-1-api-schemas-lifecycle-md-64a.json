@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/schemas/Lifecycle",
+  "id": "version-0.6.0-alpha.1/api/schemas/Lifecycle",
+  "title": "Lifecycle",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.0-alpha.1/api/schemas/Lifecycle.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/Lifecycle",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Lifecycle",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0-alpha.1",
+  "frontMatter": {
+    "title": "Lifecycle"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Intents",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Intents"
+  },
+  "next": {
+    "title": "SecondScreen",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/SecondScreen"
+  }
+}

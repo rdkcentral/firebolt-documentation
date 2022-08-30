@@ -1,0 +1,15 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/firebolt-documentation/docs/0.7.0/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Getting Started",
+      "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/quick-start-guide"
+    },
+    "next": {
+      "title": "hello-world",
+      "permalink": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/hello-world"
+    }
+  }
+}

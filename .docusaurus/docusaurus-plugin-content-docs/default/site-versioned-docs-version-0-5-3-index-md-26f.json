@@ -1,0 +1,21 @@
+{
+  "unversionedId": "index",
+  "id": "version-0.5.3/index",
+  "title": "Feature Documentation",
+  "description": "This is the main page, that shows up at the site home.",
+  "source": "@site/versioned_docs/version-0.5.3/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/firebolt-documentation/docs/0.5.3/",
+  "draft": false,
+  "tags": [],
+  "version": "0.5.3",
+  "frontMatter": {
+    "title": "Feature Documentation"
+  },
+  "sidebar": "api",
+  "next": {
+    "title": "Schemas",
+    "permalink": "/firebolt-documentation/docs/0.5.3/category/schemas"
+  }
+}

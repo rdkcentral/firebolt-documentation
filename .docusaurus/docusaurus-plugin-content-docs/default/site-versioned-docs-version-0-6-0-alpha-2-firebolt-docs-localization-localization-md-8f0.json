@@ -1,0 +1,25 @@
+{
+  "unversionedId": "firebolt_docs/localization/localization",
+  "id": "version-0.6.0-alpha.2/firebolt_docs/localization/localization",
+  "title": "Localization",
+  "description": "Your app can receive device location information to better serve your users by utilizing the localization API. Localization information provides the device location and the primary language within a region, which will help you create proper geofencing and language localization.",
+  "source": "@site/versioned_docs/version-0.6.0-alpha.2/firebolt_docs/localization/localization.md",
+  "sourceDirName": "firebolt_docs/localization",
+  "slug": "/firebolt_docs/localization/",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/localization/",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0-alpha.2",
+  "frontMatter": {
+    "title": "Localization"
+  },
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "Localization",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/category/localization"
+  },
+  "next": {
+    "title": "Metadata",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/category/metadata"
+  }
+}

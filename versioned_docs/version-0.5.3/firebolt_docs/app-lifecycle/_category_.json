@@ -1,0 +1,14 @@
+{
+  "position": 3,
+  "label": "App Lifecycle",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "app-lifecycle",
+  "link": {
+    "type": "generated-index",
+    "title": "App Lifecycle"
+  },
+  "customProps": {
+    "description": "Documents elaboarating on how the app runs."
+  }
+}

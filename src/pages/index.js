@@ -170,7 +170,7 @@ const Index = () => {
               <pre className="outerPre">
                 <Code>
                   {`
-                    import { Lifecycle, Metrics } from '@firebolt-js/sdk'
+ import { Lifecycle, Metrics } from '@firebolt-js/sdk'
 `}
                 </Code>
               </pre>
@@ -207,8 +207,7 @@ const Index = () => {
             <div>
               <pre className="outerPre">
                 <Code>
-                  {`
-import React from "react";
+                  {`import React from "react";
 import { graphql, useFragment} from "react-relay";
 
 export default function ArtistCard(props) {
@@ -521,9 +520,9 @@ export default function ArtistCard(props) {
             <div className="logosHomepage">{showcase}</div>
           </div>
           <div className="more-users">
-            <Link className="button" to="/users">
-              More Relay Users
-            </Link>
+            //<Link className="button" to="/users">
+            //  More Relay Users
+          //  </Link>
           </div>
         </Container>
       </div>

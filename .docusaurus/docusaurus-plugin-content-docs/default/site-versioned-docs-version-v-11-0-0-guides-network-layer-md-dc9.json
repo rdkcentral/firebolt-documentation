@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guides/network-layer",
+  "id": "version-v11.0.0/guides/network-layer",
+  "title": "Network Layer",
+  "description": "In most cases, the network layer is setup for you. You should not need to worry about this step unless you are setting up a new environment.",
+  "source": "@site/versioned_docs/version-v11.0.0/guides/network-layer.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/network-layer/",
+  "permalink": "/docs/v11.0.0/guides/network-layer/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guides/network-layer.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "network-layer",
+    "title": "Network Layer",
+    "slug": "/guides/network-layer/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "converting-mutations",
+  "id": "version-v1.6.2/converting-mutations",
+  "title": "Converting Mutations",
+  "description": "We made some changes to how mutations work in the new version of Relay in order to makes them more straight forward to use and more customizable. Mutations are currently not covered by an automatic conversion and require a manual upgrade. However, limited number of changes is needed to make your existing mutations work with both the old and new environment.",
+  "source": "@site/versioned_docs/version-v1.6.2/Modern-ConvertingMutations.md",
+  "sourceDirName": ".",
+  "slug": "/converting-mutations",
+  "permalink": "/docs/v1.6.2/converting-mutations",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v1.6.2/Modern-ConvertingMutations.md",
+  "tags": [],
+  "version": "v1.6.2",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "converting-mutations",
+    "title": "Converting Mutations",
+    "original_id": "converting-mutations"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/SecureStorage",
+  "id": "version-0.6.0-alpha.2/api/SecureStorage",
+  "title": "SecureStorage",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.0-alpha.2/api/SecureStorage.md",
+  "sourceDirName": "api",
+  "slug": "/api/SecureStorage",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/api/SecureStorage",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0-alpha.2",
+  "frontMatter": {
+    "title": "SecureStorage"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "SecondScreen",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/api/SecondScreen"
+  },
+  "next": {
+    "title": "Firebolt Core SDK",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/api/"
+  }
+}

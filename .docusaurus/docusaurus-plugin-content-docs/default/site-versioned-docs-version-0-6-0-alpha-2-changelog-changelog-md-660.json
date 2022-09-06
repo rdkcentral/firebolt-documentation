@@ -1,0 +1,19 @@
+{
+  "unversionedId": "changelog/changelog",
+  "id": "version-0.6.0-alpha.2/changelog/changelog",
+  "title": "Changelog",
+  "description": "0.8.0",
+  "source": "@site/versioned_docs/version-0.6.0-alpha.2/changelog/changelog.md",
+  "sourceDirName": "changelog",
+  "slug": "/changelog/",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/changelog/",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0-alpha.2",
+  "frontMatter": {},
+  "sidebar": "changelog",
+  "next": {
+    "title": "Changelog",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/changelog/"
+  }
+}

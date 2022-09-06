@@ -1,0 +1,22 @@
+{
+  "unversionedId": "architecture-overview",
+  "id": "version-v1.6.1/architecture-overview",
+  "title": "Architecture Overview",
+  "description": "This document together Runtime Architecture and Compiler Architecture describe the high-level architecture of Relay \"Modern\". The intended audience includes developers interested in contributing to Relay, developers hoping to utilize the building blocks of Relay to create higher-level APIs, and anyone interested in understanding more about Relay internals. For developers wanting to learn more about using Relay to build products, the other sections might be more helpful.",
+  "source": "@site/versioned_docs/version-v1.6.1/PrinciplesAndArchitecture-Overview.md",
+  "sourceDirName": ".",
+  "slug": "/architecture-overview",
+  "permalink": "/docs/v1.6.1/architecture-overview",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v1.6.1/PrinciplesAndArchitecture-Overview.md",
+  "tags": [],
+  "version": "v1.6.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "architecture-overview",
+    "title": "Architecture Overview",
+    "original_id": "architecture-overview"
+  }
+}

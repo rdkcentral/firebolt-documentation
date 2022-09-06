@@ -1,0 +1,14 @@
+{
+  "position": 7,
+  "label": "Metadata",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "metadata",
+  "link": {
+    "type": "generated-index",
+    "title": "Metadata"
+  },
+  "customProps": {
+    "description": "Documents on how to set up metadata."
+  }
+}

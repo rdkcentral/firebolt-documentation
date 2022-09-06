@@ -1,0 +1,15 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/firebolt-documentation/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "SecondScreen",
+      "permalink": "/firebolt-documentation/docs/api/SecondScreen"
+    },
+    "next": {
+      "title": "hello-world",
+      "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world"
+    }
+  }
+}

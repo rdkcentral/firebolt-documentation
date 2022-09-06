@@ -1,0 +1,2358 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/firebolt-documentation/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next 🚧",
+          "isLast": false,
+          "path": "/firebolt-documentation/docs/next",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/firebolt-documentation/docs/next/api/Accessibility",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Account",
+              "path": "/firebolt-documentation/docs/next/api/Account",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/firebolt-documentation/docs/next/api/Advertising",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/firebolt-documentation/docs/next/api/Authentication",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Device",
+              "path": "/firebolt-documentation/docs/next/api/Device",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/firebolt-documentation/docs/next/api/Discovery",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/index",
+              "path": "/firebolt-documentation/docs/next/api/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/firebolt-documentation/docs/next/api/Keyboard",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/firebolt-documentation/docs/next/api/Lifecycle",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/firebolt-documentation/docs/next/api/Localization",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/firebolt-documentation/docs/next/api/Metrics",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/firebolt-documentation/docs/next/api/Parameters",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/firebolt-documentation/docs/next/api/Profile",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/firebolt-documentation/docs/next/api/schemas/Discovery",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/firebolt-documentation/docs/next/api/schemas/Entertainment",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/firebolt-documentation/docs/next/api/schemas/Errors",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/firebolt-documentation/docs/next/api/schemas/Intents",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/intro",
+              "path": "/firebolt-documentation/docs/next/api/schemas/intro",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/firebolt-documentation/docs/next/api/schemas/Lifecycle",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/SecondScreen",
+              "path": "/firebolt-documentation/docs/next/api/schemas/SecondScreen",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/firebolt-documentation/docs/next/api/schemas/Types",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/firebolt-documentation/docs/next/api/SecondScreen",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/firebolt-documentation/docs/next/changelog/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/accessibility/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/authentication/email-prefill",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/discovery/content-discovery",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/discovery/deep-linking",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/discovery/voice-commands",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/hello-world-guide",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/localization/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/profile/parental-controls",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/firebolt-documentation/docs/next/firebolt_docs/profile/profile-flags",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/firebolt-documentation/docs/next/",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/changelog",
+              "path": "/firebolt-documentation/docs/next/category/changelog",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/schemas",
+              "path": "/firebolt-documentation/docs/next/category/schemas",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/firebolt-documentation/docs/next/category/getting-started",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/firebolt-documentation/docs/next/category/accessbility",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/firebolt-documentation/docs/next/category/app-lifecycle",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/firebolt-documentation/docs/next/category/authentication",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/firebolt-documentation/docs/next/category/discovery",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/firebolt-documentation/docs/next/category/localization",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/firebolt-documentation/docs/next/category/metadata",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/firebolt-documentation/docs/next/category/profiles",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/firebolt-documentation/docs/next/category/changelog",
+                "label": "Changelog"
+              }
+            }
+          }
+        },
+        {
+          "name": "0.8.0",
+          "label": "0.8.0",
+          "isLast": true,
+          "path": "/firebolt-documentation/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/firebolt-documentation/docs/api/Accessibility",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Account",
+              "path": "/firebolt-documentation/docs/api/Account",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/firebolt-documentation/docs/api/Advertising",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/firebolt-documentation/docs/api/Authentication",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Device",
+              "path": "/firebolt-documentation/docs/api/Device",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/firebolt-documentation/docs/api/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/index",
+              "path": "/firebolt-documentation/docs/api/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/firebolt-documentation/docs/api/Keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/firebolt-documentation/docs/api/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/firebolt-documentation/docs/api/Localization",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/firebolt-documentation/docs/api/Metrics",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/firebolt-documentation/docs/api/Parameters",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/firebolt-documentation/docs/api/Profile",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/firebolt-documentation/docs/api/schemas/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/firebolt-documentation/docs/api/schemas/Entertainment",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/firebolt-documentation/docs/api/schemas/Errors",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/firebolt-documentation/docs/api/schemas/Intents",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/intro",
+              "path": "/firebolt-documentation/docs/api/schemas/intro",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/firebolt-documentation/docs/api/schemas/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/SecondScreen",
+              "path": "/firebolt-documentation/docs/api/schemas/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/firebolt-documentation/docs/api/schemas/Types",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/firebolt-documentation/docs/api/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/firebolt-documentation/docs/changelog/",
+              "sidebar": "changelog"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/firebolt-documentation/docs/firebolt_docs/accessibility/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/firebolt-documentation/docs/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/firebolt-documentation/docs/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "path": "/firebolt-documentation/docs/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/firebolt-documentation/docs/firebolt_docs/authentication/email-prefill",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/firebolt-documentation/docs/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/firebolt-documentation/docs/firebolt_docs/discovery/content-discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/firebolt-documentation/docs/firebolt_docs/discovery/deep-linking",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/firebolt-documentation/docs/firebolt_docs/discovery/voice-commands",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/hello-world-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/firebolt-documentation/docs/firebolt_docs/localization/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/firebolt-documentation/docs/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/firebolt-documentation/docs/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/firebolt-documentation/docs/firebolt_docs/profile/parental-controls",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/firebolt-documentation/docs/firebolt_docs/profile/profile-flags",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "index",
+              "path": "/firebolt-documentation/docs/",
+              "sidebar": "api"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/firebolt-documentation/docs/category/getting-started",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/firebolt-documentation/docs/category/accessbility",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/firebolt-documentation/docs/category/app-lifecycle",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/firebolt-documentation/docs/category/authentication",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/firebolt-documentation/docs/category/discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/firebolt-documentation/docs/category/localization",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/firebolt-documentation/docs/category/metadata",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/firebolt-documentation/docs/category/profiles",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/schemas",
+              "path": "/firebolt-documentation/docs/category/schemas",
+              "sidebar": "api"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "firebolt_docs": {
+              "link": {
+                "path": "/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide",
+                "label": "firebolt_docs/getting-started/quick-start-guide"
+              }
+            },
+            "api": {
+              "link": {
+                "path": "/firebolt-documentation/docs/",
+                "label": "index"
+              }
+            },
+            "changelog": {
+              "link": {
+                "path": "/firebolt-documentation/docs/changelog/",
+                "label": "changelog/changelog"
+              }
+            }
+          }
+        },
+        {
+          "name": "0.7.0",
+          "label": "0.7.0",
+          "isLast": false,
+          "path": "/firebolt-documentation/docs/0.7.0",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Accessibility",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Account",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Account",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Advertising",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Authentication",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Device",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Device",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/index",
+              "path": "/firebolt-documentation/docs/0.7.0/api/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Localization",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Metrics",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Parameters",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/firebolt-documentation/docs/0.7.0/api/Profile",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/firebolt-documentation/docs/0.7.0/api/schemas/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/firebolt-documentation/docs/0.7.0/api/schemas/Entertainment",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/firebolt-documentation/docs/0.7.0/api/schemas/Errors",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/firebolt-documentation/docs/0.7.0/api/schemas/Intents",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/intro",
+              "path": "/firebolt-documentation/docs/0.7.0/api/schemas/intro",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.7.0/api/schemas/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/firebolt-documentation/docs/0.7.0/api/schemas/Types",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.7.0/api/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/firebolt-documentation/docs/0.7.0/changelog/",
+              "sidebar": "changelog"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/accessibility/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/authentication/email-prefill",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/discovery/content-discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/discovery/deep-linking",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/discovery/voice-commands",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/hello-world-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/localization/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/profile/parental-controls",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/profile/profile-flags",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "index",
+              "path": "/firebolt-documentation/docs/0.7.0/",
+              "sidebar": "api"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/firebolt-documentation/docs/0.7.0/category/getting-started",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/firebolt-documentation/docs/0.7.0/category/accessbility",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/firebolt-documentation/docs/0.7.0/category/app-lifecycle",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/firebolt-documentation/docs/0.7.0/category/authentication",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/firebolt-documentation/docs/0.7.0/category/discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/firebolt-documentation/docs/0.7.0/category/localization",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/firebolt-documentation/docs/0.7.0/category/metadata",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/firebolt-documentation/docs/0.7.0/category/profiles",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/schemas",
+              "path": "/firebolt-documentation/docs/0.7.0/category/schemas",
+              "sidebar": "api"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "firebolt_docs": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.7.0/firebolt_docs/getting-started/quick-start-guide",
+                "label": "firebolt_docs/getting-started/quick-start-guide"
+              }
+            },
+            "api": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.7.0/",
+                "label": "index"
+              }
+            },
+            "changelog": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.7.0/changelog/",
+                "label": "changelog/changelog"
+              }
+            }
+          }
+        },
+        {
+          "name": "0.6.1",
+          "label": "0.6.1",
+          "isLast": false,
+          "path": "/firebolt-documentation/docs/0.6.1",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Accessibility",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Account",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Account",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Advertising",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Authentication",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Device",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Device",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/index",
+              "path": "/firebolt-documentation/docs/0.6.1/api/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Localization",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Metrics",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Parameters",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/firebolt-documentation/docs/0.6.1/api/Profile",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/firebolt-documentation/docs/0.6.1/api/schemas/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/firebolt-documentation/docs/0.6.1/api/schemas/Entertainment",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/firebolt-documentation/docs/0.6.1/api/schemas/Errors",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/index",
+              "path": "/firebolt-documentation/docs/0.6.1/api/schemas/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/firebolt-documentation/docs/0.6.1/api/schemas/Intents",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.1/api/schemas/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.6.1/api/schemas/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/firebolt-documentation/docs/0.6.1/api/schemas/Types",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.6.1/api/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/firebolt-documentation/docs/0.6.1/changelog/",
+              "sidebar": "changelog"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/accessibility/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/authentication/email-prefill",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/discovery/content-discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/discovery/deep-linking",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/discovery/voice-commands",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/hello-world-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/localization/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/profile/parental-controls",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/profile/profile-flags",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "index",
+              "path": "/firebolt-documentation/docs/0.6.1/",
+              "sidebar": "api"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/firebolt-documentation/docs/0.6.1/category/getting-started",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/firebolt-documentation/docs/0.6.1/category/accessbility",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.1/category/app-lifecycle",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/firebolt-documentation/docs/0.6.1/category/authentication",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/firebolt-documentation/docs/0.6.1/category/discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/firebolt-documentation/docs/0.6.1/category/localization",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/firebolt-documentation/docs/0.6.1/category/metadata",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/firebolt-documentation/docs/0.6.1/category/profiles",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/schemas",
+              "path": "/firebolt-documentation/docs/0.6.1/category/schemas",
+              "sidebar": "api"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "firebolt_docs": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/quick-start-guide",
+                "label": "firebolt_docs/getting-started/quick-start-guide"
+              }
+            },
+            "api": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.1/",
+                "label": "index"
+              }
+            },
+            "changelog": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.1/changelog/",
+                "label": "changelog/changelog"
+              }
+            }
+          }
+        },
+        {
+          "name": "0.6.0-alpha.2",
+          "label": "0.6.0-alpha.2",
+          "isLast": false,
+          "path": "/firebolt-documentation/docs/0.6.0-alpha.2",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Accessibility",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Account",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Account",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Advertising",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Authentication",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Device",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Device",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/index",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Localization",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Metrics",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Parameters",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/Profile",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/schemas/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/schemas/Entertainment",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/schemas/Errors",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/index",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/schemas/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/schemas/Intents",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/schemas/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/schemas/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/schemas/Types",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/SecureStorage",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/api/SecureStorage",
+              "sidebar": "api"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/changelog/",
+              "sidebar": "changelog"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/accessibility/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/authentication/email-prefill",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/discovery/content-discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/discovery/deep-linking",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/discovery/voice-commands",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/hello-world-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/localization/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/profile/parental-controls",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/profile/profile-flags",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "index",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/",
+              "sidebar": "api"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/category/getting-started",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/category/accessbility",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/category/app-lifecycle",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/category/authentication",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/category/discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/category/localization",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/category/metadata",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/category/profiles",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/schemas",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.2/category/schemas",
+              "sidebar": "api"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "firebolt_docs": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/getting-started/quick-start-guide",
+                "label": "firebolt_docs/getting-started/quick-start-guide"
+              }
+            },
+            "api": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.0-alpha.2/",
+                "label": "index"
+              }
+            },
+            "changelog": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.0-alpha.2/changelog/",
+                "label": "changelog/changelog"
+              }
+            }
+          }
+        },
+        {
+          "name": "0.6.0-alpha.1",
+          "label": "0.6.0-alpha.1",
+          "isLast": false,
+          "path": "/firebolt-documentation/docs/0.6.0-alpha.1",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Accessibility",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Account",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Account",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Advertising",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Authentication",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Device",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Device",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/index",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Localization",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Metrics",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Parameters",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Profile",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Entertainment",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Errors",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/index",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Intents",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Types",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/api/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/changelog/",
+              "sidebar": "changelog"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/accessibility/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/authentication/email-prefill",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/discovery/content-discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/discovery/deep-linking",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/discovery/voice-commands",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/hello-world-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/localization/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/profile/parental-controls",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/profile/profile-flags",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "index",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/",
+              "sidebar": "api"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/category/getting-started",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/category/accessbility",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/category/app-lifecycle",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/category/authentication",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/category/discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/category/localization",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/category/metadata",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/category/profiles",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/schemas",
+              "path": "/firebolt-documentation/docs/0.6.0-alpha.1/category/schemas",
+              "sidebar": "api"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "firebolt_docs": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.0-alpha.1/firebolt_docs/getting-started/quick-start-guide",
+                "label": "firebolt_docs/getting-started/quick-start-guide"
+              }
+            },
+            "api": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.0-alpha.1/",
+                "label": "index"
+              }
+            },
+            "changelog": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.0-alpha.1/changelog/",
+                "label": "changelog/changelog"
+              }
+            }
+          }
+        },
+        {
+          "name": "0.6.0",
+          "label": "0.6.0",
+          "isLast": false,
+          "path": "/firebolt-documentation/docs/0.6.0",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Accessibility",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Account",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Account",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Advertising",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Authentication",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Device",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Device",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/index",
+              "path": "/firebolt-documentation/docs/0.6.0/api/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Localization",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Metrics",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Parameters",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/firebolt-documentation/docs/0.6.0/api/Profile",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/firebolt-documentation/docs/0.6.0/api/schemas/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/firebolt-documentation/docs/0.6.0/api/schemas/Entertainment",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/firebolt-documentation/docs/0.6.0/api/schemas/Errors",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/index",
+              "path": "/firebolt-documentation/docs/0.6.0/api/schemas/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/firebolt-documentation/docs/0.6.0/api/schemas/Intents",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.0/api/schemas/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.6.0/api/schemas/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/firebolt-documentation/docs/0.6.0/api/schemas/Types",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.6.0/api/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/firebolt-documentation/docs/0.6.0/changelog/",
+              "sidebar": "changelog"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/accessibility/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/app-lifecycle/listening-for-property-changes",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/authentication/email-prefill",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/discovery/content-discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/discovery/deep-linking",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/discovery/voice-commands",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/hello-world-guide",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/hello-world-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/localization/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/profile/parental-controls",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/profile/profile-flags",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "index",
+              "path": "/firebolt-documentation/docs/0.6.0/",
+              "sidebar": "api"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/firebolt-documentation/docs/0.6.0/category/getting-started",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/firebolt-documentation/docs/0.6.0/category/accessbility",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/firebolt-documentation/docs/0.6.0/category/app-lifecycle",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/firebolt-documentation/docs/0.6.0/category/authentication",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/firebolt-documentation/docs/0.6.0/category/discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/firebolt-documentation/docs/0.6.0/category/localization",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/firebolt-documentation/docs/0.6.0/category/metadata",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/firebolt-documentation/docs/0.6.0/category/profiles",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/schemas",
+              "path": "/firebolt-documentation/docs/0.6.0/category/schemas",
+              "sidebar": "api"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "firebolt_docs": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.0/firebolt_docs/getting-started/quick-start-guide",
+                "label": "firebolt_docs/getting-started/quick-start-guide"
+              }
+            },
+            "api": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.0/",
+                "label": "index"
+              }
+            },
+            "changelog": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.6.0/changelog/",
+                "label": "changelog/changelog"
+              }
+            }
+          }
+        },
+        {
+          "name": "0.5.3",
+          "label": "0.5.3",
+          "isLast": false,
+          "path": "/firebolt-documentation/docs/0.5.3",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "api/Accessibility",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Accessibility",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Account",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Account",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Advertising",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Advertising",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Authentication",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Authentication",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Device",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Device",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Discovery",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/index",
+              "path": "/firebolt-documentation/docs/0.5.3/api/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Keyboard",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Keyboard",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Localization",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Localization",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Metrics",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Metrics",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Parameters",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Parameters",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/Profile",
+              "path": "/firebolt-documentation/docs/0.5.3/api/Profile",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Discovery",
+              "path": "/firebolt-documentation/docs/0.5.3/api/schemas/Discovery",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Entertainment",
+              "path": "/firebolt-documentation/docs/0.5.3/api/schemas/Entertainment",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Errors",
+              "path": "/firebolt-documentation/docs/0.5.3/api/schemas/Errors",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/index",
+              "path": "/firebolt-documentation/docs/0.5.3/api/schemas/",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Intents",
+              "path": "/firebolt-documentation/docs/0.5.3/api/schemas/Intents",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Lifecycle",
+              "path": "/firebolt-documentation/docs/0.5.3/api/schemas/Lifecycle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.5.3/api/schemas/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/schemas/Types",
+              "path": "/firebolt-documentation/docs/0.5.3/api/schemas/Types",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/SecondScreen",
+              "path": "/firebolt-documentation/docs/0.5.3/api/SecondScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "changelog/changelog",
+              "path": "/firebolt-documentation/docs/0.5.3/changelog/",
+              "sidebar": "changelog"
+            },
+            {
+              "id": "firebolt_docs/accessibility/accessibility",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/accessibility/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/closed-captions",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/accessibility/closed-captions",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/accessibility/voice-guidance",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/accessibility/voice-guidance",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/lifecycle-management",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/app-lifecycle/lifecycle-management",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/app-lifecycle/listening-for-events",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/app-lifecycle/listening-for-events",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/email-prefill",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/authentication/email-prefill",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/authentication/sign-in-and-sign-up",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/authentication/sign-in-and-sign-up",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/content-discovery",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/discovery/content-discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/deep-linking",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/discovery/deep-linking",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/discovery/voice-commands",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/discovery/voice-commands",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/hello-world",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/hello-world",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/how-to-use-mock-firebolt",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/prerequisites",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/prerequisites",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/getting-started/quick-start-guide",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/quick-start-guide",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/localization/localization",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/localization/",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/metadata-integration",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/metadata/metadata-integration",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/metadata/open-gmrss-format",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/metadata/open-gmrss-format",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/parental-controls",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/profile/parental-controls",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "firebolt_docs/profile/profile-flags",
+              "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/profile/profile-flags",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "index",
+              "path": "/firebolt-documentation/docs/0.5.3/",
+              "sidebar": "api"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/firebolt-documentation/docs/0.5.3/category/getting-started",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/accessbility",
+              "path": "/firebolt-documentation/docs/0.5.3/category/accessbility",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/app-lifecycle",
+              "path": "/firebolt-documentation/docs/0.5.3/category/app-lifecycle",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/authentication",
+              "path": "/firebolt-documentation/docs/0.5.3/category/authentication",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/discovery",
+              "path": "/firebolt-documentation/docs/0.5.3/category/discovery",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/localization",
+              "path": "/firebolt-documentation/docs/0.5.3/category/localization",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/metadata",
+              "path": "/firebolt-documentation/docs/0.5.3/category/metadata",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/profiles",
+              "path": "/firebolt-documentation/docs/0.5.3/category/profiles",
+              "sidebar": "firebolt_docs"
+            },
+            {
+              "id": "/category/schemas",
+              "path": "/firebolt-documentation/docs/0.5.3/category/schemas",
+              "sidebar": "api"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "firebolt_docs": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.5.3/firebolt_docs/getting-started/quick-start-guide",
+                "label": "firebolt_docs/getting-started/quick-start-guide"
+              }
+            },
+            "api": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.5.3/",
+                "label": "index"
+              }
+            },
+            "changelog": {
+              "link": {
+                "path": "/firebolt-documentation/docs/0.5.3/changelog/",
+                "label": "changelog/changelog"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

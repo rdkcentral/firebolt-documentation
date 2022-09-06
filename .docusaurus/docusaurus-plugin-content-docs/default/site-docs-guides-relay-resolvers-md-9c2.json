@@ -1,0 +1,38 @@
+{
+  "unversionedId": "guides/relay-resolvers",
+  "id": "guides/relay-resolvers",
+  "title": "Relay Resolvers",
+  "description": "Relay guide to Relay Resolvers",
+  "source": "@site/docs/guides/relay-resolvers.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/relay-resolvers/",
+  "permalink": "/docs/next/guides/relay-resolvers/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guides/relay-resolvers.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "relay-resolvers",
+    "title": "Relay Resolvers",
+    "slug": "/guides/relay-resolvers/",
+    "description": "Relay guide to Relay Resolvers",
+    "keywords": [
+      "resolvers",
+      "derived",
+      "selectors",
+      "reactive"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Persisted Queries",
+    "permalink": "/docs/next/guides/persisted-queries/"
+  },
+  "next": {
+    "title": "@required Directive",
+    "permalink": "/docs/next/guides/required-directive/"
+  }
+}

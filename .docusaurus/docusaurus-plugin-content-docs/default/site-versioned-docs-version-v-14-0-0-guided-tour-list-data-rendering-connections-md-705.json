@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guided-tour/list-data/rendering-connections",
+  "id": "version-v14.0.0/guided-tour/list-data/rendering-connections",
+  "title": "Rendering Connections",
+  "description": "Relay guide to rendering connections",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/list-data/rendering-connections.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/rendering-connections/",
+  "permalink": "/docs/guided-tour/list-data/rendering-connections/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/list-data/rendering-connections.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "rendering-connections",
+    "title": "Rendering Connections",
+    "slug": "/guided-tour/list-data/rendering-connections/",
+    "description": "Relay guide to rendering connections",
+    "keywords": [
+      "pagination",
+      "usePaginationFragment",
+      "connection"
+    ]
+  }
+}

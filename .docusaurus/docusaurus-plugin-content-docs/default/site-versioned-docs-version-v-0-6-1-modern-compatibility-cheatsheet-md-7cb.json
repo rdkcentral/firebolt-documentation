@@ -1,0 +1,31 @@
+{
+  "unversionedId": "compatibility-cheatsheet",
+  "id": "version-v0.6.1/compatibility-cheatsheet",
+  "title": "Compatibility Cheatsheet",
+  "description": "What works with what? Relay Compat ('react-relay/compat') is the most flexible.",
+  "source": "@site/versioned_docs/version-v0.6.1/Modern-CompatibilityCheatsheet.md",
+  "sourceDirName": ".",
+  "slug": "/compatibility-cheatsheet",
+  "permalink": "/docs/compatibility-cheatsheet",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v0.6.1/Modern-CompatibilityCheatsheet.md",
+  "tags": [],
+  "version": "v0.6.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "compatibility-cheatsheet",
+    "title": "Compatibility Cheatsheet",
+    "original_id": "compatibility-cheatsheet"
+  },
+  "sidebar": "version-v0.6.1/docs",
+  "previous": {
+    "title": "Converting Mutations",
+    "permalink": "/docs/converting-mutations"
+  },
+  "next": {
+    "title": "API Cheatsheet",
+    "permalink": "/docs/api-cheatsheet"
+  }
+}

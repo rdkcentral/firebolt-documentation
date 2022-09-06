@@ -1,0 +1,14 @@
+{
+  "position": 1,
+  "label": "Schemas",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "schemas",
+  "link": {
+    "type": "generated-index",
+    "title": "Schemas"
+  },
+  "customProps": {
+    "description": ""
+  }
+}

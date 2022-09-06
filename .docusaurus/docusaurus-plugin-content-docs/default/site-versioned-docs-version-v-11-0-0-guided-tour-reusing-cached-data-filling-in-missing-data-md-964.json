@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/filling-in-missing-data",
+  "id": "version-v11.0.0/guided-tour/reusing-cached-data/filling-in-missing-data",
+  "title": "Filling in Missing Data (Missing Field Handlers)",
+  "description": "In the previous section we covered how to reuse data that is fully or partially cached, however there are cases in which Relay can't automatically tell that it can reuse some of the data it already has from other queries in order to fulfill a specific query. Specifically, Relay knows how to reuse data that is cached for a query that has been fetched before; that is, if you fetch the exact same query twice, Relay will know that it has the data cached for that query the second time it tries to evaluate it.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/filling-in-missing-data.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/filling-in-missing-data/",
+  "permalink": "/docs/v11.0.0/guided-tour/reusing-cached-data/filling-in-missing-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/filling-in-missing-data.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "filling-in-missing-data",
+    "title": "Filling in Missing Data (Missing Field Handlers)",
+    "slug": "/guided-tour/reusing-cached-data/filling-in-missing-data/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/legacy-apis/legacy-apis",
+  "id": "api-reference/legacy-apis/legacy-apis",
+  "title": "Legacy APIs",
+  "description": "API reference for legacy APIs",
+  "source": "@site/docs/api-reference/legacy-apis/legacy-apis.md",
+  "sourceDirName": "api-reference/legacy-apis",
+  "slug": "/api-reference/legacy-apis/",
+  "permalink": "/docs/next/api-reference/legacy-apis/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/legacy-apis/legacy-apis.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "legacy-apis",
+    "title": "Legacy APIs",
+    "slug": "/api-reference/legacy-apis/",
+    "description": "API reference for legacy APIs",
+    "keywords": [
+      "QueryRenderer",
+      "Container"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "useSubscription",
+    "permalink": "/docs/next/api-reference/use-subscription/"
+  },
+  "next": {
+    "title": "commitMutation",
+    "permalink": "/docs/next/api-reference/commit-mutation/"
+  }
+}

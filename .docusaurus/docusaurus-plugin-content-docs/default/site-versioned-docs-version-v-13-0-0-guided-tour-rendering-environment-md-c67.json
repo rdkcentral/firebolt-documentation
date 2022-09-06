@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guided-tour/rendering/environment",
+  "id": "version-v13.0.0/guided-tour/rendering/environment",
+  "title": "Environment",
+  "description": "Relay guide to the environment",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/rendering/environment.md",
+  "sourceDirName": "guided-tour/rendering",
+  "slug": "/guided-tour/rendering/environment/",
+  "permalink": "/docs/v13.0.0/guided-tour/rendering/environment/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/rendering/environment.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "environment",
+    "title": "Environment",
+    "slug": "/guided-tour/rendering/environment/",
+    "description": "Relay guide to the environment",
+    "keywords": [
+      "environment",
+      "RelayEnvironmentProvider",
+      "useRelayEnvironment"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Lifecycle",
+  "id": "version-0.5.3/api/Lifecycle",
+  "title": "Lifecycle",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.5.3/api/Lifecycle.md",
+  "sourceDirName": "api",
+  "slug": "/api/Lifecycle",
+  "permalink": "/firebolt-documentation/docs/0.5.3/api/Lifecycle",
+  "draft": false,
+  "tags": [],
+  "version": "0.5.3",
+  "frontMatter": {
+    "title": "Lifecycle"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Keyboard",
+    "permalink": "/firebolt-documentation/docs/0.5.3/api/Keyboard"
+  },
+  "next": {
+    "title": "Localization",
+    "permalink": "/firebolt-documentation/docs/0.5.3/api/Localization"
+  }
+}

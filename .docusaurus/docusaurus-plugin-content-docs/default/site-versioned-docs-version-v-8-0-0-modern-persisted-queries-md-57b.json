@@ -1,0 +1,22 @@
+{
+  "unversionedId": "persisted-queries",
+  "id": "version-v8.0.0/persisted-queries",
+  "title": "Persisted Queries",
+  "description": "The relay compiler supports persisted queries which is useful because:",
+  "source": "@site/versioned_docs/version-v8.0.0/Modern-PersistedQueries.md",
+  "sourceDirName": ".",
+  "slug": "/persisted-queries",
+  "permalink": "/docs/v8.0.0/persisted-queries",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v8.0.0/Modern-PersistedQueries.md",
+  "tags": [],
+  "version": "v8.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "persisted-queries",
+    "title": "Persisted Queries",
+    "original_id": "persisted-queries"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "unversionedId": "guided-tour/updating-data/imperatively-modifying-linked-fields",
+  "id": "version-v14.0.0/guided-tour/updating-data/imperatively-modifying-linked-fields",
+  "title": "Imperatively modifying linked fields",
+  "description": "Using readUpdatableQuery_EXPERIMENTAL to update linked fields in the store",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/updating-data/imperatively-modifying-linked-fields.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/imperatively-modifying-linked-fields/",
+  "permalink": "/docs/guided-tour/updating-data/imperatively-modifying-linked-fields/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/updating-data/imperatively-modifying-linked-fields.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "imperatively-modifying-linked-fields",
+    "title": "Imperatively modifying linked fields",
+    "slug": "/guided-tour/updating-data/imperatively-modifying-linked-fields/",
+    "description": "Using readUpdatableQuery_EXPERIMENTAL to update linked fields in the store",
+    "keywords": [
+      "record source",
+      "store",
+      "updater",
+      "typesafe updaters",
+      "readUpdatableQuery",
+      "readUpdatableFragment",
+      "updatable",
+      "assignable"
+    ]
+  }
+}

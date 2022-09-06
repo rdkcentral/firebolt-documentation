@@ -1,0 +1,31 @@
+{
+  "unversionedId": "prerequisites",
+  "id": "version-v0.7.0/prerequisites",
+  "title": "Prerequisites",
+  "description": "React",
+  "source": "@site/versioned_docs/version-v0.7.0/Introduction-Prerequisites.md",
+  "sourceDirName": ".",
+  "slug": "/prerequisites",
+  "permalink": "/docs/v0.7.0/prerequisites",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v0.7.0/Introduction-Prerequisites.md",
+  "tags": [],
+  "version": "v0.7.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "prerequisites",
+    "title": "Prerequisites",
+    "original_id": "prerequisites"
+  },
+  "sidebar": "version-v0.7.0/docs",
+  "previous": {
+    "title": "Introduction to Relay",
+    "permalink": "/docs/v0.7.0/"
+  },
+  "next": {
+    "title": "Installation and Setup",
+    "permalink": "/docs/v0.7.0/installation-and-setup"
+  }
+}

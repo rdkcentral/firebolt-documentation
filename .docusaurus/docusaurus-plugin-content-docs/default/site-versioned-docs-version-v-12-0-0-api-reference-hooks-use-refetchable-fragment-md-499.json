@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-reference/hooks/use-refetchable-fragment",
+  "id": "version-v12.0.0/api-reference/hooks/use-refetchable-fragment",
+  "title": "useRefetchableFragment",
+  "description": "API reference for useRefetchableFragment, a React hook used to refetch fragment data",
+  "source": "@site/versioned_docs/version-v12.0.0/api-reference/hooks/use-refetchable-fragment.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-refetchable-fragment/",
+  "permalink": "/docs/v12.0.0/api-reference/use-refetchable-fragment/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/api-reference/hooks/use-refetchable-fragment.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-refetchable-fragment",
+    "title": "useRefetchableFragment",
+    "slug": "/api-reference/use-refetchable-fragment/",
+    "description": "API reference for useRefetchableFragment, a React hook used to refetch fragment data",
+    "keywords": [
+      "refetch",
+      "fragment"
+    ]
+  }
+}

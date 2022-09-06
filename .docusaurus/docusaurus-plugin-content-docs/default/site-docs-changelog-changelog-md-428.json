@@ -1,0 +1,23 @@
+{
+  "unversionedId": "changelog/changelog",
+  "id": "changelog/changelog",
+  "title": "Changelog",
+  "description": "0.8.0",
+  "source": "@site/docs/changelog/changelog.md",
+  "sourceDirName": "changelog",
+  "slug": "/changelog/",
+  "permalink": "/firebolt-documentation/docs/next/changelog/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/firebolt-documentation/docs/next/category/changelog"
+  },
+  "next": {
+    "title": "Firebolt Core SDK",
+    "permalink": "/firebolt-documentation/docs/next/api/"
+  }
+}

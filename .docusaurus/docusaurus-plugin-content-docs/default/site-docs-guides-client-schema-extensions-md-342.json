@@ -1,0 +1,38 @@
+{
+  "unversionedId": "guides/client-schema-extensions",
+  "id": "guides/client-schema-extensions",
+  "title": "Client Schema Extensions",
+  "description": "Relay guide to client schema extensions",
+  "source": "@site/docs/guides/client-schema-extensions.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/client-schema-extensions/",
+  "permalink": "/docs/next/guides/client-schema-extensions/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guides/client-schema-extensions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "client-schema-extensions",
+    "title": "Client Schema Extensions",
+    "slug": "/guides/client-schema-extensions/",
+    "description": "Relay guide to client schema extensions",
+    "keywords": [
+      "client",
+      "schema",
+      "extension",
+      "commitLocalUpdate"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workflow",
+    "permalink": "/docs/next/guided-tour/workflow/"
+  },
+  "next": {
+    "title": "Relay Compiler",
+    "permalink": "/docs/next/guides/compiler/"
+  }
+}

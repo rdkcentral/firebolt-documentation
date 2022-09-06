@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guided-tour/updating-data/graphql-subscriptions",
+  "id": "version-v14.0.0/guided-tour/updating-data/graphql-subscriptions",
+  "title": "GraphQL subscriptions",
+  "description": "Relay guide to GraphQL subscriptions",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/updating-data/graphql-subscriptions.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/graphql-subscriptions/",
+  "permalink": "/docs/guided-tour/updating-data/graphql-subscriptions/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/updating-data/graphql-subscriptions.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-subscriptions",
+    "title": "GraphQL subscriptions",
+    "slug": "/guided-tour/updating-data/graphql-subscriptions/",
+    "description": "Relay guide to GraphQL subscriptions",
+    "keywords": [
+      "subscription"
+    ]
+  }
+}

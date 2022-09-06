@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guided-tour/refetching/refreshing-queries",
+  "id": "version-v14.0.0/guided-tour/refetching/refreshing-queries",
+  "title": "Refreshing Queries",
+  "description": "Relay guide to refreshing queries",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/refetching/refreshing-queries.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/refreshing-queries/",
+  "permalink": "/docs/guided-tour/refetching/refreshing-queries/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/refetching/refreshing-queries.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "refreshing-queries",
+    "title": "Refreshing Queries",
+    "slug": "/guided-tour/refetching/refreshing-queries/",
+    "description": "Relay guide to refreshing queries",
+    "keywords": [
+      "refreshing",
+      "queries"
+    ]
+  }
+}

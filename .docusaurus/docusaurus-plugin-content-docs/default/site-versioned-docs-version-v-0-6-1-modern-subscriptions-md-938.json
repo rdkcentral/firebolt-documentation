@@ -1,0 +1,31 @@
+{
+  "unversionedId": "subscriptions",
+  "id": "version-v0.6.1/subscriptions",
+  "title": "Subscriptions",
+  "description": "Relay exposes the following APIs to create subscriptions.",
+  "source": "@site/versioned_docs/version-v0.6.1/Modern-Subscriptions.md",
+  "sourceDirName": ".",
+  "slug": "/subscriptions",
+  "permalink": "/docs/subscriptions",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v0.6.1/Modern-Subscriptions.md",
+  "tags": [],
+  "version": "v0.6.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "subscriptions",
+    "title": "Subscriptions",
+    "original_id": "subscriptions"
+  },
+  "sidebar": "version-v0.6.1/docs",
+  "previous": {
+    "title": "Mutations",
+    "permalink": "/docs/mutations"
+  },
+  "next": {
+    "title": "Relay Store",
+    "permalink": "/docs/relay-store"
+  }
+}

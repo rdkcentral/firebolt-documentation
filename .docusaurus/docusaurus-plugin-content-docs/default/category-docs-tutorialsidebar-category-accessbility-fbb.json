@@ -1,0 +1,15 @@
+{
+  "title": "Accessbility",
+  "slug": "/category/accessbility",
+  "permalink": "/docs/category/accessbility",
+  "navigation": {
+    "previous": {
+      "title": "Getting Started",
+      "permalink": "/docs/getting-started/quick-start-guide"
+    },
+    "next": {
+      "title": "Accessibility",
+      "permalink": "/docs/accessibility/"
+    }
+  }
+}

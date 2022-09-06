@@ -1,0 +1,40 @@
+{
+  "unversionedId": "principles-and-architecture/runtime-architecture",
+  "id": "principles-and-architecture/runtime-architecture",
+  "title": "Runtime Architecture",
+  "description": "Relay runtime architecture guide",
+  "source": "@site/docs/principles-and-architecture/runtime-architecture.md",
+  "sourceDirName": "principles-and-architecture",
+  "slug": "/principles-and-architecture/runtime-architecture/",
+  "permalink": "/docs/next/principles-and-architecture/runtime-architecture/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/principles-and-architecture/runtime-architecture.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "runtime-architecture",
+    "title": "Runtime Architecture",
+    "slug": "/principles-and-architecture/runtime-architecture/",
+    "description": "Relay runtime architecture guide",
+    "keywords": [
+      "runtime",
+      "architecture",
+      "store",
+      "DataID",
+      "Record",
+      "RecordSource"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Compiler Architecture",
+    "permalink": "/docs/next/principles-and-architecture/compiler-architecture/"
+  },
+  "next": {
+    "title": "Thinking in GraphQL",
+    "permalink": "/docs/next/principles-and-architecture/thinking-in-graphql/"
+  }
+}

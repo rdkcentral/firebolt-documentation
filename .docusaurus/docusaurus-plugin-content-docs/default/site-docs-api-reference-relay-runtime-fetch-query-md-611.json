@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/relay-runtime/fetch-query",
+  "id": "api-reference/relay-runtime/fetch-query",
+  "title": "fetchQuery",
+  "description": "API reference for fetchQuery, which imperatively fetches data for a query and returns an observable",
+  "source": "@site/docs/api-reference/relay-runtime/fetch-query.md",
+  "sourceDirName": "api-reference/relay-runtime",
+  "slug": "/api-reference/fetch-query/",
+  "permalink": "/docs/next/api-reference/fetch-query/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/relay-runtime/fetch-query.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "fetch-query",
+    "title": "fetchQuery",
+    "slug": "/api-reference/fetch-query/",
+    "description": "API reference for fetchQuery, which imperatively fetches data for a query and returns an observable",
+    "keywords": [
+      "observable",
+      "query",
+      "fetch"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "commitMutation",
+    "permalink": "/docs/next/api-reference/commit-mutation/"
+  },
+  "next": {
+    "title": "requestSubscription",
+    "permalink": "/docs/next/api-reference/request-subscription/"
+  }
+}

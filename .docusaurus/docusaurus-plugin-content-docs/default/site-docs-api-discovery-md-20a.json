@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Discovery",
+  "id": "api/Discovery",
+  "title": "Discovery",
+  "description": "---",
+  "source": "@site/docs/api/Discovery.md",
+  "sourceDirName": "api",
+  "slug": "/api/Discovery",
+  "permalink": "/firebolt-documentation/docs/next/api/Discovery",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Discovery"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Device",
+    "permalink": "/firebolt-documentation/docs/next/api/Device"
+  },
+  "next": {
+    "title": "Keyboard",
+    "permalink": "/firebolt-documentation/docs/next/api/Keyboard"
+  }
+}

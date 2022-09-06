@@ -1,0 +1,35 @@
+{
+  "unversionedId": "principles-and-architecture/architecture-overview",
+  "id": "principles-and-architecture/architecture-overview",
+  "title": "Architecture Overview",
+  "description": "Relay architecture overview guide",
+  "source": "@site/docs/principles-and-architecture/architecture-overview.md",
+  "sourceDirName": "principles-and-architecture",
+  "slug": "/principles-and-architecture/architecture-overview/",
+  "permalink": "/docs/next/principles-and-architecture/architecture-overview/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/principles-and-architecture/architecture-overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "architecture-overview",
+    "title": "Architecture Overview",
+    "slug": "/principles-and-architecture/architecture-overview/",
+    "description": "Relay architecture overview guide",
+    "keywords": [
+      "architecture"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Upgrading to Relay Hooks",
+    "permalink": "/docs/next/migration-and-compatibility/"
+  },
+  "next": {
+    "title": "Compiler Architecture",
+    "permalink": "/docs/next/principles-and-architecture/compiler-architecture/"
+  }
+}

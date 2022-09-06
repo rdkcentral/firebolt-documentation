@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guided-tour/rendering/error-states",
+  "id": "version-v13.0.0/guided-tour/rendering/error-states",
+  "title": "Error States with ErrorBoundaries",
+  "description": "Relay guide to rendering error states",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/rendering/error-states.md",
+  "sourceDirName": "guided-tour/rendering",
+  "slug": "/guided-tour/rendering/error-states/",
+  "permalink": "/docs/v13.0.0/guided-tour/rendering/error-states/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/rendering/error-states.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "error-states",
+    "title": "Error States with ErrorBoundaries",
+    "slug": "/guided-tour/rendering/error-states/",
+    "description": "Relay guide to rendering error states",
+    "keywords": [
+      "rendering",
+      "error",
+      "boundary"
+    ]
+  }
+}

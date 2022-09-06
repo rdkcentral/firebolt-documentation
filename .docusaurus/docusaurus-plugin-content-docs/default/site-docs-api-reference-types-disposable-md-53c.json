@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-reference/types/Disposable",
+  "id": "api-reference/types/Disposable",
+  "title": "Disposable",
+  "description": "Interface Disposable",
+  "source": "@site/docs/api-reference/types/Disposable.md",
+  "sourceDirName": "api-reference/types",
+  "slug": "/api-reference/types/Disposable",
+  "permalink": "/docs/next/api-reference/types/Disposable",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/types/Disposable.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CacheConfig",
+    "permalink": "/docs/next/api-reference/types/CacheConfig"
+  },
+  "next": {
+    "title": "GraphQLSubscriptionConfig",
+    "permalink": "/docs/next/api-reference/types/GraphQLSubscriptionConfig"
+  }
+}

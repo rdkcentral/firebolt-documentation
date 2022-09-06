@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guides/network-layer",
+  "id": "version-v13.0.0/guides/network-layer",
+  "title": "Network Layer",
+  "description": "Relay guide to the network layer",
+  "source": "@site/versioned_docs/version-v13.0.0/guides/network-layer.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/network-layer/",
+  "permalink": "/docs/v13.0.0/guides/network-layer/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guides/network-layer.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "network-layer",
+    "title": "Network Layer",
+    "slug": "/guides/network-layer/",
+    "description": "Relay guide to the network layer",
+    "keywords": [
+      "network",
+      "caching"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "position": 1,
+  "label": "Getting Started",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "getting-started",
+  "link": {
+    "type": "generated-index",
+    "title": "Getting Started"
+  },
+  "customProps": {
+    "description": "Documents on how set up and start using Firebolt."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "unversionedId": "guided-tour/rendering/fragments",
+  "id": "guided-tour/rendering/fragments",
+  "title": "Fragments",
+  "description": "Relay guide to rendering fragments",
+  "source": "@site/docs/guided-tour/rendering/fragments.md",
+  "sourceDirName": "guided-tour/rendering",
+  "slug": "/guided-tour/rendering/fragments/",
+  "permalink": "/docs/next/guided-tour/rendering/fragments/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/rendering/fragments.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "fragments",
+    "title": "Fragments",
+    "slug": "/guided-tour/rendering/fragments/",
+    "description": "Relay guide to rendering fragments",
+    "keywords": [
+      "useFragment",
+      "rendering",
+      "fragment"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Error States with ErrorBoundaries",
+    "permalink": "/docs/next/guided-tour/rendering/error-states/"
+  },
+  "next": {
+    "title": "Loading States with Suspense",
+    "permalink": "/docs/next/guided-tour/rendering/loading-states/"
+  }
+}

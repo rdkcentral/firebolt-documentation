@@ -1,0 +1,27 @@
+{
+  "unversionedId": "migration-and-compatibility/upgrading-to-relay-hooks",
+  "id": "version-v12.0.0/migration-and-compatibility/upgrading-to-relay-hooks",
+  "title": "Upgrading to Relay Hooks",
+  "description": "Relay guide to upgrading to Relay hooks",
+  "source": "@site/versioned_docs/version-v12.0.0/migration-and-compatibility/upgrading-to-relay-hooks.md",
+  "sourceDirName": "migration-and-compatibility",
+  "slug": "/migration-and-compatibility/",
+  "permalink": "/docs/v12.0.0/migration-and-compatibility/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/migration-and-compatibility/upgrading-to-relay-hooks.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "upgrading-to-relay-hooks",
+    "title": "Upgrading to Relay Hooks",
+    "slug": "/migration-and-compatibility/",
+    "description": "Relay guide to upgrading to Relay hooks",
+    "keywords": [
+      "upgrade",
+      "hooks"
+    ]
+  }
+}

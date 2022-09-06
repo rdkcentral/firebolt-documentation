@@ -1,0 +1,22 @@
+{
+  "unversionedId": "graphql-server-specification",
+  "id": "version-v10.1.0/graphql-server-specification",
+  "title": "GraphQL Server Specification",
+  "description": "The goal of this document is to specify the assumptions that Relay makes about a GraphQL server and demonstrate them through an example GraphQL schema.",
+  "source": "@site/versioned_docs/version-v10.1.0/GraphQL-ServerSpecification.md",
+  "sourceDirName": ".",
+  "slug": "/graphql-server-specification",
+  "permalink": "/docs/v10.1.0/graphql-server-specification",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.1.0/GraphQL-ServerSpecification.md",
+  "tags": [],
+  "version": "v10.1.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-server-specification",
+    "title": "GraphQL Server Specification",
+    "original_id": "graphql-server-specification"
+  }
+}

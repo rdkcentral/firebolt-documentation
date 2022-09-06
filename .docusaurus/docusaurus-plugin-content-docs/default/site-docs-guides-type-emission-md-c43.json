@@ -1,0 +1,35 @@
+{
+  "unversionedId": "guides/type-emission",
+  "id": "guides/type-emission",
+  "title": "Type Emission",
+  "description": "Relay guide to type emission",
+  "source": "@site/docs/guides/type-emission.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/type-emission/",
+  "permalink": "/docs/next/guides/type-emission/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guides/type-emission.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "type-emission",
+    "title": "Type Emission",
+    "slug": "/guides/type-emission/",
+    "description": "Relay guide to type emission",
+    "keywords": [
+      "type emission"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testing Relay with Preloaded Queries",
+    "permalink": "/docs/next/guides/testing-relay-with-preloaded-queries/"
+  },
+  "next": {
+    "title": "Relay Hooks and Legacy Container APIs",
+    "permalink": "/docs/next/migration-and-compatibility/relay-hooks-and-legacy-container-apis/"
+  }
+}

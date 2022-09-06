@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/hooks/use-preloaded-query",
+  "id": "api-reference/hooks/use-preloaded-query",
+  "title": "usePreloadedQuery",
+  "description": "API reference for usePreloadedQuery, a React hook used to read query data from the Relay store using a query reference",
+  "source": "@site/docs/api-reference/hooks/use-preloaded-query.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-preloaded-query/",
+  "permalink": "/docs/next/api-reference/use-preloaded-query/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/hooks/use-preloaded-query.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-preloaded-query",
+    "title": "usePreloadedQuery",
+    "slug": "/api-reference/use-preloaded-query/",
+    "description": "API reference for usePreloadedQuery, a React hook used to read query data from the Relay store using a query reference",
+    "keywords": [
+      "read",
+      "query",
+      "query reference"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "usePaginationFragment",
+    "permalink": "/docs/next/api-reference/use-pagination-fragment/"
+  },
+  "next": {
+    "title": "useQueryLoader",
+    "permalink": "/docs/next/api-reference/use-query-loader/"
+  }
+}

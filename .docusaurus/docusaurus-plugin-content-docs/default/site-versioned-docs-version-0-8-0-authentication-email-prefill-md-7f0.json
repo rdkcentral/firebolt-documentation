@@ -1,0 +1,23 @@
+{
+  "unversionedId": "authentication/email-prefill",
+  "id": "version-0.8.0/authentication/email-prefill",
+  "title": "Email Prefill",
+  "description": "Your users have the ability to save email addresses to their account on the platform. The Email Prefill feature enables your app to request an email address from the user without requiring them to type it out using a remote.",
+  "source": "@site/versioned_docs/version-0.8.0/authentication/email-prefill.md",
+  "sourceDirName": "authentication",
+  "slug": "/authentication/email-prefill",
+  "permalink": "/docs/authentication/email-prefill",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/docs/category/authentication"
+  },
+  "next": {
+    "title": "Sign In & Sign Up",
+    "permalink": "/docs/authentication/sign-in-and-sign-up"
+  }
+}

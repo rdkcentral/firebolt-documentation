@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Profile",
+  "id": "version-0.6.0/api/Profile",
+  "title": "Profile",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.0/api/Profile.md",
+  "sourceDirName": "api",
+  "slug": "/api/Profile",
+  "permalink": "/firebolt-documentation/docs/0.6.0/api/Profile",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0",
+  "frontMatter": {
+    "title": "Profile"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Parameters",
+    "permalink": "/firebolt-documentation/docs/0.6.0/api/Parameters"
+  },
+  "next": {
+    "title": "SecondScreen",
+    "permalink": "/firebolt-documentation/docs/0.6.0/api/SecondScreen"
+  }
+}

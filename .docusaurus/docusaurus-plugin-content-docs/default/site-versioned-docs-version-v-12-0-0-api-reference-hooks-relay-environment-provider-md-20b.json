@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-reference/hooks/relay-environment-provider",
+  "id": "version-v12.0.0/api-reference/hooks/relay-environment-provider",
+  "title": "RelayEnvironmentProvider",
+  "description": "API reference for RelayEnvironmentProvider, which sets a Relay environment in React context",
+  "source": "@site/versioned_docs/version-v12.0.0/api-reference/hooks/relay-environment-provider.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/relay-environment-provider/",
+  "permalink": "/docs/v12.0.0/api-reference/relay-environment-provider/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/api-reference/hooks/relay-environment-provider.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "relay-environment-provider",
+    "title": "RelayEnvironmentProvider",
+    "slug": "/api-reference/relay-environment-provider/",
+    "description": "API reference for RelayEnvironmentProvider, which sets a Relay environment in React context",
+    "keywords": [
+      "environment",
+      "context"
+    ]
+  }
+}

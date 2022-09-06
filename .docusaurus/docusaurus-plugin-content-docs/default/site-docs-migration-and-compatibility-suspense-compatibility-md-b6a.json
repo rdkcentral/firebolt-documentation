@@ -1,0 +1,36 @@
+{
+  "unversionedId": "migration-and-compatibility/suspense-compatibility",
+  "id": "migration-and-compatibility/suspense-compatibility",
+  "title": "Suspense Compatibility",
+  "description": "Relay guide to suspense compatibility",
+  "source": "@site/docs/migration-and-compatibility/suspense-compatibility.md",
+  "sourceDirName": "migration-and-compatibility",
+  "slug": "/migration-and-compatibility/suspense-compatibility/",
+  "permalink": "/docs/next/migration-and-compatibility/suspense-compatibility/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/migration-and-compatibility/suspense-compatibility.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "suspense-compatibility",
+    "title": "Suspense Compatibility",
+    "slug": "/migration-and-compatibility/suspense-compatibility/",
+    "description": "Relay guide to suspense compatibility",
+    "keywords": [
+      "suspense",
+      "container"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Relay Hooks and Legacy Container APIs",
+    "permalink": "/docs/next/migration-and-compatibility/relay-hooks-and-legacy-container-apis/"
+  },
+  "next": {
+    "title": "Upgrading to Relay Hooks",
+    "permalink": "/docs/next/migration-and-compatibility/"
+  }
+}

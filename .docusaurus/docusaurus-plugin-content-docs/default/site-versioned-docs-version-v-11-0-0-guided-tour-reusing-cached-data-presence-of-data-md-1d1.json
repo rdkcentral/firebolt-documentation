@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/presence-of-data",
+  "id": "version-v11.0.0/guided-tour/reusing-cached-data/presence-of-data",
+  "title": "Presence of Data",
+  "description": "An important thing to keep in mind when attempting to reuse data that is cached in the Relay store is to understand the lifetime of that data; that is, if it is present in the store, and for how long it will be.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/presence-of-data.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/presence-of-data/",
+  "permalink": "/docs/v11.0.0/guided-tour/reusing-cached-data/presence-of-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/presence-of-data.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "presence-of-data",
+    "title": "Presence of Data",
+    "slug": "/guided-tour/reusing-cached-data/presence-of-data/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/hooks/use-lazy-load-query",
+  "id": "api-reference/hooks/use-lazy-load-query",
+  "title": "useLazyLoadQuery",
+  "description": "API reference for useLazyLoadQuery, a React hook used to lazily fetch query data when a component renders",
+  "source": "@site/docs/api-reference/hooks/use-lazy-load-query.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-lazy-load-query/",
+  "permalink": "/docs/next/api-reference/use-lazy-load-query/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/hooks/use-lazy-load-query.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-lazy-load-query",
+    "title": "useLazyLoadQuery",
+    "slug": "/api-reference/use-lazy-load-query/",
+    "description": "API reference for useLazyLoadQuery, a React hook used to lazily fetch query data when a component renders",
+    "keywords": [
+      "lazy fetching",
+      "query",
+      "fetch"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "useFragment",
+    "permalink": "/docs/next/api-reference/use-fragment/"
+  },
+  "next": {
+    "title": "useMutation",
+    "permalink": "/docs/next/api-reference/use-mutation/"
+  }
+}

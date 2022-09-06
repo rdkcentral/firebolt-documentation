@@ -1,0 +1,23 @@
+{
+  "unversionedId": "app-lifecycle/listening-for-property-changes",
+  "id": "app-lifecycle/listening-for-property-changes",
+  "title": "Listening for Property changes",
+  "description": "With Firebolt® you can get and listen for property changes on the device. This includes both the hardware and system properties such as audio, current accessibility settings, and all the mutable properties of a device.",
+  "source": "@site/docs/app-lifecycle/listening-for-property-changes.md",
+  "sourceDirName": "app-lifecycle",
+  "slug": "/app-lifecycle/listening-for-property-changes",
+  "permalink": "/docs/next/app-lifecycle/listening-for-property-changes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Listening for Events",
+    "permalink": "/docs/next/app-lifecycle/listening-for-events"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/docs/next/category/authentication"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "guided-tour/list-data/refetching-connections",
+  "id": "version-v13.0.0/guided-tour/list-data/refetching-connections",
+  "title": "Refetching Connections (Using and Changing Filters)",
+  "description": "Relay guide to refetching connections",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/list-data/refetching-connections.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/refetching-connections/",
+  "permalink": "/docs/v13.0.0/guided-tour/list-data/refetching-connections/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/list-data/refetching-connections.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "refetching-connections",
+    "title": "Refetching Connections (Using and Changing Filters)",
+    "slug": "/guided-tour/list-data/refetching-connections/",
+    "description": "Relay guide to refetching connections",
+    "keywords": [
+      "pagination",
+      "refetching",
+      "connection",
+      "useRefetchableFragment"
+    ]
+  }
+}

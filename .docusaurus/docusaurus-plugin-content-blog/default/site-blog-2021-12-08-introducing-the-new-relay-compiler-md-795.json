@@ -1,0 +1,44 @@
+{
+  "permalink": "/blog/2021/12/08/introducing-the-new-relay-compiler",
+  "source": "@site/blog/2021-12-08-introducing-the-new-relay-compiler.md",
+  "title": "Introducing the new Relay compiler",
+  "description": "Introducing the new Relay compiler",
+  "date": "2021-12-08T00:00:00.000Z",
+  "formattedDate": "December 8, 2021",
+  "tags": [
+    {
+      "label": "relay-compiler",
+      "permalink": "/blog/tags/relay-compiler"
+    },
+    {
+      "label": "rust",
+      "permalink": "/blog/tags/rust"
+    },
+    {
+      "label": "required",
+      "permalink": "/blog/tags/required"
+    }
+  ],
+  "readingTime": 11.205,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Robert Balicki, Tianyu Yao & Andrey Lunyov"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introducing the new Relay compiler",
+    "author": "Robert Balicki, Tianyu Yao & Andrey Lunyov",
+    "tags": [
+      "relay-compiler",
+      "rust",
+      "required"
+    ],
+    "description": "Introducing the new Relay compiler",
+    "hide_table_of_contents": false
+  },
+  "nextItem": {
+    "title": "Introducing Relay Hooks",
+    "permalink": "/blog/2021/03/09/introducing-relay-hooks"
+  }
+}

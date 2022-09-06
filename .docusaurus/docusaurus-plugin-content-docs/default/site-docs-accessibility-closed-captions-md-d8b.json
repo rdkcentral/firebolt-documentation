@@ -1,0 +1,25 @@
+{
+  "unversionedId": "accessibility/closed-captions",
+  "id": "accessibility/closed-captions",
+  "title": "Closed Captions",
+  "description": "With accessibility settings, it’s important that your app follows your user’s device settings. When an app starts up it should grab your user’s current device accessibility settings and adapt to system accessibility changes that your user makes.",
+  "source": "@site/docs/accessibility/closed-captions.md",
+  "sourceDirName": "accessibility",
+  "slug": "/accessibility/closed-captions",
+  "permalink": "/docs/next/accessibility/closed-captions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Closed Captions"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Accessibility",
+    "permalink": "/docs/next/accessibility/"
+  },
+  "next": {
+    "title": "Voice Guidance",
+    "permalink": "/docs/next/accessibility/voice-guidance"
+  }
+}

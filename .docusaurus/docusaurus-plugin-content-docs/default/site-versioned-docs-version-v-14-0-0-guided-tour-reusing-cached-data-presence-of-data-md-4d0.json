@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/presence-of-data",
+  "id": "version-v14.0.0/guided-tour/reusing-cached-data/presence-of-data",
+  "title": "Presence of Data",
+  "description": "Relay guide to the presence of data",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/reusing-cached-data/presence-of-data.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/presence-of-data/",
+  "permalink": "/docs/guided-tour/reusing-cached-data/presence-of-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/reusing-cached-data/presence-of-data.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "presence-of-data",
+    "title": "Presence of Data",
+    "slug": "/guided-tour/reusing-cached-data/presence-of-data/",
+    "description": "Relay guide to the presence of data",
+    "keywords": [
+      "presence"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "routing",
+  "id": "version-v1.7.0/routing",
+  "title": "Routing",
+  "description": "Historically, Relay started out internally at Facebook as a routing framework. However, Relay no longer makes any assumptions about routing, and works with a variety of routing options.",
+  "source": "@site/versioned_docs/version-v1.7.0/Modern-Routing.md",
+  "sourceDirName": ".",
+  "slug": "/routing",
+  "permalink": "/docs/v1.7.0/routing",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v1.7.0/Modern-Routing.md",
+  "tags": [],
+  "version": "v1.7.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "routing",
+    "title": "Routing",
+    "original_id": "routing"
+  }
+}

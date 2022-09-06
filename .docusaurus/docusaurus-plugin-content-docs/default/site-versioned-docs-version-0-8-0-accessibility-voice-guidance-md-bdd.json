@@ -1,0 +1,25 @@
+{
+  "unversionedId": "accessibility/voice-guidance",
+  "id": "version-0.8.0/accessibility/voice-guidance",
+  "title": "Voice Guidance",
+  "description": "With accessibility settings, it’s important that your app follows your user’s device settings. When an app starts up it should grab your user’s current device accessibility settings and adapt to system accessibility changes that your user makes.",
+  "source": "@site/versioned_docs/version-0.8.0/accessibility/voice-guidance.md",
+  "sourceDirName": "accessibility",
+  "slug": "/accessibility/voice-guidance",
+  "permalink": "/docs/accessibility/voice-guidance",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Voice Guidance"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Closed Captions",
+    "permalink": "/docs/accessibility/closed-captions"
+  },
+  "next": {
+    "title": "App Lifecycle",
+    "permalink": "/docs/category/app-lifecycle"
+  }
+}

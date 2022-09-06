@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-reference/types/UploadableMap",
+  "id": "api-reference/types/UploadableMap",
+  "title": "UploadableMap",
+  "description": "Type UploadableMap",
+  "source": "@site/docs/api-reference/types/UploadableMap.md",
+  "sourceDirName": "api-reference/types",
+  "slug": "/api-reference/types/UploadableMap",
+  "permalink": "/docs/next/api-reference/types/UploadableMap",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/types/UploadableMap.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SelectorStoreUpdater",
+    "permalink": "/docs/next/api-reference/types/SelectorStoreUpdater"
+  },
+  "next": {
+    "title": "Community Learning Resources",
+    "permalink": "/docs/next/community-learning-resources/"
+  }
+}

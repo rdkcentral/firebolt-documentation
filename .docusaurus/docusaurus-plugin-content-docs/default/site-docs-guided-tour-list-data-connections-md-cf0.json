@@ -1,0 +1,36 @@
+{
+  "unversionedId": "guided-tour/list-data/connections",
+  "id": "guided-tour/list-data/connections",
+  "title": "Connections",
+  "description": "Relay guide for connections",
+  "source": "@site/docs/guided-tour/list-data/connections.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/connections/",
+  "permalink": "/docs/next/guided-tour/list-data/connections/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/list-data/connections.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "connections",
+    "title": "Connections",
+    "slug": "/guided-tour/list-data/connections/",
+    "description": "Relay guide for connections",
+    "keywords": [
+      "pagination",
+      "connections"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Pagination",
+    "permalink": "/docs/next/guided-tour/list-data/advanced-pagination/"
+  },
+  "next": {
+    "title": "Pagination",
+    "permalink": "/docs/next/guided-tour/list-data/pagination/"
+  }
+}

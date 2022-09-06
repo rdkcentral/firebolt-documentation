@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-reference/types/CacheConfig",
+  "id": "api-reference/types/CacheConfig",
+  "title": "CacheConfig",
+  "description": "Type CacheConfig",
+  "source": "@site/docs/api-reference/types/CacheConfig.md",
+  "sourceDirName": "api-reference/types",
+  "slug": "/api-reference/types/CacheConfig",
+  "permalink": "/docs/next/api-reference/types/CacheConfig",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/types/CacheConfig.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Store",
+    "permalink": "/docs/next/api-reference/store/"
+  },
+  "next": {
+    "title": "Disposable",
+    "permalink": "/docs/next/api-reference/types/Disposable"
+  }
+}

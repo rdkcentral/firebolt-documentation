@@ -1,0 +1,25 @@
+{
+  "unversionedId": "localization/localization",
+  "id": "version-0.8.0/localization/localization",
+  "title": "Localization",
+  "description": "Your app can receive device location information to better serve your users by utilizing the localization API. Localization information provides the device location and the primary language within a region, which will help you create proper geofencing and language localization.",
+  "source": "@site/versioned_docs/version-0.8.0/localization/localization.md",
+  "sourceDirName": "localization",
+  "slug": "/localization/",
+  "permalink": "/docs/localization/",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {
+    "title": "Localization"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Localization",
+    "permalink": "/docs/category/localization"
+  },
+  "next": {
+    "title": "Metadata",
+    "permalink": "/docs/category/metadata"
+  }
+}

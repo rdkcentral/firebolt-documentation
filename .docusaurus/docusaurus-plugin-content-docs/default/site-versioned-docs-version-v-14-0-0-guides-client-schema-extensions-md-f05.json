@@ -1,0 +1,29 @@
+{
+  "unversionedId": "guides/client-schema-extensions",
+  "id": "version-v14.0.0/guides/client-schema-extensions",
+  "title": "Client Schema Extensions",
+  "description": "Relay guide to client schema extensions",
+  "source": "@site/versioned_docs/version-v14.0.0/guides/client-schema-extensions.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/client-schema-extensions/",
+  "permalink": "/docs/guides/client-schema-extensions/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guides/client-schema-extensions.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "client-schema-extensions",
+    "title": "Client Schema Extensions",
+    "slug": "/guides/client-schema-extensions/",
+    "description": "Relay guide to client schema extensions",
+    "keywords": [
+      "client",
+      "schema",
+      "extension",
+      "commitLocalUpdate"
+    ]
+  }
+}

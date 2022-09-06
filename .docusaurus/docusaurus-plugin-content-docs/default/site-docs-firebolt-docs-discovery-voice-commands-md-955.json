@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/discovery/voice-commands",
+  "id": "firebolt_docs/discovery/voice-commands",
+  "title": "Voice Commands",
+  "description": "Voice commands allow your users to press a button and speak to their remotes and go directly to an experience they want to find. Our platform includes built-in voice functions which enable your users to launch apps and control media playback. Additionally, there are a wide range of other voice commands that give more flexibility to your users. These require a level of integration if you wish to take advantage of their benefits.",
+  "source": "@site/docs/firebolt_docs/discovery/voice-commands.md",
+  "sourceDirName": "firebolt_docs/discovery",
+  "slug": "/firebolt_docs/discovery/voice-commands",
+  "permalink": "/firebolt-documentation/docs/next/firebolt_docs/discovery/voice-commands",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Deep Linking",
+    "permalink": "/firebolt-documentation/docs/next/firebolt_docs/discovery/deep-linking"
+  },
+  "next": {
+    "title": "Localization",
+    "permalink": "/firebolt-documentation/docs/next/category/localization"
+  }
+}

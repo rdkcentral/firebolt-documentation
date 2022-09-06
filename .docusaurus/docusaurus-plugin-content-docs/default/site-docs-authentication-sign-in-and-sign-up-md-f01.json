@@ -1,0 +1,23 @@
+{
+  "unversionedId": "authentication/sign-in-and-sign-up",
+  "id": "authentication/sign-in-and-sign-up",
+  "title": "Sign In & Sign Up",
+  "description": "There are two ways to sign-in or sign-up for an app including \"2nd screen sign-in\" (which is the preferred method) and the \"on-screen keyboard\".",
+  "source": "@site/docs/authentication/sign-in-and-sign-up.md",
+  "sourceDirName": "authentication",
+  "slug": "/authentication/sign-in-and-sign-up",
+  "permalink": "/docs/next/authentication/sign-in-and-sign-up",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Email Prefill",
+    "permalink": "/docs/next/authentication/email-prefill"
+  },
+  "next": {
+    "title": "Discovery",
+    "permalink": "/docs/next/category/discovery"
+  }
+}

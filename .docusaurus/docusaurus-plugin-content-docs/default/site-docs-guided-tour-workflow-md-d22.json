@@ -1,0 +1,36 @@
+{
+  "unversionedId": "guided-tour/workflow",
+  "id": "guided-tour/workflow",
+  "title": "Workflow",
+  "description": "Relay guide to workflow",
+  "source": "@site/docs/guided-tour/workflow.md",
+  "sourceDirName": "guided-tour",
+  "slug": "/guided-tour/workflow/",
+  "permalink": "/docs/next/guided-tour/workflow/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/workflow.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "workflow",
+    "title": "Workflow",
+    "slug": "/guided-tour/workflow/",
+    "description": "Relay guide to workflow",
+    "keywords": [
+      "workflow",
+      "compiler"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Typesafe updaters FAQ",
+    "permalink": "/docs/next/guided-tour/updating-data/typesafe-updaters-faq/"
+  },
+  "next": {
+    "title": "Client Schema Extensions",
+    "permalink": "/docs/next/guides/client-schema-extensions/"
+  }
+}

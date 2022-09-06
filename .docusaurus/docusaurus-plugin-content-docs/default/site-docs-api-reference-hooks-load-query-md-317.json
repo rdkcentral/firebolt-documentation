@@ -1,0 +1,40 @@
+{
+  "unversionedId": "api-reference/hooks/load-query",
+  "id": "api-reference/hooks/load-query",
+  "title": "loadQuery",
+  "description": "API reference for loadQuery, which imperatively fetches data for a query, retains that query and returns a query reference",
+  "source": "@site/docs/api-reference/hooks/load-query.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/load-query/",
+  "permalink": "/docs/next/api-reference/load-query/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/hooks/load-query.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "load-query",
+    "title": "loadQuery",
+    "slug": "/api-reference/load-query/",
+    "description": "API reference for loadQuery, which imperatively fetches data for a query, retains that query and returns a query reference",
+    "keywords": [
+      "preload",
+      "fetch",
+      "query",
+      "render-as-you-fetch",
+      "retain",
+      "query reference"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GraphQL Directives",
+    "permalink": "/docs/next/api-reference/graphql-and-directives/"
+  },
+  "next": {
+    "title": "RelayEnvironmentProvider",
+    "permalink": "/docs/next/api-reference/relay-environment-provider/"
+  }
+}

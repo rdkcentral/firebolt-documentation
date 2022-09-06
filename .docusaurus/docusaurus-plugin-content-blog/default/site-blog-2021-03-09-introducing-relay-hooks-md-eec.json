@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2021/03/09/introducing-relay-hooks",
+  "source": "@site/blog/2021-03-09-introducing-relay-hooks.md",
+  "title": "Introducing Relay Hooks",
+  "description": "Introducing Relay Hooks",
+  "date": "2021-03-09T00:00:00.000Z",
+  "formattedDate": "March 9, 2021",
+  "tags": [
+    {
+      "label": "relay-hooks",
+      "permalink": "/blog/tags/relay-hooks"
+    }
+  ],
+  "readingTime": 5.66,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Robert Balicki & Juan Tejada"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introducing Relay Hooks",
+    "author": "Robert Balicki & Juan Tejada",
+    "tags": [
+      "relay-hooks"
+    ],
+    "description": "Introducing Relay Hooks",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Introducing the new Relay compiler",
+    "permalink": "/blog/2021/12/08/introducing-the-new-relay-compiler"
+  }
+}

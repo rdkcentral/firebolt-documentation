@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guides/persisted-queries",
+  "id": "version-v11.0.0/guides/persisted-queries",
+  "title": "Persisted Queries",
+  "description": "Persistence is handled by the relay command for you. You likely do not need to worry about the contents of this guide.",
+  "source": "@site/versioned_docs/version-v11.0.0/guides/persisted-queries.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/persisted-queries/",
+  "permalink": "/docs/v11.0.0/guides/persisted-queries/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guides/persisted-queries.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "persisted-queries",
+    "title": "Persisted Queries",
+    "slug": "/guides/persisted-queries/"
+  }
+}

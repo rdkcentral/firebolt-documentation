@@ -1,0 +1,22 @@
+{
+  "unversionedId": "runtime-architecture",
+  "id": "version-v10.0.1/runtime-architecture",
+  "title": "Runtime Architecture",
+  "description": "The Relay runtime is a full-featured GraphQL client that is designed for high performance even on low-end mobile devices and is capable of scaling to large, complex apps. The runtime API is not intended to be used directly in product code, but rather to provide a foundation for building higher-level product APIs such as React/Relay. This foundation includes:",
+  "source": "@site/versioned_docs/version-v10.0.1/PrinciplesAndArchitecture-Runtime.md",
+  "sourceDirName": ".",
+  "slug": "/runtime-architecture",
+  "permalink": "/docs/v10.0.1/runtime-architecture",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.0.1/PrinciplesAndArchitecture-Runtime.md",
+  "tags": [],
+  "version": "v10.0.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "runtime-architecture",
+    "title": "Runtime Architecture",
+    "original_id": "runtime-architecture"
+  }
+}

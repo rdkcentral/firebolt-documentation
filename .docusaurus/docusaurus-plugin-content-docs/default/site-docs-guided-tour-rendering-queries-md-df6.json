@@ -1,0 +1,39 @@
+{
+  "unversionedId": "guided-tour/rendering/queries",
+  "id": "guided-tour/rendering/queries",
+  "title": "Queries",
+  "description": "Relay guide to queries",
+  "source": "@site/docs/guided-tour/rendering/queries.md",
+  "sourceDirName": "guided-tour/rendering",
+  "slug": "/guided-tour/rendering/queries/",
+  "permalink": "/docs/next/guided-tour/rendering/queries/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/rendering/queries.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "queries",
+    "title": "Queries",
+    "slug": "/guided-tour/rendering/queries/",
+    "description": "Relay guide to queries",
+    "keywords": [
+      "query",
+      "usePreloadedQuery",
+      "useLazyLoadQuery",
+      "useQueryLoader",
+      "loadQuery"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loading States with Suspense",
+    "permalink": "/docs/next/guided-tour/rendering/loading-states/"
+  },
+  "next": {
+    "title": "Variables",
+    "permalink": "/docs/next/guided-tour/rendering/variables/"
+  }
+}

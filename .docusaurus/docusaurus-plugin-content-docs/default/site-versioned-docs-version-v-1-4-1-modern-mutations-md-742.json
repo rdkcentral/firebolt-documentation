@@ -1,0 +1,22 @@
+{
+  "unversionedId": "mutations",
+  "id": "version-v1.4.1/mutations",
+  "title": "Mutations",
+  "description": "Table of Contents:",
+  "source": "@site/versioned_docs/version-v1.4.1/Modern-Mutations.md",
+  "sourceDirName": ".",
+  "slug": "/mutations",
+  "permalink": "/docs/v1.4.1/mutations",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v1.4.1/Modern-Mutations.md",
+  "tags": [],
+  "version": "v1.4.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "mutations",
+    "title": "Mutations",
+    "original_id": "mutations"
+  }
+}

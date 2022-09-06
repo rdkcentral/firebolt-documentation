@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/metadata/metadata-integration",
+  "id": "version-0.6.1/firebolt_docs/metadata/metadata-integration",
+  "title": "Metadata Integration",
+  "description": "Asset metadata describes all the relevant, useful, and important information about a media asset. The metadata you provide is used to directly populate the presentation and discovery of your content on the platform. The metadata is also used to determine numerous criteria including (but not limited to):",
+  "source": "@site/versioned_docs/version-0.6.1/firebolt_docs/metadata/metadata-integration.md",
+  "sourceDirName": "firebolt_docs/metadata",
+  "slug": "/firebolt_docs/metadata/metadata-integration",
+  "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/metadata/metadata-integration",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.1",
+  "frontMatter": {},
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "Metadata",
+    "permalink": "/firebolt-documentation/docs/0.6.1/category/metadata"
+  },
+  "next": {
+    "title": "Open GMRSS Specifications",
+    "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/metadata/open-gmrss-format"
+  }
+}

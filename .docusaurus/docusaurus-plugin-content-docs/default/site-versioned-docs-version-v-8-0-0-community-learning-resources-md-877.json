@@ -1,0 +1,22 @@
+{
+  "unversionedId": "community-learning-resources",
+  "id": "version-v8.0.0/community-learning-resources",
+  "title": "Community Learning Resources",
+  "description": "Relay example projects",
+  "source": "@site/versioned_docs/version-v8.0.0/Community-LearningResources.md",
+  "sourceDirName": ".",
+  "slug": "/community-learning-resources",
+  "permalink": "/docs/v8.0.0/community-learning-resources",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v8.0.0/Community-LearningResources.md",
+  "tags": [],
+  "version": "v8.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "community-learning-resources",
+    "title": "Community Learning Resources",
+    "original_id": "community-learning-resources"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/introduction",
+  "id": "version-v13.0.0/guided-tour/reusing-cached-data/introduction",
+  "title": "Reusing Cached Data",
+  "description": "Relay guide to reusing cached data",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/reusing-cached-data/introduction.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/",
+  "permalink": "/docs/v13.0.0/guided-tour/reusing-cached-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/reusing-cached-data/introduction.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Reusing Cached Data",
+    "slug": "/guided-tour/reusing-cached-data/",
+    "description": "Relay guide to reusing cached data",
+    "keywords": [
+      "reusing",
+      "cached"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "getting-started/prerequisites",
+  "id": "version-v13.0.0/getting-started/prerequisites",
+  "title": "Prerequisites",
+  "description": "Prerequisites for setting up Relay",
+  "source": "@site/versioned_docs/version-v13.0.0/getting-started/prerequisites.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/prerequisites/",
+  "permalink": "/docs/v13.0.0/getting-started/prerequisites/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/getting-started/prerequisites.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "prerequisites",
+    "title": "Prerequisites",
+    "slug": "/getting-started/prerequisites/",
+    "description": "Prerequisites for setting up Relay",
+    "keywords": [
+      "prerequisites"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "api-reference/types/UploadableMap",
+  "id": "version-v13.0.0/api-reference/types/UploadableMap",
+  "title": "UploadableMap",
+  "description": "Type UploadableMap",
+  "source": "@site/versioned_docs/version-v13.0.0/api-reference/types/UploadableMap.md",
+  "sourceDirName": "api-reference/types",
+  "slug": "/api-reference/types/UploadableMap",
+  "permalink": "/docs/v13.0.0/api-reference/types/UploadableMap",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/api-reference/types/UploadableMap.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {}
+}

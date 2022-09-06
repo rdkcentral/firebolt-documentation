@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guided-tour/updating-data/imperatively-modifying-store-data-unsafe",
+  "id": "version-v14.0.0/guided-tour/updating-data/imperatively-modifying-store-data-unsafe",
+  "title": "Imperatively modifying store data (unsafe)",
+  "description": "Imperatively modifying store data",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/updating-data/imperatively-modifying-store-data-legacy.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/imperatively-modifying-store-data-unsafe/",
+  "permalink": "/docs/guided-tour/updating-data/imperatively-modifying-store-data-unsafe/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/updating-data/imperatively-modifying-store-data-legacy.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "imperatively-modifying-store-data-unsafe",
+    "title": "Imperatively modifying store data (unsafe)",
+    "slug": "/guided-tour/updating-data/imperatively-modifying-store-data-unsafe/",
+    "description": "Imperatively modifying store data",
+    "keywords": [
+      "record source",
+      "store",
+      "updater"
+    ]
+  }
+}

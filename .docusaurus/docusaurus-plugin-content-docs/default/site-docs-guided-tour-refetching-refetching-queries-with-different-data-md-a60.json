@@ -1,0 +1,36 @@
+{
+  "unversionedId": "guided-tour/refetching/refetching-queries-with-different-data",
+  "id": "guided-tour/refetching/refetching-queries-with-different-data",
+  "title": "Refetching Queries with Different Data",
+  "description": "Relay guide to refetching queries with different data",
+  "source": "@site/docs/guided-tour/refetching/refetching-queries-with-different-data.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/refetching-queries-with-different-data/",
+  "permalink": "/docs/next/guided-tour/refetching/refetching-queries-with-different-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/refetching/refetching-queries-with-different-data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "refetching-queries-with-different-data",
+    "title": "Refetching Queries with Different Data",
+    "slug": "/guided-tour/refetching/refetching-queries-with-different-data/",
+    "description": "Relay guide to refetching queries with different data",
+    "keywords": [
+      "refetching",
+      "query"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Refetching Fragments with Different Data",
+    "permalink": "/docs/next/guided-tour/refetching/refetching-fragments-with-different-data/"
+  },
+  "next": {
+    "title": "Refreshing Fragments",
+    "permalink": "/docs/next/guided-tour/refetching/refreshing-fragments/"
+  }
+}

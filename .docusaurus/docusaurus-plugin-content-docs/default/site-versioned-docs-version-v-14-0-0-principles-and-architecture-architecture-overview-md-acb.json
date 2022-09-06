@@ -1,0 +1,26 @@
+{
+  "unversionedId": "principles-and-architecture/architecture-overview",
+  "id": "version-v14.0.0/principles-and-architecture/architecture-overview",
+  "title": "Architecture Overview",
+  "description": "Relay architecture overview guide",
+  "source": "@site/versioned_docs/version-v14.0.0/principles-and-architecture/architecture-overview.md",
+  "sourceDirName": "principles-and-architecture",
+  "slug": "/principles-and-architecture/architecture-overview/",
+  "permalink": "/docs/principles-and-architecture/architecture-overview/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/principles-and-architecture/architecture-overview.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "architecture-overview",
+    "title": "Architecture Overview",
+    "slug": "/principles-and-architecture/architecture-overview/",
+    "description": "Relay architecture overview guide",
+    "keywords": [
+      "architecture"
+    ]
+  }
+}

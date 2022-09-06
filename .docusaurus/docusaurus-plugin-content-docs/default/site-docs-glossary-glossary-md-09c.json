@@ -1,0 +1,35 @@
+{
+  "unversionedId": "glossary/glossary",
+  "id": "glossary/glossary",
+  "title": "Glossary",
+  "description": "Relay terms glossary",
+  "source": "@site/docs/glossary/glossary.md",
+  "sourceDirName": "glossary",
+  "slug": "/glossary/",
+  "permalink": "/docs/next/glossary/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/glossary/glossary.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "glossary",
+    "title": "Glossary",
+    "slug": "/glossary/",
+    "description": "Relay terms glossary",
+    "keywords": [
+      "glossary"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step-by-step Guide",
+    "permalink": "/docs/next/getting-started/step-by-step-guide/"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/next/guided-tour/"
+  }
+}

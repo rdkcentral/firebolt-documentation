@@ -1,0 +1,36 @@
+{
+  "unversionedId": "guides/network-layer",
+  "id": "guides/network-layer",
+  "title": "Network Layer",
+  "description": "Relay guide to the network layer",
+  "source": "@site/docs/guides/network-layer.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/network-layer/",
+  "permalink": "/docs/next/guides/network-layer/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guides/network-layer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "network-layer",
+    "title": "Network Layer",
+    "slug": "/guides/network-layer/",
+    "description": "Relay guide to the network layer",
+    "keywords": [
+      "network",
+      "caching"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GraphQL Server Specification",
+    "permalink": "/docs/next/guides/graphql-server-specification/"
+  },
+  "next": {
+    "title": "Persisted Queries",
+    "permalink": "/docs/next/guides/persisted-queries/"
+  }
+}

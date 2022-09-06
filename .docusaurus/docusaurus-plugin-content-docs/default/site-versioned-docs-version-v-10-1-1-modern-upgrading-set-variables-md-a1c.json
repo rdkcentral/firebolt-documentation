@@ -1,0 +1,22 @@
+{
+  "unversionedId": "upgrading-setvariables",
+  "id": "version-v10.1.1/upgrading-setvariables",
+  "title": "Upgrading setVariables",
+  "description": "Examples on how to migrate this.props.setVariables calls from the old API.",
+  "source": "@site/versioned_docs/version-v10.1.1/Modern-UpgradingSetVariables.md",
+  "sourceDirName": ".",
+  "slug": "/upgrading-setvariables",
+  "permalink": "/docs/v10.1.1/upgrading-setvariables",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.1.1/Modern-UpgradingSetVariables.md",
+  "tags": [],
+  "version": "v10.1.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "upgrading-setvariables",
+    "title": "Upgrading setVariables",
+    "original_id": "upgrading-setvariables"
+  }
+}

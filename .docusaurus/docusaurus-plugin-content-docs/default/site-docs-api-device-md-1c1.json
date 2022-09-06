@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Device",
+  "id": "api/Device",
+  "title": "Device",
+  "description": "---",
+  "source": "@site/docs/api/Device.md",
+  "sourceDirName": "api",
+  "slug": "/api/Device",
+  "permalink": "/firebolt-documentation/docs/next/api/Device",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Device"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/firebolt-documentation/docs/next/api/Authentication"
+  },
+  "next": {
+    "title": "Discovery",
+    "permalink": "/firebolt-documentation/docs/next/api/Discovery"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "metadata/open-gmrss-format",
+  "id": "version-0.8.0/metadata/open-gmrss-format",
+  "title": "Open GMRSS Specifications",
+  "description": "This document outlines the specifications of a GMRSS feed and what elements are required or optional.",
+  "source": "@site/versioned_docs/version-0.8.0/metadata/open-gmrss-format.md",
+  "sourceDirName": "metadata",
+  "slug": "/metadata/open-gmrss-format",
+  "permalink": "/docs/metadata/open-gmrss-format",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Metadata Integration",
+    "permalink": "/docs/metadata/metadata-integration"
+  },
+  "next": {
+    "title": "Profiles",
+    "permalink": "/docs/category/profiles"
+  }
+}

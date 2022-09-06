@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Accessibility",
+  "id": "api/Accessibility",
+  "title": "Accessibility",
+  "description": "---",
+  "source": "@site/docs/api/Accessibility.md",
+  "sourceDirName": "api",
+  "slug": "/api/Accessibility",
+  "permalink": "/firebolt-documentation/docs/next/api/Accessibility",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Accessibility"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Types",
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Types"
+  },
+  "next": {
+    "title": "Account",
+    "permalink": "/firebolt-documentation/docs/next/api/Account"
+  }
+}

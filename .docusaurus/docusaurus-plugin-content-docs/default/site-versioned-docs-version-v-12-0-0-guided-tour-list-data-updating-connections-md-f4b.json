@@ -1,0 +1,29 @@
+{
+  "unversionedId": "guided-tour/list-data/updating-connections",
+  "id": "version-v12.0.0/guided-tour/list-data/updating-connections",
+  "title": "Updating Connections",
+  "description": "Relay guide to updating connections",
+  "source": "@site/versioned_docs/version-v12.0.0/guided-tour/list-data/updating-connections.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/updating-connections/",
+  "permalink": "/docs/v12.0.0/guided-tour/list-data/updating-connections/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/guided-tour/list-data/updating-connections.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "updating-connections",
+    "title": "Updating Connections",
+    "slug": "/guided-tour/list-data/updating-connections/",
+    "description": "Relay guide to updating connections",
+    "keywords": [
+      "pagination",
+      "usePaginationFragment",
+      "updating",
+      "connection"
+    ]
+  }
+}

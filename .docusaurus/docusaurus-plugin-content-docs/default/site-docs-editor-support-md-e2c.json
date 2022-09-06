@@ -1,0 +1,37 @@
+{
+  "unversionedId": "editor-support",
+  "id": "editor-support",
+  "title": "Editor Support",
+  "description": "TL;DR: We have a VS Code Extension",
+  "source": "@site/docs/editor-support.md",
+  "sourceDirName": ".",
+  "slug": "/editor-support/",
+  "permalink": "/docs/next/editor-support/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/editor-support.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "editor-support",
+    "title": "Editor Support",
+    "slug": "/editor-support/",
+    "keywords": [
+      "LSP",
+      "Language Server Protocol",
+      "VS Code",
+      "VSCode"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Why Is My Field Null?",
+    "permalink": "/docs/next/debugging/why-null/"
+  },
+  "next": {
+    "title": "Installation and Setup",
+    "permalink": "/docs/next/getting-started/installation-and-setup/"
+  }
+}

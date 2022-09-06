@@ -1,0 +1,34 @@
+{
+  "unversionedId": "debugging/declarative-mutation-directives",
+  "id": "version-v12.0.0/debugging/declarative-mutation-directives",
+  "title": "Debugging Declarative Mutation Directives",
+  "description": "Debugging declarative mutation directives",
+  "source": "@site/versioned_docs/version-v12.0.0/debugging/declarative-mutation-directives.md",
+  "sourceDirName": "debugging",
+  "slug": "/debugging/declarative-mutation-directives/",
+  "permalink": "/docs/v12.0.0/debugging/declarative-mutation-directives/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/debugging/declarative-mutation-directives.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "declarative-mutation-directives",
+    "title": "Debugging Declarative Mutation Directives",
+    "slug": "/debugging/declarative-mutation-directives/",
+    "description": "Debugging declarative mutation directives",
+    "keywords": [
+      "debugging",
+      "troubleshooting",
+      "declarative mutation directive",
+      "deleteRecord",
+      "handlerProvider",
+      "appendEdge",
+      "prependEdge",
+      "appendNode",
+      "prependNode"
+    ]
+  }
+}

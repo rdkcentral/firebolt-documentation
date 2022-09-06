@@ -1,0 +1,22 @@
+{
+  "unversionedId": "local-state-management",
+  "id": "version-v6.0.0/local-state-management",
+  "title": "Local State Management",
+  "description": "Relay can be used to read and write local data, and act as a single source of truth for all data in your client application.",
+  "source": "@site/versioned_docs/version-v6.0.0/Modern-LocalStateManagement.md",
+  "sourceDirName": ".",
+  "slug": "/local-state-management",
+  "permalink": "/docs/v6.0.0/local-state-management",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v6.0.0/Modern-LocalStateManagement.md",
+  "tags": [],
+  "version": "v6.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "local-state-management",
+    "title": "Local State Management",
+    "original_id": "local-state-management"
+  }
+}

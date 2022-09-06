@@ -1,0 +1,35 @@
+{
+  "unversionedId": "guides/persisted-queries",
+  "id": "guides/persisted-queries",
+  "title": "Persisted Queries",
+  "description": "Relay guide to persisted queries",
+  "source": "@site/docs/guides/persisted-queries.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/persisted-queries/",
+  "permalink": "/docs/next/guides/persisted-queries/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guides/persisted-queries.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "persisted-queries",
+    "title": "Persisted Queries",
+    "slug": "/guides/persisted-queries/",
+    "description": "Relay guide to persisted queries",
+    "keywords": [
+      "persisted"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Network Layer",
+    "permalink": "/docs/next/guides/network-layer/"
+  },
+  "next": {
+    "title": "Relay Resolvers",
+    "permalink": "/docs/next/guides/relay-resolvers/"
+  }
+}

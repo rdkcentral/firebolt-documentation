@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/refetching/refetching-queries-with-different-data",
+  "id": "version-v11.0.0/guided-tour/refetching/refetching-queries-with-different-data",
+  "title": "Refetching Queries with Different Data",
+  "description": "When referring to \"refetching a query\", we mean fetching the query again for different data than was originally rendered by the query. For example, this might be to change a currently selected item, to render a different list of items than the one being shown, or more generally to transition the currently rendered content to show new or different content.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/refetching/refetching-queries-with-different-data.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/refetching-queries-with-different-data/",
+  "permalink": "/docs/v11.0.0/guided-tour/refetching/refetching-queries-with-different-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/refetching/refetching-queries-with-different-data.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "refetching-queries-with-different-data",
+    "title": "Refetching Queries with Different Data",
+    "slug": "/guided-tour/refetching/refetching-queries-with-different-data/"
+  }
+}

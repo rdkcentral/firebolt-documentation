@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Authentication",
+  "id": "version-0.6.1/api/Authentication",
+  "title": "Authentication",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.1/api/Authentication.md",
+  "sourceDirName": "api",
+  "slug": "/api/Authentication",
+  "permalink": "/firebolt-documentation/docs/0.6.1/api/Authentication",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.1",
+  "frontMatter": {
+    "title": "Authentication"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Advertising",
+    "permalink": "/firebolt-documentation/docs/0.6.1/api/Advertising"
+  },
+  "next": {
+    "title": "Device",
+    "permalink": "/firebolt-documentation/docs/0.6.1/api/Device"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/rendering/variables",
+  "id": "version-v11.0.0/guided-tour/rendering/variables",
+  "title": "Variables",
+  "description": "You may have noticed that the query declarations in our examples above contain references to an $id symbol inside the GraphQL code: these are GraphQL Variables.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/rendering/variables.md",
+  "sourceDirName": "guided-tour/rendering",
+  "slug": "/guided-tour/rendering/variables/",
+  "permalink": "/docs/v11.0.0/guided-tour/rendering/variables/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/rendering/variables.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "variables",
+    "title": "Variables",
+    "slug": "/guided-tour/rendering/variables/"
+  }
+}

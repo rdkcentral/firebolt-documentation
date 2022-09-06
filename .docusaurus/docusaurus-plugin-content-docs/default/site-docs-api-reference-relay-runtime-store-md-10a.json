@@ -1,0 +1,35 @@
+{
+  "unversionedId": "api-reference/relay-runtime/store",
+  "id": "api-reference/relay-runtime/store",
+  "title": "Store",
+  "description": "API reference for the Relay store",
+  "source": "@site/docs/api-reference/relay-runtime/store.md",
+  "sourceDirName": "api-reference/relay-runtime",
+  "slug": "/api-reference/store/",
+  "permalink": "/docs/next/api-reference/store/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/relay-runtime/store.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "store",
+    "title": "Store",
+    "slug": "/api-reference/store/",
+    "description": "API reference for the Relay store",
+    "keywords": [
+      "store"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "requestSubscription",
+    "permalink": "/docs/next/api-reference/request-subscription/"
+  },
+  "next": {
+    "title": "CacheConfig",
+    "permalink": "/docs/next/api-reference/types/CacheConfig"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guided-tour/list-data/advanced-pagination",
+  "id": "version-v13.0.0/guided-tour/list-data/advanced-pagination",
+  "title": "Advanced Pagination",
+  "description": "Relay guide for advanced pagination",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/list-data/advanced-pagination.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/advanced-pagination/",
+  "permalink": "/docs/v13.0.0/guided-tour/list-data/advanced-pagination/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/list-data/advanced-pagination.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "advanced-pagination",
+    "title": "Advanced Pagination",
+    "slug": "/guided-tour/list-data/advanced-pagination/",
+    "description": "Relay guide for advanced pagination",
+    "keywords": [
+      "pagination",
+      "usePaginationFragment",
+      "prefetching"
+    ]
+  }
+}

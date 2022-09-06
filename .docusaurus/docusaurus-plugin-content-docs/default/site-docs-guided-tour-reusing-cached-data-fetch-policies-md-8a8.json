@@ -1,0 +1,39 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/fetch-policies",
+  "id": "guided-tour/reusing-cached-data/fetch-policies",
+  "title": "Fetch Policies",
+  "description": "Relay guide to fetch policies",
+  "source": "@site/docs/guided-tour/reusing-cached-data/fetch-policies.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/fetch-policies/",
+  "permalink": "/docs/next/guided-tour/reusing-cached-data/fetch-policies/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/reusing-cached-data/fetch-policies.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "fetch-policies",
+    "title": "Fetch Policies",
+    "slug": "/guided-tour/reusing-cached-data/fetch-policies/",
+    "description": "Relay guide to fetch policies",
+    "keywords": [
+      "fetch policy",
+      "network-only",
+      "store-only",
+      "store-and-network",
+      "store-or-network"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Availability of Data",
+    "permalink": "/docs/next/guided-tour/reusing-cached-data/availability-of-data/"
+  },
+  "next": {
+    "title": "Filling in Missing Data (Missing Field Handlers)",
+    "permalink": "/docs/next/guided-tour/reusing-cached-data/filling-in-missing-data/"
+  }
+}

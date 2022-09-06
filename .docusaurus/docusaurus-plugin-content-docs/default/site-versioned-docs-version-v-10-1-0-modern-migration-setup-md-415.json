@@ -1,0 +1,22 @@
+{
+  "unversionedId": "migration-setup",
+  "id": "version-v10.1.0/migration-setup",
+  "title": "Migration Setup",
+  "description": "Installation",
+  "source": "@site/versioned_docs/version-v10.1.0/Modern-MigrationSetup.md",
+  "sourceDirName": ".",
+  "slug": "/migration-setup",
+  "permalink": "/docs/v10.1.0/migration-setup",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.1.0/Modern-MigrationSetup.md",
+  "tags": [],
+  "version": "v10.1.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "migration-setup",
+    "title": "Migration Setup",
+    "original_id": "migration-setup"
+  }
+}

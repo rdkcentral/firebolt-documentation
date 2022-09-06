@@ -1,0 +1,31 @@
+{
+  "unversionedId": "graphql-in-relay",
+  "id": "version-v0.6.1/graphql-in-relay",
+  "title": "GraphQL in Relay",
+  "description": "Table of Contents:",
+  "source": "@site/versioned_docs/version-v0.6.1/Modern-GraphQLInRelay.md",
+  "sourceDirName": ".",
+  "slug": "/graphql-in-relay",
+  "permalink": "/docs/graphql-in-relay",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v0.6.1/Modern-GraphQLInRelay.md",
+  "tags": [],
+  "version": "v0.6.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-in-relay",
+    "title": "GraphQL in Relay",
+    "original_id": "graphql-in-relay"
+  },
+  "sidebar": "version-v0.6.1/docs",
+  "previous": {
+    "title": "Quick Start Guide",
+    "permalink": "/docs/quick-start-guide"
+  },
+  "next": {
+    "title": "Relay Environment",
+    "permalink": "/docs/relay-environment"
+  }
+}

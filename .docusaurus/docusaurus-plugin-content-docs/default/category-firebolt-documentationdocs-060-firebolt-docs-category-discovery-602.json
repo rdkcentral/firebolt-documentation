@@ -1,0 +1,15 @@
+{
+  "title": "Discovery",
+  "slug": "/category/discovery",
+  "permalink": "/firebolt-documentation/docs/0.6.0/category/discovery",
+  "navigation": {
+    "previous": {
+      "title": "Sign In & Sign Up",
+      "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/authentication/sign-in-and-sign-up"
+    },
+    "next": {
+      "title": "Content Discovery",
+      "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/discovery/content-discovery"
+    }
+  }
+}

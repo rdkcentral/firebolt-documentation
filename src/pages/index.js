@@ -97,7 +97,7 @@ const Index = () => {
         <Container className="textSection" background="light">
           <h2>Built for scale</h2>
           <p>
-      Firebolt® is fast, reliable, open-source, and maintained by one of the largest telecom companies in the world.  In addition, Firebolt® is lightweight and built to quickly make apps run on home devices such as connected TVs, streaming devices, etc. Using Firebolt® doesn't require users to have an agreement to leverage the platform.  All you need to do is sign-up and you can then use all the open source tooling provided, as well as leverage the community.
+      Firebolt® is fast, reliable, open-source, and maintained by industry experts.  In addition, Firebolt® is lightweight and built to quickly make apps run on home devices such as connected TVs, streaming devices, etc. Using Firebolt® doesn't require users to have an agreement to leverage the platform.  All you need to do is sign-up and you can then use all the open source tooling provided, as well as leverage the community.
 
           </p>
           <GridBlock

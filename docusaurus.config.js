@@ -20,7 +20,7 @@ module.exports = {
   trailingSlash: true,
   organizationName: 'rdkcentral',
   projectName: 'firebolt-documentation',
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   scripts: [],
   favicon: 'img/rdk-favicon.png',
   customFields: {

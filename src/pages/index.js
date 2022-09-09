@@ -181,7 +181,7 @@ Lifecycle.listen('foreground', value => {
             </div>
           </div>
         </Container>
-       // <Container className="exampleSection" background="light">
+{/*       // <Container className="exampleSection" background="light">
         //  <div className="wrapperInner">
          //   <div>
         //      <h2>Fragments</h2>
@@ -512,7 +512,7 @@ Lifecycle.listen('foreground', value => {
 //            ]}
 //          />
 //      </Container>
-
+*/}
         <Container className="textSection" background="light">
           <h2>Proudly Used Elsewhere</h2>
           <p>

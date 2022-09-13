@@ -146,7 +146,7 @@ const Index = () => {
             ]}
           />
         </Container>
-        <Container className="exampleSection" background="dark">
+{/*        <Container className="exampleSection" background="dark">
           <div className="wrapperInner">
             <div className="radiusRight">
               <h2>Getting started is easy</h2>
@@ -181,7 +181,7 @@ Lifecycle.listen('foreground', value => {
             </div>
           </div>
         </Container>
-{/*       // <Container className="exampleSection" background="light">
+       // <Container className="exampleSection" background="light">
         //  <div className="wrapperInner">
          //   <div>
         //      <h2>Fragments</h2>

@@ -104,7 +104,7 @@ const Index = () => {
             layout="threeColumn"
             contents={[
               {
-                title: 'Keeps iteration quick',
+                title: 'Write once, run everywhere',
                 content: (
                   <span>
                     <p>

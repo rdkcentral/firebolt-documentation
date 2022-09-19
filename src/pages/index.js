@@ -517,10 +517,9 @@ Lifecycle.listen('foreground', value => {
           <h2>Proudly Used Elsewhere</h2>
 
 
-
-
-
          <p>
+            
+            
           </p>
           <div>
            <div className="logosHomepage">{showcase}</div>

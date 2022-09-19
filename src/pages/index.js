@@ -513,12 +513,9 @@ Lifecycle.listen('foreground', value => {
 //          />
 //      </Container>
 */}
- {/*       <Container className="textSection" background="light">
+        <Container className="textSection" background="light">
           <h2>Proudly Used Elsewhere</h2>
          <p>
-            Relay was originally created for the React Native sections of the
-            Facebook app, and it has been used adapted and improved by other
-            teams internally and externally.
           </p>
           <div>
            <div className="logosHomepage">{showcase}</div>
@@ -529,7 +526,6 @@ Lifecycle.listen('foreground', value => {
     </div>
   );
 };
-*/}
 export default props => (
   <Layout>
     <Index {...props} />

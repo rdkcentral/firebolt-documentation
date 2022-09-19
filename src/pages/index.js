@@ -515,6 +515,8 @@ Lifecycle.listen('foreground', value => {
 */}
         <Container className="textSection" background="light">
           <h2>Proudly Used Elsewhere</h2>
+
+
          <p>
           </p>
           <div>

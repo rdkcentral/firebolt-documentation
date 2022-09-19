@@ -104,7 +104,7 @@ const Index = () => {
             layout="threeColumn"
             contents={[
               {
-                title: 'Keeps iteration quick',
+                title: 'Write once, run everywhere',
                 content: (
                   <span>
                     <p>
@@ -515,21 +515,19 @@ Lifecycle.listen('foreground', value => {
 */}
         <Container className="textSection" background="light">
           <h2>Proudly Used Elsewhere</h2>
-          <p>
-            Relay was originally created for the React Native sections of the
-            Facebook app, and it has been used adapted and improved by other
-            teams internally and externally.
+         <p> 
           </p>
           <div>
-            <div className="logosHomepage">{showcase}</div>
-          </div>
+            
+            
+           <div className="logosHomepage">{showcase}</div>
+         </div>
           
         </Container>
       </div>
     </div>
   );
 };
-
 export default props => (
   <Layout>
     <Index {...props} />

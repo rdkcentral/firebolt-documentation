@@ -230,12 +230,6 @@ module.exports = {
       theme: require('prism-react-renderer/themes/github'),
       darkTheme: require('prism-react-renderer/themes/dracula'),
       defaultLanguage: 'javascript',
-    },
-    // algolia: {
-    //   appId: 'BH4D9OD16A',
-    //   apiKey: '3d7d5825d50ea36bca0e6ad06c926f06',
-    //   indexName: 'relay',
-    //   contextualSearch: true,
-    // },
-  },
+    }
+  }
 };

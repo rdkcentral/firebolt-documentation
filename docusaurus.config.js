@@ -179,7 +179,7 @@ module.exports = {
           items: [
             {
               label: 'Get Started',
-              href: 'versioned_docs/version-0.8.0/firebolt_docs/getting-started/quick-start-guide/',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
               target: '_self',
             },
           ],

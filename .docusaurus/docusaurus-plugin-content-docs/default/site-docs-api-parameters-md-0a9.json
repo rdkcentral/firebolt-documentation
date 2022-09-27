@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Parameters",
+  "id": "api/Parameters",
+  "title": "Parameters",
+  "description": "---",
+  "source": "@site/docs/api/Parameters.md",
+  "sourceDirName": "api",
+  "slug": "/api/Parameters",
+  "permalink": "/firebolt-documentation/docs/next/api/Parameters",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Parameters"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Metrics",
+    "permalink": "/firebolt-documentation/docs/next/api/Metrics"
+  },
+  "next": {
+    "title": "Profile",
+    "permalink": "/firebolt-documentation/docs/next/api/Profile"
+  }
+}

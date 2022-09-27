@@ -1,0 +1,42 @@
+{
+  "unversionedId": "api-reference/graphql/graphql-directives",
+  "id": "api-reference/graphql/graphql-directives",
+  "title": "GraphQL Directives",
+  "description": "API Reference for GraphQL directives",
+  "source": "@site/docs/api-reference/graphql/graphql-directives.md",
+  "sourceDirName": "api-reference/graphql",
+  "slug": "/api-reference/graphql-and-directives/",
+  "permalink": "/docs/next/api-reference/graphql-and-directives/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/graphql/graphql-directives.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-directives",
+    "title": "GraphQL Directives",
+    "slug": "/api-reference/graphql-and-directives/",
+    "description": "API Reference for GraphQL directives",
+    "keywords": [
+      "GraphQL",
+      "Directive",
+      "arguments",
+      "argumentDefinitions",
+      "connection",
+      "relay",
+      "inline",
+      "provider"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "useEntryPointLoader",
+    "permalink": "/docs/next/api-reference/use-entrypoint-loader/"
+  },
+  "next": {
+    "title": "loadQuery",
+    "permalink": "/docs/next/api-reference/load-query/"
+  }
+}

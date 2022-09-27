@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api-reference/hooks/use-preloaded-query",
+  "id": "version-v12.0.0/api-reference/hooks/use-preloaded-query",
+  "title": "usePreloadedQuery",
+  "description": "API reference for usePreloadedQuery, a React hook used to read query data from the Relay store using a query reference",
+  "source": "@site/versioned_docs/version-v12.0.0/api-reference/hooks/use-preloaded-query.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-preloaded-query/",
+  "permalink": "/docs/v12.0.0/api-reference/use-preloaded-query/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/api-reference/hooks/use-preloaded-query.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-preloaded-query",
+    "title": "usePreloadedQuery",
+    "slug": "/api-reference/use-preloaded-query/",
+    "description": "API reference for usePreloadedQuery, a React hook used to read query data from the Relay store using a query reference",
+    "keywords": [
+      "read",
+      "query",
+      "query reference"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/schemas/Intents",
+  "id": "version-0.6.0-alpha.1/api/schemas/Intents",
+  "title": "Intents",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.0-alpha.1/api/schemas/Intents.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/Intents",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Intents",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0-alpha.1",
+  "frontMatter": {
+    "title": "Intents"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Errors",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Errors"
+  },
+  "next": {
+    "title": "Lifecycle",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Lifecycle"
+  }
+}

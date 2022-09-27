@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/discovery/deep-linking",
+  "id": "version-0.8.0/firebolt_docs/discovery/deep-linking",
+  "title": "Deep Linking",
+  "description": "Deep linking is how the platform can inform your app of a user's intention to view a specific, indexed piece of content beyond just your home screen.",
+  "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/discovery/deep-linking.md",
+  "sourceDirName": "firebolt_docs/discovery",
+  "slug": "/firebolt_docs/discovery/deep-linking",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/discovery/deep-linking",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {},
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "Content Discovery",
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/discovery/content-discovery"
+  },
+  "next": {
+    "title": "Voice Commands",
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/discovery/voice-commands"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api-reference/types/GraphQLSubscriptionConfig",
+  "id": "api-reference/types/GraphQLSubscriptionConfig",
+  "title": "GraphQLSubscriptionConfig",
+  "description": "Type GraphQLSubscriptionConfig",
+  "source": "@site/docs/api-reference/types/GraphQLSubscriptionConfig.md",
+  "sourceDirName": "api-reference/types",
+  "slug": "/api-reference/types/GraphQLSubscriptionConfig",
+  "permalink": "/docs/next/api-reference/types/GraphQLSubscriptionConfig",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/types/GraphQLSubscriptionConfig.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Disposable",
+    "permalink": "/docs/next/api-reference/types/Disposable"
+  },
+  "next": {
+    "title": "MutationConfig",
+    "permalink": "/docs/next/api-reference/types/MutationConfig"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/list-data/rendering-connections",
+  "id": "version-v11.0.0/guided-tour/list-data/rendering-connections",
+  "title": "Rendering Connections",
+  "description": "In Relay, in order to display a list of data that is backed by a GraphQL connection, first you need to declare a fragment that queries for a connection:",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/list-data/rendering-connections.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/rendering-connections/",
+  "permalink": "/docs/v11.0.0/guided-tour/list-data/rendering-connections/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/list-data/rendering-connections.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "rendering-connections",
+    "title": "Rendering Connections",
+    "slug": "/guided-tour/list-data/rendering-connections/"
+  }
+}

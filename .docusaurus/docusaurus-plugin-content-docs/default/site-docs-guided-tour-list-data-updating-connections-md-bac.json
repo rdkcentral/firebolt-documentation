@@ -1,0 +1,38 @@
+{
+  "unversionedId": "guided-tour/list-data/updating-connections",
+  "id": "guided-tour/list-data/updating-connections",
+  "title": "Updating Connections",
+  "description": "Relay guide to updating connections",
+  "source": "@site/docs/guided-tour/list-data/updating-connections.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/updating-connections/",
+  "permalink": "/docs/next/guided-tour/list-data/updating-connections/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/list-data/updating-connections.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "updating-connections",
+    "title": "Updating Connections",
+    "slug": "/guided-tour/list-data/updating-connections/",
+    "description": "Relay guide to updating connections",
+    "keywords": [
+      "pagination",
+      "usePaginationFragment",
+      "updating",
+      "connection"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Streaming Pagination",
+    "permalink": "/docs/next/guided-tour/list-data/streaming-pagination/"
+  },
+  "next": {
+    "title": "Prefetching Queries",
+    "permalink": "/docs/next/guided-tour/accessing-data-without-react/prefetching-queries/"
+  }
+}

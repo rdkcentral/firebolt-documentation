@@ -1,0 +1,23 @@
+{
+  "unversionedId": "profile/profile-flags",
+  "id": "profile/profile-flags",
+  "title": "Profile Flags",
+  "description": "Profile Flags are only necessary under specific circumstances. These are prescribed by distributors who may want to add flags that trigger specific user experiences based on distribution rights, etc.",
+  "source": "@site/docs/profile/profile-flags.md",
+  "sourceDirName": "profile",
+  "slug": "/profile/profile-flags",
+  "permalink": "/docs/next/profile/profile-flags",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Parental Controls",
+    "permalink": "/docs/next/profile/parental-controls"
+  },
+  "next": {
+    "title": "Feature Documentation",
+    "permalink": "/docs/next/"
+  }
+}

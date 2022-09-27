@@ -1,0 +1,43 @@
+{
+  "unversionedId": "debugging/declarative-mutation-directives",
+  "id": "debugging/declarative-mutation-directives",
+  "title": "Debugging Declarative Mutation Directives",
+  "description": "Debugging declarative mutation directives",
+  "source": "@site/docs/debugging/declarative-mutation-directives.md",
+  "sourceDirName": "debugging",
+  "slug": "/debugging/declarative-mutation-directives/",
+  "permalink": "/docs/next/debugging/declarative-mutation-directives/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/debugging/declarative-mutation-directives.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "declarative-mutation-directives",
+    "title": "Debugging Declarative Mutation Directives",
+    "slug": "/debugging/declarative-mutation-directives/",
+    "description": "Debugging declarative mutation directives",
+    "keywords": [
+      "debugging",
+      "troubleshooting",
+      "declarative mutation directive",
+      "deleteRecord",
+      "handlerProvider",
+      "appendEdge",
+      "prependEdge",
+      "appendNode",
+      "prependNode"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Community Learning Resources",
+    "permalink": "/docs/next/community-learning-resources/"
+  },
+  "next": {
+    "title": "Disallowed Types for `id` Fields",
+    "permalink": "/docs/next/debugging/disallowed-id-types-error"
+  }
+}

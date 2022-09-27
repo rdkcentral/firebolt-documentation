@@ -1,0 +1,22 @@
+{
+  "unversionedId": "relay-debugging",
+  "id": "version-v10.1.2/relay-debugging",
+  "title": "Debugging",
+  "description": "If you're new to Relay, we provide some basic debugging strategies that should serve to help you clarify key concepts as you build your app. Alternatively, Relay provides a couple of tools to inspect the store and its records.",
+  "source": "@site/versioned_docs/version-v10.1.2/Modern-Debugging.md",
+  "sourceDirName": ".",
+  "slug": "/relay-debugging",
+  "permalink": "/docs/v10.1.2/relay-debugging",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.1.2/Modern-Debugging.md",
+  "tags": [],
+  "version": "v10.1.2",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "relay-debugging",
+    "title": "Debugging",
+    "original_id": "relay-debugging"
+  }
+}

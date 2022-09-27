@@ -1,0 +1,27 @@
+{
+  "unversionedId": "api/schemas/intro",
+  "id": "api/schemas/intro",
+  "title": "Firebolt JS SDK",
+  "description": "For building Firebolt compliant apps.",
+  "source": "@site/docs/api/schemas/intro.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/intro",
+  "permalink": "/firebolt-documentation/docs/next/api/schemas/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "API Intro"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Schemas",
+    "permalink": "/firebolt-documentation/docs/next/category/schemas"
+  },
+  "next": {
+    "title": "Discovery",
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Discovery"
+  }
+}

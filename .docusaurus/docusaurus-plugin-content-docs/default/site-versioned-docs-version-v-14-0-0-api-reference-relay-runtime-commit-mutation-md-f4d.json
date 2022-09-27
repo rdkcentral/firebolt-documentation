@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api-reference/relay-runtime/commit-mutation",
+  "id": "version-v14.0.0/api-reference/relay-runtime/commit-mutation",
+  "title": "commitMutation",
+  "description": "API reference for commitMutation, which imperatively executes a mutation",
+  "source": "@site/versioned_docs/version-v14.0.0/api-reference/relay-runtime/commit-mutation.md",
+  "sourceDirName": "api-reference/relay-runtime",
+  "slug": "/api-reference/commit-mutation/",
+  "permalink": "/docs/api-reference/commit-mutation/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/api-reference/relay-runtime/commit-mutation.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "commit-mutation",
+    "title": "commitMutation",
+    "slug": "/api-reference/commit-mutation/",
+    "description": "API reference for commitMutation, which imperatively executes a mutation",
+    "keywords": [
+      "mutation"
+    ]
+  }
+}

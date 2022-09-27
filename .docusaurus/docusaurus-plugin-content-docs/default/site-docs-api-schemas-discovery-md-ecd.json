@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/schemas/Discovery",
+  "id": "api/schemas/Discovery",
+  "title": "Discovery",
+  "description": "---",
+  "source": "@site/docs/api/schemas/Discovery.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/Discovery",
+  "permalink": "/firebolt-documentation/docs/next/api/schemas/Discovery",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Discovery"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "API Intro",
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/intro"
+  },
+  "next": {
+    "title": "Entertainment",
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Entertainment"
+  }
+}

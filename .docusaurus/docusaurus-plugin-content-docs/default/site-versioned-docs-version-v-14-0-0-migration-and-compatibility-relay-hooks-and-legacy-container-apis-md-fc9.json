@@ -1,0 +1,32 @@
+{
+  "unversionedId": "migration-and-compatibility/relay-hooks-and-legacy-container-apis",
+  "id": "version-v14.0.0/migration-and-compatibility/relay-hooks-and-legacy-container-apis",
+  "title": "Relay Hooks and Legacy Container APIs",
+  "description": "Relay guide to compatibility between hooks and containers",
+  "source": "@site/versioned_docs/version-v14.0.0/migration-and-compatibility/relay-hooks-and-legacy-container-apis.md",
+  "sourceDirName": "migration-and-compatibility",
+  "slug": "/migration-and-compatibility/relay-hooks-and-legacy-container-apis/",
+  "permalink": "/docs/migration-and-compatibility/relay-hooks-and-legacy-container-apis/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/migration-and-compatibility/relay-hooks-and-legacy-container-apis.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "relay-hooks-and-legacy-container-apis",
+    "title": "Relay Hooks and Legacy Container APIs",
+    "slug": "/migration-and-compatibility/relay-hooks-and-legacy-container-apis/",
+    "description": "Relay guide to compatibility between hooks and containers",
+    "keywords": [
+      "migration",
+      "compatibility",
+      "container",
+      "QueryRenderer",
+      "FragmentContainer",
+      "RefetchContainer",
+      "PaginationContainer"
+    ]
+  }
+}

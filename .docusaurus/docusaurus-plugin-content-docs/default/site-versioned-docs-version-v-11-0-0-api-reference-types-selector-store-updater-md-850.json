@@ -1,0 +1,18 @@
+{
+  "unversionedId": "api-reference/types/SelectorStoreUpdater",
+  "id": "version-v11.0.0/api-reference/types/SelectorStoreUpdater",
+  "title": "SelectorStoreUpdater",
+  "description": "Type SelectorStoreUpdater",
+  "source": "@site/versioned_docs/version-v11.0.0/api-reference/types/SelectorStoreUpdater.md",
+  "sourceDirName": "api-reference/types",
+  "slug": "/api-reference/types/SelectorStoreUpdater",
+  "permalink": "/docs/v11.0.0/api-reference/types/SelectorStoreUpdater",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/api-reference/types/SelectorStoreUpdater.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {}
+}

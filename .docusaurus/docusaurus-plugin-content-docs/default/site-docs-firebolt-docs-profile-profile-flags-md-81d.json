@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/profile/profile-flags",
+  "id": "firebolt_docs/profile/profile-flags",
+  "title": "Profile Flags",
+  "description": "Profile Flags are only necessary under specific circumstances. These are prescribed by distributors who may want to add flags that trigger specific user experiences based on distribution rights, etc.",
+  "source": "@site/docs/firebolt_docs/profile/profile-flags.md",
+  "sourceDirName": "firebolt_docs/profile",
+  "slug": "/firebolt_docs/profile/profile-flags",
+  "permalink": "/firebolt-documentation/docs/next/firebolt_docs/profile/profile-flags",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Parental Controls",
+    "permalink": "/firebolt-documentation/docs/next/firebolt_docs/profile/parental-controls"
+  },
+  "next": {
+    "title": "Feature Documentation",
+    "permalink": "/firebolt-documentation/docs/next/"
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "pluginId": "default",
+  "version": "v11.0.0",
+  "label": "v11.0.0",
+  "banner": "unmaintained",
+  "badge": true,
+  "className": "docs-version-v11.0.0",
+  "isLast": false,
+  "docsSidebars": {},
+  "docs": {
+    "api-reference/entrypoint-apis/entrypoint-container": {
+      "id": "api-reference/entrypoint-apis/entrypoint-container",
+      "title": "EntryPointContainer",
+      "description": "EntryPointContainer"
+    },
+    "api-reference/entrypoint-apis/load-entrypoint": {
+      "id": "api-reference/entrypoint-apis/load-entrypoint",
+      "title": "loadEntryPoint",
+      "description": "loadEntryPoint"
+    },
+    "api-reference/entrypoint-apis/use-entrypoint-loader": {
+      "id": "api-reference/entrypoint-apis/use-entrypoint-loader",
+      "title": "useEntryPointLoader",
+      "description": "useEntryPointLoader"
+    },
+    "api-reference/graphql/graphql-directives": {
+      "id": "api-reference/graphql/graphql-directives",
+      "title": "GraphQL Directives",
+      "description": "Relay uses directives to add additional information to GraphQL documents, which are used by the Relay compiler to generate the appropriate runtime artifacts. These directives only appear in your application code and are removed from requests sent to your GraphQL server."
+    },
+    "api-reference/hooks/load-query": {
+      "id": "api-reference/hooks/load-query",
+      "title": "loadQuery",
+      "description": "loadQuery"
+    },
+    "api-reference/hooks/relay-environment-provider": {
+      "id": "api-reference/hooks/relay-environment-provider",
+      "title": "RelayEnvironmentProvider",
+      "description": "RelayEnvironmentProvider"
+    },
+    "api-reference/hooks/use-fragment": {
+      "id": "api-reference/hooks/use-fragment",
+      "title": "useFragment",
+      "description": "useFragment"
+    },
+    "api-reference/hooks/use-lazy-load-query": {
+      "id": "api-reference/hooks/use-lazy-load-query",
+      "title": "useLazyLoadQuery",
+      "description": "useLazyLoadQuery"
+    },
+    "api-reference/hooks/use-mutation": {
+      "id": "api-reference/hooks/use-mutation",
+      "title": "useMutation",
+      "description": "useMutation"
+    },
+    "api-reference/hooks/use-pagination-fragment": {
+      "id": "api-reference/hooks/use-pagination-fragment",
+      "title": "usePaginationFragment",
+      "description": "usePaginationFragment"
+    },
+    "api-reference/hooks/use-preloaded-query": {
+      "id": "api-reference/hooks/use-preloaded-query",
+      "title": "usePreloadedQuery",
+      "description": "usePreloadedQuery"
+    },
+    "api-reference/hooks/use-query-loader": {
+      "id": "api-reference/hooks/use-query-loader",
+      "title": "useQueryLoader",
+      "description": "useQueryLoader"
+    },
+    "api-reference/hooks/use-refetchable-fragment": {
+      "id": "api-reference/hooks/use-refetchable-fragment",
+      "title": "useRefetchableFragment",
+      "description": "useRefetchableFragment"
+    },
+    "api-reference/hooks/use-relay-environment": {
+      "id": "api-reference/hooks/use-relay-environment",
+      "title": "useRelayEnvironment",
+      "description": "useRelayEnvironment"
+    },
+    "api-reference/hooks/use-subscription": {
+      "id": "api-reference/hooks/use-subscription",
+      "title": "useSubscription",
+      "description": "useSubscription"
+    },
+    "api-reference/legacy-apis/legacy-apis": {
+      "id": "api-reference/legacy-apis/legacy-apis",
+      "title": "Legacy APIs",
+      "description": "API references for our previous legacy APIs are available in our previous docs website:"
+    },
+    "api-reference/relay-runtime/commit-mutation": {
+      "id": "api-reference/relay-runtime/commit-mutation",
+      "title": "commitMutation",
+      "description": "commitMutation"
+    },
+    "api-reference/relay-runtime/fetch-query": {
+      "id": "api-reference/relay-runtime/fetch-query",
+      "title": "fetchQuery",
+      "description": "fetchQuery"
+    },
+    "api-reference/relay-runtime/request-subscription": {
+      "id": "api-reference/relay-runtime/request-subscription",
+      "title": "requestSubscription",
+      "description": "requestSubscription"
+    },
+    "api-reference/relay-runtime/store": {
+      "id": "api-reference/relay-runtime/store",
+      "title": "RelayModernStore",
+      "description": "The Relay Store can be used to programmatically update client-side data inside updater functions. The following is a reference of the Relay Store interface."
+    },
+    "api-reference/types/CacheConfig": {
+      "id": "api-reference/types/CacheConfig",
+      "title": "CacheConfig",
+      "description": "Type CacheConfig"
+    },
+    "api-reference/types/Disposable": {
+      "id": "api-reference/types/Disposable",
+      "title": "Disposable",
+      "description": "Interface Disposable"
+    },
+    "api-reference/types/GraphQLSubscriptionConfig": {
+      "id": "api-reference/types/GraphQLSubscriptionConfig",
+      "title": "GraphQLSubscriptionConfig",
+      "description": "Type GraphQLSubscriptionConfig"
+    },
+    "api-reference/types/MutationConfig": {
+      "id": "api-reference/types/MutationConfig",
+      "title": "MutationConfig",
+      "description": "Type MutationConfig"
+    },
+    "api-reference/types/SelectorStoreUpdater": {
+      "id": "api-reference/types/SelectorStoreUpdater",
+      "title": "SelectorStoreUpdater",
+      "description": "Type SelectorStoreUpdater"
+    },
+    "api-reference/types/UploadableMap": {
+      "id": "api-reference/types/UploadableMap",
+      "title": "UploadableMap",
+      "description": "Type UploadableMap"
+    },
+    "community/learning-resources": {
+      "id": "community/learning-resources",
+      "title": "Community Learning Resources",
+      "description": "Relay example projects"
+    },
+    "debugging/declarative-mutation-directives": {
+      "id": "debugging/declarative-mutation-directives",
+      "title": "Debugging Declarative Mutation Directives",
+      "description": "If you see an error similar to:"
+    },
+    "debugging/inconsistent-typename-error": {
+      "id": "debugging/inconsistent-typename-error",
+      "title": "Inconsistent Typename Error",
+      "description": "Inconsistent typename error"
+    },
+    "debugging/relay-devtools": {
+      "id": "debugging/relay-devtools",
+      "title": "Relay DevTools",
+      "description": "Installation"
+    },
+    "getting-started/installation-and-setup": {
+      "id": "getting-started/installation-and-setup",
+      "title": "Installation and Setup",
+      "description": "Installation"
+    },
+    "getting-started/introduction": {
+      "id": "getting-started/introduction",
+      "title": "Introduction to Relay",
+      "description": "Relay is a JavaScript framework for fetching and managing GraphQL data in React applications that emphasizes maintainability, type safety and runtime performance."
+    },
+    "getting-started/prerequisites": {
+      "id": "getting-started/prerequisites",
+      "title": "Prerequisites",
+      "description": "Before getting started with Relay, bear in mind that we assume that the following infrastructure has already been set up, as well as some level of familiarity with the topics below."
+    },
+    "getting-started/step-by-step-guide": {
+      "id": "getting-started/step-by-step-guide",
+      "title": "Step-by-step Guide",
+      "description": "Relay is a framework for managing and declaratively fetching GraphQL data. It allows developers to declare what data each component needs via GraphQL, and then aggregate these dependencies and efficiently fetch the data in fewer round trips. In this guide we'll introduce the key concepts for using Relay in a React app one at a time."
+    },
+    "glossary/glossary": {
+      "id": "glossary/glossary",
+      "title": "Glossary",
+      "description": "3D"
+    },
+    "guided-tour/introduction": {
+      "id": "guided-tour/introduction",
+      "title": "Introduction",
+      "description": "In this guided tour, we're going to go over how to use Relay to build out some of the more common use cases in apps. If you're interested in a detailed reference of our APIs, check out our API Reference."
+    },
+    "guided-tour/list-data/advanced-pagination": {
+      "id": "guided-tour/list-data/advanced-pagination",
+      "title": "Advanced Pagination",
+      "description": "In this section we're going to cover how to implement more advanced pagination use cases than the default cases covered by usePaginationFragment."
+    },
+    "guided-tour/list-data/connections": {
+      "id": "guided-tour/list-data/connections",
+      "title": "Connections",
+      "description": "There are several scenarios in which we'll want to query a list of data from the GraphQL server. Often times we don't want to query the entire set of data up front, but rather discrete sub-parts of the list, incrementally, usually in response to user input or other events. Querying a list of data in discrete parts is usually known as Pagination."
+    },
+    "guided-tour/list-data/pagination": {
+      "id": "guided-tour/list-data/pagination",
+      "title": "Pagination",
+      "description": "To actually perform pagination over the connection, we need use the loadNext function to fetch the next page of items, which is available from usePaginationFragment:"
+    },
+    "guided-tour/list-data/refetching-connections": {
+      "id": "guided-tour/list-data/refetching-connections",
+      "title": "Refetching Connections (Using and Changing Filters)",
+      "description": "Often times when querying for a list of data, you can provide different values in the query which serve as filters that change the result set, or sort it differently."
+    },
+    "guided-tour/list-data/rendering-connections": {
+      "id": "guided-tour/list-data/rendering-connections",
+      "title": "Rendering Connections",
+      "description": "In Relay, in order to display a list of data that is backed by a GraphQL connection, first you need to declare a fragment that queries for a connection:"
+    },
+    "guided-tour/list-data/streaming-pagination": {
+      "id": "guided-tour/list-data/streaming-pagination",
+      "title": "Streaming Pagination",
+      "description": "Additionally, we can combine usePaginationFragment with Relay's Incremental Data Delivery capabilities in order to fetch a connection and incrementally receive each item in the connection as it becomes ready, instead of waiting for the whole list of items to be returned in a single payload. This can be useful when for example computing each item in the connection is an expensive operation in the server, and we want to be able to show the first item(s) in the list as soon as possible without blocking on all the items that we need to become available; for example, on News Feed a user could ideally see and start interacting with the first story while additional stories loaded in below."
+    },
+    "guided-tour/list-data/updating-connections": {
+      "id": "guided-tour/list-data/updating-connections",
+      "title": "Updating Connections",
+      "description": "Usually when you're rendering a connection, you'll also want to be able to add or remove items to/from the connection in response to user actions."
+    },
+    "guided-tour/managing-data-outside-react/prefetching-queries": {
+      "id": "guided-tour/managing-data-outside-react/prefetching-queries",
+      "title": "Prefetching Queries",
+      "description": ""
+    },
+    "guided-tour/managing-data-outside-react/reading-fragments": {
+      "id": "guided-tour/managing-data-outside-react/reading-fragments",
+      "title": "Reading Fragments",
+      "description": ""
+    },
+    "guided-tour/managing-data-outside-react/reading-queries": {
+      "id": "guided-tour/managing-data-outside-react/reading-queries",
+      "title": "Reading Queries",
+      "description": ""
+    },
+    "guided-tour/managing-data-outside-react/retaining-queries": {
+      "id": "guided-tour/managing-data-outside-react/retaining-queries",
+      "title": "Retaining Queries",
+      "description": "In order to manually retain a query so that the data it references isn’t garbage collected by Relay, we can use the environment.retain method:"
+    },
+    "guided-tour/managing-data-outside-react/subscribing-to-queries": {
+      "id": "guided-tour/managing-data-outside-react/subscribing-to-queries",
+      "title": "Subscribing to Queries",
+      "description": ""
+    },
+    "guided-tour/refetching/introduction": {
+      "id": "guided-tour/refetching/introduction",
+      "title": "Introduction",
+      "description": "After an app has been initially rendered, there are various scenarios in which you might want to refetch and show new or different data (e.g. change the currently displayed item), or maybe refresh the currently rendered data with the latest version from the server (e.g. refreshing a count), usually as a result of an event or user interaction."
+    },
+    "guided-tour/refetching/OssAvoidSuspenseNote": {
+      "id": "guided-tour/refetching/OssAvoidSuspenseNote",
+      "title": "OssAvoidSuspenseNote",
+      "description": "In future versions of React when concurrent rendering is supported, React will provide an option to support this case and avoid hiding already rendered content with a Suspense fallback when suspending."
+    },
+    "guided-tour/refetching/refetching-fragments-with-different-data": {
+      "id": "guided-tour/refetching/refetching-fragments-with-different-data",
+      "title": "Refetching Fragments With Different Data",
+      "description": "When referring to \"refetching a fragment\", we mean fetching a different version of the data than the one was originally rendered by the fragment. For example, this might be to change a currently selected item, to render a different list of items than the one being shown, or more generally to transition the currently rendered content to show new or different content."
+    },
+    "guided-tour/refetching/refetching-queries-with-different-data": {
+      "id": "guided-tour/refetching/refetching-queries-with-different-data",
+      "title": "Refetching Queries with Different Data",
+      "description": "When referring to \"refetching a query\", we mean fetching the query again for different data than was originally rendered by the query. For example, this might be to change a currently selected item, to render a different list of items than the one being shown, or more generally to transition the currently rendered content to show new or different content."
+    },
+    "guided-tour/refetching/refreshing-fragments": {
+      "id": "guided-tour/refetching/refreshing-fragments",
+      "title": "Refreshing Fragments",
+      "description": "When referring to \"refreshing a fragment\", we mean fetching the exact same data that was originally rendered by the fragment, in order to get the most up-to-date version of that data from the server."
+    },
+    "guided-tour/refetching/refreshing-queries": {
+      "id": "guided-tour/refetching/refreshing-queries",
+      "title": "Refreshing Queries",
+      "description": "When referring to \"refreshing a query\", we mean fetching the exact same data that was originally rendered by the query, in order to get the most up-to-date version of that data from the server."
+    },
+    "guided-tour/rendering/environment": {
+      "id": "guided-tour/rendering/environment",
+      "title": "Environment",
+      "description": "Relay Environment Provider"
+    },
+    "guided-tour/rendering/error-states": {
+      "id": "guided-tour/rendering/error-states",
+      "title": "Error States with ErrorBoundaries",
+      "description": "As you may have noticed, we mentioned that using usePreloadedQuery will render data from a query that was (or is) being fetched from the server, but we didn't elaborate on how to render UI to show an error if an error occurred during fetch. We will cover that in this section."
+    },
+    "guided-tour/rendering/fragments": {
+      "id": "guided-tour/rendering/fragments",
+      "title": "Fragments",
+      "description": "The main building block for declaring data dependencies for React Components in Relay are GraphQL Fragments. Fragments are reusable units in GraphQL that represent a set of data to query from a GraphQL type exposed in the schema."
+    },
+    "guided-tour/rendering/loading-states": {
+      "id": "guided-tour/rendering/loading-states",
+      "title": "Loading States with Suspense",
+      "description": "As you may have noticed, we mentioned that using usePreloadedQuery and useLazyLoadQuery will render data from a query that was being fetched from the server, but we didn't elaborate on how to render a loading UI (such as a glimmer) while that data is still being fetched. We will cover that in this section."
+    },
+    "guided-tour/rendering/queries": {
+      "id": "guided-tour/rendering/queries",
+      "title": "Queries",
+      "description": "A GraphQL Query is a description of data you want to query from a GraphQL server. It consists of a set of fields (and potentially fragments) that we want to request from the GraphQL server. What we can query for will depend on the GraphQL Schema exposed on the server, which describes the data that is available for querying."
+    },
+    "guided-tour/rendering/variables": {
+      "id": "guided-tour/rendering/variables",
+      "title": "Variables",
+      "description": "You may have noticed that the query declarations in our examples above contain references to an $id symbol inside the GraphQL code: these are GraphQL Variables."
+    },
+    "guided-tour/reusing-cached-data/availability-of-data": {
+      "id": "guided-tour/reusing-cached-data/availability-of-data",
+      "title": "Availability of Data",
+      "description": "The behavior of the fetch policies described in the previous section will depend on the availability of the data in the Relay store at the moment we attempt to evaluate a query."
+    },
+    "guided-tour/reusing-cached-data/fetch-policies": {
+      "id": "guided-tour/reusing-cached-data/fetch-policies",
+      "title": "Fetch Policies",
+      "description": "The first step to reusing locally cached data is to pass a fetchPolicy to the loadQuery function, which can be provided by useQueryLoader (see the Fetching Queries section):"
+    },
+    "guided-tour/reusing-cached-data/filling-in-missing-data": {
+      "id": "guided-tour/reusing-cached-data/filling-in-missing-data",
+      "title": "Filling in Missing Data (Missing Field Handlers)",
+      "description": "In the previous section we covered how to reuse data that is fully or partially cached, however there are cases in which Relay can't automatically tell that it can reuse some of the data it already has from other queries in order to fulfill a specific query. Specifically, Relay knows how to reuse data that is cached for a query that has been fetched before; that is, if you fetch the exact same query twice, Relay will know that it has the data cached for that query the second time it tries to evaluate it."
+    },
+    "guided-tour/reusing-cached-data/introduction": {
+      "id": "guided-tour/reusing-cached-data/introduction",
+      "title": "Reusing Cached Data",
+      "description": "While an app is in use, Relay will accumulate and cache (for some time) the data for the multiple queries that have been fetched throughout usage of our app. Often times, we'll want to be able to reuse and immediately render this data that is locally cached instead of waiting for a network request when fulfilling a query; this is what we'll cover in this section."
+    },
+    "guided-tour/reusing-cached-data/presence-of-data": {
+      "id": "guided-tour/reusing-cached-data/presence-of-data",
+      "title": "Presence of Data",
+      "description": "An important thing to keep in mind when attempting to reuse data that is cached in the Relay store is to understand the lifetime of that data; that is, if it is present in the store, and for how long it will be."
+    },
+    "guided-tour/reusing-cached-data/rendering-partially-cached-data": {
+      "id": "guided-tour/reusing-cached-data/rendering-partially-cached-data",
+      "title": "Rendering Partially Cached Data",
+      "description": "When rendering cached data in Relay, it is possible to perform partial rendering. We define \"partial rendering\" as the ability to immediately render a query that is partially cached. That is, parts of the query might be missing, but parts of the query might already be cached. In these cases, we want to be able to immediately render the parts of the query that are cached, without waiting on the full query to be fetched."
+    },
+    "guided-tour/reusing-cached-data/staleness-of-data": {
+      "id": "guided-tour/reusing-cached-data/staleness-of-data",
+      "title": "Staleness of Data",
+      "description": "Assuming our data is present in the store, we still need to consider the staleness of such data."
+    },
+    "guided-tour/updating-data/client-only-data": {
+      "id": "guided-tour/updating-data/client-only-data",
+      "title": "Client-Only Data",
+      "description": "Client-Only Data (Client Schema Extensions)"
+    },
+    "guided-tour/updating-data/graphql-mutations": {
+      "id": "guided-tour/updating-data/graphql-mutations",
+      "title": "GraphQL Mutations",
+      "description": "In GraphQL, data in the server is updated using GraphQL Mutations. Mutations are read-write server operations, which both modify data on the backend, and allow querying for the modified data from the server in the same request."
+    },
+    "guided-tour/updating-data/graphql-subscriptions": {
+      "id": "guided-tour/updating-data/graphql-subscriptions",
+      "title": "GraphQL Subscriptions",
+      "description": "GraphQL Subscriptions (GQLS) are a mechanism which allow clients to subscribe to changes in a piece of data from the server, and get notified whenever that data changes."
+    },
+    "guided-tour/updating-data/introduction": {
+      "id": "guided-tour/updating-data/introduction",
+      "title": "Introduction",
+      "description": "Relay holds a local in-memory store of normalized GraphQL data, which accumulates data as GraphQL queries are made throughout usage of our app; think of it as a local database of GraphQL data. When records are updated, any components affected by the updated data will be notified and re-rendered with the updated data."
+    },
+    "guided-tour/updating-data/local-data-updates": {
+      "id": "guided-tour/updating-data/local-data-updates",
+      "title": "Local Data Updates",
+      "description": "There are a couple of APIs that Relay provides in order to make purely local updates to the Relay store (i.e. updates not tied to a server operation)."
+    },
+    "guided-tour/workflow": {
+      "id": "guided-tour/workflow",
+      "title": "Workflow",
+      "description": "Before we can get started writing Relay code, we need to make sure to setup the Relay Compiler."
+    },
+    "guides/client-schema-extensions": {
+      "id": "guides/client-schema-extensions",
+      "title": "Client Schema Extensions",
+      "description": "See also the local data updates and client-only data sections of the guided tour."
+    },
+    "guides/compiler": {
+      "id": "guides/compiler",
+      "title": "Relay Compiler",
+      "description": "graphql"
+    },
+    "guides/graphql-server-specification": {
+      "id": "guides/graphql-server-specification",
+      "title": "GraphQL Server Specification",
+      "description": "The goal of this document is to specify the assumptions that Relay makes about a GraphQL server and demonstrate them through an example GraphQL schema."
+    },
+    "guides/network-layer": {
+      "id": "guides/network-layer",
+      "title": "Network Layer",
+      "description": "In most cases, the network layer is setup for you. You should not need to worry about this step unless you are setting up a new environment."
+    },
+    "guides/persisted-queries": {
+      "id": "guides/persisted-queries",
+      "title": "Persisted Queries",
+      "description": "Persistence is handled by the relay command for you. You likely do not need to worry about the contents of this guide."
+    },
+    "guides/testing-relay-components": {
+      "id": "guides/testing-relay-components",
+      "title": "Testing Relay Components",
+      "description": "Abstract"
+    },
+    "guides/testing-relay-with-preloaded-queries": {
+      "id": "guides/testing-relay-with-preloaded-queries",
+      "title": "Testing Relay with Preloaded Queries",
+      "description": "Components that use preloaded queries (useQueryLoader and usePreloadedQuery hooks) require slightly different and more convoluted test setup."
+    },
+    "guides/type-emission": {
+      "id": "guides/type-emission",
+      "title": "Type Emission",
+      "description": "As part of its normal work, the Relay Compiler will emit type information for your language of choice that helps you write type-safe application code. These types are included in the artifacts that relay-compiler generates to describe your operations and fragments."
+    },
+    "migration-and-compatibility/relay-hooks-and-legacy-container-apis": {
+      "id": "migration-and-compatibility/relay-hooks-and-legacy-container-apis",
+      "title": "Relay Hooks and Legacy Container APIs",
+      "description": "Compatibility between Relay Hooks and Containers"
+    },
+    "migration-and-compatibility/suspense-compatibility": {
+      "id": "migration-and-compatibility/suspense-compatibility",
+      "title": "Suspense Compatibility",
+      "description": "What about Suspense?"
+    },
+    "migration-and-compatibility/upgrading-to-relay-hooks": {
+      "id": "migration-and-compatibility/upgrading-to-relay-hooks",
+      "title": "Upgrading to Relay Hooks",
+      "description": "Relay Hooks is a set of new Hooks-based APIs for using Relay with React that improves upon the existing container-based APIs."
+    },
+    "principles-and-architecture/architecture-overview": {
+      "id": "principles-and-architecture/architecture-overview",
+      "title": "Architecture Overview",
+      "description": "This document, together with Runtime Architecture and Compiler Architecture, describes the high-level architecture of Relay. The intended audience includes developers interested in contributing to Relay, developers hoping to utilize the building blocks of Relay to create higher-level APIs, and anyone interested in understanding more about Relay internals. For developers wanting to learn more about using Relay to build products, the Guided Tour is the best resource."
+    },
+    "principles-and-architecture/compiler-architecture": {
+      "id": "principles-and-architecture/compiler-architecture",
+      "title": "Compiler Architecture",
+      "description": "The compiler is a set of modules designed to extract GraphQL documents from across a codebase, transform/optimize them, and generate build artifacts. Examples of common types of artifacts include optimized GraphQL to persist to your server, runtime representations of the queries for use with GraphQL clients such as the Relay runtime, or generated source code for use with GraphQL frameworks for compiled languages (Java/Swift/etc)."
+    },
+    "principles-and-architecture/runtime-architecture": {
+      "id": "principles-and-architecture/runtime-architecture",
+      "title": "Runtime Architecture",
+      "description": "The Relay runtime is a full-featured GraphQL client that is designed for high performance even on low-end mobile devices and is capable of scaling to large, complex apps. The runtime API is not intended to be used directly in product code, but rather to provide a foundation for building higher-level product APIs such as React/Relay. This foundation includes:"
+    },
+    "principles-and-architecture/thinking-in-graphql": {
+      "id": "principles-and-architecture/thinking-in-graphql",
+      "title": "Thinking in GraphQL",
+      "description": "GraphQL presents new ways for clients to fetch data by focusing on the needs of product developers and client applications. It provides a way for developers to specify the precise data needed for a view and enables a client to fetch that data in a single network request. Compared to traditional approaches such as REST, GraphQL helps applications to fetch data more efficiently (compared to resource-oriented REST approaches) and avoid duplication of server logic (which can occur with custom endpoints). Furthermore, GraphQL helps developers to decouple product code and server logic. For example, a product can fetch more or less information without requiring a change to every relevant server endpoint. It's a great way to fetch data."
+    },
+    "principles-and-architecture/thinking-in-relay": {
+      "id": "principles-and-architecture/thinking-in-relay",
+      "title": "Thinking in Relay",
+      "description": "Relay's approach to data-fetching is heavily inspired by our experience with React. In particular, React breaks complex interfaces into reusable components, allowing developers to reason about discrete units of an application in isolation, and reducing the coupling between disparate parts of an application. Even more important is that these components are declarative: they allow developers to specify what the UI should look like for a given state, and not have to worry about how to show that UI. Unlike previous approaches that used imperative commands to manipulate native views (e.g. the DOM), React uses a UI description to automatically determine the necessary commands."
+    },
+    "principles-and-architecture/videos": {
+      "id": "principles-and-architecture/videos",
+      "title": "Videos",
+      "description": "React Conf 2019"
+    }
+  }
+}

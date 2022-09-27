@@ -1,0 +1,32 @@
+{
+  "unversionedId": "guides/testing-relay-components",
+  "id": "version-v14.0.0/guides/testing-relay-components",
+  "title": "Testing Relay Components",
+  "description": "Relay guide to testing Relay components",
+  "source": "@site/versioned_docs/version-v14.0.0/guides/testing-relay-components.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/testing-relay-components/",
+  "permalink": "/docs/guides/testing-relay-components/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guides/testing-relay-components.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "testing-relay-components",
+    "title": "Testing Relay Components",
+    "slug": "/guides/testing-relay-components/",
+    "description": "Relay guide to testing Relay components",
+    "keywords": [
+      "testing",
+      "createMockEnvironment",
+      "RelayMockEnvironment",
+      "MockPayloadGenerator",
+      "relay_test_operation",
+      "queuePendingOperation",
+      "resolver"
+    ]
+  }
+}

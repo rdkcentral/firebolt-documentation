@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guided-tour/refetching/refetching-queries-with-different-data",
+  "id": "version-v14.0.0/guided-tour/refetching/refetching-queries-with-different-data",
+  "title": "Refetching Queries with Different Data",
+  "description": "Relay guide to refetching queries with different data",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/refetching/refetching-queries-with-different-data.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/refetching-queries-with-different-data/",
+  "permalink": "/docs/guided-tour/refetching/refetching-queries-with-different-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/refetching/refetching-queries-with-different-data.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "refetching-queries-with-different-data",
+    "title": "Refetching Queries with Different Data",
+    "slug": "/guided-tour/refetching/refetching-queries-with-different-data/",
+    "description": "Relay guide to refetching queries with different data",
+    "keywords": [
+      "refetching",
+      "query"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "prerequisites",
+  "id": "version-v10.1.1/prerequisites",
+  "title": "Prerequisites",
+  "description": "React",
+  "source": "@site/versioned_docs/version-v10.1.1/Introduction-Prerequisites.md",
+  "sourceDirName": ".",
+  "slug": "/prerequisites",
+  "permalink": "/docs/v10.1.1/prerequisites",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.1.1/Introduction-Prerequisites.md",
+  "tags": [],
+  "version": "v10.1.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "prerequisites",
+    "title": "Prerequisites",
+    "original_id": "prerequisites"
+  }
+}

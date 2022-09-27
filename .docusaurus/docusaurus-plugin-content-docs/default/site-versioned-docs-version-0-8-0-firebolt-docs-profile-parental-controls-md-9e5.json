@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/profile/parental-controls",
+  "id": "version-0.8.0/firebolt_docs/profile/parental-controls",
+  "title": "Parental Controls",
+  "description": "Parental controls are the settings that enable your users to block specific actions from being taken without first verifying that they are approved to do so. For example, this allows an account owner to lock content such as specific ratings, titles, channels, and even entire apps. Another core function of parental controls is the ability to lock purchases made on the device.",
+  "source": "@site/versioned_docs/version-0.8.0/firebolt_docs/profile/parental-controls.md",
+  "sourceDirName": "firebolt_docs/profile",
+  "slug": "/firebolt_docs/profile/parental-controls",
+  "permalink": "/firebolt-documentation/docs/firebolt_docs/profile/parental-controls",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {},
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "Profiles",
+    "permalink": "/firebolt-documentation/docs/category/profiles"
+  },
+  "next": {
+    "title": "Profile Flags",
+    "permalink": "/firebolt-documentation/docs/firebolt_docs/profile/profile-flags"
+  }
+}

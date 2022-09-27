@@ -1,0 +1,22 @@
+{
+  "unversionedId": "quick-start-guide",
+  "id": "version-v10.1.0/quick-start-guide",
+  "title": "Quick Start Guide",
+  "description": "In this guide we are going to give a brief overview of how Relay works and how to use it, using as reference an example todo list app. For more thorough documentation, check out our Guides and API sections.",
+  "source": "@site/versioned_docs/version-v10.1.0/Introduction-QuickStartGuide.md",
+  "sourceDirName": ".",
+  "slug": "/quick-start-guide",
+  "permalink": "/docs/v10.1.0/quick-start-guide",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.1.0/Introduction-QuickStartGuide.md",
+  "tags": [],
+  "version": "v10.1.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "quick-start-guide",
+    "title": "Quick Start Guide",
+    "original_id": "quick-start-guide"
+  }
+}

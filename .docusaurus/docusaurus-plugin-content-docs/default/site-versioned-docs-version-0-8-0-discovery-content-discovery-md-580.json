@@ -1,0 +1,23 @@
+{
+  "unversionedId": "discovery/content-discovery",
+  "id": "version-0.8.0/discovery/content-discovery",
+  "title": "Content Discovery",
+  "description": "\"Content Discovery\" refers to all of the ways that users can discover your app's content on the platform.",
+  "source": "@site/versioned_docs/version-0.8.0/discovery/content-discovery.md",
+  "sourceDirName": "discovery",
+  "slug": "/discovery/content-discovery",
+  "permalink": "/docs/discovery/content-discovery",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Discovery",
+    "permalink": "/docs/category/discovery"
+  },
+  "next": {
+    "title": "Deep Linking",
+    "permalink": "/docs/discovery/deep-linking"
+  }
+}

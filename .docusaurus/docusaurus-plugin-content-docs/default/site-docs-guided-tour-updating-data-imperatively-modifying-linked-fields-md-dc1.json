@@ -1,0 +1,42 @@
+{
+  "unversionedId": "guided-tour/updating-data/imperatively-modifying-linked-fields",
+  "id": "guided-tour/updating-data/imperatively-modifying-linked-fields",
+  "title": "Imperatively modifying linked fields",
+  "description": "Using readUpdatableQuery_EXPERIMENTAL to update linked fields in the store",
+  "source": "@site/docs/guided-tour/updating-data/imperatively-modifying-linked-fields.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/imperatively-modifying-linked-fields/",
+  "permalink": "/docs/next/guided-tour/updating-data/imperatively-modifying-linked-fields/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/updating-data/imperatively-modifying-linked-fields.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "imperatively-modifying-linked-fields",
+    "title": "Imperatively modifying linked fields",
+    "slug": "/guided-tour/updating-data/imperatively-modifying-linked-fields/",
+    "description": "Using readUpdatableQuery_EXPERIMENTAL to update linked fields in the store",
+    "keywords": [
+      "record source",
+      "store",
+      "updater",
+      "typesafe updaters",
+      "readUpdatableQuery",
+      "readUpdatableFragment",
+      "updatable",
+      "assignable"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GraphQL subscriptions",
+    "permalink": "/docs/next/guided-tour/updating-data/graphql-subscriptions/"
+  },
+  "next": {
+    "title": "Imperatively modifying store data (unsafe)",
+    "permalink": "/docs/next/guided-tour/updating-data/imperatively-modifying-store-data-unsafe/"
+  }
+}

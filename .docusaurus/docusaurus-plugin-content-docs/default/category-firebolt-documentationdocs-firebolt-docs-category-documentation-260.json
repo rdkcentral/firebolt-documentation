@@ -1,0 +1,21 @@
+{
+  "title": "Documentation",
+  "image": "/img/oss_logo.png",
+  "keywords": [
+    "accessibility",
+    "closed-captions",
+    "voice-guidance"
+  ],
+  "slug": "/category/documentation",
+  "permalink": "/firebolt-documentation/docs/category/documentation",
+  "navigation": {
+    "previous": {
+      "title": "how-to-use-mock-firebolt",
+      "permalink": "/firebolt-documentation/docs/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+    },
+    "next": {
+      "title": "Accessibility Overview",
+      "permalink": "/firebolt-documentation/docs/firebolt_docs/accessibility/"
+    }
+  }
+}

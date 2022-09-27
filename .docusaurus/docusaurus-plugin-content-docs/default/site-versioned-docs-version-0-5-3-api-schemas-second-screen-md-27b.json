@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/schemas/SecondScreen",
+  "id": "version-0.5.3/api/schemas/SecondScreen",
+  "title": "SecondScreen",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.5.3/api/schemas/SecondScreen.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/SecondScreen",
+  "permalink": "/firebolt-documentation/docs/0.5.3/api/schemas/SecondScreen",
+  "draft": false,
+  "tags": [],
+  "version": "0.5.3",
+  "frontMatter": {
+    "title": "SecondScreen"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Lifecycle",
+    "permalink": "/firebolt-documentation/docs/0.5.3/api/schemas/Lifecycle"
+  },
+  "next": {
+    "title": "Types",
+    "permalink": "/firebolt-documentation/docs/0.5.3/api/schemas/Types"
+  }
+}

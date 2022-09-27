@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/hello-world-guide",
+  "id": "getting-started/hello-world-guide",
+  "title": "Welcome",
+  "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
+  "source": "@site/docs/getting-started/hello-world-guide.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/hello-world-guide",
+  "permalink": "/docs/next/getting-started/hello-world-guide",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/getting-started/hello-world-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice Commands",
+    "permalink": "/docs/next/discovery/voice-commands"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/next/getting-started/quick-start-guide"
+  }
+}

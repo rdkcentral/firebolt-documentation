@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/hooks/use-relay-environment",
+  "id": "api-reference/hooks/use-relay-environment",
+  "title": "useRelayEnvironment",
+  "description": "API reference for useRelayEnvironment, a React hook used to access the Relay environment from context",
+  "source": "@site/docs/api-reference/hooks/use-relay-environment.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-relay-environment/",
+  "permalink": "/docs/next/api-reference/use-relay-environment/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/hooks/use-relay-environment.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-relay-environment",
+    "title": "useRelayEnvironment",
+    "slug": "/api-reference/use-relay-environment/",
+    "description": "API reference for useRelayEnvironment, a React hook used to access the Relay environment from context",
+    "keywords": [
+      "environment",
+      "context"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "useRefetchableFragment",
+    "permalink": "/docs/next/api-reference/use-refetchable-fragment/"
+  },
+  "next": {
+    "title": "useSubscription",
+    "permalink": "/docs/next/api-reference/use-subscription/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/schemas/Types",
+  "id": "version-0.6.0-alpha.1/api/schemas/Types",
+  "title": "Types",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.0-alpha.1/api/schemas/Types.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/Types",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/Types",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0-alpha.1",
+  "frontMatter": {
+    "title": "Types"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "SecondScreen",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/schemas/SecondScreen"
+  },
+  "next": {
+    "title": "Accessibility",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Accessibility"
+  }
+}

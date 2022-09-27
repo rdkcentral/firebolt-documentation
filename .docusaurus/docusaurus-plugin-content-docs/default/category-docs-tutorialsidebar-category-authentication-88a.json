@@ -1,0 +1,15 @@
+{
+  "title": "Authentication",
+  "slug": "/category/authentication",
+  "permalink": "/docs/category/authentication",
+  "navigation": {
+    "previous": {
+      "title": "Listening for Property changes",
+      "permalink": "/docs/app-lifecycle/listening-for-property-changes"
+    },
+    "next": {
+      "title": "Email Prefill",
+      "permalink": "/docs/authentication/email-prefill"
+    }
+  }
+}

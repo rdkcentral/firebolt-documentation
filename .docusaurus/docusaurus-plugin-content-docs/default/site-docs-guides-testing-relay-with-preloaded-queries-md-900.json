@@ -1,0 +1,39 @@
+{
+  "unversionedId": "guides/testing-relay-with-preloaded-queries",
+  "id": "guides/testing-relay-with-preloaded-queries",
+  "title": "Testing Relay with Preloaded Queries",
+  "description": "Relay guide to testing with preloaded queries",
+  "source": "@site/docs/guides/testing-relay-with-preloaded-queries.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/testing-relay-with-preloaded-queries/",
+  "permalink": "/docs/next/guides/testing-relay-with-preloaded-queries/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guides/testing-relay-with-preloaded-queries.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "testing-relay-with-preloaded-queries",
+    "title": "Testing Relay with Preloaded Queries",
+    "slug": "/guides/testing-relay-with-preloaded-queries/",
+    "description": "Relay guide to testing with preloaded queries",
+    "keywords": [
+      "testing",
+      "preloaded",
+      "usePreloadedQuery",
+      "queueOperationResolver",
+      "queuePendingOperation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testing Relay Components",
+    "permalink": "/docs/next/guides/testing-relay-components/"
+  },
+  "next": {
+    "title": "Type Emission",
+    "permalink": "/docs/next/guides/type-emission/"
+  }
+}

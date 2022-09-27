@@ -1,0 +1,31 @@
+{
+  "unversionedId": "community/learning-resources",
+  "id": "community/learning-resources",
+  "title": "Community Learning Resources",
+  "description": "Relay example projects",
+  "source": "@site/docs/community/learning-resources.md",
+  "sourceDirName": "community",
+  "slug": "/community-learning-resources/",
+  "permalink": "/docs/next/community-learning-resources/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/community/learning-resources.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "learning-resources",
+    "title": "Community Learning Resources",
+    "slug": "/community-learning-resources/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UploadableMap",
+    "permalink": "/docs/next/api-reference/types/UploadableMap"
+  },
+  "next": {
+    "title": "Debugging Declarative Mutation Directives",
+    "permalink": "/docs/next/debugging/declarative-mutation-directives/"
+  }
+}

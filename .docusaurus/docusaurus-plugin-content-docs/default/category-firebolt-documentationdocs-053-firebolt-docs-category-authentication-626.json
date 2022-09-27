@@ -1,0 +1,15 @@
+{
+  "title": "Authentication",
+  "slug": "/category/authentication",
+  "permalink": "/firebolt-documentation/docs/0.5.3/category/authentication",
+  "navigation": {
+    "previous": {
+      "title": "Listening for Events",
+      "permalink": "/firebolt-documentation/docs/0.5.3/firebolt_docs/app-lifecycle/listening-for-events"
+    },
+    "next": {
+      "title": "Email Prefill",
+      "permalink": "/firebolt-documentation/docs/0.5.3/firebolt_docs/authentication/email-prefill"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "discovery/deep-linking",
+  "id": "version-0.8.0/discovery/deep-linking",
+  "title": "Deep Linking",
+  "description": "Deep linking is how the platform can inform your app of a user's intention to view a specific, indexed piece of content beyond just your home screen.",
+  "source": "@site/versioned_docs/version-0.8.0/discovery/deep-linking.md",
+  "sourceDirName": "discovery",
+  "slug": "/discovery/deep-linking",
+  "permalink": "/docs/discovery/deep-linking",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Content Discovery",
+    "permalink": "/docs/discovery/content-discovery"
+  },
+  "next": {
+    "title": "Voice Commands",
+    "permalink": "/docs/discovery/voice-commands"
+  }
+}

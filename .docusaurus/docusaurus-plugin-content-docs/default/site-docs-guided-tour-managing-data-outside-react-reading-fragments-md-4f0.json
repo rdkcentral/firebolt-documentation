@@ -1,0 +1,31 @@
+{
+  "unversionedId": "guided-tour/managing-data-outside-react/reading-fragments",
+  "id": "guided-tour/managing-data-outside-react/reading-fragments",
+  "title": "Reading Fragments",
+  "description": "",
+  "source": "@site/docs/guided-tour/managing-data-outside-react/reading-fragments.md",
+  "sourceDirName": "guided-tour/managing-data-outside-react",
+  "slug": "/guided-tour/accessing-data-without-react/reading-fragments/",
+  "permalink": "/docs/next/guided-tour/accessing-data-without-react/reading-fragments/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/managing-data-outside-react/reading-fragments.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "reading-fragments",
+    "title": "Reading Fragments",
+    "slug": "/guided-tour/accessing-data-without-react/reading-fragments/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prefetching Queries",
+    "permalink": "/docs/next/guided-tour/accessing-data-without-react/prefetching-queries/"
+  },
+  "next": {
+    "title": "Reading Queries",
+    "permalink": "/docs/next/guided-tour/accessing-data-without-react/reading-queries/"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/getting-started/prerequisites",
+  "id": "version-0.6.1/firebolt_docs/getting-started/prerequisites",
+  "title": "Prerequisites",
+  "description": "This guide will help you understand how to install the package manager Node. This will ensure you can install, set up, and manage Firebolt or other packages, like Lightening.",
+  "source": "@site/versioned_docs/version-0.6.1/firebolt_docs/getting-started/prerequisites.md",
+  "sourceDirName": "firebolt_docs/getting-started",
+  "slug": "/firebolt_docs/getting-started/prerequisites",
+  "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/prerequisites",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.1",
+  "frontMatter": {},
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "How to Use Mock Firebolt",
+    "permalink": "/firebolt-documentation/docs/0.6.1/firebolt_docs/getting-started/how-to-use-mock-firebolt"
+  },
+  "next": {
+    "title": "Accessbility",
+    "permalink": "/firebolt-documentation/docs/0.6.1/category/accessbility"
+  }
+}

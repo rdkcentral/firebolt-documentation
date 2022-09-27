@@ -1,0 +1,35 @@
+{
+  "unversionedId": "guides/compiler",
+  "id": "guides/compiler",
+  "title": "Relay Compiler",
+  "description": "Relay guide to the compiler",
+  "source": "@site/docs/guides/compiler.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/compiler/",
+  "permalink": "/docs/next/guides/compiler/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guides/compiler.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "compiler",
+    "title": "Relay Compiler",
+    "slug": "/guides/compiler/",
+    "description": "Relay guide to the compiler",
+    "keywords": [
+      "compiler"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Client Schema Extensions",
+    "permalink": "/docs/next/guides/client-schema-extensions/"
+  },
+  "next": {
+    "title": "GraphQL Server Specification",
+    "permalink": "/docs/next/guides/graphql-server-specification/"
+  }
+}

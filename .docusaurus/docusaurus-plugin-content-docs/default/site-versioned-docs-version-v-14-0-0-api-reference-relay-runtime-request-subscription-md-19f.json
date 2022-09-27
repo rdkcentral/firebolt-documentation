@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api-reference/relay-runtime/request-subscription",
+  "id": "version-v14.0.0/api-reference/relay-runtime/request-subscription",
+  "title": "requestSubscription",
+  "description": "API reference for requestSubscription, which imperatively establishes a GraphQL subscription",
+  "source": "@site/versioned_docs/version-v14.0.0/api-reference/relay-runtime/request-subscription.md",
+  "sourceDirName": "api-reference/relay-runtime",
+  "slug": "/api-reference/request-subscription/",
+  "permalink": "/docs/api-reference/request-subscription/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/api-reference/relay-runtime/request-subscription.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "request-subscription",
+    "title": "requestSubscription",
+    "slug": "/api-reference/request-subscription/",
+    "description": "API reference for requestSubscription, which imperatively establishes a GraphQL subscription",
+    "keywords": [
+      "subscription"
+    ]
+  }
+}

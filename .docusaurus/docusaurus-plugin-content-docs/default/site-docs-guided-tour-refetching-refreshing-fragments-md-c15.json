@@ -1,0 +1,36 @@
+{
+  "unversionedId": "guided-tour/refetching/refreshing-fragments",
+  "id": "guided-tour/refetching/refreshing-fragments",
+  "title": "Refreshing Fragments",
+  "description": "Relay guide to refreshing fragments",
+  "source": "@site/docs/guided-tour/refetching/refreshing-fragments.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/refreshing-fragments/",
+  "permalink": "/docs/next/guided-tour/refetching/refreshing-fragments/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guided-tour/refetching/refreshing-fragments.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "refreshing-fragments",
+    "title": "Refreshing Fragments",
+    "slug": "/guided-tour/refetching/refreshing-fragments/",
+    "description": "Relay guide to refreshing fragments",
+    "keywords": [
+      "refreshing",
+      "fragment"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Refetching Queries with Different Data",
+    "permalink": "/docs/next/guided-tour/refetching/refetching-queries-with-different-data/"
+  },
+  "next": {
+    "title": "Refreshing Queries",
+    "permalink": "/docs/next/guided-tour/refetching/refreshing-queries/"
+  }
+}

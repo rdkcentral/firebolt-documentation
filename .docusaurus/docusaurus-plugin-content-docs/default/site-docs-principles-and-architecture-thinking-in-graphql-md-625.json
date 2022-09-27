@@ -1,0 +1,35 @@
+{
+  "unversionedId": "principles-and-architecture/thinking-in-graphql",
+  "id": "principles-and-architecture/thinking-in-graphql",
+  "title": "Thinking in GraphQL",
+  "description": "Relay guide to thinking in GraphQL",
+  "source": "@site/docs/principles-and-architecture/thinking-in-graphql.md",
+  "sourceDirName": "principles-and-architecture",
+  "slug": "/principles-and-architecture/thinking-in-graphql/",
+  "permalink": "/docs/next/principles-and-architecture/thinking-in-graphql/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/principles-and-architecture/thinking-in-graphql.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "thinking-in-graphql",
+    "title": "Thinking in GraphQL",
+    "slug": "/principles-and-architecture/thinking-in-graphql/",
+    "description": "Relay guide to thinking in GraphQL",
+    "keywords": [
+      "GraphQL"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Runtime Architecture",
+    "permalink": "/docs/next/principles-and-architecture/runtime-architecture/"
+  },
+  "next": {
+    "title": "Thinking in Relay",
+    "permalink": "/docs/next/principles-and-architecture/thinking-in-relay/"
+  }
+}

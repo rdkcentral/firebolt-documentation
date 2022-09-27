@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guides/testing-relay-components",
+  "id": "version-v11.0.0/guides/testing-relay-components",
+  "title": "Testing Relay Components",
+  "description": "Abstract",
+  "source": "@site/versioned_docs/version-v11.0.0/guides/testing-relay-components.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/testing-relay-components/",
+  "permalink": "/docs/v11.0.0/guides/testing-relay-components/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guides/testing-relay-components.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "testing-relay-components",
+    "title": "Testing Relay Components",
+    "slug": "/guides/testing-relay-components/"
+  }
+}

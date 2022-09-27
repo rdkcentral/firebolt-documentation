@@ -1,0 +1,38 @@
+{
+  "unversionedId": "getting-started/introduction",
+  "id": "getting-started/introduction",
+  "title": "Introduction to Relay",
+  "description": "Introduction to Relay documentation",
+  "source": "@site/docs/getting-started/introduction.md",
+  "sourceDirName": "getting-started",
+  "slug": "/",
+  "permalink": "/docs/next/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/getting-started/introduction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction to Relay",
+    "slug": "/",
+    "description": "Introduction to Relay documentation",
+    "keywords": [
+      "relay",
+      "graphql",
+      "data",
+      "introduction"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation and Setup",
+    "permalink": "/docs/next/getting-started/installation-and-setup/"
+  },
+  "next": {
+    "title": "Prerequisites",
+    "permalink": "/docs/next/getting-started/prerequisites/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api-reference/entrypoint-apis/entrypoint-container",
+  "id": "version-v13.0.0/api-reference/entrypoint-apis/entrypoint-container",
+  "title": "EntryPointContainer",
+  "description": "API reference for EntryPointContainer, a React component used to render the root component of an entrypoint",
+  "source": "@site/versioned_docs/version-v13.0.0/api-reference/entrypoint-apis/entrypoint-container.md",
+  "sourceDirName": "api-reference/entrypoint-apis",
+  "slug": "/api-reference/entrypoint-container/",
+  "permalink": "/docs/v13.0.0/api-reference/entrypoint-container/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/api-reference/entrypoint-apis/entrypoint-container.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "entrypoint-container",
+    "title": "EntryPointContainer",
+    "slug": "/api-reference/entrypoint-container/",
+    "description": "API reference for EntryPointContainer, a React component used to render the root component of an entrypoint",
+    "keywords": [
+      "entrypoint",
+      "container",
+      "root"
+    ]
+  }
+}

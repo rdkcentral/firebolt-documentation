@@ -1,0 +1,15 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/next/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Firebolt Release Notes",
+      "permalink": "/docs/next/changelog/"
+    },
+    "next": {
+      "title": "Getting Started",
+      "permalink": "/docs/next/getting-started/quick-start-guide"
+    }
+  }
+}

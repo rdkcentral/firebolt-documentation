@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/rendering-partially-cached-data",
+  "id": "version-v11.0.0/guided-tour/reusing-cached-data/rendering-partially-cached-data",
+  "title": "Rendering Partially Cached Data",
+  "description": "When rendering cached data in Relay, it is possible to perform partial rendering. We define \"partial rendering\" as the ability to immediately render a query that is partially cached. That is, parts of the query might be missing, but parts of the query might already be cached. In these cases, we want to be able to immediately render the parts of the query that are cached, without waiting on the full query to be fetched.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/rendering-partially-cached-data.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/rendering-partially-cached-data/",
+  "permalink": "/docs/v11.0.0/guided-tour/reusing-cached-data/rendering-partially-cached-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/rendering-partially-cached-data.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "rendering-partially-cached-data",
+    "title": "Rendering Partially Cached Data",
+    "slug": "/guided-tour/reusing-cached-data/rendering-partially-cached-data/"
+  }
+}

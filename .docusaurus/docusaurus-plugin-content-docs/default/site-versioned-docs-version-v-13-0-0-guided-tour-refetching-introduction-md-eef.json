@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guided-tour/refetching/introduction",
+  "id": "version-v13.0.0/guided-tour/refetching/introduction",
+  "title": "Introduction",
+  "description": "Relay guide to refetching",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/refetching/introduction.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/",
+  "permalink": "/docs/v13.0.0/guided-tour/refetching/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/refetching/introduction.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "slug": "/guided-tour/refetching/",
+    "description": "Relay guide to refetching",
+    "keywords": [
+      "refetching"
+    ]
+  }
+}

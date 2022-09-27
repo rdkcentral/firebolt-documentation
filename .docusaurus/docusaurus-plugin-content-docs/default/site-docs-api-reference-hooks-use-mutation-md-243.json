@@ -1,0 +1,35 @@
+{
+  "unversionedId": "api-reference/hooks/use-mutation",
+  "id": "api-reference/hooks/use-mutation",
+  "title": "useMutation",
+  "description": "API reference for useMutation, a React hook used to execute a GraphQL mutation",
+  "source": "@site/docs/api-reference/hooks/use-mutation.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-mutation/",
+  "permalink": "/docs/next/api-reference/use-mutation/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/hooks/use-mutation.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-mutation",
+    "title": "useMutation",
+    "slug": "/api-reference/use-mutation/",
+    "description": "API reference for useMutation, a React hook used to execute a GraphQL mutation",
+    "keywords": [
+      "mutation"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "useLazyLoadQuery",
+    "permalink": "/docs/next/api-reference/use-lazy-load-query/"
+  },
+  "next": {
+    "title": "usePaginationFragment",
+    "permalink": "/docs/next/api-reference/use-pagination-fragment/"
+  }
+}

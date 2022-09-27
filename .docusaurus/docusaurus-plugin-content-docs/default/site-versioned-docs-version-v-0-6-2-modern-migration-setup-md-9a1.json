@@ -1,0 +1,31 @@
+{
+  "unversionedId": "migration-setup",
+  "id": "version-v0.6.2/migration-setup",
+  "title": "Migration Setup",
+  "description": "Installation",
+  "source": "@site/versioned_docs/version-v0.6.2/Modern-MigrationSetup.md",
+  "sourceDirName": ".",
+  "slug": "/migration-setup",
+  "permalink": "/docs/v0.6.2/migration-setup",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v0.6.2/Modern-MigrationSetup.md",
+  "tags": [],
+  "version": "v0.6.2",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "migration-setup",
+    "title": "Migration Setup",
+    "original_id": "migration-setup"
+  },
+  "sidebar": "version-v0.6.2/docs",
+  "previous": {
+    "title": "Compatibility Mode",
+    "permalink": "/docs/v0.6.2/relay-compat"
+  },
+  "next": {
+    "title": "Conversion Playbook",
+    "permalink": "/docs/v0.6.2/conversion-playbook"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "accessibility/hello-world-guide",
+  "id": "accessibility/hello-world-guide",
+  "title": "Welcome",
+  "description": "In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.",
+  "source": "@site/docs/accessibility/hello-world-guide.md",
+  "sourceDirName": "accessibility",
+  "slug": "/accessibility/hello-world-guide",
+  "permalink": "/docs/next/accessibility/hello-world-guide",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/accessibility/hello-world-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Closed Captions",
+    "permalink": "/docs/next/accessibility/closed-captions"
+  },
+  "next": {
+    "title": "Voice Guidance",
+    "permalink": "/docs/next/accessibility/voice-guidance"
+  }
+}

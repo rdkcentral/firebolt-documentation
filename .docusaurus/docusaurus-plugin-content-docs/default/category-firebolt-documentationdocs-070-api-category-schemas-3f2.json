@@ -1,0 +1,15 @@
+{
+  "title": "Schemas",
+  "slug": "/category/schemas",
+  "permalink": "/firebolt-documentation/docs/0.7.0/category/schemas",
+  "navigation": {
+    "previous": {
+      "title": "Feature Documentation",
+      "permalink": "/firebolt-documentation/docs/0.7.0/"
+    },
+    "next": {
+      "title": "API Intro",
+      "permalink": "/firebolt-documentation/docs/0.7.0/api/schemas/intro"
+    }
+  }
+}

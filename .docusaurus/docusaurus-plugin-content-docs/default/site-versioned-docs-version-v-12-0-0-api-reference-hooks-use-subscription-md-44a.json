@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api-reference/hooks/use-subscription",
+  "id": "version-v12.0.0/api-reference/hooks/use-subscription",
+  "title": "useSubscription",
+  "description": "API reference for useSubscription, a React hook used to subscribe and unsubscribe from a subscription",
+  "source": "@site/versioned_docs/version-v12.0.0/api-reference/hooks/use-subscription.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-subscription/",
+  "permalink": "/docs/v12.0.0/api-reference/use-subscription/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/api-reference/hooks/use-subscription.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-subscription",
+    "title": "useSubscription",
+    "slug": "/api-reference/use-subscription/",
+    "description": "API reference for useSubscription, a React hook used to subscribe and unsubscribe from a subscription",
+    "keywords": [
+      "subscription"
+    ]
+  }
+}

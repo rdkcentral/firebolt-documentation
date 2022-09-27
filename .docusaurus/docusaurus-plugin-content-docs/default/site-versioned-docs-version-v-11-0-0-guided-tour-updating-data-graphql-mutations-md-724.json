@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/updating-data/graphql-mutations",
+  "id": "version-v11.0.0/guided-tour/updating-data/graphql-mutations",
+  "title": "GraphQL Mutations",
+  "description": "In GraphQL, data in the server is updated using GraphQL Mutations. Mutations are read-write server operations, which both modify data on the backend, and allow querying for the modified data from the server in the same request.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/updating-data/graphql-mutations.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/graphql-mutations/",
+  "permalink": "/docs/v11.0.0/guided-tour/updating-data/graphql-mutations/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/updating-data/graphql-mutations.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "graphql-mutations",
+    "title": "GraphQL Mutations",
+    "slug": "/guided-tour/updating-data/graphql-mutations/"
+  }
+}

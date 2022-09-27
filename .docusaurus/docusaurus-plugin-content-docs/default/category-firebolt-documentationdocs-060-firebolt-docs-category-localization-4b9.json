@@ -1,0 +1,15 @@
+{
+  "title": "Localization",
+  "slug": "/category/localization",
+  "permalink": "/firebolt-documentation/docs/0.6.0/category/localization",
+  "navigation": {
+    "previous": {
+      "title": "Voice Commands",
+      "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/discovery/voice-commands"
+    },
+    "next": {
+      "title": "Localization",
+      "permalink": "/firebolt-documentation/docs/0.6.0/firebolt_docs/localization/"
+    }
+  }
+}

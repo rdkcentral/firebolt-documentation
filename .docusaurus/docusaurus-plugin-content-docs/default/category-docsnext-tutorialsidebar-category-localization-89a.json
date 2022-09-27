@@ -1,0 +1,15 @@
+{
+  "title": "Localization",
+  "slug": "/category/localization",
+  "permalink": "/docs/next/category/localization",
+  "navigation": {
+    "previous": {
+      "title": "Voice Commands",
+      "permalink": "/docs/next/discovery/voice-commands"
+    },
+    "next": {
+      "title": "Localization",
+      "permalink": "/docs/next/localization/"
+    }
+  }
+}

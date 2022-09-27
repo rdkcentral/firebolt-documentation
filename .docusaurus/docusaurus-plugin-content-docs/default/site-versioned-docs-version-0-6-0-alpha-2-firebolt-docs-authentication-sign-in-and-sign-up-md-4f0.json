@@ -1,0 +1,23 @@
+{
+  "unversionedId": "firebolt_docs/authentication/sign-in-and-sign-up",
+  "id": "version-0.6.0-alpha.2/firebolt_docs/authentication/sign-in-and-sign-up",
+  "title": "Sign In & Sign Up",
+  "description": "There are two ways to sign-in or sign-up for an app including \"2nd screen sign-in\" (which is the preferred method) and the \"on-screen keyboard\".",
+  "source": "@site/versioned_docs/version-0.6.0-alpha.2/firebolt_docs/authentication/sign-in-and-sign-up.md",
+  "sourceDirName": "firebolt_docs/authentication",
+  "slug": "/firebolt_docs/authentication/sign-in-and-sign-up",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/authentication/sign-in-and-sign-up",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0-alpha.2",
+  "frontMatter": {},
+  "sidebar": "firebolt_docs",
+  "previous": {
+    "title": "Email Prefill",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/firebolt_docs/authentication/email-prefill"
+  },
+  "next": {
+    "title": "Discovery",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.2/category/discovery"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "app-lifecycle/listening-for-events",
+  "id": "app-lifecycle/listening-for-events",
+  "title": "Listening for Events",
+  "description": "Events are a common pattern for asynchronous notifications from an SDK.",
+  "source": "@site/docs/app-lifecycle/listening-for-events.md",
+  "sourceDirName": "app-lifecycle",
+  "slug": "/app-lifecycle/listening-for-events",
+  "permalink": "/docs/next/app-lifecycle/listening-for-events",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "App Lifecycle",
+    "permalink": "/docs/next/app-lifecycle/lifecycle-management"
+  },
+  "next": {
+    "title": "Listening for Property changes",
+    "permalink": "/docs/next/app-lifecycle/listening-for-property-changes"
+  }
+}

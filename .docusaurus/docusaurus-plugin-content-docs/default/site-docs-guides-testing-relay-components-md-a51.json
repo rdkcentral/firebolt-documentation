@@ -1,0 +1,41 @@
+{
+  "unversionedId": "guides/testing-relay-components",
+  "id": "guides/testing-relay-components",
+  "title": "Testing Relay Components",
+  "description": "Relay guide to testing Relay components",
+  "source": "@site/docs/guides/testing-relay-components.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/testing-relay-components/",
+  "permalink": "/docs/next/guides/testing-relay-components/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/guides/testing-relay-components.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "testing-relay-components",
+    "title": "Testing Relay Components",
+    "slug": "/guides/testing-relay-components/",
+    "description": "Relay guide to testing Relay components",
+    "keywords": [
+      "testing",
+      "createMockEnvironment",
+      "RelayMockEnvironment",
+      "MockPayloadGenerator",
+      "relay_test_operation",
+      "queuePendingOperation",
+      "resolver"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "@required Directive",
+    "permalink": "/docs/next/guides/required-directive/"
+  },
+  "next": {
+    "title": "Testing Relay with Preloaded Queries",
+    "permalink": "/docs/next/guides/testing-relay-with-preloaded-queries/"
+  }
+}

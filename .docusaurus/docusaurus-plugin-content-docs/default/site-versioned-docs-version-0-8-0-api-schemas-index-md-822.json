@@ -1,0 +1,19 @@
+{
+  "unversionedId": "api/schemas/_index",
+  "id": "version-0.8.0/api/schemas/_index",
+  "title": "_index",
+  "description": "",
+  "source": "@site/versioned_docs/version-0.8.0/api/schemas/_index.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/_index",
+  "permalink": "/firebolt-documentation/docs/api/schemas/_index",
+  "draft": false,
+  "tags": [],
+  "version": "0.8.0",
+  "frontMatter": {},
+  "sidebar": "api",
+  "previous": {
+    "title": "Types",
+    "permalink": "/firebolt-documentation/docs/api/schemas/Types"
+  }
+}

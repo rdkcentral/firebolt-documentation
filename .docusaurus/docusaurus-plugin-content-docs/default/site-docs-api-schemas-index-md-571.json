@@ -1,0 +1,23 @@
+{
+  "unversionedId": "api/schemas/_index",
+  "id": "api/schemas/_index",
+  "title": "_index",
+  "description": "",
+  "source": "@site/docs/api/schemas/_index.md",
+  "sourceDirName": "api/schemas",
+  "slug": "/api/schemas/_index",
+  "permalink": "/firebolt-documentation/docs/next/api/schemas/_index",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Types",
+    "permalink": "/firebolt-documentation/docs/next/api/schemas/Types"
+  },
+  "next": {
+    "title": "Accessibility",
+    "permalink": "/firebolt-documentation/docs/next/api/Accessibility"
+  }
+}

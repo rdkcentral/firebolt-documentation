@@ -1,0 +1,18 @@
+{
+  "unversionedId": "guided-tour/refetching/OssAvoidSuspenseNote",
+  "id": "version-v14.0.0/guided-tour/refetching/OssAvoidSuspenseNote",
+  "title": "OssAvoidSuspenseNote",
+  "description": "In future versions of React when concurrent rendering is supported, React will provide an option to support this case and avoid hiding already rendered content with a Suspense fallback when suspending.",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/refetching/OssAvoidSuspenseNote.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/OssAvoidSuspenseNote",
+  "permalink": "/docs/guided-tour/refetching/OssAvoidSuspenseNote",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/refetching/OssAvoidSuspenseNote.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {}
+}

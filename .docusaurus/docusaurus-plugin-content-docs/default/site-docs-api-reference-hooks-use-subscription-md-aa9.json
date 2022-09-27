@@ -1,0 +1,35 @@
+{
+  "unversionedId": "api-reference/hooks/use-subscription",
+  "id": "api-reference/hooks/use-subscription",
+  "title": "useSubscription",
+  "description": "API reference for useSubscription, a React hook used to subscribe and unsubscribe from a subscription",
+  "source": "@site/docs/api-reference/hooks/use-subscription.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-subscription/",
+  "permalink": "/docs/next/api-reference/use-subscription/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/hooks/use-subscription.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-subscription",
+    "title": "useSubscription",
+    "slug": "/api-reference/use-subscription/",
+    "description": "API reference for useSubscription, a React hook used to subscribe and unsubscribe from a subscription",
+    "keywords": [
+      "subscription"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "useRelayEnvironment",
+    "permalink": "/docs/next/api-reference/use-relay-environment/"
+  },
+  "next": {
+    "title": "Legacy APIs",
+    "permalink": "/docs/next/api-reference/legacy-apis/"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guided-tour/refetching/refreshing-fragments",
+  "id": "version-v13.0.0/guided-tour/refetching/refreshing-fragments",
+  "title": "Refreshing Fragments",
+  "description": "Relay guide to refreshing fragments",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/refetching/refreshing-fragments.md",
+  "sourceDirName": "guided-tour/refetching",
+  "slug": "/guided-tour/refetching/refreshing-fragments/",
+  "permalink": "/docs/v13.0.0/guided-tour/refetching/refreshing-fragments/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/refetching/refreshing-fragments.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "refreshing-fragments",
+    "title": "Refreshing Fragments",
+    "slug": "/guided-tour/refetching/refreshing-fragments/",
+    "description": "Relay guide to refreshing fragments",
+    "keywords": [
+      "refreshing",
+      "fragment"
+    ]
+  }
+}

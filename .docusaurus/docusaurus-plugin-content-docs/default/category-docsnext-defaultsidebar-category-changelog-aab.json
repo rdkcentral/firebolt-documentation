@@ -1,0 +1,11 @@
+{
+  "title": "Changelog",
+  "slug": "/category/changelog",
+  "permalink": "/docs/next/category/changelog",
+  "navigation": {
+    "next": {
+      "title": "Firebolt Release Notes",
+      "permalink": "/docs/next/changelog/"
+    }
+  }
+}

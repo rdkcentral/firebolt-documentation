@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guided-tour/updating-data/typesafe-updaters-faq",
+  "id": "version-v14.0.0/guided-tour/updating-data/typesafe-updaters-faq",
+  "title": "Typesafe updaters FAQ",
+  "description": "Typesafe updater FAQ",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/updating-data/typesafe-updaters-faq.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/typesafe-updaters-faq/",
+  "permalink": "/docs/guided-tour/updating-data/typesafe-updaters-faq/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/updating-data/typesafe-updaters-faq.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "typesafe-updaters-faq",
+    "title": "Typesafe updaters FAQ",
+    "slug": "/guided-tour/updating-data/typesafe-updaters-faq/",
+    "description": "Typesafe updater FAQ",
+    "keywords": [
+      "typesafe updaters",
+      "readUpdatableQuery",
+      "readUpdatableFragment",
+      "updater",
+      "updatable"
+    ]
+  }
+}

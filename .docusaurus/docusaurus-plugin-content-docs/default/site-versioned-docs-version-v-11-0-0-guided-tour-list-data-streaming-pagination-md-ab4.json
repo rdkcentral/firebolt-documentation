@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/list-data/streaming-pagination",
+  "id": "version-v11.0.0/guided-tour/list-data/streaming-pagination",
+  "title": "Streaming Pagination",
+  "description": "Additionally, we can combine usePaginationFragment with Relay's Incremental Data Delivery capabilities in order to fetch a connection and incrementally receive each item in the connection as it becomes ready, instead of waiting for the whole list of items to be returned in a single payload. This can be useful when for example computing each item in the connection is an expensive operation in the server, and we want to be able to show the first item(s) in the list as soon as possible without blocking on all the items that we need to become available; for example, on News Feed a user could ideally see and start interacting with the first story while additional stories loaded in below.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/list-data/streaming-pagination.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/streaming-pagination/",
+  "permalink": "/docs/v11.0.0/guided-tour/list-data/streaming-pagination/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/list-data/streaming-pagination.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "streaming-pagination",
+    "title": "Streaming Pagination",
+    "slug": "/guided-tour/list-data/streaming-pagination/"
+  }
+}

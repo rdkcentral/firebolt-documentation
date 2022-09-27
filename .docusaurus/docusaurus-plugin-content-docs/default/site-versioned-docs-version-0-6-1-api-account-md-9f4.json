@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Account",
+  "id": "version-0.6.1/api/Account",
+  "title": "Account",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.1/api/Account.md",
+  "sourceDirName": "api",
+  "slug": "/api/Account",
+  "permalink": "/firebolt-documentation/docs/0.6.1/api/Account",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.1",
+  "frontMatter": {
+    "title": "Account"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Accessibility",
+    "permalink": "/firebolt-documentation/docs/0.6.1/api/Accessibility"
+  },
+  "next": {
+    "title": "Advertising",
+    "permalink": "/firebolt-documentation/docs/0.6.1/api/Advertising"
+  }
+}

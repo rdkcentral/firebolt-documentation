@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/reusing-cached-data/availability-of-data",
+  "id": "version-v11.0.0/guided-tour/reusing-cached-data/availability-of-data",
+  "title": "Availability of Data",
+  "description": "The behavior of the fetch policies described in the previous section will depend on the availability of the data in the Relay store at the moment we attempt to evaluate a query.",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/availability-of-data.md",
+  "sourceDirName": "guided-tour/reusing-cached-data",
+  "slug": "/guided-tour/reusing-cached-data/availability-of-data/",
+  "permalink": "/docs/v11.0.0/guided-tour/reusing-cached-data/availability-of-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/reusing-cached-data/availability-of-data.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "availability-of-data",
+    "title": "Availability of Data",
+    "slug": "/guided-tour/reusing-cached-data/availability-of-data/"
+  }
+}

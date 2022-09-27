@@ -1,0 +1,22 @@
+{
+  "unversionedId": "network-layer",
+  "id": "version-v10.0.1/network-layer",
+  "title": "Network Layer",
+  "description": "In order to know how to access your GraphQL server, Relay Modern requires developers to provide an object implementing the NetworkLayer interface when creating an instance of a Relay Environment. The environment uses this network layer to execute queries, mutations, and (if your server supports them) subscriptions. This allows developers to use whatever transport (HTTP, WebSockets, etc) and authentication is most appropriate for their application, decoupling the environment from the particulars of each application's network configuration.",
+  "source": "@site/versioned_docs/version-v10.0.1/Modern-NetworkLayer.md",
+  "sourceDirName": ".",
+  "slug": "/network-layer",
+  "permalink": "/docs/v10.0.1/network-layer",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v10.0.1/Modern-NetworkLayer.md",
+  "tags": [],
+  "version": "v10.0.1",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "network-layer",
+    "title": "Network Layer",
+    "original_id": "network-layer"
+  }
+}

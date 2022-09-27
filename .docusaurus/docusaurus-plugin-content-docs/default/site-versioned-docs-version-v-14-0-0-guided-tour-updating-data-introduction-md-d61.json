@@ -1,0 +1,29 @@
+{
+  "unversionedId": "guided-tour/updating-data/introduction",
+  "id": "version-v14.0.0/guided-tour/updating-data/introduction",
+  "title": "Introduction",
+  "description": "Relay guide to updating data",
+  "source": "@site/versioned_docs/version-v14.0.0/guided-tour/updating-data/introduction.md",
+  "sourceDirName": "guided-tour/updating-data",
+  "slug": "/guided-tour/updating-data/",
+  "permalink": "/docs/guided-tour/updating-data/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/guided-tour/updating-data/introduction.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "introduction",
+    "title": "Introduction",
+    "slug": "/guided-tour/updating-data/",
+    "description": "Relay guide to updating data",
+    "keywords": [
+      "updating",
+      "mutation",
+      "useMutation",
+      "commitMutation"
+    ]
+  }
+}

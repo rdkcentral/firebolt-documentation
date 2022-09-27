@@ -1,0 +1,14 @@
+{
+  "position": 6,
+  "label": "Localization",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "localization",
+  "link": {
+    "type": "generated-index",
+    "title": "Localization"
+  },
+  "customProps": {
+    "description": "Documents on how to set up localization for your app."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Keyboard",
+  "id": "version-0.6.0-alpha.1/api/Keyboard",
+  "title": "Keyboard",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.0-alpha.1/api/Keyboard.md",
+  "sourceDirName": "api",
+  "slug": "/api/Keyboard",
+  "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Keyboard",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.0-alpha.1",
+  "frontMatter": {
+    "title": "Keyboard"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Discovery",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Discovery"
+  },
+  "next": {
+    "title": "Lifecycle",
+    "permalink": "/firebolt-documentation/docs/0.6.0-alpha.1/api/Lifecycle"
+  }
+}

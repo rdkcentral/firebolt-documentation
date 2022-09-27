@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api-reference/relay-runtime/fetch-query",
+  "id": "version-v14.0.0/api-reference/relay-runtime/fetch-query",
+  "title": "fetchQuery",
+  "description": "API reference for fetchQuery, which imperatively fetches data for a query and returns an observable",
+  "source": "@site/versioned_docs/version-v14.0.0/api-reference/relay-runtime/fetch-query.md",
+  "sourceDirName": "api-reference/relay-runtime",
+  "slug": "/api-reference/fetch-query/",
+  "permalink": "/docs/api-reference/fetch-query/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v14.0.0/api-reference/relay-runtime/fetch-query.md",
+  "tags": [],
+  "version": "v14.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "fetch-query",
+    "title": "fetchQuery",
+    "slug": "/api-reference/fetch-query/",
+    "description": "API reference for fetchQuery, which imperatively fetches data for a query and returns an observable",
+    "keywords": [
+      "observable",
+      "query",
+      "fetch"
+    ]
+  }
+}

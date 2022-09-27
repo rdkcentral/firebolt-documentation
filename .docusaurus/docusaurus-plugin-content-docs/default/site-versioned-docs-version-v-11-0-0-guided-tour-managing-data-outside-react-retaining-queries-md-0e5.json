@@ -1,0 +1,22 @@
+{
+  "unversionedId": "guided-tour/managing-data-outside-react/retaining-queries",
+  "id": "version-v11.0.0/guided-tour/managing-data-outside-react/retaining-queries",
+  "title": "Retaining Queries",
+  "description": "In order to manually retain a query so that the data it references isn’t garbage collected by Relay, we can use the environment.retain method:",
+  "source": "@site/versioned_docs/version-v11.0.0/guided-tour/managing-data-outside-react/retaining-queries.md",
+  "sourceDirName": "guided-tour/managing-data-outside-react",
+  "slug": "/guided-tour/accessing-data-without-react/retaining-queries/",
+  "permalink": "/docs/v11.0.0/guided-tour/accessing-data-without-react/retaining-queries/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v11.0.0/guided-tour/managing-data-outside-react/retaining-queries.md",
+  "tags": [],
+  "version": "v11.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "retaining-queries",
+    "title": "Retaining Queries",
+    "slug": "/guided-tour/accessing-data-without-react/retaining-queries/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "relay-environment",
+  "id": "version-v9.0.0/relay-environment",
+  "title": "Relay Environment",
+  "description": "The Relay \"Environment\" bundles together the configuration, cache storage, and network-handling that Relay needs in order to operate.",
+  "source": "@site/versioned_docs/version-v9.0.0/Modern-RelayEnvironment.md",
+  "sourceDirName": ".",
+  "slug": "/relay-environment",
+  "permalink": "/docs/v9.0.0/relay-environment",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v9.0.0/Modern-RelayEnvironment.md",
+  "tags": [],
+  "version": "v9.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "relay-environment",
+    "title": "Relay Environment",
+    "original_id": "relay-environment"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "conversion-scripts",
+  "id": "version-v7.1.0/conversion-scripts",
+  "title": "Conversion Scripts",
+  "description": "We built a few scripts to help you with the conversion process. Check them out at github.com/relayjs/relay-codemod.",
+  "source": "@site/versioned_docs/version-v7.1.0/Modern-ConversionScripts.md",
+  "sourceDirName": ".",
+  "slug": "/conversion-scripts",
+  "permalink": "/docs/v7.1.0/conversion-scripts",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v7.1.0/Modern-ConversionScripts.md",
+  "tags": [],
+  "version": "v7.1.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "conversion-scripts",
+    "title": "Conversion Scripts",
+    "original_id": "conversion-scripts"
+  }
+}

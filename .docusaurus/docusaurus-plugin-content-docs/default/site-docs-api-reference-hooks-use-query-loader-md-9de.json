@@ -1,0 +1,38 @@
+{
+  "unversionedId": "api-reference/hooks/use-query-loader",
+  "id": "api-reference/hooks/use-query-loader",
+  "title": "useQueryLoader",
+  "description": "API reference for useQueryLoader, a React hook used to imperatively fetch data for a query in response to a user event",
+  "source": "@site/docs/api-reference/hooks/use-query-loader.md",
+  "sourceDirName": "api-reference/hooks",
+  "slug": "/api-reference/use-query-loader/",
+  "permalink": "/docs/next/api-reference/use-query-loader/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/docs/api-reference/hooks/use-query-loader.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "use-query-loader",
+    "title": "useQueryLoader",
+    "slug": "/api-reference/use-query-loader/",
+    "description": "API reference for useQueryLoader, a React hook used to imperatively fetch data for a query in response to a user event",
+    "keywords": [
+      "query",
+      "fetch",
+      "preload",
+      "render-as-you-fetch"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "usePreloadedQuery",
+    "permalink": "/docs/next/api-reference/use-preloaded-query/"
+  },
+  "next": {
+    "title": "useRefetchableFragment",
+    "permalink": "/docs/next/api-reference/use-refetchable-fragment/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "guided-tour/rendering/fragments",
+  "id": "version-v13.0.0/guided-tour/rendering/fragments",
+  "title": "Fragments",
+  "description": "Relay guide to rendering fragments",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/rendering/fragments.md",
+  "sourceDirName": "guided-tour/rendering",
+  "slug": "/guided-tour/rendering/fragments/",
+  "permalink": "/docs/v13.0.0/guided-tour/rendering/fragments/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/rendering/fragments.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "fragments",
+    "title": "Fragments",
+    "slug": "/guided-tour/rendering/fragments/",
+    "description": "Relay guide to rendering fragments",
+    "keywords": [
+      "useFragment",
+      "rendering",
+      "fragment"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/Localization",
+  "id": "version-0.6.1/api/Localization",
+  "title": "Localization",
+  "description": "---",
+  "source": "@site/versioned_docs/version-0.6.1/api/Localization.md",
+  "sourceDirName": "api",
+  "slug": "/api/Localization",
+  "permalink": "/firebolt-documentation/docs/0.6.1/api/Localization",
+  "draft": false,
+  "tags": [],
+  "version": "0.6.1",
+  "frontMatter": {
+    "title": "Localization"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Lifecycle",
+    "permalink": "/firebolt-documentation/docs/0.6.1/api/Lifecycle"
+  },
+  "next": {
+    "title": "Metrics",
+    "permalink": "/firebolt-documentation/docs/0.6.1/api/Metrics"
+  }
+}

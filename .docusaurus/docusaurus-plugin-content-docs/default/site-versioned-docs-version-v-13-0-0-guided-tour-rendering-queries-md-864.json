@@ -1,0 +1,30 @@
+{
+  "unversionedId": "guided-tour/rendering/queries",
+  "id": "version-v13.0.0/guided-tour/rendering/queries",
+  "title": "Queries",
+  "description": "Relay guide to queries",
+  "source": "@site/versioned_docs/version-v13.0.0/guided-tour/rendering/queries.md",
+  "sourceDirName": "guided-tour/rendering",
+  "slug": "/guided-tour/rendering/queries/",
+  "permalink": "/docs/v13.0.0/guided-tour/rendering/queries/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v13.0.0/guided-tour/rendering/queries.md",
+  "tags": [],
+  "version": "v13.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "queries",
+    "title": "Queries",
+    "slug": "/guided-tour/rendering/queries/",
+    "description": "Relay guide to queries",
+    "keywords": [
+      "query",
+      "usePreloadedQuery",
+      "useLazyLoadQuery",
+      "useQueryLoader",
+      "loadQuery"
+    ]
+  }
+}

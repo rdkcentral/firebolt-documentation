@@ -1,0 +1,14 @@
+{
+  "position": 8,
+  "label": "Profiles",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "profiles",
+  "link": {
+    "type": "generated-index",
+    "title": "Profiles"
+  },
+  "customProps": {
+    "description": "Documents on how to user profles."
+  }
+}

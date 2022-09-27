@@ -1,0 +1,27 @@
+{
+  "unversionedId": "guided-tour/list-data/pagination",
+  "id": "version-v12.0.0/guided-tour/list-data/pagination",
+  "title": "Pagination",
+  "description": "Relay guide to pagination",
+  "source": "@site/versioned_docs/version-v12.0.0/guided-tour/list-data/pagination.md",
+  "sourceDirName": "guided-tour/list-data",
+  "slug": "/guided-tour/list-data/pagination/",
+  "permalink": "/docs/v12.0.0/guided-tour/list-data/pagination/",
+  "draft": false,
+  "editUrl": "https://github.com/rdkcentral/firebolt-documentation/versioned_docs/version-v12.0.0/guided-tour/list-data/pagination.md",
+  "tags": [],
+  "version": "v12.0.0",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
+  "frontMatter": {
+    "id": "pagination",
+    "title": "Pagination",
+    "slug": "/guided-tour/list-data/pagination/",
+    "description": "Relay guide to pagination",
+    "keywords": [
+      "pagination",
+      "usePaginationFragment"
+    ]
+  }
+}

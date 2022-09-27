@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirebolt_documentation=self.webpackChunkfirebolt_documentation||[]).push([[2386],{11016:e=>{e.exports=JSON.parse('{"title":"Schemas","slug":"/category/schemas","permalink":"/firebolt-documentation/docs/category/schemas","navigation":{"next":{"title":"API Intro","permalink":"/firebolt-documentation/docs/api/schemas/intro"}}}')}}]);

@@ -71,12 +71,13 @@ module.exports = {
           //   internal: 'current',
           //   external: versions[0],
           // }),
-          includeCurrentVersion:true,
-          versions: {
-            current: {
-             label: 'Next 🚧',
-           },
-         },
+          
+          includeCurrentVersion:false,
+    //      versions: {
+    //        current: {
+     //         label: 'Next 🚧',
+    //        },
+    //      },
 
         },
         blog: {},

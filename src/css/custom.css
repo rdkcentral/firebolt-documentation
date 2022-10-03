@@ -139,7 +139,7 @@ html[data-theme="light"] .homePage .container {
 
 .footer__logo {
   box-shadow: none;
-  max-width: 50px;
+  max-width: 100px;
 }
 
 .footer {

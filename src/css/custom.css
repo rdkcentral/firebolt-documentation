@@ -338,6 +338,7 @@ pre.outerPre {
   flex: 1;
   max-width: 50px;
   height: 50px;
+  object-fit: contain;
 }
 
 .logosHomepage a div {

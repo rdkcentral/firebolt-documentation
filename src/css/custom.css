@@ -134,7 +134,7 @@ html[data-theme="light"] .homePage .container {
 
 .footer .container {
   box-shadow: none;
-  max-width: var(--ifm-container-width);
+  max-width: 100px;
 }
 
 .footer {

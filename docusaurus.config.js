@@ -175,16 +175,16 @@ module.exports = {
     image: 'img/relay.png',
     footer: {
       links: [
-     /*   {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Get Started',
-              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
-              target: '_self',
-            },
-          ],
-        }, */
+     //   {
+     //     title: 'Docs',
+      //    items: [
+       //     {
+       //       label: 'Get Started',
+       //       href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
+       //       target: '_self',
+       //     },
+       //   ],
+      //  }, 
         {
           title: 'Get in Touch',
           items: [
@@ -200,27 +200,27 @@ module.exports = {
             },
           ],
         },
-     /*    {
-           title: 'Legal',
-           items: [
-            {
-               label: 'Privacy',
-              href: 'https://opensource.facebook.com/legal/privacy/',
-             },
-             {
-               label: 'Terms',
-               href: 'https://opensource.facebook.com/legal/terms/',
-             },
-             {
-               label: 'Data Policy',
-               href: 'https://opensource.facebook.com/legal/data-policy/',
-             },
-             {
-               label: 'Cookie Policy',
-               href: 'https://opensource.facebook.com/legal/cookie-policy/',
-             },
-           ],
-         }, */
+     //    {
+     //      title: 'Legal',
+      //     items: [
+     //       {
+      //         label: 'Privacy',
+     //         href: 'https://opensource.facebook.com/legal/privacy/',
+     //        },
+      //       {
+     //          label: 'Terms',
+     //          href: 'https://opensource.facebook.com/legal/terms/',
+     //        },
+     //        {
+     //          label: 'Data Policy',
+     //          href: 'https://opensource.facebook.com/legal/data-policy/',
+     //        },
+     //        {
+     //         label: 'Cookie Policy',
+     //          href: 'https://opensource.facebook.com/legal/cookie-policy/',
+     //        },
+    //       ],
+    //     }, 
       ],
       logo: {
         src: 'img/rdk no text.svg',

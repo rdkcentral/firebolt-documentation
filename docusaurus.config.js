@@ -71,7 +71,7 @@ module.exports = {
           //   internal: 'current',
           //   external: versions[0],
           // }),
-          includeCurrentVersion:true,
+          includeCurrentVersion:false,
           versions: {
             current: {
               label: 'Next 🚧',

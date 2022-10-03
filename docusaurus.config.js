@@ -175,7 +175,7 @@ module.exports = {
     image: 'img/relay.png',
     footer: {
       links: [
-        {
+     /*   {
           title: 'Docs',
           items: [
             {
@@ -184,7 +184,7 @@ module.exports = {
               target: '_self',
             },
           ],
-        },
+        }, */
         {
           title: 'Get in Touch',
           items: [
@@ -200,7 +200,7 @@ module.exports = {
             },
           ],
         },
-         {
+     /*    {
            title: 'Legal',
            items: [
             {
@@ -220,7 +220,7 @@ module.exports = {
                href: 'https://opensource.facebook.com/legal/cookie-policy/',
              },
            ],
-         },
+         }, */
       ],
       logo: {
         src: 'img/rdk no text.svg',

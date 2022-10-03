@@ -139,7 +139,7 @@ html[data-theme="light"] .homePage .container {
 
 .footer__logo {
   box-shadow: none;
-  max-width: 50px;
+  max-width: 100px;
 }
 
 .footer {
@@ -341,7 +341,7 @@ pre.outerPre {
 
 .logosHomepage img {
   flex: 1;
-  max-width: 50px;
+  max-width: 100px;
   height: 50px;
   object-fit: contain;
 }

@@ -200,27 +200,27 @@ module.exports = {
             },
           ],
         },
-        // {
-        //   title: 'Legal',
-        //   items: [
-        //     {
-        //       label: 'Privacy',
-        //       href: 'https://opensource.facebook.com/legal/privacy/',
-        //     },
-        //     {
-        //       label: 'Terms',
-        //       href: 'https://opensource.facebook.com/legal/terms/',
-        //     },
-        //     {
-        //       label: 'Data Policy',
-        //       href: 'https://opensource.facebook.com/legal/data-policy/',
-        //     },
-        //     {
-        //       label: 'Cookie Policy',
-        //       href: 'https://opensource.facebook.com/legal/cookie-policy/',
-        //     },
-        //   ],
-        // },
+         {
+           title: 'Legal',
+           items: [
+            {
+               label: 'Privacy',
+              href: 'https://opensource.facebook.com/legal/privacy/',
+             },
+             {
+               label: 'Terms',
+               href: 'https://opensource.facebook.com/legal/terms/',
+             },
+             {
+               label: 'Data Policy',
+               href: 'https://opensource.facebook.com/legal/data-policy/',
+             },
+             {
+               label: 'Cookie Policy',
+               href: 'https://opensource.facebook.com/legal/cookie-policy/',
+             },
+           ],
+         },
       ],
       logo: {
         src: 'img/rdk no text.svg',

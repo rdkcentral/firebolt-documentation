@@ -46,6 +46,20 @@ module.exports = {
         pinned: true,
         description: 'Used on Flex.',
       },
+      {
+        caption: 'XClass',
+        image: '/img/logos/Flex.png',
+        infoLink: 'https://www.xclasstv.com/',
+        pinned: true,
+        description: 'Used on XClass.',
+      },
+      {
+        caption: 'X1',
+        image: '/img/logos/Flex.png',
+        infoLink: 'https://xfinity.com/x1',
+        pinned: true,
+        description: 'Used on X1.',
+      },
 
     ],
   },

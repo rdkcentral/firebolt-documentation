@@ -26,9 +26,9 @@ module.exports = {
   customFields: {
     users: [
       {
-        caption: 'Sky Media',
+        caption: 'Sky Glass',
         image: '/img/logos/sky-logo.png',
-        infoLink: 'https://www.sky.com/',
+        infoLink: 'https://www.sky.com/glass',
         pinned: true,
         description: 'Used on Sky Glass.',
       },
@@ -38,6 +38,13 @@ module.exports = {
         infoLink: 'https://www.xfinity.com/overview',
         pinned: true,
         description: 'Used on Comcast devices.',
+      },
+      {
+        caption: 'Flex',
+        image: '/img/logos/Xfinity_UL_BH_BAU_Xi6 XR16_Grounded_Purple_RGB_V2_MR.jpg',
+        infoLink: 'https://www.xfinity.com/flex',
+        pinned: true,
+        description: 'Used on Flex.',
       },
 
     ],

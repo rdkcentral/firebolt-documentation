@@ -41,7 +41,7 @@ module.exports = {
       },
       {
         caption: 'Flex',
-        image: '/img/logos/Xfinity_UL_BH_BAU_Xi6 XR16_Grounded_Purple_RGB_V2_MR.jpg',
+        image: '/img/logos/Flex.png',
         infoLink: 'https://www.xfinity.com/flex',
         pinned: true,
         description: 'Used on Flex.',

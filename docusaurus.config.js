@@ -223,7 +223,7 @@ module.exports = {
     //     }, 
       ],
       logo: {
-        src: 'img/rdk no text.svg',
+        src: 'img/RDK-Logo-without-RefDesign.png',
       },
       copyright: `Copyright © ${new Date().getFullYear()} RDK Central. Built with Docusaurus.`,
     },

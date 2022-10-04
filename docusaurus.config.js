@@ -225,7 +225,7 @@ module.exports = {
       logo: {
         src: 'img/RDK-Logo-without-RefDesign.png',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} RDK Central. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} RDK Central.`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/github'),

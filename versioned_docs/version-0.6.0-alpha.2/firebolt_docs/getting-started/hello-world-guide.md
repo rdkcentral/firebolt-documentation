@@ -2,7 +2,7 @@
 
 In this practical guide, you'll learn how to get up and running so you can build a simple single-page app using Firebolt®. This guide will show you fundamentals like importing modules and how to use the Device and Lifecycle modules.
 
-The *\"Hello World\"* guide is designed with the following assumptions:
+The *"Hello World"* guide is designed with the following assumptions:
 
 -   You have some experience with the basics of programming (building apps, working with APIs, etc.) and have some experience working with the JavaScript programming language. This guide does not explain object-oriented programming or the JavaScript language.
 
@@ -71,7 +71,7 @@ After successfully installing Lighting Studio, get Firebolt® up and running and
    cd firebolt-hello-world/pt1-firebolt_hello_world-start
    ```
 
-3. With CLI in the \"hello_world\" directory, run the command. This will install the `package.json` file and any other dependencies.
+3. With CLI in the "hello_world" directory, run the command. This will install the `package.json` file and any other dependencies.
 
    ```
    npm install

@@ -139,16 +139,16 @@ module.exports = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Firebolt Documentation',
+      title: 'Docs',
       style: 'primary',
       hideOnScroll: false,
       items: [
-        {
-          type: 'docSidebar',
-          position: 'left',
-          sidebarId: 'firebolt_docs',
-          label: 'Docs',
-        },
+ //       {
+//          type: 'docSidebar',
+//          position: 'left',
+//          sidebarId: 'firebolt_docs',
+//          label: 'Docs',
+ //       },
         {
           type: 'docSidebar',
           position: 'left',

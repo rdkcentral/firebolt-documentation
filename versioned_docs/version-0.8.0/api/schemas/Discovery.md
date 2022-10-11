@@ -1,7 +1,7 @@
 ---
-title: Discovery
+title: Discovery test
 ---
-# Discovery Schema
+# Discovery Schema TEST
 ---
 Version 0.8.0
 

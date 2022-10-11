@@ -2,12 +2,9 @@
 title: Discovery
 ---
 # Discovery Schema 
-
-Version 0.8.0
-
 ---
 
-
+Version 0.8.0
 
 ## JSON-Schema
 This document was generated from a JSON-Schema, and is intended to provide a human readable overview and examples of the methods contained in the module.

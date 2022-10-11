@@ -3,8 +3,8 @@ title: Discovery
 ---
 
 # Discovery Module
-
 Version 0.8.0
+
 ---
 
 

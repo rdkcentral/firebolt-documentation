@@ -3,8 +3,10 @@ title: Discovery
 ---
 
 # Discovery Module
----
+
 Version 0.8.0
+---
+
 
 ## Overview
  Your App likely wants to integrate with the Platform's discovery capabilities. For example to add a "Watch Next" tile that links to your app from the platform's home screen.

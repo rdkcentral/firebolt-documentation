@@ -2,7 +2,7 @@
 title: Discovery
 ---
 
-# Discovery Module
+# Discovery Module - TEST
 Version 0.8.0
 
 ---

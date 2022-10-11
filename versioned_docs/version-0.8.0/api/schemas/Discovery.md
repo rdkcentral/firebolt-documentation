@@ -3,10 +3,10 @@ title: Discovery
 ---
 # Discovery Schema 
 
-test
+Version 0.8.0
 
 ---
-Version 0.8.0
+
 
 
 ## JSON-Schema

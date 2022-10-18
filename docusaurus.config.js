@@ -230,7 +230,7 @@ module.exports = {
               target: '_self',
             },
         {
-          title: 'Company',
+          title: 'TEST',
           items: [
             {
               label: 'About Us',

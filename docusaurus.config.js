@@ -230,26 +230,26 @@ module.exports = {
               target: '_self',
             },
         {
-          title: 'TEST',
+          title: 'Documentation',
           items: [
             {
-              label: 'About Us',
-              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
+              label: 'Wiki Space',
+              href: 'https://wiki.rdkcentral.com/spacedirectory/view.action#/all',
               target: '_self',
             },
             {
-              label: 'Upcoming Events',
-              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
+              label: 'Webinars / Trainings',
+              href: 'https://wiki.rdkcentral.com/display/RDK/Webinars',
               target: '_self',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/rdkcentral',
+              label: 'Glossary',
+              href: 'https://wiki.rdkcentral.com/display/RDK/Glossary',
               target: '_self',
             },
              {
-              label: 'News / Updates',
-              href: 'https://rdkcentral.com/news/rdk-in-the-news/',
+              label: 'Logo Guidelines',
+              href: 'https://developer.rdkcentral.com/logo-guidelines/',
               target: '_self',
             },
           ],

@@ -207,19 +207,89 @@ module.exports = {
        //   ],
       //  }, 
         {
-          title: 'Get in Touch',
+          title: 'Company',
           items: [
+            {
+              label: 'About Us',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
+              target: '_self',
+            },
+            {
+              label: 'Upcoming Events',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
+              target: '_self',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/rdkcentral',
+              target: '_self',
+            },
+             {
+              label: 'News / Updates',
+              href: 'https://rdkcentral.com/news/rdk-in-the-news/',
+              target: '_self',
+            },
+         ],
+        },
+       { 
+        title: 'Documentation',
+          items: [
+            {
+              label: 'Wiki Space',
+              href: 'https://wiki.rdkcentral.com/spacedirectory/view.action#/all',
+              target: '_self',
+            },
+            {
+              label: 'Webinars / Trainings',
+              href: 'https://wiki.rdkcentral.com/display/RDK/Webinars',
+              target: '_self',
+            },
+            {
+              label: 'Glossary',
+              href: 'https://wiki.rdkcentral.com/display/RDK/Glossary',
+              target: '_self',
+            },
+             {
+              label: 'Logo Guidelines',
+              href: 'https://developer.rdkcentral.com/logo-guidelines/',
+              target: '_self',
+            },
+          ],
+        },
+        { 
+        title: 'Plugins',
+          items: [
+            {
+              label: 'Announcement',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/api/schemas/Intents/',
+              target: '_self',
+            },
+            {
+              label: 'Whats New!',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/api/schemas/Intents/',
+              target: '_self',
+            },
+            ],
+        },
+        { 
+        title: 'Support',
+          items: [
+            {
+              label: 'Forum',
+              href: 'https://developer.rdkcentral.com/rdk_forum/forums/',
+              target: '_self',
+            },
             {
               label: 'Contact Us',
               href: 'mailto:support@rdkcentral.com',
               target: '_self',
             },
             {
-              label: 'Forum',
-              href: 'https://developer.rdkcentral.com/rdk_forum/forums/',
+              label: 'Feedback',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/api/schemas/Intents/',
               target: '_self',
             },
-          ],
+            ],
         },
      //    {
      //      title: 'Legal',

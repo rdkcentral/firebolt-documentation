@@ -229,7 +229,8 @@ module.exports = {
               href: 'https://rdkcentral.com/news/rdk-in-the-news/',
               target: '_self',
             },
-        {
+        ]
+       {
           title: 'Documentation',
           items: [
             {

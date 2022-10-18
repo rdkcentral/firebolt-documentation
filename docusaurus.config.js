@@ -229,6 +229,30 @@ module.exports = {
               href: 'https://rdkcentral.com/news/rdk-in-the-news/',
               target: '_self',
             },
+        {
+          title: 'Company',
+          items: [
+            {
+              label: 'About Us',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
+              target: '_self',
+            },
+            {
+              label: 'Upcoming Events',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
+              target: '_self',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/rdkcentral',
+              target: '_self',
+            },
+             {
+              label: 'News / Updates',
+              href: 'https://rdkcentral.com/news/rdk-in-the-news/',
+              target: '_self',
+            },
+          ],
           ],
         },
      //    {

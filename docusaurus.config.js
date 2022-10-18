@@ -271,6 +271,26 @@ module.exports = {
             },
             ],
         },
+        { 
+        title: 'Support',
+          items: [
+            {
+              label: 'Forum',
+              href: 'https://developer.rdkcentral.com/rdk_forum/forums/',
+              target: '_self',
+            },
+            {
+              label: 'Contact Us',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/api/schemas/Intents/',
+              target: '_self',
+            },
+            {
+              label: 'Feedback',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/api/schemas/Intents/',
+              target: '_self',
+            },
+            ],
+        },
      //    {
      //      title: 'Legal',
       //     items: [

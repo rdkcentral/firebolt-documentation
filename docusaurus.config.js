@@ -281,7 +281,7 @@ module.exports = {
             },
             {
               label: 'Contact Us',
-              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/api/schemas/Intents/',
+              href: 'mailto:support@rdkcentral.com',
               target: '_self',
             },
             {

@@ -207,17 +207,26 @@ module.exports = {
        //   ],
       //  }, 
         {
-          tagline: 'TEST',
-          title: 'Get in Touch',
+          title: 'Company',
           items: [
             {
-              label: 'Contact Us',
-              href: 'mailto:support@rdkcentral.com',
+              label: 'About Us',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
               target: '_self',
             },
             {
-              label: 'Forum',
-              href: 'https://developer.rdkcentral.com/rdk_forum/forums/',
+              label: 'Upcoming Events',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/',
+              target: '_self',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/rdkcentral',
+              target: '_self',
+            },
+             {
+              label: 'News / Updates',
+              href: 'https://rdkcentral.com/news/rdk-in-the-news/',
               target: '_self',
             },
           ],

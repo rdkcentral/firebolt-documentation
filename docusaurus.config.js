@@ -256,6 +256,21 @@ module.exports = {
             },
           ],
         },
+        { 
+        title: 'Plugins',
+          items: [
+            {
+              label: 'Announcement',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/api/schemas/Intents/',
+              target: '_self',
+            },
+            {
+              label: 'What's New!',
+              href: 'https://rdkcentral.github.io/firebolt-documentation/docs/api/schemas/Intents/',
+              target: '_self',
+            },
+            ],
+        },
      //    {
      //      title: 'Legal',
       //     items: [

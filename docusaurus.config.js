@@ -265,7 +265,7 @@ module.exports = {
               target: '_self',
             },
             {
-              label: 'What's New!',
+              label: 'Whats New!',
               href: 'https://rdkcentral.github.io/firebolt-documentation/docs/api/schemas/Intents/',
               target: '_self',
             },

@@ -253,7 +253,6 @@ module.exports = {
               target: '_self',
             },
           ],
-          ],
         },
      //    {
      //      title: 'Legal',

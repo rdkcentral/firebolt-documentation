@@ -207,6 +207,7 @@ module.exports = {
        //   ],
       //  }, 
         {
+          tagline: 'TEST',
           title: 'Get in Touch',
           items: [
             {

@@ -143,11 +143,11 @@ html[data-theme="light"] .homePage .container {
 }
 
 .footer {
-  background-color: var(--light-bg-color);
+  background-color: #25292a;
 }
 
 .homePage .footer {
-  background-color: var(--light-bg-color);
+  background-color: #25292a;
 }
 
 .introSection p {

@@ -13,7 +13,7 @@
 //const {fbContent, isInternal} = require('internaldocs-fb-helpers');
 
 module.exports = {
-  title: 'Firebolt TEST',
+  title: 'Firebolt',
   tagline: 'Zero Dependencies and Fast',
   url: 'https://rdkcentral.github.io',
   baseUrl: '/firebolt-documentation/',

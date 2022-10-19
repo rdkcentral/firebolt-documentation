@@ -9,7 +9,7 @@
 
 html[data-theme="light"] {
   --main-bg-color: var(--ifm-color-primary);
-  --light-bg-color: #f9f6ef;
+  --light-bg-color: #2f333e;
   --dark-bg-color: #EAEAE2;
   --container-box-shadow: rgba(0, 0, 0, 0.9) 0px 1px 2px 0px;
   --pre-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px -1px, rgba(0, 0, 0, 0.1) 0px 1px 2px -1px;

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfirebolt_documentation=self.webpackChunkfirebolt_documentation||[]).push([[4195],{2841:(t,e,o)=>{o.r(e),o.d(e,{default:()=>r});var n=o(7294),i=o(6775);function r(){return n.createElement(i.l_,{to:"/firebolt-documentation/docs/firebolt_docs/getting-started/quick-start-guide/"})}}}]);

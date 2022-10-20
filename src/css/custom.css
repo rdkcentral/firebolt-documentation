@@ -44,6 +44,10 @@ html[data-theme="dark"] {
   font-weight: normal;
 }
 
+html[data-theme="light"] .navbar {
+  background-color: #25292a;
+}
+
 html[data-theme="dark"] .navbar {
   background-color: var(--main-bg-color);
 }

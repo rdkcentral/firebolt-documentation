@@ -44,7 +44,7 @@ html[data-theme="dark"] {
   font-weight: normal;
 }
 
-html[data-theme="light"] .navbar {
+.navbar {
   background-color: var(--main-bg-color);
 }
 

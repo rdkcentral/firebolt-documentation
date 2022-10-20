@@ -45,7 +45,7 @@ html[data-theme="dark"] {
 }
 
 html[data-theme="light"] .navbar {
-  background-color: black;
+  background-color: #25292a;
 }
 
 html[data-theme="dark"] .navbar {

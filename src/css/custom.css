@@ -19,7 +19,7 @@ html[data-theme="light"] {
   --pre-background-color: var(--light-bg-color);
   --blockquote-background-color: #e9e3e3;
   --ifm-blockquote-color: #3a434d;
-  --ifm-navbar-link-color: white;
+  --ifm-navbar-link-color: #b5b5b5;
   --ifm-code-font-size: 16px;
   --ifm-alert-color: black;
 }

@@ -25,7 +25,7 @@ html[data-theme="light"] {
 }
 
 html[data-theme="light"] .navbar__title {
-  color: white;
+  color: #b5b5b5;
 }
 
 html[data-theme="dark"] {

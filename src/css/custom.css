@@ -22,6 +22,7 @@ html[data-theme="light"] {
   --ifm-navbar-link-color: white;
   --ifm-code-font-size: 16px;
   --ifm-alert-color: black;
+  --ifm-manu-color: white;
 }
 
 html[data-theme="light"] .navbar__title {

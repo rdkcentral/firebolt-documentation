@@ -24,7 +24,7 @@ html[data-theme="light"] {
   --ifm-alert-color: black;
   --ifm-menu-color: white;
   --ifm-footer-link-color: #b5b5b5;
-  --ifm-navbar-link-hover-color: #a4aeb1;
+  
 }
 
 html[data-theme="light"] .navbar__title {
@@ -58,6 +58,10 @@ html[data-theme="light"] .navbar {
 html[data-theme="dark"] .navbar {
   background-color: var(--main-bg-color);
 }
+
+.navbar__link:hover, .navbar__link--active {
+    color: #a4aeb1;
+} 
 
 /* INDEX PAGE */
 /* Home header */

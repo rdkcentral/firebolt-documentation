@@ -23,7 +23,8 @@ html[data-theme="light"] {
   --ifm-code-font-size: 16px;
   --ifm-alert-color: black;
   --ifm-menu-color: white;
-  --ifm-footer-link-color: #b5b5b5; 
+  --ifm-footer-link-color: #b5b5b5;
+  --ifm-navbar-link-hover-color: #a4aeb1;
 }
 
 html[data-theme="light"] .navbar__title {

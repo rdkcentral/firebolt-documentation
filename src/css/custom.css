@@ -48,6 +48,10 @@ html[data-theme="light"] .navbar {
   background-color: #25292a;
 }
 
+.theme-doc-sidebar-container {
+  background-color: #1c2022;
+}
+
 html[data-theme="dark"] .navbar {
   background-color: var(--main-bg-color);
 }
